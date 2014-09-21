@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[or:home|Door43 (or)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[or:obs|Open Bible Stories (or)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-or|d43-or repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-or/archive/master.zip|d43-or.zip]]
+
+**Recent Changes**
+{{changes>ns = or}}
+
+**Latest Status**
+{{page>en:uwadmin:or:obs:status}}
+
