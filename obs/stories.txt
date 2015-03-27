@@ -1,10 +1,10 @@
 
 
-  - [[:or:obs:01|The Creation]]
-  - [[:or:obs:02|Sin Enters the World]]
-  - [[:or:obs:03|The Flood]]
-  - [[:or:obs:04|God's Covenant with Abraham]]
-  - [[:or:obs:05|The Son of Promise]]
+  - [[:or:obs:01|ସୃଷ୍ଟି]]
+  - [[:or:obs:02|ଜଗତ ମଧ୍ୟକୁ ପାପର ପ୍ରବେଶ କରିଲା]]
+  - [[:or:obs:03|ଜଳପ୍ଲାବନ]]
+  - [[:or:obs:01|ଆବ୍ରାହାମଙ୍କ ସହିତ ପରମେଶ୍ଵରଙ୍କର ନିୟମ]]
+  - [[:or:obs:05|ପ୍ରତିଜ୍ଞାତ ପୁତ୍ର]]
   - [[:or:obs:06|God Provides for Isaac]]
   - [[:or:obs:07|God Blesses Jacob]]
   - [[:or:obs:08|God Saves Joseph and His Family]]
