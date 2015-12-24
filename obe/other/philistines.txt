@@ -8,9 +8,9 @@ The Philistines were a people group who occupied a region known as Philistia​ 
   * The Philistines are probably best known for the many years they were at war against the Israelites.
   * King David often led battles against the Philistines, including the time as a youth when he defeated the Philistine warrior, Goliath.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:or:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:or:bible:notes:key-terms:azotus|Azotus]], [[:or:bible:notes:key-terms:ashdod|Ashdod]], [[:or:bible:notes:key-terms:gaza|Gaza]], [[:or:bible:notes:key-terms:goliath|Goliath]] )
+(See also: [[:or:obe:other:ashdod|Ashdod]], [[:or:obe:other:gaza|Gaza]], [[:or:obe:other:goliath|Goliath]] )
 
 ===== Bible References: =====
 

@@ -1,0 +1,69 @@
+====== Psalms 074:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Yahweh, do not forget that your enemies laugh at you,
+\q1 and that it is foolish people who despise you \f + \ft metonymy \f*.
+\q1
+\v 19 Do not abandon your helpless people \f + \ft metaphor \f* in the hands of their cruel enemies;
+\q1 do not forget your suffering\f + \ft Or: persecuted \f* people.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Yahweh, do not forget that your enemies laugh at you
+\q1 and that it is foolish people who despise you.
+\q1
+\v 19 Do not abandon your helpless people into the hands of their cruel enemies;
+\q1 do not forget your suffering people.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Call to mind how  the enemy hurled insults at you, Yahweh,
+\q and that a foolish people has blasphemed your name.
+\q
+\v 19 Do not surrender  the soul of your dove to a wild animal;
+\q do not forget the life of your oppressed forever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:call|call, calling]]
+  * [[:or:obe:other:mind|mind]]
+  * [[:or:obe:kt:yahweh|Yahweh]]
+  * [[:or:obe:kt:foolish|fool, foolish, folly]]
+  * [[:or:obe:other:peoplegroup|people group, people]]
+  * [[:or:obe:kt:blasphemy|blasphemy, blaspheme]]
+  * [[:or:obe:kt:soul|soul]]
+  * [[:or:obe:other:dove|dove, pigeon]]
+  * [[:or:obe:kt:oppress|oppress, oppression]]
+  * [[:or:obe:kt:forever|forever]]
+
+===== Translation Notes: =====
+
+Asaph is pleading for God's help.
+
+  * **Call to mind**  - AT: "Remember" 
+  * **the soul of your dove**  - The phrase "your dove" refers to the people of Israel. (See: [[:or:ta:vol1:translate:figs_metaphor]])
+  * **a wild animal**  - This phrase compares the enemies of Israel to "a wild animal." AT: "a savage enemy that is like a wild animal." (See: [[or:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:psa:074|Psalms Chapter 074 Comprehension Questions]]**
+**[[:or:bible:notes:psa:074:016|<<]] | [[:or:bible:notes:psa:074:020|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Nehemiah 09:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh, you are God. You chose Abram and brought him out of Ur \add city\add* in Chaldea \add region\add*. You gave him a new name, Abraham.
+\v 8 You saw that he was trustworthy. Then you made an agreement with\f + \ft Or: a promise to \f* him, saying that you would give \add to him and\add* to his descendants the land that the descendants of Canaan, Heth, Amor, Periz, Jebus, and Girgash lived in. And you have done what you promised, because you always do what is right.
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh, you are God. You chose Abram and brought him out of Ur in the Chaldees. You gave him the name Abraham.
+\v 8 You saw deep inside of him, and you knew he was a trustworthy person. Then you made a promise to him pledged with blood, promising that you would give to his descendants the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites. And you, Yahweh, have done what you promised, because you always do what is right.
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 You are Yahweh, the God who chose Abram, and brought him out of Ur of the Chaldees, and gave him the name Abraham.
+\v 8 You found his heart was faithful before you, and you made with him the  covenant to give to his descendants the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites. You have kept your promise because you are righteous.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:yahweh|Yahweh]]
+  * [[:or:obe:kt:god|God]]
+  * [[:or:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[:or:obe:other:abraham|Abraham, Abram]]
+  * [[:or:obe:other:ur|Ur]]
+  * [[:or:obe:other:chaldeans|Chaldea, Chaldean]]
+  * [[:or:obe:kt:name|name]]
+  * [[:or:obe:other:heart|heart]]
+  * [[:or:obe:kt:faithful|faithful, faithfulness]]
+  * [[:or:obe:kt:covenant|covenant]]
+  * [[:or:obe:other:descendant|descendant]]
+  * [[:or:obe:other:canaan|Canaan, Canaanite]]
+  * [[:or:obe:other:hittite|Hittite]]
+  * [[:or:obe:other:amorite|Amorite]]
+  * [[:or:obe:other:perizzite|Perizzite]]
+  * [[:or:obe:other:jebusites|Jebusite]]
+  * [[:or:obe:kt:promise|promise]]
+  * [[:or:obe:kt:righteous|righteous, righteousness]]
+
+===== Translation Notes: =====
+
+The Levites continue their prayer before all the people.
+
+  * **brought him out of Ur of the Chaldees** - The implied information is that God brought Abram to the Promised Land, later named Israel. (See: [[or:ta:vol1:translate:figs_explicit]])
+  * **gave him the name Abraham** - As part of his covenant with Abram, God gave him a new identity. Here the meaning of the names Abram and Abraham is important. AT: "changed his name to Abraham." (See: [[or:ta:vol1:translate:translate_names]])
+  * **You found his heart was faithful** - Here "his heart" (part of a person) represents Abraham as a person. AT: "You saw that he was faithful." (See: [[or:ta:vol2:translate:figs_synecdoche]] and [[or:ta:vol1:translate:figs_idiom]])
+  * **before you** - "in your sight" or "in your presence"
+  * **the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites** - These are people groups who are descended from the same ancestor and share a common language and culture. (See: [[or:obe:other:peoplegroup]])
+  * **You have kept your promise** - "Your words are righteous"
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:neh:09|Nehemiah Chapter 09 Comprehension Questions]]**
+**[[:or:bible:notes:neh:09:05|<<]] | [[:or:bible:notes:neh:09:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

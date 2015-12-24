@@ -1,0 +1,77 @@
+====== 2 Samuel 23:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 David, the son of Jesse, was a man whom \add God caused to\add* become great.
+\q1 He was appointed to become king by the God whom Jacob \add worshiped\add*.
+\q1 He wrote beautiful songs for the people of Israel.
+\q1 This is the last song that he wrote:
+\b
+\q1
+\v 2 The Spirit of Yahweh tells me what to say;
+\q1 the message that I speak \f + \ft metonymy \f* comes from him.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 David son of Jesse, was a man whom God caused to become great.
+\q1 The God whom Jacob worshiped made him king of Israel.
+\q1 David wrote beautiful songs for the people of Israel.
+\q1 This is the last song that he wrote:
+\b
+\q1
+\v 2 "The Spirit of Yahweh tells me what to say.
+\q1 The message that I speak comes from him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 23
+\p
+\v 1 Now these are the last words of David—
+\q David, the son of Jesse, 
+\q the man who was highly honored,
+\q The one anointed by the God of Jacob,
+\q the sweet psalmist of Israel.
+\q
+\v 2 "The Spirit of Yahweh spoke by me,
+\q And his word was on my tongue.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:word|word]]
+  * [[:or:obe:other:david|David]]
+  * [[or:obe:kt:son]]
+  * [[:or:obe:other:jesse|Jesse]]
+  * [[:or:obe:other:honor|honor, to honor]]
+  * [[:or:obe:kt:anoint|anoint, anointed]]
+  * [[:or:obe:kt:god|God]]
+  * [[:or:obe:other:jacob|Jacob, Israel]]
+  * [[:or:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:or:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]
+  * [[or:obe:kt:yahweh]]
+  * [[:or:obe:other:tongue|tongue]]
+
+===== Translation Notes: =====
+
+  * **these**  - Refers to the following words continuing through verse seven as an introduction. (See: [[or:ta:vol2:translate:figs_pluralpronouns]])
+  * **psalmist**  - One who writes a [[:or:obe:other:psalm|psalm]].
+  * **I, me**  - Refer to David. (See: [[or:ta:vol2:translate:figs_singularpronouns]])
+  * **and his word was on my tongue**  - This phrase is [[or:ta:vol2:translate:figs_metonymy]]. AT: God gave me a message to speak.
+
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:2sa:23|2 Samuel Chapter 23 Comprehension Questions]]**
+**[[:or:bible:notes:2sa:22:50|<<]] | [[:or:bible:notes:2sa:23:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

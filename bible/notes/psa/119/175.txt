@@ -1,0 +1,55 @@
+====== Psalms 119:175-176 ======
+
+===== TFT: =====
+
+<usfm>
+\v 175 Allow me to continue to live in order that I can \add continue to\add* praise you
+\q2 and that your regulations\f + \ft Or: rules \f* that you have given to us will continue to help me.
+\q1
+\v 176 I have \add sinned and turned away from you\add* like \f + \ft simile \f* a sheep that has become lost;
+\q2 search for me, because I have not forgotten your commands\f + \ft Or: what you have commanded us \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 175 Allow me to continue to live in order that I can continue to praise you
+\q2 so that your regulations will continue to help me.
+\q1
+\v 176 I have sinned and turned away from you like a sheep that has left its flock;
+\q2 search for me because I have not forgotten your commands.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 175 May I live and  praise you;
+\q may your righteous decrees help me.
+\q
+\v 176 I have wandered off like a lost sheep;
+\q seek your servant,
+\q for I have not forgotten your commandments.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:life|life, live, living, alive]]
+  * [[:or:obe:other:praise|praise]]
+  * [[:or:obe:kt:righteous|righteous, righteousness]]
+  * [[:or:obe:other:decree|decree]]
+  * [[:or:obe:other:sheep|sheep, ram, ewe]]
+  * [[:or:obe:other:servant|servant, slave, slavery]]
+  * [[:or:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+  * **like a lost sheep **  - AT: "I have left your way like a sheep that has left its flock" (See: [[:or:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:or:bible:notes:psa:119:173|<<]] | [[:or:bible:notes:psa:120:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish mrg book5}}
+
+~~NOCACHE~~

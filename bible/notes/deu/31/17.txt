@@ -1,0 +1,53 @@
+====== Deuteronomy 31:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 When that happens, I will become very angry with them. I will abandon them \f + \ft doublet \f* and I will no longer help them [IDI], and I will destroy them \f + \ft Or:they will be destroyed \f*. Many terrible things will happen to them, with the result that they will say, \add 'We are certain that\add* \f + \ft rhetorical question \f* these things are happening to us because our God is no longer with us.'
+\v 18 And because of all the evil things that they will have done, and \add especially because\add* they will have started to worship other gods, I will refuse to help [IDI] them.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 When that happens, I will become very angry with them. I will abandon them and refuse to help them any longer. Many bad things will happen to them, and they will be destroyed. Then they will say among themselves, 'These things are happening to us because our God is no longer with us.'
+\v 18 And because of all the evil things that they will have done, and especially because they will have started to worship other gods, I will refuse to help them.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 Then, on that day, my anger will be kindled against them, and I will abandon them. I will hide my face from them, and they will be devoured. Many disasters and troubles will find them, so that they will say on that day, ‘Have these disasters not found me because our God is not in my midst?’
+\v 18 I will surely hide my face from them on that day because of all the evil that they will have done, because they have turned to other gods.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:angry|angry, anger]]
+  * [[:or:obe:kt:face|face]]
+  * [[:or:obe:other:devour|devour]]
+  * [[:or:obe:other:trouble|trouble, troubles, troubled]]
+  * [[:or:obe:kt:god]]
+  * [[:or:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:or:obe:kt:falsegod|false god, other god]]
+
+===== Translation Notes: =====
+
+  * **my anger will be kindled against them**  - Like a destructive fire, God will become very angry with Israel. (See: [[:or:ta:vol1:translate:figs_metaphor]])  (See: [[:or:ta:vol2:translate:figs_activepassive]])
+  * **my**  - Yahweh continues to speak.
+  * **I will hide my face from them**  - AT: "I will not be present to help them" (See: [[:or:ta:vol2:translate:figs_litotes]])  (See: [[:or:ta:vol1:translate:figs_metaphor]])
+  * **they will be devoured**  - God in his anger will destroy them as with a fierce fire. AT: "destruction will come upon them" (See: [[:or:ta:vol2:translate:figs_activepassive]])  (See: [[:or:ta:vol1:translate:figs_metaphor]])
+  * **Many disasters and troubles will find them**  - Like people, disasters and troubles look for the Israelites in order to harm them. (See: [[:or:ta:vol2:translate:figs_personification]])
+  * **‘Have these disasters not found me because our God is not in my midst?’**  - This emphasizes that the Israelites will realize that their troubles are due to God's absence. AT: 'These disasters have happened to me because God is absent." (See: [[:or:ta:vol1:translate:figs_rquestion]] )  (See: [[:or:ta:vol2:translate:figs_litotes]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:deu:31|Deuteronomy Chapter 31 Comprehension Questions]]**
+**[[:or:bible:notes:deu:31:16|<<]] | [[:or:bible:notes:deu:31:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

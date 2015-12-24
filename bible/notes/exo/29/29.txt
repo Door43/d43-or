@@ -1,0 +1,53 @@
+====== Exodus 29:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 After Aaron \add dies\add*, the special clothes that he wore will belong to his sons. They are to wear those clothes when they are set apart\f + \ft Or: dedicated \f* \add to become priests\add*.
+\v 30 Aaron's son who becomes priest and enters the Sacred Tent and performs rituals in the Holy Place must \add stay in the Sacred Tent\add*, wearing these special clothes, for seven days.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 After Aaron dies, the special clothes that he wore will belong to his sons. They are to wear those clothes when they are set apart to become priests.
+\v 30 Aaron's son who becomes priest and enters the sacred tent and performs rituals in the holy place must stay in the sacred tent, wearing these special clothes, for seven days.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 The holy garments of Aaron must also be reserved for his sons after him. They are to be anointed in them and consecrated to me in them.
+\v 30 The priest who succeeds him from among his sons, who comes into the tent of meeting to serve me in the holy place, is to wear those garments for seven days.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:holy]]
+  * [[:or:obe:other:aaron]]
+  * [[:or:obe:kt:anoint]]
+  * [[:or:obe:kt:consecrate]]
+  * [[:or:obe:kt:priest|priest]]
+  * [[:or:obe:other:tentofmeeting]]
+  * [[:or:obe:other:serve]]
+  * [[:or:obe:kt:holyplace]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+
+  * **The holy garments of Aaron must also be reserved for his sons after him** - These garments belong to the priesthood, not just Aaron's personal clothing. AT: "Aaron must reserve the holy garments for his sons after him" (See: [[:or:ta:vol2:translate:figs_activepassive]])
+  * **They are to be anointed in them and consecrated to me in them** - AT: "They must wear the holy garments when you anoint his sons and consecrate them to me"
+  * **tent of meeting** - See how you translated this in [[or:bible:notes:exo:27:20|27:21]].
+
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:exo:29|Exodus Chapter 29 Comprehension Questions]]**
+**[[:or:bible:notes:exo:29:26|<<]] | [[:or:bible:notes:exo:29:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages or:bible:questions:comprehension:gal -title -naturalOrder -simpleList -exclude:home -textPages="Galatians translationQuestions">

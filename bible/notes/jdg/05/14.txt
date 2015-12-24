@@ -1,0 +1,59 @@
+====== Judges 05:14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Some came from the tribe descended from Ephraim.
+\q2 They came from land that once belonged to the descendants of Amalek.
+\q1 And men from the tribe descended from Benjamin followed them.
+\q2 Troops from the group descended from Makir also came down,
+\q1 and officers from the tribe descended from Zebulun came down, carrying staffs.
+\q2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Some came from the tribe descended from Ephraim.
+\q2 They came from land that once belonged to the descendants of Amalek.
+\q1 Men from the tribe descended from Benjamin followed them.
+\q2 Troops from the group descended from Machir also came down,
+\q1 and officers from the tribe descended from Zebulun came down, carrying staffs to show they were important.
+
+
+\q2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 They came from Ephraim, whose root is in Amalek;
+\q Benjamin was the people who followed you. ;
+\q From Machir commanders came down,
+\q and from Zebulun those who carry an officer's staff.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:ephraim]]
+  * [[:or:obe:other:Amalekite]]
+  * [[:or:obe:other:benjamin]]
+  * [[:or:obe:other:peoplegroup]]
+  * [[:or:obe:other:commander]]
+  * [[:or:obe:other:zebulun]]
+  * [[:or:obe:other:staff]]
+
+===== Translation Notes: =====
+
+  * **from Ephraim, whose root is in Amalek **-  People are said to have roots in an area if that is their home and where their family has developed. The development of a tree is used to describe the development of a family. AT: "from Ephraim, who live in the land that once belonged to the descendants of Amalek" (See: [[:or:ta:vol1:translate:figs_metaphor]])
+  * **Machir** - This is the place where the descendants of Machir live.  Machir was the son of Manasseh and the grandson of Joseph. (See: [[:or:ta:vol1:translate:translate_names]])
+  * **those who carry an officer's staff** - Military leaders are described by the symbol of their authority. AT: "military leaders" (See: [[:or:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:or:bible:notes:jdg:05:12|<<]] | [[:or:bible:notes:jdg:05:15|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

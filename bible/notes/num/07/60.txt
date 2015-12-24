@@ -1,0 +1,50 @@
+====== Numbers 07:60-62 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 60-62 On the ninth day, Abidan son of Gideoni, leader of the tribe of Benjamin brought his gifts:
+\li a silver dish that weighed more than 1.5 kilograms and a silver bowl that weighed .8 kilograms, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
+\li a small gold dish that weighed 113 grams, filled with incense,
+
+
+\li
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 60 On the ninth day, Abidan son of Gideoni, leader of the descendants of Benjamin offered his sacrifice.
+\v 61 His sacrifice was one silver platter weighing 130 shekels and one silver bowl weighing seventy shekels, by the standard weight of the sanctuary shekel. Both of these objects were full of fine flour mingled with oil for a grain offering.
+\v 62 He gave one gold dish weighing ten shekels, full of incense.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[or:obe:kt:son]]
+  * [[or:obe:other:descendant]]
+  * [[:or:obe:other:benjamin]]
+  * [[or:obe:other:silver]]
+  * [[or:obe:kt:sanctuary]]
+  * [[or:obe:other:oil]]
+  * [[or:obe:other:gold]]
+  * [[or:obe:other:incense]]
+
+===== Translation Notes: =====
+
+  * **shekels **- (See: [[or:obe:other:biblicalweight]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:num:07|Numbers Chapter 07 Comprehension Questions]]**
+**[[:or:bible:notes:num:07:57|<<]] | [[:or:bible:notes:num:07:63|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

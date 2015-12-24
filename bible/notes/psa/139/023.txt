@@ -1,0 +1,55 @@
+====== Psalms 139:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 God, search my inner being;
+\q2 find out what I am thinking!
+\q1
+\v 24 Find out whether there is anything evil in my \add inner being\add*,
+\q2 and lead me along the road \add that leads to my being with you\add* forever.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 God, search my inner being;
+\q2 find out what I am thinking!
+\q1
+\v 24 Find out whether there is anything evil in my inner being,
+\q2 and lead me along the road that leads to my being with you forever.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Examine me, God, and know my heart;
+\q test me and know my thoughts.
+\q
+\v 24 See if there is any wicked way in me,
+\q and lead me in the way everlasting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:know]]
+  * [[:or:obe:other:heart|heart]]
+  * [[:or:obe:kt:test|test]]
+  * [[:or:obe:kt:evil]]
+  * [[:or:obe:kt:eternity|everlasting, eternal, eternity]]
+
+===== Translation Notes: =====
+
+  * **Examine me ** - This is a request. AT: "Please search me" or "I beg you to search me" 
+  * **Examine me, God, and know my heart; test me and know my thoughts.** - These two sentences have similar meanings. The second one strengthens the thought in the first. (See: [[:or:ta:vol2:translate:figs_parallelism]])
+  * **the way everlasting** - AT: "God's way" (See: [[or:ta:vol1:translate:figs_idiom]]) 
+
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:or:bible:notes:psa:139:021|<<]] | [[:or:bible:notes:psa:140:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

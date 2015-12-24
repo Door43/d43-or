@@ -1,0 +1,78 @@
+====== Exodus 01:1-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 The sons of Jacob who went to Egypt with him along with their families were
+\v 2 Reuben, Simeon, Levi, Judah,
+\v 3 Issachar, Zebulun, Benjamin,
+\v 4 Dan, Naphtali, Gad, and Asher.
+\v 5 Altogether there were 70 people \add who went with\add* Jacob. That included his \add sons, his grandsons, and two great-grandsons\add*. \add His son\add* Joseph was already in Egypt.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 These were the sons of Jacob (they all went to the land of Egypt with Jacob, their father, and with their own households). The sons' names were:
+\v 2 Reuben, Simeon, Levi, Judah,
+\v 3 Issachar, Zebulun, Benjamin,
+\v 4 Dan, Naphtali, Gad, and Asher.
+\v 5 In all, there were seventy people who went with Jacob. His son Joseph was already in Egypt.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 These are the names of the sons of Israel who came into Egypt with Jacob, each with his household:
+\v 2 Reuben, Simeon, Levi, and Judah,
+\v 3 Issachar, Zebulun, and Benjamin,
+\v 4 Dan, Naphtali, Gad, and Asher.
+\v 5 All of the descendants of Jacob were seventy in number. Joseph was in Egypt already.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:israel]]
+  * [[:or:obe:other:egypt]]
+  * [[:or:obe:other:jacob]]
+  * [[:or:obe:other:reuben]]
+  * [[:or:obe:other:simeon]]
+  * [[:or:obe:other:levite]]
+  * [[:or:obe:other:judah]]
+  * [[:or:obe:other:issachar]]
+  * [[:or:obe:other:zebulun]]
+  * [[:or:obe:other:benjamin]]
+  * [[:or:obe:other:dan]]
+  * [[:or:obe:other:naphtali]]
+  * [[:or:obe:other:gad]]
+  * [[:or:obe:other:asher]]
+  * [[:or:obe:other:descendant]]
+  * [[:or:obe:other:josephot]]
+
+
+===== Translation Notes: =====
+
+
+  * **household** - all the people who live in a house together, usually a large family with servants.
+  * **seventy** - 70
+  * **Joseph was in Egypt already** - AT: "Joseph was already living in Egypt" or "Joseph lived in Egypt before his brothers"
+
+  
+===== Links: =====
+
+  * **[[or:bible:questions:comprehension:exo:01|Exodus Chapter 01 Comprehension Questions]]**
+** | [[:or:bible:notes:exo:01:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

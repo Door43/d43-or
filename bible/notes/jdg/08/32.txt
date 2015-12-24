@@ -1,0 +1,53 @@
+====== Judges 08:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Gideon died when he was very old. They buried his body in the grave where his father Joash was buried, at Ophrah, in the land belonging to the descendants of Abiether.
+\p
+\v 33 But as soon as Gideon died, the Israelites \add left God and gave themselves to worship the images of the god Baal, like\add* \f + \ft metaphor \f* adultresses leave their husbands and go to other men. They made a \add statue of a\add* new god called Baal-Berith.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Gideon son of Joash died when he was very old. They buried his body in the grave where his father Joash was buried, at Ophrah, in the land of the Abietherites.
+\p
+\v 33 But as soon as Gideon died, the Israelites left God and gave themselves to worship the images of the god Baal, like adultresses leave their husbands and go to other men. They made Baal Berith the god they worshiped.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 Gideon (the son of Joash), died at a good old age and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+\p
+\v 33 It came about, as soon as Gideon was dead, the people of Israel turned again and prostituted themselves by worshiping the Baals. They made Baal Berith their god.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:Gideon]]
+  * [[:or:obe:other:joash]]
+  * [[:or:obe:other:tomb]]
+  * [[:or:obe:other:israel]]
+  * [[:or:obe:kt:turn]]
+  * [[:or:obe:other:prostitute]]
+  * [[:or:obe:kt:worship]]
+  * [[:or:obe:other:Baal]]
+  * [[:or:obe:kt:falsegod]]
+
+===== Translation Notes: =====
+
+  * **Ophrah** - See how you translated this in [[:or:bible:notes:jdg:06:11|Judges 6:11]].
+  * **Abiezrites** - See how you translated this in [[:or:bible:notes:jdg:06:11|Judges 6:11]].
+  * **turned again** - "turned away from God"
+  * **Baal Berith** - The name of one of the Baal gods. (See: [[:or:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:or:bible:notes:jdg:08:29|<<]] | [[:or:bible:notes:jdg:08:34|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

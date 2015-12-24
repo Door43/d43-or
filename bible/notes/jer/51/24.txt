@@ -1,0 +1,49 @@
+====== Jeremiah 51:24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 But, Yahweh also says,
+\q1 "Soon I will repay\f + \ft Or: punish \f* you people in Babylon and in the rest of Babylonia
+\q2 for all the evil things that you have done in Jerusalem.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 But, Yahweh also says,
+\q1 "Soon I will repay you people in Babylon and in the rest of Babylonia
+\q2 for all the evil things that you have done in Jerusalem.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 For in your sight I will pay Babylon and all the inhabitants of Chaldea for all of the evil
+\q that they did in Zion"—this is Yahweh’s declaration.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:babylon|Babylon, Babylonian]]
+  * [[:or:obe:other:chaldeans|Chaldea, Chaldean]]
+  * [[:or:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:or:obe:other:zion|Zion, Mount Zion]]
+  * [[:or:obe:other:declare|declare, declaration]]
+
+===== Translation Notes: =====
+
+  * **in your sight - "**before your eyes**"**
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:jer:51|Jeremiah Chapter 51 Comprehension Questions]]**
+**[[:or:bible:notes:jer:51:22|<<]] | [[:or:bible:notes:jer:51:25|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Psalms 095:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 For forty years I was angry with those people,
+\q2 and I said, 'Those people are fickle\f + \ft Or: say that they want to please me, but they do things that I detest \f*.
+\q2 They refuse to obey my commands.'
+\q1
+\v 11 So because I was very angry, I solemnly said\f + \ft Or: declared \f* about them:
+\q2 'They will never enter \add the land of Canaan\add* where I would have allowed them to rest!'~"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 For forty years I was angry with those people,
+\q2 and I said, 'Those people are unreliable.
+\q2 They refuse to obey my commands.'
+\q1
+\v 11 So because I was very angry; I solemnly said about them,
+\q2 'They will never enter the land of Canaan where I would have allowed them to rest!'"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 For forty years I was angry with that generation
+\q and said, 'This is a people whose hearts wander astray;
+\q they have not known my ways.'
+\q
+\v 11 Therefore I vowed in my anger
+\q that they would never enter into my resting place."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:angry|angry, anger]]
+  * [[:or:obe:other:generation|generation]]
+  * [[:or:obe:other:peoplegroup|people group, people]]
+  * [[:or:obe:other:heart|heart]]
+  * [[or:obe:kt:astray]]
+  * [[:or:obe:other:know|know, knowledge, make known]]
+  * [[:or:obe:kt:vow|vow]]
+  * [[:or:obe:kt:rest|rest]]
+
+===== Translation Notes: =====
+Yahweh continues speaking directly to his people.
+
+  * **forty years** - "40 years" (See: [[:or:ta:vol2:translate:translate_numbers]])
+  * **wander astray** - "move away from me" (See: [[:or:ta:vol1:translate:figs_metaphor]])
+  * **known my ways** - AT: "obeyed me" (See: [[:or:ta:vol1:translate:figs_idiom|Idiom]])
+  * **ways ** - God's plans, precepts, purposes or commands
+  * **resting place**  - "Canaan" or "Promised Land"
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:psa:095|Psalms Chapter 095 Comprehension Questions]]**
+**[[:or:bible:notes:psa:095:008|<<]] | [[:or:bible:notes:psa:096:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

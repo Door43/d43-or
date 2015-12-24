@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages or:bible:questions:comprehension:lam -title -naturalOrder -simpleList -exclude:home -textPages="Lamentations translationQuestions">

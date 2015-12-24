@@ -1,0 +1,43 @@
+====== 1 Chronicles 03:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add King\add* Jehoiachin was captured \add and taken to Babylon\add*. His sons were Shealtiel,
+\v 18 Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 King Jehoiachin was captured and taken to Babylon. His sons were Shealtiel,
+\v 18 Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 The sons of Jeconiah, the captive, were Shealtiel,
+\v 18 Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[or:obe:other:captive]]
+
+===== Translation Notes: =====
+
+  * **Jeconiah ... Nedabiah**  - These are names of men. (See: [[:or:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:1ch:03|1 Chronicles Chapter 03 Comprehension Questions]]**
+**[[:or:bible:notes:1ch:03:15|<<]] | [[:or:bible:notes:1ch:03:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

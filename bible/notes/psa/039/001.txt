@@ -1,0 +1,62 @@
+====== Psalms 039:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I said \add to myself\add*, "I will be careful not to sin by the things that I say \f + \ft metonymy \f*.
+\q1 I will not say anything \add to complain to you\add*
+\q2 while wicked people are near to me \add and can hear me\add*."
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I said to myself, "I will be careful not to sin by the things that I say.
+\q1 I will not say anything to complain to you
+\q2 while wicked people are near to me and can hear me."
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 39
+\d For the chief musician, for Jeduthun. A psalm of David.
+\b
+\q
+\v 1 I decided, "I will watch what I say
+\q so that I do not sin with my tongue.
+\q I will muzzle my mouth
+\q while in the presence of an evil man."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:or:obe:other:psalm|psalm]]
+  * [[:or:obe:other:david|David]]
+  * [[:or:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:or:obe:other:tongue|tongue]]
+  * presence
+  * [[:or:obe:kt:evil|evil, wicked, wickedness]]
+
+===== Translation Notes: =====
+
+See: [[:or:ta:workbench:translate:poetry|Translating Poetry]] and [[:or:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **For the chief musician**  - AT: "Send this to the priest in charge of the king's music."
+  * **for Jeduthun**  - AT: " ***Jeduthun**  - See how you translated this in [[:or:bible:notes:psa:039:001|39:1]].
+  * **A psalm of David**  - AT: "This is a psalm written by David."
+  * **I will watch what I say- **  AT: "I will be careful not to sin by the things that I say." (UDB) See Idiom. (An Idiom is a group of words that has a meaning that is different from what one would understand from the meaning of individual words.)
+  * **so that I do not sin with my tongue**  - AT: "so that I do not speak deceitfully." (See idiom)
+  * **muzzle**  - definition of the word, "Muzzle" to prevent (a person or group) from speaking in a free or normal way.
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:psa:039|Psalms Chapter 039 Comprehension Questions]]**
+**[[:or:bible:notes:psa:038:021|<<]] | [[:or:bible:notes:psa:039:002|>>]]**
+
+~~DISCUSSION~~{{tag>check book1}}
+
+~~NOCACHE~~

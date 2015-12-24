@@ -1,0 +1,50 @@
+====== Numbers 07:48-50 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 48-50 On the seventh day, Elishama son of Ammihud, leader of the tribe of Ephraim brought his gifts:
+\li a silver dish that weighed more than 1.5 kilograms and a silver bowl that weighed .8 kilograms, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
+\li a small gold dish that weighed 113 grams, filled with incense,
+
+
+\li
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 48 On the seventh day,  Elishama son of Ammihud, leader of the descendants of Ephraim offered his sacrifice.
+\v 49 His sacrifice was one silver platter weighing 130 shekels and one silver bowl weighing seventy shekels, by the standard weight of the sanctuary shekel. Both of these objects were full of fine flour mingled with oil for a grain offering.
+\v 50 He gave one gold dish weighing ten shekels, full of incense.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[or:obe:other:descendant]]
+  * [[:or:obe:other:ephraim]]
+  * [[or:obe:other:sacrifice]]
+  * [[or:obe:other:silver]]
+  * [[or:obe:kt:sanctuary]]
+  * [[or:obe:other:oil]]
+  * [[or:obe:other:gold]]
+  * [[or:obe:other:incense]]
+
+===== Translation Notes: =====
+
+  * **shekels **- (See: [[or:obe:other:biblicalweight]])
+===== Links: =====
+
+  * **[[:or:bible:questions:comprehension:num:07|Numbers Chapter 07 Comprehension Questions]]**
+**[[:or:bible:notes:num:07:45|<<]] | [[:or:bible:notes:num:07:51|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

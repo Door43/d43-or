@@ -1,0 +1,49 @@
+====== Mark 08:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 The disciples had forgotten to bring along \add enough\add* food. Specifically, they had only one flat loaf of bread with them in the boat.
+\v 15 \add As they were going\add*, Jesus warned them against \add the attitudes the Pharisees and Herod Antipas had, attitudes that were having a bad effect on other people. He did this by telling them a parable\add*. He said, "Be careful! Beware of the yeast of the Pharisees and the yeast of Herod!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The disciples had forgotten to bring along enough food. Specifically, they had only one flat loaf of bread with them in the boat.
+\v 15 As they were going, Jesus warned them and said, "Be careful! Beware of the yeast of the Pharisees and of Herod!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Now the disciples had forgotten to take bread with them. They had no more than one loaf of bread in the boat.
+\v 15 He warned them and said, "Keep watch and be on guard against the yeast of the Pharisees and the yeast of Herod."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:or:obe:kt:disciple]]
+  * [[:or:obe:other:bread]]
+  * [[:or:obe:other:watch]]
+  * [[:or:obe:other:yeast]]
+  * [[:or:obe:other:pharisee]]
+  * [[:or:obe:other:herodantipas]]
+
+===== Translation Notes: =====
+
+  * **"Keep watch and be on guard** - These two terms have common meaning and are repeated here for emphasis.  (See: [[or:ta:vol2:translate:figs_doublet]])
+  * **yeast of the Pharisees and the yeast of Herod** - AT: "false teachings of the Pharisees and the false teachings of Herod" (See:  [[or:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[or:bible:questions:comprehension:mrk:08|Mark Chapter 08 Comprehension Questions]]**
+**[[:or:bible:notes:mrk:08:11|<<]] | [[:or:bible:notes:mrk:08:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
