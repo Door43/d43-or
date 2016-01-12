@@ -1,31 +1,23 @@
-===== Two Trees [01-11] =====
+===== **ଦୁଇଗୋଟି ବୃକ୍ଷ**** [01-11]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink}}
+**ଉଦ୍ୟାନ** ର **ମଧ୍ୟସ୍ଥଳରେ**, ଈଶ୍ବର ଦୁଇଗୋଟି ବିଶେଷ ବୃକ୍ଷ ଲଗାଇଲେ – **ଜୀବନଦାୟକ ବୃକ୍ଷ** ଓ **ସଦସତ୍‍ଜ୍ଞାନଦାୟକ ବୃକ୍ଷ** । ଈଶ୍ବର ଆଦମଙ୍କୁ କହିଲେ ଯେ ସେ ସଦସତ୍‍ଜ୍ଞାନଦାୟକ ବୃକ୍ଷର ଫଳ ବ୍ୟତୀତ ସମସ୍ତ ବୃକ୍ଷର ଫଳ ଭୋଜନ କରିପାରିବେ । ଯଦି ସେ ଏହି ବୃକ୍ଷରୁ ଭୋଜନ କରିବେ, ସେ **ମରିବେ** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**. 
+  * **ଈଶ୍ବର**
+  * **ଜୀବନ**
+  * **ଉତ୍ତମ**
+  * **ମନ୍ଦ**
+  * **ଆଦମ**
+  * **ମରିବା**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:life]]**
-  * **[[:or:obe:kt:good]]**
-  * **[[:or:obe:kt:evil]]**
-  * **[[:or:obe:other:adam]]**
-  * **[[:or:obe:kt:death]]**
-
-
-==== Translation Notes: ====
-
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **in the middle**  - The central location emphasizes the importance of the two trees.
+  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
+  * **tree of life**  - Anyone who ate fruit from this tree would never die.
+  * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
+  * **knowledge**  - To know or understand by personal experience.
+  * **good and evil**  - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
+  * **die**  - In this instance, he would die both physically and spiritually.
 **[[:or:obs:notes:frames:01-10|<<]] | [[:or:obs:notes:01|Up]] | [[:or:obs:notes:frames:01-12|>>]]**
