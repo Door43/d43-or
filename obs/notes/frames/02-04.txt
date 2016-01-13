@@ -1,25 +1,17 @@
-===== The Lie [02-04] =====
+===== **ମିଥ୍ୟା**** [02-04]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink}}
+ସର୍ପ ସେହି ସ୍ତ୍ରୀକୁ ଉତ୍ତର ଦେଲା “ତାହା **ସତ୍ୟ** ନୁହେଁ! ତୁମ୍ଭେ **ମରିବ** ନାହିଁ । **ଈଶ୍ବର** ଜାଣନ୍ତି ଯେ ତୁମେ ଏହା ଖାଇବା କ୍ଷଣି, ତୁମ୍ଭେ **ଈଶ୍ବରଙ୍କ ପରି** ହୋଇଯିବ ଓ ସେ ଯେପରି ଭଲ ଓ ମନ୍ଦ ବୁଝିପାରନ୍ତି ତୁମେ ମଧ୍ୟ **ଭଲ ଓ ମନ୍ଦର ବୋଧଜ୍ଞାନ ପାଇବ ବା ବୁଝିପାରିବ** ।”
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-The snake responded to the woman, “That is not **true**! You will not **die**. **God** just knows that as soon as you eat it, you will be **like God** and will **understand good and evil** like he does.” 
+  * **ସତ୍ୟ**
+  * **ମରିବା**
+  * **ଈଶ୍ବର**
+  * **ଉତ୍ତମ**
+  * **ମନ୍ଦ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:kt:true]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:good]]**
-  * **[[:or:obe:kt:evil]]**
-
-
-==== Translation Notes: ====
-
-
-  * **like God** - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil** - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-
-
+  * **ଈଶ୍ବରଙ୍କ ପରି**  – ପୁରୁଷ ଓ ସ୍ତ୍ରୀ ଈଶ୍ବରଙ୍କ ସାଦୃଶ୍ୟରେ ନିର୍ମିତ ହୋଇସାରିଥିଲେ । ସର୍ପ ପ୍ରବର୍ତ୍ତନା ଦେଇ କହିଲା ଯେ ଯଦି ସେହି ସ୍ତ୍ରୀ ମନ୍ଦକୁ ବୁଝିପାରିବ ତେବେ ସେ ଈଶ୍ବରଙ୍କ ପରି ଅଧିକ ହେବ । ଅଥଚ, ଈଶ୍ବର କେବେ ବି ଚାହିଁ ନ ଥିଲେ ଯେ ସେ (ସେହି ସ୍ତ୍ରୀ) ଏହି ଜ୍ଞାନ ପାଉ ।
+  * **ଭଲ ଓ ମନ୍ଦର ବୋଧଜ୍ଞାନ ପାଇବା ବା ବୁଝିପାରିବା**  – କେଉଁ ବିଷୟଗୁଡିକ ଭଲ ଓ କେଉଁ ବିଷୟଗୁଡିକ ମନ୍ଦ ତାହା ବ୍ୟକ୍ତିଗତ ଅନୁଭୂତିରୁ ଜାଣିବା, କିମ୍ବା କୌଣସି ବିଷୟ ଭଲ ନା ମନ୍ଦ ତାହା ଜାଣିବାରେ ସକ୍ଷମ ହେବା ।
 **[[:or:obs:notes:frames:02-03|<<]] | [[:or:obs:notes:02|Up]] | [[:or:obs:notes:frames:02-05|>>]]**
