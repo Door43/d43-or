@@ -1,20 +1,14 @@
-===== The Rain Stopped [03-09] =====
+===== **ବର୍ଷା ବନ୍ଦ ହେଲା**** \[03-09]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink}}
+**ବର୍ଷା ବନ୍ଦ ହେଲା** ପରେ, ଜାହାଜ ଜଳ ଉପରେ ପାଞ୍ଚମାସ ଭାସିବାକୁ ଲାଗିଲା, ଏବଂ ଏହି ସମୟରେ ଜଳ କମିବାକୁ ଲାଗିଲା । ତେବେ ଏକ ଦିନ **ଜାହାଜ** ପର୍ବତର ଶିଖରରେ **ଲାଗି ରହିଲା**, ତଥାପି ପୃଥିବୀରେ ଜଳ ରହିଥିଲା । **ତିନିମାସ ପରେ**, **ପର୍ବତଗୁଡିକ** ର ଶିଖର **ଦେଖାଗଲା** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-After **the rains stopped**, the boat floated on the water for five months, and during this time the water started going down. Then one day the **boat rested** on the top of a mountain, but the world was still covered with water. After **three more months**, the tops of the **mountains were visible**.
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-
-===== Translation Notes: =====
-
-
-  * **the rains stopped** – This could be translated as, "it stopped raining."
-  * **boat rested** - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
-  * **three more months** - During the next three months, the water continued to go down.
-  * **mountains were visible** - Other ways to translate this would be, "were showing" or, "appeared" or, "could be seen." It may be more clear to say, "After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains.
-
+  * **ବର୍ଷା ବନ୍ଦ ହେଲା**  – ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ “ବର୍ଷା ହେବାର ବନ୍ଦ ହେଲା ।”
+  * **ଜାହାଜ ଲାଗି ରହିଲା**  – ବର୍ଷାରୁ ଏତେ ଜଳ ଆସିଥିଲା ଯେ ଏହା ପର୍ବତଗୁଡିକୁ ଆଚ୍ଛାଦିତ କରି ରଖିଥିଲା । ଏହି ଜାହାଜ ପର୍ବତଗୁଡିକ ଉପରେ ଭାସିବାକୁ ଲାଗିଲା, ଏବଂ ଯେତେବେଳେ ବର୍ଷା ଜଳ ହ୍ରାସ ହୋଇଗଲା, ଜାହାଜଟି ଜଳ ସହ ତଳକୁ ତଳ ଯାଇ ପର୍ବତ ଉପରେ ଲାଗି ରହିଲା ।
+  * **ଅଧିକ ତିନି ମାସ**  – ପରବର୍ତ୍ତୀ ତିନିମାସ ସମୟରେ ଜଳ ହ୍ରାସ ହୋଇ ହୋଇ ଗଲା ।
+  * **ପର୍ବତଗୁଡିକ ଦୃଶ୍ୟମାନ ହେଲେ**  – ଏହାକୁ ଅନ୍ୟ ଭାବରେ ଅନୁବାଦ କଲେ ଏହା ଏପରି ହେବ “ଦେଖାଯାଉଥିଲେ” କିମ୍ବା “ଆବିର୍ଭାବ ହେଲେ” ବା “ଦେଖାଯାଇପାରିବ”। ଏହା ଅଧିକ ସ୍ବଷ୍ଟ ହେବ ଯଦି ଆମେ ନିମ୍ନ ପ୍ରକାରେ କହିବା “ତିନି ମାସ ପରେ, ଜଳ ଏତେ ମାତ୍ରାରେ ହ୍ରାସ ହେବାରେ ଲାଗିଲା ଯେ ନୋହ ଓ ତାହାଙ୍କ ପରିବାର ପର୍ବତଗୁଡିକର ଶିଖରକୁ ସ୍ବଷ୍ଟ ଭାବରେ ଦେଖିପାରୁଥିଲେ ।”
 **[[:or:obs:notes:frames:03-08|<<]] | [[:or:obs:notes:03|Up]] | [[:or:obs:notes:frames:03-10|>>]]**
