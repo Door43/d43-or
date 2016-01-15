@@ -1,22 +1,15 @@
-===== One People [04-01] =====
+===== ଗୋଟିଏ ପ୍ରକାର ଲୋକ** [04-01]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
+**ଜଳପ୍ଳାବନର ଅନେକ ବର୍ଷ ପରେ**, ପୃଥିବୀରେ **ଆଉ ଅନେକ ଲୋକ ** ହେଲେ, ଏବଂ ସେମାନେ **ଗୋଟିଏ ଭାଷା ** କହୁଥିଲେ। **ଈଶ୍ବର** ଆଦେଶ ଦେଇଥିବା ଅନୁଯାୟୀ ସେମାନେ ପୃଥିବୀକୁ ପରିପୂର୍ଣ୍ଣ ନ କରି ଏକାଠି ହୋଇ **ଏକ ନଗର** ନିର୍ମାଣ କଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
+  * **ଈଶ୍ବର**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
-
+  * **ଜଳପ୍ଳାବନର ଅନେକ ବର୍ଷ ପରେ**  – ଜଳପ୍ଳାବନର ଶେଷଠାରୁ ଅନେକ ପିଢୀ ଗତ ହୋଇଥିଲା ।
+  * **ପୁନର୍ବାର ଅନେକ ଲୋକ**  – ନୋହଙ୍କ ପରିବାର ଏତେ ଗୁଣରେ ବୃଦ୍ଧି ପାଇଲେ ଯେ ସେମାନେ ଏକ ନଗର ପୂର୍ଣ୍ଣ କରିବା ନିମନ୍ତେ ଯଥେଷ୍ଟ ଥିଲେ ।
+  * **ଗୋଟିଏ ଭାଷା**  – ଏହାର ଅର୍ଥ ହେଉଛି ସେଠାରେ କେବଳ ଗୋଟିଏ ଭାଷା ହିଁ ପ୍ରଚଳିତ ହେଉଥିଲା, ତେଣୁ ସେମାନେ ପରସ୍ପରକୁ ବୁଝିପାରୁଥିଲେ ।
+  * **ଏକ ନଗର**  – “ନଗର” ନିମନ୍ତେ ଏକ ସାଧାରଣ ଶବ୍ଦ ବ୍ୟବହାର କରିବା ସର୍ବୋତ୍ତମ ହେବ ଯେହେତୁ ସେହି ଅଂଶ ନିର୍ଦ୍ଧିଷ୍ଟ ନାମ ପ୍ରଦାନ କରେନାହିଁ ।
 **[[:or:obs:notes:frames:03-16|<<]] | [[:or:obs:notes:04|Up]] | [[:or:obs:notes:frames:04-02|>>]]**
