@@ -1,22 +1,15 @@
-===== Building the Boat [03-04] =====
+===== ଜାହାଜ ନିର୍ମାଣ କରିବା** [03-04]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink}}
+**ନୋହ ଈଶ୍ବରଙ୍କର ଆଜ୍ଞାବହ ହୋଇଥିଲେ** । ନୋହ ଓ ତାହାଙ୍କ ତିନିପୁତ୍ର ଈଶ୍ବର କହିଥିବା ଅନୁଯାୟୀ ଜାହାଜ ନିର୍ମାଣ କରିଥିଲେ । ଜାହାଜ ନିର୍ମାଣ କରିବା ନିମନ୍ତେ ଅନେକ ବର୍ଷ ଲାଗିଥିଲା, କାରଣ ଏହା ଅତି ବଡ ଥିଲା । ଯେଉଁ ଜଳପ୍ଳାବନ ଆସୁଥିଲା ସେ ବିଷୟରେ **ନୋହ** ଲୋକମାନଙ୍କୁ **ସତର୍କ କରାଇ** **ଈଶ୍ବରଙ୍କ ପ୍ରତି ଫେରିବା** ନିମନ୍ତେ କହୁଥିଲେ, କିନ୍ତୁ ସେମାନେ ତାଙ୍କଠାରେ ବିଶ୍ବାସ କଲେ ନାହିଁ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-**Noah obeyed God**. He and his three sons built the boat just the way God had told them. It took many years to build the boat, because it was so big. **Noah warned** the people about the flood that was coming and told them to **turn to God**, but they did not believe him. 
+  * **ନୋହ**
+  * **ଆଜ୍ଞାବହ ହେଲେ**
+  * **ଈଶ୍ବର**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:noah]]**
-  * **[[:or:obe:other:obey]]**
-  * **[[:or:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Noah warned** - Noah told everyone that God planned to destroy the world because of sin.
-  * **turn to God** - This means that they should stop sinning and start obeying God.
-
+  * **ନୋହ ସତର୍କ କଲେ**  – ନୋହ ପ୍ରତ୍ୟେକଙ୍କୁ କହିଲେ ଯେ ଈଶ୍ବର କିପରି ଜଗତର ପାପ ଯୋଗୁଁ ଜଗତକୁ ବିନଷ୍ଟ କରିବାକୁ ଯୋଜନା କରିଥିଲେ ।
+  * **ଈଶ୍ବରଙ୍କ ପ୍ରତି ଫେରିବା**  – ଏହାର ଅର୍ଥ ଏହା ହେଉଛି ଯେ ସେମାନେ ପାପ କରିବା ବନ୍ଦ କରି ଈଶ୍ବରଙ୍କର ଆଜ୍ଞାବହ ହେବାର ଆରମ୍ଭ କରିବେ ।
 **[[:or:obs:notes:frames:03-03|<<]] | [[:or:obs:notes:03|Up]] | [[:or:obs:notes:frames:03-05|>>]]**
