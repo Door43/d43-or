@@ -1,19 +1,13 @@
-===== Safe from the Flood [03-08] =====
+===== **ଜଳପ୍ଳାବନରୁ ସୁରକ୍ଷିତ**** [03-08]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink}}
+ଜାହାଜ ମଧ୍ୟରେ ଥିବା ଲୋକ ଓ ପଶୁପକ୍ଷି ବ୍ୟତୀତ ଶୁଷ୍କଭୂମିରେ ଥିବା ସମସ୍ତ ବିଷୟ **ମୃତ୍ୟୁଭୋଗ କଲେ** । ଜାହାଜ ଜଳ ଉପରେ ଭାସିବାକୁ ଲାଗିଲା ଓ ଜାହାଜ ଭିତରେ ଥିବା ପ୍ରତ୍ୟେକ ବିଷୟକୁ ଜଳରେ ବୁଡି ମରିବାରୁ ରକ୍ଷା କଲା ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-Everything that lived on the dry land **died**, except the people and animals that were in the boat. The boat floated on the water and kept everything inside the boat safe from drowning.
+  * **ମୃତ୍ୟୁଭୋଗ କଲେ ବା ମଲେ **
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:kt:death]]**
-
-
-===== Translation Notes: =====
-
-
- * //(There are no notes for this frame.)// 
+//* (ଏହି ଫ୍ରେମ୍‍ନିମନ୍ତେ କୌଣସି ଟୀପ୍ପଣୀ ନାହିଁ ।)//
 
 **[[:or:obs:notes:frames:03-07|<<]] | [[:or:obs:notes:03|Up]] | [[:or:obs:notes:frames:03-09|>>]]**
