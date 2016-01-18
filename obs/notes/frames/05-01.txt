@@ -1,26 +1,19 @@
-===== Hagar [05-01] =====
+===== ହାଗାର** [05-01]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink}}
+**ଅବ୍ରାମ** ଓ **ସାରୀ** **କିଣାନ** ରେ ପହଞ୍ଚିବାର ଦଶ ବର୍ଷ ପରେ **ମଧ୍ୟ ସେମାନଙ୍କର କୌଣସି ସନ୍ତାନ ହୋଇନଥିଲା** । ତେଣୁ ଅବ୍ରାମଙ୍କ ସ୍ତ୍ରୀ ସାରୀ ତାହାଙ୍କୁ କହିଲେ “ଯେହେତୁ **ଈଶ୍ବର** ମୋତେ ସନ୍ତାନ ପ୍ରସବ କରିବାକୁ ଦେଲେ ନାହିଁ ଏବଂ ବର୍ତ୍ତମାନ ମୁଁ ବୃଦ୍ଧା ହୋଇଅଛି, ତେଣୁ ଏଠାରେ ମୋ **ଦାସୀ ହାଗାର** ଅଛି । **ତାହାକୁ ମଧ୍ୟ ବିବାହ କର** ଯେପରିକି ସେ **ମୋ ନିମନ୍ତେ ଏକ ସନ୍ତାନ ପ୍ରସବ କରିବ** ।”
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**. So Abram's wife, Sarai, said to him, “Since **God** has not allowed me to have children and now I am too old to have children, here is my **servant**, **Hagar**. **Marry her also** so she can **have a child for me**.” 
+  * **ଅବ୍ରାମ**
+  * **ସାରୀ**
+  * **କିଣାନ**
+  * **ଈଶ୍ବର**
+  * **ଦାସ (ବା ଦାସୀ)**
+  * **ହାଗାର**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:abraham]]**
-  * **[[:or:obe:other:sarah]]**
-  * **[[:or:obe:other:canaan]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:hagar]]**
-
-
-===== Translation Notes: =====
-
-
-  * **still did not have a child** - Without a child, Abram had no descendants to become a great nation.
-  * **Marry her also** - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
-  * **have a child for me** - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
-
+  * **ତଥାପି ସନ୍ତାନ ନୋହିଲା**  – ସନ୍ତାନ ବିନା ଏକ ବୃହତ୍‍ଦେଶ ହେବା ନିମନ୍ତେ ଅବ୍ରାମଙ୍କର ବଂଶଧର ନ ଥିଲେ ।
+  * **ତାକୁ ମଧ୍ୟ ବିବାହ କର**  – ଅବ୍ରାମ ହାଗାରଙ୍କୁ ଦ୍ବିତୀୟ ସ୍ତ୍ରୀ ଭାବରେ ଗ୍ରହଣ କର, କିନ୍ତୁ ସ୍ତ୍ରୀ ଭାବରେ ସାରୀଙ୍କର ଯେପରି ସ୍ଥାନ ରହିଛି ହାଗାରଙ୍କର ସେପରି ସ୍ଥାନ ରହିବ ନାହିଁ । ସେ ସେତେବେଳେ ସୁଦ୍ଧା ସାରୀଙ୍କର ଦାସୀ ଥିଲେ ।
+  * **ମୋ ନିମନ୍ତେ ଏକ ସନ୍ତାନ ଧାରଣ କର**  – ଯେହେତୁ ହାଗାର ସାରୀଙ୍କର ଦାସୀ ଥିଲେ, ତେଣୁ ହାଗାର ଯେକୌଣସି ସନ୍ତାନ ପ୍ରସବ କରିବେ ସେ ସାରୀଙ୍କର ସନ୍ତାନ ଭାବରେ ପରିଗଣିତ ହେବେ ।
 **[[:or:obs:notes:frames:04-09|<<]] | [[:or:obs:notes:05|Up]] | [[:or:obs:notes:frames:05-02|>>]]**
