@@ -1,24 +1,17 @@
-===== A Wife for Isaac [06-01] =====
+===== ଇସାହାକଙ୍କ ନିମନ୍ତେ ଜଣେ ସ୍ତ୍ରୀ** [06-01]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink}}
+**ଅବ୍ରହାମ** ଯେତେବେଳେ ଅତି ବୃଦ୍ଧ ହୋଇଯାଇଥିଲେ, ତାହାଙ୍କ **ପୁତ୍ର ଇସାହାକ** ଏକ ପୂର୍ଣ୍ଣ ବୟସ୍କ ବ୍ୟକ୍ତିରେ ପରିଣତ ହୋଇସାରିଥିଲେ । ତେଣୁ ଅବ୍ରହାମଙ୍କ ସମ୍ପର୍କୀୟମାନେ ବାସ କରୁଥିଲେ ସେଠାରୁ **ଇସାହାକଙ୍କ ନିମନ୍ତେ ଏକ କନ୍ୟା ଆଣିବା ନିମନ୍ତେ** ଅବ୍ରହାମ **ତାହାଙ୍କ ଦାସମାନଙ୍କ ମଧ୍ୟରୁ ଜଣକୁ ପ୍ରେରଣ କଲେ** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So Abraham **sent one of his servants back to the land** where his relatives lived **to bring back a wife for his son**, **Isaac**. 
+  * **ଅବ୍ରହାମ**
+  * **ସନ୍ତାନ ବା ପୁତ୍ର**
+  * **ଇସାହାକ**
+  * **ଦାସମାନେ**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:abraham]]**
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:other:isaac]]**
-  * **[[:or:obe:other:servant]]**
-
-
-===== Translation Notes: =====
-
-
-  * **sent one of his servants back** – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
-  * **to the land** - This land was east of where Abraham was now living.
-  * **to bring back a wife for his son, Isaac** - This could be translated as, "to bring back an unmarried woman for his son, Isaac, to marry".
-
+  * **ତାଙ୍କ ଦାସମାନଙ୍କ ମଧ୍ୟରୁ ଜଣକୁ ପଠାଇଲେ**  – ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ତାଙ୍କ ଦାସମାନଙ୍କ ମଧ୍ୟରୁ ଜଣକୁ ଫେରିଯିବା ପାଇଁ କହିଲେ ।” “ଫେରିବା” ଶବ୍ଦଟି ବୁଝାଏ ଯେ ଅବ୍ରହାମ କିଣାନକୁ ଆସିବା ପୂର୍ବରୁ ଯେଉଁ ଦେଶରେ ବାସ କରୁଥିଲେ ସେହି ଦେଶକୁ ସେହି ଦାସ ପୁନର୍ବାର ଯିବା ବୁଝାଏ । ଏହି ବାକ୍ୟାଂଶ ତାହାକୁ ସ୍ବଷ୍ଟ କରେ ନା ନାହିଁ ତାହାକୁ ସୁନିଶ୍ଚିତ କରନ୍ତୁ ।
+  * **ସେହି ଦେଶକୁ**  – ଅବ୍ରହାମ ବର୍ତ୍ତମାନ ଯେଉଁ ଦେଶରେ ବାସ କରୁଥିଲେ ସେଥିର ପୂର୍ବକୁ ସେହି ଦେଶ ରହିଛି ।
+  * **ତାହାଙ୍କ ପୁତ୍ର ଇସାହାକ ନିମନ୍ତେ ଜଣେ ସ୍ତ୍ରୀ ଆଣିବା ନିମନ୍ତେ**  – ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ “ତାହାଙ୍କ ପୁତ୍ର ଇସାହାକଙ୍କ ନିମନ୍ତେ ଏକ ଅବିବାହିତ କନ୍ୟା ବିବାହ କରିବା ନିମନ୍ତେ ଆଣିବା ।”
 **[[:or:obs:notes:frames:05-10|<<]] | [[:or:obs:notes:06|Up]] | [[:or:obs:notes:frames:06-02|>>]]**
