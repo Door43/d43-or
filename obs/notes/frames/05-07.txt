@@ -2,18 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&}}
 
-As **Abraham** and **Isaac walked to the place of sacrifice**, Isaac asked, “Father, we have **wood for the sacrifice**, but where is **the lamb**?” Abraham replied, “**God** will provide the lamb for the sacrifice, my son.”
+**ଅବ୍ରହାମ** ଓ **ଇସାହାକ** ଯେତେବେଳେ **ବଳିର ସ୍ଥାନକୁ ଚାଲିଚାଲି ଗଲେ**, ଇସାହାକ ପଚାରିଲେ, “ପିତା, ବଳି **ନିମନ୍ତେ ଆମର କାଷ୍ଠ** ଅଛି, କିନ୍ତୁ **ମେଣ୍ଢା ଛୁଆ** କାହିଁ?” ଅବ୍ରହାମ ଉତ୍ତର ଦେଲେ “ପୁତ୍ର, ବଳି ନିମନ୍ତେ **ଈଶ୍ବର ** ମେଷ ଯୋଗାଇବେ ।”
 ===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:abraham|Abraham, Abram]]**
-  * **[[:or:obe:other:isaac|Isaac]]**
-  * **[[:or:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:or:obe:kt:lamb|lamb, Lamb of God]]**
-  * **[[:or:obe:kt:god|God]]**
+  * **ଅବ୍ରହାମ**
+  * **ଇସାହାକ**
+  * **ବଳି**
+  * **ମେଷ**
+  * **ଈଶ୍ବର**
 ===== ଅନୁବାଦ ଟୀପ୍ପଣୀ: =====
 
-  * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
-  * **wood for the sacrifice**  - For a sacrifice, normally the lamb was killed and then placed on top of wood so that the wood and the lamb could be burned up with fire.
-  * **the lamb**  - A young sheep or goat would be the normal animal for a sacrifice.
-  * **provide**  - Abraham may have believed that Isaac was the "lamb" that God provided, although God fulfilled Abraham's words by providing a ram to sacrifice in Isaac's place.
+  * **ବଳି ସ୍ଥାନକୁ ଚାଲିଚାଲି ଗଲେ**  – ଈଶ୍ବର ଅବ୍ରହାମଙ୍କୁ ଏକ ବିଶେଷ ଉଚ୍ଚ ପର୍ବତରେ ବଳି ଉତ୍ସର୍ଗ କରିବାକୁ କହିଥିଲେ ଯାହା ସେମାନେ ବାସ କରୁଥିବା ସ୍ଥାନରୁ ତିନିଦିନର ରାସ୍ତା ଅଟେ ।
+  * **ବଳି ନିମନ୍ତେ କାଷ୍ଠ**  – ବଳି ନିମନ୍ତେ ସାଧାରଣତଃ ମେଷବଳି କରାଯାଏ ଏବଂ ଏହାକୁ କାଷ୍ଠ ଉପରେ ରଖାଯାଏ ଯେପରିକି କାଷ୍ଠ ଓ ମେଷ ଏକାଥରକେ ଅଗ୍ନିରେ ପୋଡିବେ ।
+  * **ମେଷ**  – ବଳି ନିମନ୍ତେ ଏକ ମେଷ ଛୁଆ କିମ୍ବା ଛେଳି ସାଧାରଣ ଥିଲା ।
+  * **ଯୋଗାଇବା**  – ଅବ୍ରହାମ ବିଶ୍ବାସ କରିଥାଇପାରନ୍ତି ଯେ ଇସାହାକ “ମେଷ” ଥିଲେ ଯାହାକୁ ଈଶ୍ବର ଯୋଗାଇଥିଲେ, ଯଦିଓ ଇସାହାକଙ୍କ ସ୍ଥାନରେ ବଳି ଦେବା ନିମନ୍ତେ ଈଶ୍ବର ଏକ ମେଷ ଯୋଗାଇବା ଦ୍ବାରା ଈଶ୍ବର ଅବ୍ରହାମଙ୍କ ବାକ୍ୟ ସଫଳ କରିଥିଲେ ।
 **[[:or:obs:notes:frames:05-06|<<]] | [[:or:obs:notes:05|Up]] | [[:or:obs:notes:frames:05-08|>>]]**
