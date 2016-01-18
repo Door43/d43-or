@@ -1,23 +1,16 @@
-===== The Ram [05-09] =====
+===== ମେଷ ଛୁଆ** [05-09]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink}}
+**ଅବ୍ରହାମ** ତାଙ୍କ ନିକଟରେ **ଏକ ମେଷ** ଦେଖିଲେ ଯାହା ବୁଦାରେ ଲାଗିଯାଇଥିଲା । **ଇସାହାକ** ଙ୍କ ପ୍ରତିବଦଳରେ **ବଳି** ହେବା ନିମନ୍ତେ **ଈଶ୍ବର ମେଷ ଯୋଗାଇଥିଲେ** । ଅବ୍ରହାମ ଖୁସୀରେ ସେହି ମେଷକୁ ବଳି ଭାବରେ ଉତ୍ସର୍ଗ କଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice. 
+  * **ଅବ୍ରହାମ**
+  * **ଈଶ୍ବର**
+  * **ବଳି**
+  * **ଇସାହାକ**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:abraham]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:sacrifice]]**
-  * **[[:or:obe:other:isaac]]**
-
-
-===== Translation Notes: =====
-
-
-  * **a ram** - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
-  * **God had provided the ram** - Just at the right moment, God caused the ram to be stuck in the bush.
-
+  * **ଏକ ମେଷ**  – ମେଷ ବା ram ହେଉଛି ଏକ ପୁଂ ଛେଳି ବା ଛାଗଳ ଅଟେ । ଛାଗଳ ମଧ୍ୟ ଏକ ପଶୁ ଥିଲା ଯାହାକୁ ଲୋକମାନେ ଈଶ୍ବରଙ୍କ ଉଦ୍ଦେଶ୍ୟରେ ବଳି ଉତ୍ସର୍ଗ କରୁଥିଲେ ।
+  * **ଈଶ୍ବର ମେଷ ଯୋଗାଇଥିଲେ**  । ଠିକ୍‍ସେହି ସମୟରେ ଈଶ୍ବର ସେହି ମେଣ୍ଢାକୁ ବା ପୁରୁଷ ଛାଗଳକୁ ବୁଦାରେ ଲାଗିବାକୁ ଦେଇଥିଲେ ।
 **[[:or:obs:notes:frames:05-08|<<]] | [[:or:obs:notes:05|Up]] | [[:or:obs:notes:frames:05-10|>>]]**
