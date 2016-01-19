@@ -1,27 +1,19 @@
-===== Pharaoh's Dream [08-06] =====
+===== **ଫାରୋଙ୍କ ସ୍ବପ୍ନ**** [08-06]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
+ଦୁଇ ବର୍ଷ ପରେ, **ଯୋଷେଫ ** ତଥାପି କାରାଗାରରେ ଥିଲେ, ଯଦିଓ ସେ **ନିର୍ଦ୍ଦୋଷ** ଥିଲେ । ଏକ ରାତ୍ରି, **ମିଶରୀୟମାନେ** ସେମାନଙ୍କ **ରାଜା ** ବୋଲି ଯାହାକୁ କୁହନ୍ତି ସେହି **ଫାରୋ** ଏକ **ସ୍ବପ୍ନ** ଦେଖିଲେ ଯାହା **ତାହାଙ୍କୁ ଅତିଶୟ ବିବ୍ରତ କରିପକାଇଲା** । **ତାଙ୍କର କୌଣସି ଉପଦେଶକ ଅର୍ଥାତ୍‍ମନ୍ତ୍ରଜ୍ଞମାନେ** ତାହାଙ୍କୁ **ସ୍ବପ୍ନର ଅର୍ଥ** କହିପାରିଲେ ନାହିଁ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
+  * **ଯୋଷେଫ**
+  * **ନିର୍ଦ୍ଦୋଷ**
+  * **ଫାରୋ**
+  * **ମିଶରୀୟମାନେ **
+  * **ରାଜାମାନେ**
+  * **ସ୍ବପ୍ନ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:josephot]]**
-  * **[[:or:obe:kt:innocent]]**
-  * **[[:or:obe:other:pharaoh]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:dream]]**
-
-
-==== Translation Notes: ====
-
-
-  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
-  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-
-
+  * **ତାହାଙ୍କୁ ଅତିଶୟ ବିବ୍ରତ କଲା**: ଏହାର ଅର୍ଥ ହେଉଛି ଯେ ରାଜା ଅତିଶୟ ଭୟଭୀତ ହୋଇ ଦ୍ବନ୍ଦରେ ପଡିଯାଇଥିଲେ (ସେ ଯାହା ସ୍ବପ୍ନରେ ଦେଖିଥିଲେ ସେଇଥିଯୋଗୁଁ) ।
+  * **ତାହାଙ୍କ ଉପଦେଶକ ବା ମନ୍ତ୍ରଜ୍ଞମାନେ**  – ଏମାନେ ବିଶେଷ ଶକ୍ତି ଓ ଜ୍ଞାନ ଥିବା ଲୋକମାନେ ଯେଉଁମାନେ ସ୍ବପ୍ନର ଅର୍ଥ କ’ଣ ତାହା କହିପାରିବେ । କିଛି ଅନୁବାଦରେ ସେମାନଙ୍କୁ “ବୁଦ୍ଧିମାନ୍‍ ଲୋକମାନେ” ବୋଲି କୁହାଯାଇଛି ।
+  * **ସ୍ବପ୍ନଗୁଡିକର ଅର୍ଥ**  – ମିଶରରେ ଥିବା ଲୋକମାନେ ବିଶ୍ବାସ କରୁଥିଲେ ଯେ ଭବିଷ୍ୟତରେ କ’ଣ ଘଟିବ ସେ ବିଷୟରେ ସେମାନଙ୍କର ଦେବତାମାନଙ୍କ ଦ୍ବାରା କଥିତ ସମ୍ବାଦ । ଫାରୋଙ୍କୁ କ’ଣ ଘଟିବ ସେ ବିଷୟରେ ତାହାଙ୍କୁ ଜଣାଇବା ନିମନ୍ତେ ଈଶ୍ବର ଫାରୋଙ୍କ ସ୍ବପ୍ନଗୁଡିକ ବ୍ୟବହାର କଲେ ।
 **[[:or:obs:notes:frames:08-05|<<]] | [[:or:obs:notes:08|Up]] | [[:or:obs:notes:frames:08-07|>>]]**
