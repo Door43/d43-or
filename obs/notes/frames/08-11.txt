@@ -1,23 +1,16 @@
-===== The Brothers Bought Food [08-11] =====
+===== **ଭାଇମାନେ ଖାଦ୍ୟ ଆଣିଲେ**** [08-11]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+ତେଣୁ **ଯାକୁବ ** ଖାଦ୍ୟ କିଣିବା ନିମନ୍ତେ ତାହାଙ୍କ ଜ୍ୟୋଷ୍ଠ **ପୁତ୍ରମାନଙ୍କୁ** **ମିଶର** କୁ ପଠାଇଲେ । ଭାଇମାନେ ଖାଦ୍ୟ କିଣିବା ନିମନ୍ତେ ଯେତେବେଳେ ତାହାଙ୍କ ସମ୍ମୁଖରେ ଠିଆ ହେଲେ ସେମାନେ ସେତେବେଳେ **ଯୋଷେଫଙ୍କୁ ଚିହ୍ନିପାରିଲେ ନାହିଁ** । କିନ୍ତୁ ଯୋଷେଫ ସେମାନଙ୍କୁ ଚିହ୍ନିପାରିଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+  * **ଯାକୁବ**
+  * **ମିଶର**
+  * ଯୋଷେଫ
 
-===== Important Terms: =====
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  ====
 
-
-  * **[[:or:obe:other:jacob]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:other:josephot]]**
-
-
-==== Translation Notes: ====
-
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
-
+  * **ତାହାଙ୍କ ଜ୍ୟୋଷ୍ଠ ପୁତ୍ରମାନେ**  – ଏମାନେ ଯୋଷେଫଙ୍କର ଜ୍ୟୋଷ୍ଠ ଭାଇମାନେ ଯେଉଁମାନେ କି ତାହାଙ୍କୁ କ୍ରିତଦାସ ଭାବରେ ବିକ୍ରୟ କରିଦେଇଥିଲେ ।
+  * **ଯୋଷେଫଙ୍କୁ ଚିହ୍ନିପାରିଲେ ନାହିଁ**  - ସେମାନେ ଜାଣିପାରିଲେ ନାହିଁ ଯେ ସେହି ବ୍ୟକ୍ତି ଯୋଷେଫ ଥିଲେ, କାରଣ ସେମାନେ ତାହାଙ୍କୁ ଶେଷଥର ଦେଖିଥିବାଠାରୁ ଅଧିକ ବୟସ୍କ ହୋଇଯାଇଥିଲେ,ଏବଂ ସେ ଜଣେ ମିଶରୀୟ ଶାସକ ଭାବରେ ବସ୍ତ୍ର ପରିଧାନ କରିଥିଲେ ।
 **[[:or:obs:notes:frames:08-10|<<]] | [[:or:obs:notes:08|Up]] | [[:or:obs:notes:frames:08-12|>>]]**
