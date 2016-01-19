@@ -1,21 +1,14 @@
-===== Jacob Returned Home [07-08] =====
+===== **ଯାକୁବ ଗୃହକୁ ଫେରିଲେ**** [07-08]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink}}
+**କିଣାନ** ରେ ଥିବା ତାଙ୍କ ଗୃହରୁ **କୋଡିଏ ବର୍ଷ** ବାହାରେ ରହିବା **ପରେ**, **ଯାକୁବ** ତାଙ୍କ ପରିବାର, **ଦାସଗଣ**, ତାଙ୍କ ସମସ୍ତ ପଶୁ ପଲ ସହ ଫେରିଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-**After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals. 
+  * **କିଣାନ**
+  * **ଯାକୁବ**
+  * **ଦାସଗଣ**
+===== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:or:obe:other:canaan]]**
-  * **[[:or:obe:other:jacob]]**
-  * **[[:or:obe:other:servant]]**
-
-
-===== Translation Notes: =====
-
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
-
+  * **କୋଡିଏ ବର୍ଷ ପରେ**  – ଯାକୁବଙ୍କ ମାତା ଯେଉଁ ଦେଶରେ ବାସ କରୁଥିଲେ, ସେଥିରେ ସେ କୋଡିଏ ବର୍ଷ ବାସ କରିଥିଲେ । ଯଦି ତାହା ସ୍ବଷ୍ଟ ନୁହେ, ଆପଣ ନିମ୍ନ ପ୍ରକାରେ କହିପାରନ୍ତି – “ତାଙ୍କ ସମ୍ପର୍କୀୟମାନେ ଯେଉଁ ଦେଶରେ ବାସ କରୁଥିଲେ ସେଠାରେ କୋଡିଏ ବର୍ଷ ବାସ କଲା ପରେ ।”
 **[[:or:obs:notes:frames:07-07|<<]] | [[:or:obs:notes:07|Up]] | [[:or:obs:notes:frames:07-09|>>]]**
