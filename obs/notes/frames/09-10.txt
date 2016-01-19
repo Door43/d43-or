@@ -1,21 +1,14 @@
-===== Moses Fled from Egypt [09-10] =====
+===== ମୋଶା ମିଶରରୁ ପଳାୟନ କଲେ** [09-10]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+**ମୋଶା** ଯାହା କରିଅଛନ୍ତି ତାହା ଯେତେବେଳେ **ଫାରୋ** ଦେଖିଲେ, ସେ ତାହାଙ୍କୁ ହତ୍ୟା କରିବାକୁ ଚେଷ୍ଟା କଲେ । ମୋଶା **ମିଶର** ରୁ ପଳାଇଯାଇ **ପ୍ରାନ୍ତର** କୁ ଚାଲିଗଲେ ଯେପରିକି ସେ ଫାରୋଙ୍କ ସୈନ୍ୟମାନଙ୍କଠାରୁ ରକ୍ଷା ପାଇବେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ:**  =====
 
-When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
-===== Important Terms: =====
+  * **ଫାରୋ**
+  * **ମୋଶା**
+  * **ମିଶର**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ:**  ====
 
-
-  * **[[:or:obe:other:pharaoh]]**
-  * **[[:or:obe:other:moses]]**
-  * **[[:or:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **wilderness** - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-
-
+  * **ପ୍ରାନ୍ତର**  – ପ୍ରାନ୍ତର ଏକ ବିସ୍ତୀର୍ଣ୍ଣ ଅଞ୍ଚଳ ଥିଲା ଯାହା ପଥୁରିଆ ଓ ଶୁଷ୍କ ଥିଲା । ତାହା ଏପରି ଏକ ଭୂମି ଯେଉଁଠି ଖାଦ୍ୟଶଷ୍ୟ ଉତ୍ପନ୍ନ କରିବା ଉପଯୁକ୍ତ ନ ଥିଲା ଓ ଯେଉଁଠି ଲୋକମାନେ ପ୍ରାୟ ବାସ କରନ୍ତି ନାହିଁ ।
 **[[:or:obs:notes:frames:09-09|<<]] | [[:or:obs:notes:09|Up]] | [[:or:obs:notes:frames:09-11|>>]]**
