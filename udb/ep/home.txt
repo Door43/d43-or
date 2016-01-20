@@ -1,0 +1,2 @@
+~~NOCACHE~~
+<nspages or:udb:ep: -title -exclude:home -textPages="unfoldingWord Dynamic Bible">
