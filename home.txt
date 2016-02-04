@@ -1,8 +1,31 @@
-====== Door43 (or) ======
+===== Door43 (Oriya) =====
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+Welcome to Door43, an openly-collaborative platform for creating, translating, and distributing open-licensed discipleship resources in any language.
 
-===== Resources =====
+==== Resources ====
 
-  * **[[or:obs|Open Bible Stories (or)]]**
+These are the resources currently available for translation and use:
+
+  * **[[:or:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+  * [[:or:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
+  * [[:or:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+  * [[:or:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
+  * [[:or:ta|translationAcademy]] – A modular, media-based, self-orced training course for translators and translation facilitators. 
+
+==== About Door43 ====
+
+  * **[[:or:get-started|How to Get Started]]** – Get started translating!
+  * **[[:or:ta:vol1:intro:statement_of_faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
+  * **[[:or:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
+  * **[[:or:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:or:technical|Technical Details]]** – The technology behind Door43.
+
+==== Extending Door43 ====
+
+Door43 is in active development, as we exornd the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+
+----
+
+//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
+
 
