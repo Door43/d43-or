@@ -8,7 +8,7 @@ Then the **Assyrians** brought **foreigners** to live in the land where the **ki
 
 
   * **[[:or:obe:other:assyria]]**
-  * **[[:or:obe:other:kingdom-of-israel]]**
+  * **[[:or:obe:other:kingdomofisrael]]**
   * **[[:or:obe:other:israel]]**
   * **[[:or:obe:other:descendant]]**
   * **[[:or:obe:other:samaria]]**
