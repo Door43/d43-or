@@ -1,25 +1,18 @@
-===== The Frogs [10-04] =====
+===== **ବେଙ୍ଗଗୁଡିକ**** [10-04]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink}}
+**ଈଶ୍ବର ସମଗ୍ର ମିଶର ଉପରକୁ ବେଙ୍ଗ ପ୍ରେରଣ କଲେ** । ବେଙ୍ଗଗୁଡିକୁ ନେଇଯିବା ନିମନ୍ତେ **ଫାରୋ ମୋଶାଙ୍କୁ ଅନୁରୋଧ କଲେ** । କିନ୍ତୁ ସମସ୍ତ ବେଙ୍ଗ ମଲା ପରେ, ଫାରୋ **ତାହାଙ୍କ ହୃଦୟକୁ କଠିନ କଲେ** ଏବଂ **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** ଯିବାକୁ ଦେଲେନାହିଁ ।
+===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-**God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
-===== Important Terms: =====
+  * **ଈଶ୍ବର**
+  * **ମିଶର**
+  * **ଫାରୋ**
+  * **ଅନୁରୋଧ କଲେ**
+  * **ମୋଶା**
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:other:pharaoh]]**
-  * **[[:or:obe:other:beg]]**
-  * **[[:or:obe:other:moses]]**
-  * **[[:or:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God sent frogs all over Egypt** - This could be translated as, "God caused many frogs to appear throughout Egypt."
-  * **hardened his heart** - He became stubborn again and refused to obey God.
-
-
+  * **ଈଶ୍ବର ମିଶର ସାରା ବେଙ୍ଗ ପ୍ରେରଣ କଲେ**  – ଏହାକୁ ଏହି ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରେ “ମିଶର ଦେଶ ସାରା ଈଶ୍ବର ଅନେକ ବେଙ୍ଗକୁ ବାହାର କଲେ ।”
+  * **ତାହାଙ୍କ ହୃଦୟ କଠିନ କଲେ**  – ସେ ପୁନର୍ବାର କଠିନମନା ହେଲେ ଓ ଈଶ୍ବରଙ୍କର ଆଜ୍ଞାବହ ହେବାକୁ ନାସ୍ତି କଲେ ।
 **[[:or:obs:notes:frames:10-03|<<]] | [[:or:obs:notes:10|Up]] | [[:or:obs:notes:frames:10-05|>>]]**
