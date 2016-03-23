@@ -1,15 +1,15 @@
-===== Blood on the Door [11-03] =====
+===== ଦ୍ବାରରେ ଥିବା ରକ୍ତ** [11-03]**  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
 
-**God** told the **Israelites** to put some of the **lamb's blood** around the door of their house, and to roast the meat and eat it quickly, along with bread that was **made without yeast**. He also told them to be ready to leave **Egypt when they ate**.
-===== Important Terms: =====
+**ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** **ଈଶ୍ବର** **ମେଷ ଶାବକର କିଛି ରକ୍ତ** ସେମାନଙ୍କ ଗୃହ କବାଟର ଚତୁର୍ଦ୍ଦିଗରେ ଲଗାଇବାକୁ ଓ ଏହାକୁ ପାକ କରି **ଖମୀରଶୂନ୍ୟ ରୋଟୀ** ସହ ଅତିଶୀଘ୍ର ଖାଇବାକୁ କହିଥିଲେ । ସେ ସେମାନଙ୍କୁ ଆହୁରି ମଧ୍ୟ **ସେମାନେ ଖାଇ ସାରିଲା ପରେ** **ମିଶର** ପରିତ୍ୟାଗ କରିବାକୁ କହିଲେ ।
+===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:kt:lamb]]**
-  * **[[:or:obe:kt:blood]]**
-  * **[[:or:obe:other:egypt]]**
+  * **ଈଶ୍ବର**
+  * **[[:or:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:or:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:or:obe:kt:blood|blood]]**
+  * **[[:or:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
   * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
