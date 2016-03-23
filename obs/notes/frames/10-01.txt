@@ -1,21 +1,23 @@
-===== Let My People Go! [10-01] =====
+===== ମୋର ଲୋକମାଙ୍କୁ ଛାଡି ଦିଅ! (10-10) =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-**Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
-===== Important Terms: =====
+ମୋଶା ଓ ହାରଣ ଫାରୋଙ୍କ ନିକଟକୁ ଗଲେ । ସେମାନେ କହିଲେ, ଇସ୍ରାଏଲର ପରମେଶ୍ଵର ଏହା କହନ୍ତି, “ମୋର ଲୋକମାନଙ୍କୁ ଛାଡି ଦିଅ !”ଫାରୋ ସେମାଙ୍କର କଥା ଶୁଣିଲେ ନାହି । ଇଶ୍ରାଏଳୀୟମାଙ୍କୁ ମୁକ୍ତରେ ଛାଡିଦେବା ପରିବର୍ତେ, ସେମାନଙ୍କୁ ଅଧିକ ପରିଶ୍ରମ କରିବାକୁ ବାଧ୍ୟ କାଲେ ।
 
-  * **[[:or:obe:other:moses|Moses]]**
-  * **[[:or:obe:other:aaron|Aaron]]**
-  * **[[:or:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:or:obe:kt:god|God]]**
-  * **[[:or:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:or:obe:other:israel|Israel, Israelites, nation of Israel]]**
-==== Translation Notes: ====
+===== ମହତ୍ବପୂର୍ଣ ସ୍ଵଦ୍ଧକୋଷ ସମୂହ: =====
 
-  * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people**  - See "my people" in **[[:or:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to**  – This could be translated as "heed" or, "obey."
+  * **ମୋଶା**
+  * **ହାରଣ**
+  * **ଫାରୋ**
+  * **ଇଶ୍ଵର**
+  * **ଇଶ୍ରାଏଲ**
+  * ଈଶ୍ରାଏଲିୟ
+
+==== **ଅନୁବାଦିତ ବିଦ୍ର**: ====
+
+  * **ଫାରୋଙ୍କ ନିକଟକୁ **- “ ଏହା ସ୍ଵଷ୍ଟରେ କୁହାଯାଇ ପାରେ ଯେ, ଫାରୋର ରହିବା ସ୍ଥଳୀକୁ କଥା ହବାକୁ ଗଲେ ” ।
+  * **ଇଶ୍ରାଏଲମାନଙ୍କ ଇଶ୍ଵର**- ଏହାକୁ ଏହିପରି ଅନୁବାଦିତ କରାଯିବ, ଇଶ୍ଵର, ଯେକି ଈଶ୍ରାଏଲିୟମାଙ୍କୁ ତାଙ୍କର ଲୋକ ହେବା ନିମନ୍ତେ ମୋନାନୀତ କଲେ”, ଅଥବା “ଇଶ୍ଵର, ଯେକି, ଇଶ୍ରାଏଲ ଲୋକମାନଙ୍କୁ ଶାସନ କରନ୍ତି”, ଅଥବା, ଯେଉଁ ଈଶ୍ଵରଙ୍କୁ କି ଇଶ୍ରାଏଲିଯମାନେ ଉପାସନା କରନ୍ତି” ।
+  * **ମୋର ଲୋକମାଙ୍କୁ ଛାଡି ଦିଅ**, ଅନ୍ୟ ତାରିକାରେ ଏହା କୁହାଯିବ, “ମୁକ୍ତରେ ମୋର ଲୋକମାଙ୍କୁ ଯିବାକୁ ଅନୁମତି ଦିଅ” ଅଥବା, ମିସରରୁ ମୋର ଲୋକମାଙ୍କୁ ମୁକ୍ତରେ ଛାଡି ଦିଅ ।
+  * **ମୋର ଲୋକ**- ଦେଖ “ମୋର ଲୋକ ” (0୯-୧୩ ରେ)
+  * **ଶୁଣିବାକୁ**  “ଏହାକୁ ଅନୁବାଦ ଏପରି କରାଯାଇ ପାରେ  “ଶୁଣ” ବା “ମାନିବା” ।
 **[[:or:obs:notes:frames:09-15|<<]] | [[:or:obs:notes:10|Up]] | [[:or:obs:notes:frames:10-02|>>]]**
