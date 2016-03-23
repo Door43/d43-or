@@ -1,21 +1,14 @@
-===== The Locusts [10-10] =====
+===== ପଙ୍ଗପାଳଗୁଡିକ** [10-10]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink}}
+ତେଣୁ **ଈଶ୍ବର** **ପଲ ପଲ ପଙ୍ଗପାଳ** କୁ **ମିଶର** ଉପରକୁ ଅଣାଇଲେ । ଏହି **ପଙ୍ଗପାଳଗୁଡିକ** ସେହି ସମସ୍ତ ଶଷ୍ୟକୁ ଖାଇଗଲେ ଯାହା **କୁଆପଥର** ଦ୍ବାରା ବିନଷ୍ଟ ହୋଇନଥିଲା ।
+===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-So **God** caused **swarms of locusts** to come over **Egypt**. These **locusts** ate all the crops that the **hail** had not destroyed.
-===== Important Terms: =====
+  * **ଈଶ୍ବର**
+  * **ମିଶର**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **swarms of locusts** - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does.
-
-
+  * **ପଲ ପଲ ପଙ୍ଗପାଳ**  – ପଙ୍ଗପାଳଗୁଡିକ ହେଉଛନ୍ତି ଝିଣ୍ଟିକା ଯାହା ପଲ ପଲ ହୋଇ କିମ୍ବା ବୃହତ୍‍ଦଳ ଦଳ ହୋଇ ଏକାଠି ଉଡିଥାନ୍ତି, ଏବଂ ସେଗୁଡିକ ଖାଇବା ଦ୍ବାରା ଅନେକ ଅଞ୍ଚଳରେ ଥିବା ବୃକ୍ଷଲତାଦି ବା ଖାଦ୍ୟଶଷ୍ୟ ନଷ୍ଟ କରିଦେଇଥାନ୍ତି ।
+  * **କୁଆପଥର**  – କୁଆପଥର ହେଉଛି ବରଫର ଖଣ୍ଡ ବର୍ଷା ହେଲା ପରି ମେଘରୁ ପଡିଥାଏ ।
 **[[:or:obs:notes:frames:10-09|<<]] | [[:or:obs:notes:10|Up]] | [[:or:obs:notes:frames:10-11|>>]]**
