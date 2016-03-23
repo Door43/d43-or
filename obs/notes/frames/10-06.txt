@@ -1,23 +1,17 @@
-===== The Animals Died [10-06] =====
+===== ପଶୁଗୁଡିକ ମଲେ** [10-06]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink}}
+ତା’ପରେ **ଈଶ୍ବର** **ମିଶରୀୟମାନଙ୍କର ** କ୍ଷେତ୍ରସ୍ଥ ସମସ୍ତ ପଶୁକୁ ଅସୁସ୍ଥ କରି ମୃତ୍ୟୁମୁଖରେ ପକାଇଲେ। କିନ୍ତୁ **ଫାରୋଙ୍କ ହୃଦୟ କଠିନ ଥିଲା**, ଏବଂ ସେ **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** ଯିବାକୁ ଦେଲେନାହିଁ ।
+===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
-===== Important Terms: =====
+  * **ଈଶ୍ବର**
+  * **ମିଶରୀୟମାନେ**
+  * **ଫାରୋଙ୍କର**
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:other:pharaoh]]**
-  * **[[:or:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **farm animals** - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
-  * **heart was hardened** - See note in **[[:or:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **କ୍ଷେତ୍ରସ୍ଥ ପଶୁ**  – ଏହା ବଡ ବଡ ପଶୁକୁ ସୂଚାଏ ଯାହା ମିଶରୀୟମାନେ ସେମାନଙ୍କ କାର୍ଯ୍ୟରେ ସାହାଯ୍ୟ କରିବା ନିମନ୍ତେ ବ୍ୟବହାର କରୁଥିଲେ, ଯେପରିକି ଘୋଡା, ଗଧ, ଓଟ, ଗାଈଗୋରୁ, ମେଷ ଓ ଛେଳି ।
+  * **ହୃଦୟ କଠିନ ହୋଇଥିଲା**
+ - **__\[10-04]__** ରେ ଥିବା ଟୀପ୍ପଣୀ ଦେଖନ୍ତୁ।
 **[[:or:obs:notes:frames:10-05|<<]] | [[:or:obs:notes:10|Up]] | [[:or:obs:notes:frames:10-07|>>]]**
