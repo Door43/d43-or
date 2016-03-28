@@ -1,25 +1,18 @@
-===== Go Away! [11-08] =====
+===== ଦୂରକୁ ଚାଲିଯାଅ!** [11-08]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+ସେହି ରାତ୍ରି, **ଫାରୋ ମୋଶା ** ଓ **ହାରୋଣଙ୍କୁ ଡାକି କହିଲେ** “**ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** ନେଇ ଅତିଶୀଘ୍ର **ମିଶର** ପରିତ୍ୟାଗ କରିଯାଅ!” **ମିଶରୀୟ** ଲୋକମାନେ ମଧ୍ୟ ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ ଅତିଶୀଘ୍ର ଛାଡି ଚାଲିଯିବା ପାଇଁ ବାଧ୍ୟ କଲେ ।
+===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-That same night, **Pharaoh called for Moses** and **Aaron and said**, “Take the **Israelites** and leave **Egypt** immediately!” The **Egyptian** people also urged the Israelites to leave immediately.
-===== Important Terms: =====
+  * **ଫାରୋ**
+  * **ମୋଶା**
+  * **ହାରୋଣ**
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+  * **ମିଶର**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:pharaoh]]**
-  * **[[:or:obe:other:moses]]**
-  * **[[:or:obe:other:aaron]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
-  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, "and said to them," or, "After they came, Pharaoh said to them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **ଡକାଇଲେ**: ଏହାର ଅର୍ଥ ହେଉଛି ଯେ ଫାରୋ ତାହାଙ୍କ ଦାସମାନଙ୍କ ଦ୍ବାରା ମୋଶା ଓ ହାରୋଣଙ୍କୁ ତାହାଙ୍କ ନିକଟକୁ ଆସିବାକୁ କହିଲେ ।
+  * **ଏବଂ କହିଲେ**: “ମୋଶା ଓ ହାରୋଣ ଫାରୋଙ୍କ ନିକଟକୁ ଆସିଲା ପରେ ସେ ନିମ୍ନ ଲିଖିତ ବାକ୍ୟ ସେମାନଙ୍କୁ କହିଲେ । କିଛ ଭାଷାରେ ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ, “ଏବଂ ସେମାନଙ୍କୁ କହିଲେ,” କିମ୍ବା “ସେମାନେ ଆସିଲା ପରେ, ଫାରୋ ସେମାନଙ୍କୁ କହିଲେ ।”
+  * //ଏଠାରୁ ଏକ ବାଇବଲ କାହାଣୀ//  – କିଛି ବାଇବଲ ଅନୁବାଦରେ ଏହା ଅଳ୍ପ ପରିମାଣରେ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:11-07|<<]] | [[:or:obs:notes:11|Up]] | [[:or:obs:notes:frames:12-01|>>]]**
