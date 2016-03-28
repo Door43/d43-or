@@ -1,4 +1,4 @@
-===== ଦ୍ବାରରେ ଥିବା ରକ୍ତ** [11-03]**  =====
+===== ଦ୍ବାରରେ ଥିବା ରକ୍ତ [11-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
 
@@ -6,12 +6,12 @@
 ===== ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
   * **ଈଶ୍ବର**
-  * **[[:or:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:or:obe:kt:lamb|lamb, Lamb of God]]**
-  * **[[:or:obe:kt:blood|blood]]**
-  * **[[:or:obe:other:egypt|Egypt, Egyptian]]**
-==== Translation Notes: ====
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+  * **ମେଷ ଶାବକର**
+  * **ରକ୍ତ**
+  * **ମିଶର**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-  * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
-  * **when they ate**  – This means they needed to be prepared to leave before they started to eat.
+  * **ଖମୀର ବିହୂନେ ତିଆରି**: “ଖମୀର ହେଉଛି ଏପରି କିଛି ବିଷୟ ଯାହା ରୋଟୀକୁ ପାକ କରିବା ସମୟରେ ଫୁଲାଇବାରେ ସାହାଯ୍ୟ କରିଥାଏ । ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ “ଫୁଲାଉଥିବା କିଛି ଜିନିଷ ବିହୂନେ ତିଆରି ।” ରୋଟୀକୁ ଖମୀର ବିହୂନେ ତିଆରି କରିବା ଅଧିକ ସମୟ ନେବ, ତେଣୁ ରୋଟୀକୁ ଖମୀର ବିହୂନେ ପାକ କରିବା ମିଶର ଅତିଶୀଘ୍ର ଛାଡିବା ପାଇଁ ସହାୟକ ହେବାର ଏକ ଉପାୟ ।
+  * **ସେମାନେ ଯେତେବେଳେ ଖାଇସାରିଲେ**: ଏହାର ଅର୍ଥ ହେଉଛି ସେମାନେ ଖାଇବା ଆରମ୍ଭ କରିବା ପୂର୍ବରୁ ସେମାନଙ୍କୁ ପ୍ରସ୍ତୁତ ହେବାର ଆବଶ୍ୟକତା ଥିଲା ।
 **[[:or:obs:notes:frames:11-02|<<]] | [[:or:obs:notes:11|Up]] | [[:or:obs:notes:frames:11-04|>>]]**
