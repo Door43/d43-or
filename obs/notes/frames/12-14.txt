@@ -1,29 +1,21 @@
-===== An Annual Feast [12-14] =====
+===== **ବାର୍ଷିକ ଭୋଜ**** [12-14]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+**ଈଶ୍ବର** **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** କିପରି ଭାବେ **ମିଶରୀୟମାନଙ୍କ ଉପରେ ଜୟ ପ୍ରଦାନ କଲେ** ଓ ସେମାନଙ୍କୁ **ଦାସ ** ହେବାରୁ ରକ୍ଷା କଲେ ତାହା ସ୍ମରଣ କରିବା ନିମନ୍ତେ ସେ ସେମାନନଙ୍କୁ ପ୍ରତିବର୍ଷ **ନିସ୍ତାରପର୍ବ** ପାଳନ କରିବାକୁ ଆଦେଶ ଦେଲେ । ସେମାନେ ଏକ **ସିଦ୍ଧ ମେଷ ଶାବକକୁ** ବଧ କରି, ଏହାକୁ **ଖମୀରଶୂନ୍ୟ ରୋଟୀ** ସହିତ ଖାଇ ଓ ଈଶ୍ବର ସେମାନଙ୍କୁ କିପରି **ରକ୍ଷା କରିଥିଲେ** ତାହା କହି ସେମାନେ ପାଳନ କରିଥିଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-**God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
-===== Important Terms: =====
+  * **ଈଶ୍ବର**
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+  * **ନିସ୍ତାରପର୍ବ**
+  * **ମିଶରୀୟମାନେ**
+  * **ଦାସଗଣ**
+  * **ମେଷ ଶାବକ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:kt:passover]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:lamb]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the Passover** - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **remember how God gave them victory over** – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
-  * **bread that was made without yeast** - Another way to say this is, "unleavened bread." See how you translated this in **[[:or:obs:notes:frames:11-03|[11-03]]]**.
-
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **ନିସ୍ତାରପର୍ବ**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ନିସ୍ତାରପର୍ବ କାର୍ଯ୍ୟକଳାପ”, କିମ୍ବା “ନିସ୍ତାରପର୍ବ ପାଳନ”, କିମ୍ବା “ନିସ୍ତାରପର୍ବ ଭୋଜ ।”
+  * **ଈଶ୍ବର ସେମାନଙ୍କୁ କିପରି ଜୟ ପ୍ରଦାନ କଲେ ତାହା ସ୍ମରଣ କର**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ଈଶ୍ବର ସେମାନଙ୍କୁ କିପରି ପରାଜୟ କଲେ ସେ ବିଷୟରେ ନିଜକୁ ନିଜେ ନିୟମିତ ଭାବେ ସ୍ମରଣ କରିବେ ।” ଏଠାରେ ଥିବା “ସ୍ମରଣ କରିବା”ର ଅର୍ଥ ଏତିକି ବୁଝାଏ ଯେ ଭୁଲି ନ ଯିବା; ଏହା ମଧ୍ୟ ନୀତିଗତ ଭାବେ କିଛି ବିଷୟର ସ୍ମରଣ କରିବାକୁ ବୁଝାଏ ।
+  * **ସିଦ୍ଧ ମେଷ ଶାବକ**  – “ସିଦ୍ଧ” ଶବ୍ଦ ବୁଝାଏ ଯେ ସେହି ମେଷ ଶାବକର କୌଣସି ରୋଗ ନ ଥିବ କିମ୍ବା ଏଥିରେ କୌଣସି ଭୁଲ୍‍ବିଷୟ ନ ଥିବ । ଏହାକୁ ଅନ୍ୟ ଭାବରେ କହିଲେ ଏହା “ଏକ ସମ୍ପୂର୍ଣ୍ଣ ସ୍ବାସ୍ଥ୍ୟକର ଓ ସୁଗଠିତ ମେଷ ଶାବକ ।”
+  * **ଖମୀରଶୂନ୍ୟ ରୋଟୀ**  – ଏହାକୁ ଅନ୍ୟ ଭାବରେ କହିଲେ “ଖମୀର ବିହୂନେ କରାଯାଇଥିବା ରୋଟୀ।”
+  * //ଏଠାରୁ ଏକ ବାଇବଲ କାହାଣୀ//  – କିଛି ବାଇବଲ ଅନୁବାଦରେ ଏହା ଅଳ୍ପ ପରିମାଣରେ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:12-13|<<]] | [[:or:obs:notes:12|Up]] | [[:or:obs:notes:frames:13-01|>>]]**
