@@ -1,25 +1,18 @@
-===== The Mountain at Sinai [13-01] =====
+===== **ସୀନୟ ପର୍ବତରେ ଥିବା ପର୍ବତ**** [13-01]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+**ଈଶ୍ବର** **ଲୋହିତ ସାଗର** ଦେଇ **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କୁ** କଢାଇ ନେଲା ପରେ, ସେ ପ୍ରାନ୍ତର ମଧ୍ୟ ଦେଇ **ସୀନୟ** ନାମକ ଏକ ପର୍ବତକୁ କଢାଇ ନେଲେ । ଏହା ସେହି ପର୍ବତ ଥିଲା ଯେଉଁଠାରେ **ମୋଶା ଜ୍ଜଳନ୍ତ ବୁଦା** କୁ ଦେଖିଥିଲେ । ଲୋକମାନେ **ପର୍ବତ ପାଦଦେଶରେ** **ସେମାନଙ୍କ ତମ୍ବୁ ସ୍ଥାପନ କରିଥିଲେ** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
-===== Important Terms: =====
+  * **ଈଶ୍ବର**
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+  * **ଲୋହିତ ସାଗର**
+  * **ସୀନୟ**
+  * **ମୋଶା**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:other:redsea]]**
-  * **[[:or:obe:kt:sinai]]**
-  * **[[:or:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:or:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
-
+  * **ଜ୍ଜଳନ୍ତ ବୁଦା**  – ଈଶ୍ବର ମିଶରକୁ ଫେରିବା ପୂର୍ବରୁ, ଈଶ୍ବର ତାହାଙ୍କୁ ଏକ ବୁଦାର ଅଗ୍ନିରୁ କଥା କହିଥିଲେ, କିନ୍ତୁ ଏହା ଅଗ୍ନି ଦ୍ବାରା ଦଗ୍ଧ ହେଉନଥିଲା । **[09-12]**  ଦେଖନ୍ତୁ
+  * **ସେମାନଙ୍କ ତମ୍ବୁ ସ୍ଥାପନ କଲେ**  – ଇଶ୍ରାୟେଲୀୟମାନେ ମିଶରରୁ ପ୍ରତିଜ୍ଞାତ ଦେଶର ଏକ ବୃହତ୍‍ଦୂରତା ଭ୍ରମଣ କରିବାକୁ ପଡିଥିଲା । ତେଣୁ ସେମାନେ ସେମାନଙ୍କ ସହ ତମ୍ବୁ ଧରି ନେଲେ ଯେପରିକି ସେମାନେ ଯାତ୍ରା ମଧ୍ୟରେ ବିଶ୍ରାମସ୍ଥଳ ଓ ଶୟନ କରିବା ପାଇଁ ସେଗୁଡିକ ସ୍ଥାପନ କରିପାରିବେ । କିଛି ଭାଷା ଏହାକୁ ନିମ୍ନ ଭାବରେ ଅନୁବାଦ କରିପାରେ “ସେମାନଙ୍କ ତମ୍ବୁକୁ ଝୁଲାଇଲେ ।”
+  * **ପର୍ବତର ପାଦଦେଶ**  – ଏହାକୁ “ପର୍ବତ ତଳ” ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ । ଏହା ଭୂମିର ସେହି ଅଞ୍ଚଳକୁ ବୁଝାଏ ଯେଉଁଠାରୁ ଏକ ପର୍ବତ ମଧ୍ୟରୁ ଭୂମି ଢଳି ରହିଛି ।
 **[[:or:obs:notes:frames:12-14|<<]] | [[:or:obs:notes:13|Up]] | [[:or:obs:notes:frames:13-02|>>]]**
