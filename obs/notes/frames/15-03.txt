@@ -1,26 +1,20 @@
-===== Marching around Jericho [15-03] =====
+===== **ଯିରୀହୋର ଚତୁର୍ଦ୍ଦିଗରେ ପରିଭ୍ରମଣ କରିବା**** [15-03]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
+**ଲୋକମାନେ ଯର୍ଦ୍ଦନ ନଦୀ ପାର ହେଲା ପରେ, ** ଶକ୍ତିଶାଳୀ ନଗର** ଯିରୀହୋକୁ କିପରି ଆକ୍ରମଣ କରିବାକୁ ହେବ ତାହା ଈଶ୍ବର ଯିହୋଶୂୟଙ୍କୁ ** କହିଲେ **।** ଲୋକମାନେ ଈଶ୍ବରଙ୍କର **ଆଜ୍ଞାବହ** ହେଲେ । ଈଶ୍ବର ସେମାନଙ୍କୁ ଯାହା କରିବା ପାଇଁ କହିଥିଲେ, ସେପରି ଭାବରେ ସୈନ୍ୟମାନେ ଓ **ଯାଜକମାନେ** ଯିରୀହୋ ନଗରର ଚତୁର୍ଦ୍ଦିଗରେ **ଦିନକୁ ଥରେ ଲେଖାଏଁ ଛ****’ ଦିନ** ପ୍ରଦକ୍ଷିଣ କଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-**After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
-===== Important Terms: =====
+  * **ଯର୍ଦ୍ଦନ ନଦୀ**
+  * **ଈଶ୍ବର**
+  * **ଯିହୋଶୂୟ**
+  * **ଯିରୀହୋ**
+  * **ଆଜ୍ଞାବହ ହେଲେ**
+  * **ଯାଜକଗଣ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:jordanriver]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:joshua]]**
-  * **[[:or:obe:other:jericho]]**
-  * **[[:or:obe:other:obey]]**
-  * **[[:or:obe:kt:priest]]**
-
-
-==== Translation Notes: ====
-
-
-  * **After the people crossed the Jordan River** – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **how to attack** – This could be translated as, "exactly what he should do to attack."
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-
+  * **ଲୋକମାନେ ଯର୍ଦ୍ଦନ ନଦୀ ପାର ହେଲା ପରେ**: କିଛି ଭାଷାରେ ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ କହିଲେ ଉତ୍ତମ ହେବ “ଲୋକମାନେ ଯର୍ଦ୍ଦନ ନଦୀ ପାର ହେଲେ ତା’ପରେ”
+  * **କିପରି ଆକ୍ରମଣ କରିବାକୁ ହେବ**: ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ଆକ୍ରମଣ କରିବା ପାଇଁ ସେ ଅବିକଳ କ’ଣ କରିବାକୁ ହେବ ।”
+  * ଦିନକୁ ଥରେ ଏହିପରି ଛ’ ଦିନ – ଏହାର ଅର୍ଥ, ସେମାନେ ପ୍ରତିଦିନ ନଗର ପ୍ରଦକ୍ଷିଣ କରୁଥିଲେ ଓ ସେମାନେ ଏହାକୁ ମୋଟ ଛ’ ଦିନ କଲେ ।
 
 **[[:or:obs:notes:frames:15-02|<<]] | [[:or:obs:notes:15|Up]] | [[:or:obs:notes:frames:15-04|>>]]**
