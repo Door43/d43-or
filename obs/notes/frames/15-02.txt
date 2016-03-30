@@ -1,25 +1,18 @@
-===== Crossing the Jordan River [15-02] =====
+===== **ଯର୍ଦ୍ଦନ ନଦୀ ପାର ହେବା**** [15-02]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink}}
+**ଇଶ୍ରାୟେଲୀୟମାନେ** **ପ୍ରତିଜ୍ଞାତ ଦେଶ** ରେ ପ୍ରବେଶ କରିବାକୁ **ଯର୍ଦ୍ଦନ ନଦୀ** ପାର ହେବାକୁ ପଡିଥିଲା । ଈଶ୍ବର ଯିହୋଶୂୟଙ୍କୁ କହିଲେ “ଯାଜକମାନେ ପ୍ରଥମେ ଯାଆନ୍ତୁ ।” ଯେତେବେଳେ ଯାଜକମାନେ ଯର୍ଦ୍ଦନ ନଦୀରେ ପାଦ ପକାଇବାକୁ ଲାଗିଲେ, ଉପରେ ଆସୁଥିବା ଜଳ ବହିବାରୁ ବନ୍ଦ ହେଲା ଯେପରି ଇଶ୍ରାୟେଲୀୟମାନେ ନଦୀର ଅନ୍ୟ ପଟ ଶୁଷ୍କଭୂମି ଦେଇ ପାର ହେବାକୁ ହେବେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-The **Israelites** had to cross the **Jordan River** to enter into the **Promised Land**. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
-===== Important Terms: =====
+  * **ଇଶ୍ରାୟେଲୀୟମାନେ**
+  * **ଯର୍ଦ୍ଦନ ନଦୀ**
+  * **ପ୍ରତିଜ୍ଞାତ ଦେଶ**
+  * **ଈଶ୍ବର**
+  * **ଯିହୋଶୂୟ**
+  * **ଯାଜକଗଣ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:other:jordanriver]]**
-  * **[[:or:obe:kt:promisedland]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:joshua]]**
-  * **[[:or:obe:kt:priest]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Have the priests go first** – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
-  * **the water upstream stopped flowing** - In some languages it may be helpful to add, "and the water in front of them flowed away downstream."
-
-
+  * **ଯାଜକମାନେ ପ୍ରଥମେ ଯାଆନ୍ତୁ**: କିଛି ଭାଷାରେ ଏହା ନିମ୍ନ ବିଷୟ ଯୋଡିଲେ ଉତ୍ତମ ହେବ “ଅବଶିଷ୍ଟାଂଶ ଲୋକମାନଙ୍କ ପୂର୍ବରୁ ଯାଜକମାନେ ନଦୀ ପାର ହେବାକୁ ଯାଆନ୍ତୁ।”
+  * **ଉପର ପଟୁ ଆସୁଥିବା ଜଳ ଆଉ ବହିଲା ନାହିଁ**  – କିଛି ଭାଷାରେ ଏଥିରେ ନିମ୍ନ ବିଷୟ ଯୋଡିଲେ ଉତ୍ତମ ହେବ “ସେମାନଙ୍କ ସମ୍ମୁଖରେ ଥିବା ଜଳ ତଳକୁ ବହିଗଲା ।”
 **[[:or:obs:notes:frames:15-01|<<]] | [[:or:obs:notes:15|Up]] | [[:or:obs:notes:frames:15-03|>>]]**
