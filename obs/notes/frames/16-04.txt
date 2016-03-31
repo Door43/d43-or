@@ -1,18 +1,18 @@
-===== The Rule of Midian [16-04] =====
+===== **ମିଦିୟନଙ୍କ ଶାସନ**** [16-04]**  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-04.jpg?nolink&}}
 
-The **Midianites** took all of the **Israelites' crops** for seven years. The Israelites were **so scared that** **they hid** in caves so the Midianites would not find them. Finally, they **cried out** to **God** to **save them**.
-===== Important Terms: =====
+**ମିଦିୟୋନୀୟମାନେ** **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କ ସମସ୍ତ ଶଷ୍ୟକୁ** ସାତ ବର୍ଷ ନିମନ୍ତେ ନେଲେ । ଇଶ୍ରାୟେଲୀୟମାନେ **ଏତେ ଭୟଭୀତ ହୋଇଯାଇଥିଲେ; ସେମାନେ** ଗୁମ୍ଫାଗୁଡିକରେ **ଲୁଚାଇଲେ** ତେଣୁ ମିଦିୟୋନୀୟମାନେ ସେମାନଙ୍କୁ ଦେଖିପାରିଲେ ନାହିଁ । ପରିଶେଷରେ, **ସେମାନଙ୍କୁ ଉଦ୍ଧାର କରିବା ପାଇଁ** ସେମାନେ **ଈଶ୍ବରଙ୍କୁ** **ଡାକ ପକାଇଲେ** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-  * **[[:or:obe:other:midian]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:save]]**
-==== Translation Notes: ====
+  * **ମିଦିୟୋନୀୟମାନେ**
+  * **ଇଶ୍ରାୟେଲୀୟମାନଙ୍କ**
+  * **ଈଶ୍ବର**
+  * **ରକ୍ଷା କରିବା**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-  * **crops**  - This refers to plants that the Israelites were growing in their gardens or fields for food.
-  * **were so scared that they hid**  – This could be translated as, "were very afraid of the Midianites, so they hid."
-  * **cried out**  - This might be translated as, "they called out" or, "they prayed desperately."
-  * **save them**  – This might be translated as, "set them free" or, "rescue them from these enemies."
+  * **ଶଷ୍ୟସବୁ**  – ଏଗୁଡିକ ଇଶ୍ରାୟେଲୀୟମାନେ ସେମାନଙ୍କ ଉଦ୍ୟାନ ବା କ୍ଷେତରେ ଖାଦ୍ୟ ନିମନ୍ତେ ଲଗାଇଥିବା ବୃକ୍ଷଲତାଦିକୁ ବୁଝାଏ ।
+  * **ସେମାନେ ଏତେ ଭୟଭୀତ ହୋଇଯାଇଥିଲେ; ସେମାନେ ଲୁଚିଲେ**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ସେମାନେ କ୍ରନ୍ଦନ କଲେ” କିମ୍ବା “ସେମାନେ ଅତ୍ୟଧିକ ହତାଶ ହୋଇ ପ୍ରାର୍ଥନା କଲେ ।”
+  * **ଡାକ ପକାଇଲେ**  ‌- ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ “ସେମାନେ ଡାକିଲେ” କିମ୍ବା “ସେମାନେ ଅତି ହତାଶ ହୋଇ ପ୍ରାର୍ଥନା କଲେ ।”
+  * **ସେମାନଙ୍କୁ ରକ୍ଷା କରିବା**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ସେମାନଙ୍କୁ ମୁକ୍ତ କରିବା” କିମ୍ବା “ସେମାନଙ୍କୁ ଏହି ଶତ୍ରୁମାନଙ୍କଠାରୁ ଉଦ୍ଧାର କରନ୍ତି ।”
 **[[:or:obs:notes:frames:16-03|<<]] | [[:or:obs:notes:16|Up]] | [[:or:obs:notes:frames:16-05|>>]]**
