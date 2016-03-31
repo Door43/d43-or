@@ -1,21 +1,14 @@
-===== Gideon's Army [16-12] =====
+===== **ଗିଦିୟୋନଙ୍କ ସୈନ୍ୟ**** [16-12]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink}}
+ତା’ପରେ **ଗିଦିୟୋନ** ତାହାଙ୍କ ସୈନ୍ୟମାନଙ୍କ ନିକଟକୁ ଫେରିଲେ ଏବଂ ସେ ସମସ୍ତଙ୍କୁ ଏକ ଏକ **ଶୃଙ୍ଗ** ଦେଲେ, ଏକ ଏକ ମାଟିପାତ୍ର ଦେଲେ ଏବଂ ଏକ **ଏକ ମଶାଲ** ଦେଲେ । **ମିଦିୟୋନୀୟ** ସୈନ୍ୟମାନେ ଯେଉଁ ସ୍ଥାନରେ ଶୋଇଥିଲେ ସେମାନେ ସେହି ଛାଉଣୀର ଚତୁର୍ଦ୍ଦିଗକୁ ଘେରିଲେ । ଗିଦିୟୋନଙ୍କର 300 ସୈନ୍ୟଙ୍କ ନିକଟରେ ଥିବା ମାଟିପାତ୍ର ଭିତରେ ସେମାନଙ୍କ ମଶାଲକୁ ରଖିଥିଲେ ତେଣୁ ସେହି ଆଲୋକକୁ ମିଦିୟୋନୀୟମାନେ ଦେଖିପାରିନଥିଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-Then **Gideon** returned to his soldiers and gave each of them a **horn**, a clay pot, and **a torch**. They surrounded the camp where the **Midianite** soldiers were sleeping. Gideon's 300 soldiers had the torches in the pots so the Midianites could not see the light of the torches.
-===== Important Terms: =====
+  * **ଗିଦିୟୋନ**
+  * **ମିଦିୟୋନୀୟ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:gideon]]**
-  * **[[:or:obe:other:midian]]**
-
-
-==== Translation Notes: ====
-
-
-  * **horn** - This could be translated as, "trumpet" or, "ram's horn trumpet." These horns came from a male sheep and were often used to call men for battle.
-  * **a torch** - This was probably a piece of wood wrapped with cloth and soaked in oil so that it could burn well. (This was not the modern torch that runs on batteries.)
-
-
+  * **ଶୃଙ୍ଗ**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ତୂରୀ” କିମ୍ବା “ପୁଂମେଷର ଶୃଙ୍ଗ ତୂରୀ ।” ଏହି ସମସ୍ତ ଶୃଙ୍ଗ ଏକ ପୁଂମେଷଠାରୁ ବାହାର କରାଯାଉଥିଲା ଏବଂ ଅନେକ ସମୟରେ ଏହାକୁ ଯୁଦ୍ଧ ନିମନ୍ତେ ଲୋକମାନଙ୍କୁ ଡାକିବା ପାଇଁ ବ୍ୟବହାର କରାଯାଉଥିଲା ।
+  * **ଏକ ବତୀ ବା ମଶାଲ**  – ଏହା ସମ୍ଭବତଃ କନା ଗୁଡାଯାଇଥିବା ଏକ ଖଣ୍ଡ କାଷ୍ଠ ଏବଂ ଏହାକୁ ତୈଳରେ ଭିଜାଯାଉଥିଲା ଯେପରିକି ଏହା ଉତ୍ତମ ଭାବରେ ଜଳିପାରିବ। (ଏହା ଆଧୁନିକ ଟର୍ଚ୍ଚ ବା ବତୀ ନ ଥିଲା ଯାହାକି ବ୍ୟାଟେରୀ ଚାଳିତ ଥିଲା ।)
 **[[:or:obs:notes:frames:16-11|<<]] | [[:or:obs:notes:16|Up]] | [[:or:obs:notes:frames:16-13|>>]]**
