@@ -1,19 +1,15 @@
-===== The Attack [16-13] =====
+===== **ଆକ୍ରମଣ**** [16-13]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink}}
+ତାପରେ, **ଗିଦିୟୋନଙ୍କ** ସମସ୍ତ ସୈନ୍ୟ ସେମାନଙ୍କର ମାଟିପାତ୍ରକୁ ଏକା ଥରକେ ଭାଙ୍ଗିଲେ, ହଠାତ୍‍ବତୀଗୁଡିକର ଅଗ୍ନି ଦେଖାଗଲା । ସେମାନେ ସେମାନଙ୍କ ଶୃଙ୍ଗକୁ ବଜାଇ **ଉଚ୍ଚ ସ୍ବରରେ କହିଲେ “ଯିବୋବାଙ୍କ ନିମନ୍ତେ ଓ ଗିଦିୟୋନଙ୍କ ନିମନ୍ତେ ଏକ ଖଡ୍ଗ!”**
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and **shouted**, “**A sword for Yahweh and for Gideon**!”
-===== Important Terms: =====
+  * **ଗିଦିୟୋନଙ୍କ**
+  * **ଈଶ୍ବର**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:gideon]]**
-  * **[[:or:obe:kt:yahweh]]**
-
-
-==== Translation Notes: ====
-
-  * **shouted**  - This could be translated as, "yelled loudly" or, "said with a very loud voice."
-  * **sword**  - A sword is a weapon that has a long sharp blade and a handle at one end. People hold the handle and hit or stab the enemy with the sharp blade. If your people don't have a weapon just like this, you could translate it as a "long knife," "machete" or, "bush knife."
-  * **A sword for Yahweh and for Gideon**  - This means, "We fight for Yahweh and for Gideon!"
+  * **ଚିତ୍କାର କଲେ**  – ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରେ “ଉଚ୍ଚ ସ୍ବରରେ ରଡି ଛାଡିଲେ”  କିମ୍ବା “ଅତି ଉଚ୍ଚ ସ୍ବରରେ କହିଲେ ।”
+  * **ଖଡ୍ଗ **– ଖଡ୍ଗ ହେଉଛି ଏକ ଅସ୍ତ୍ର ଯାହାର ଏକ ଲମ୍ବା ଶାଣିତ କ୍ଷୁର ଓ ଆର ପାଖରେ ଏକ ହ୍ୟାଣ୍ଡଲ୍‍ରହିଥାଏ । ଲୋକମାନେ ହ୍ୟାଣ୍ଡଲକୁ ଧରିଲେ ଏବଂ ତୀକ୍ଷ୍ଣ କ୍ଷୁରରେ ସେମାନଙ୍କ ଶତ୍ରୁକୁ ମାରିଲେ କିମ୍ବା ଭୁଷିଲେ । ଯଦି ଏହିପରି ଅସ୍ତ୍ର ଆପଣଙ୍କ ଲୋକମାନଙ୍କ ନିକଟରେ ନାହିଁ, ତେବେ ଆପଣ ଏହାକୁ ନିମ୍ନ ପ୍ରକାରେ ଅନୁବାଦ କରିପାରନ୍ତି “ଲମ୍ବା ଛୁରୀ”, “ଚାପଡ” କିମ୍ବା “ବୁଦା ଛୁରୀ ।”
+  * **ଈଶ୍ବରଙ୍କ ନିମନ୍ତେ ଓ ଗିଦିୟୋନଙ୍କ ନିମନ୍ତେ ଏକ ଖଡ୍ଗ**  – ଏହାର ଅର୍ଥ “ଆମେ ଈଶ୍ବର ଓ ଗିଦିୟୋନଙ୍କ ନିମନ୍ତେ ଯୁଦ୍ଧ କରୁଅଛୁ!”
 **[[:or:obs:notes:frames:16-12|<<]] | [[:or:obs:notes:16|Up]] | [[:or:obs:notes:frames:16-14|>>]]**
