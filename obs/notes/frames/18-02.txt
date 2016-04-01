@@ -1,27 +1,20 @@
-===== Solomon Built the Temple [18-02] =====
+===== **ଶଲୋମନ ମନ୍ଦିର ନିର୍ମାଣ କଲେ**** [18-02]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink}}
+**ଯିରୁଶାଲମ** ରେ **ଶଲୋମନ** **ମନ୍ଦିର ** ନିର୍ମାଣ କଲେ ଯେଉଁଥିପାଇଁ ତାଙ୍କ ପିତା **ଦାଉଦ** ଯୋଜନା କରି ଉପକରଣ ସଂଗ୍ରହ କରିଥିଲେ । ବର୍ତ୍ତମାନ ଲୋକେ **ଈଶ୍ବରଙ୍କର ଉପାସନା କଲେ** ଏବଂ **ସମାଗମ ତମ୍ବୁ** ରେ ତାଙ୍କ ନିମନ୍ତେ ବଳି ଉତ୍ସର୍ଗ କରିବା ଅପେକ୍ଷା ମନ୍ଦିରରେ **ବଳି** ଉତ୍ସର୍ଗ କଲେ । ଈଶ୍ବର ଆସି **ମନ୍ଦିରରେ ଉପସ୍ଥିତ ରହୁଥିଲେ**, ଏବଂ ସେ **ତାଙ୍କ ଲୋକମାନଙ୍କ ସହ** ସେଠାରେ ବାସ କଲେ ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-In **Jerusalem**, **Solomon** built the **Temple** for which his father **David** had planned and gathered materials. People now **worshiped God** and offered **sacrifices** to him at the Temple instead of at the **Tent of Meeting**. God came and **was present in the Temple**, and he lived there **with his people**.
-===== Important Terms: =====
+  * **ଯିରୁଶାଲମ**
+  * **ଶଲୋମନ**
+  * **ମନ୍ଦିର**
+  * **ଦାଉଦ**
+  * **ଉପାସନା କଲେ**
+  * **ଈଶ୍ବର**
+  * **ବଳିଗୁଡିକ**
+  * **ସମାଗମ ତମ୍ବୁ**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:other:solomon]]**
-  * **[[:or:obe:kt:temple]]**
-  * **[[:or:obe:other:david]]**
-  * **[[:or:obe:kt:worship]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:sacrifice]]**
-  * **[[:or:obe:other:tentofmeeting]]**
-
-
-==== Translation Notes: ====
-
-
-  * **was present in the Temple** – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
-  * **with his people** - This could be translated as, "in the midst of his people" or, "among his people."
-
-
+  * **ମନ୍ଦିରରେ ଉପସ୍ଥିତ ଥିଲା**: ତାହାର ଅର୍ଥ “ଏକ ବିଶେଷ ପଦ୍ଧତିରେ ଉପସ୍ଥିତ ଥିଲେ ।” ଯଦିଓ ଈଶ୍ବର ସମସ୍ତ ସ୍ଥାନରେ ଏକ ସମୟରେ ଉପସ୍ଥିତ ରହିପାରନ୍ତି, ତଥାପି ସେ ମନ୍ଦିରରେ ଲୋକମାନଙ୍କୁ ସେ ବିଶେଷ ଭାବରେ ନିଜକୁ ଲୋକମାନଙ୍କୁ ପ୍ରକାଶିତ କରନ୍ତି ।
+  * **ତାହାଙ୍କ ଲୋକମାନଙ୍କ ସହ**  – ଏହାକୁ ନିମ୍ନ ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରିବ “ତାହାଙ୍କ ଲୋକମାନଙ୍କ ମଧ୍ୟରେ” କିମ୍ବା “ତାହାଙ୍କ ଲୋକମାନଙ୍କ ମଧ୍ୟରେ ।”
 **[[:or:obs:notes:frames:18-01|<<]] | [[:or:obs:notes:18|Up]] | [[:or:obs:notes:frames:18-03|>>]]**
