@@ -1,28 +1,21 @@
-===== David Became King [17-05] =====
+===== **ଦାଉଦ ରାଜା ହେଲେ**** [17-05]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink}}
+ପରିଶେଷରେ, **ଶାଉଲ** ଯୁଦ୍ଧରେ ପ୍ରାଣତ୍ୟାଗ କଲେ, ଏବଂ **ଦାଉଦ** **ଇଶ୍ରାୟେଲ ** ଉପରେ** ରାଜା** ହେଲେ । ସେ ଜଣେ ଉତ୍ତମ ରାଜା ଥିଲେ, ଏବଂ ଲୋକମାନେ ତାହାଙ୍କୁ **ପ୍ରେମ ** କରୁଥିଲେ । **ଈଶ୍ବର ** ଦାଉଦଙ୍କୁ** ଆଶୀର୍ବାଦ କଲେ ** ଏବଂ** ତାହାଙ୍କୁ ସଫଳତା ପ୍ରଦାନ କଲେ ।** ଦାଉଦ ଅନେକ ଯୁଦ୍ଧ କରିଥିଲେ ଏବଂ ଇଶ୍ରାୟେଲର ଶତ୍ରୁ ଉପରେ ବିଜୟ ଲାଭ କରିବା ପାଇଁ ଈଶ୍ବର ତାହାଙ୍କୁ ସାହାଯ୍ୟ କରିଥିଲେ । ଦାଉଦ **ଯିରୁଶାଲମ** ଜୟ କଲେ ଏବଂ ଏହାକୁ **ରାଜଧାନୀ** କଲେ । **ଦାଉଦଙ୍କ ରାଜତ୍ବ ସମୟରେ**, ଇଶ୍ରାୟେଲ ଶକ୍ତିଶାଳୀ ଓ ସମ୍ପଦଶାଳୀ ହୋଇପାରିଥିଲା ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-Eventually, **Saul** died in battle, and **David** became **king** of **Israel**. He was a good king, and the people **loved** him. **God blessed** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **Jerusalem** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
-===== Important Terms: =====
+  * **ଶାଉଲ**
+  * **ଦାଉଦ**
+  * **[[:or:obe:other:king|king]]**
+  * **[[:or:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:or:obe:kt:love|love]]**
+  * **[[:or:obe:kt:god|God]]**
+  * **[[:or:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:or:obe:other:jerusalem|Jerusalem]]**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:saul]]**
-  * **[[:or:obe:other:david]]**
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:kt:love]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:bless]]**
-  * **[[:or:obe:other:jerusalem]]**
-
-
-==== Translation Notes: ====
-
-
-  * **made him successful** - That is, "helped him accomplish the good things he wanted to do."
-  * **his capital city** - That is, "the capital city of his kingdom." David lived in Jerusalem and ruled from there.
-  * **During David's reign** - That is, "During the time when David was king over Israel" or, "During the time when David was ruling as king over Israel."
-
-
+  * **ତାହାଙ୍କୁ ସଫଳ କରାଇଲେ**  – ତାହାର ଅର୍ଥ ହେଉଛି “ସେ ଚାହୁଁଥିବା ଉତ୍ତମ ବିଷୟଗୁଡିକ କରିବାକୁ ସେ ସାହାଯ୍ୟ କଲେ ।”
+  * **ତାହାଙ୍କ ରାଜଧାନୀ**  – ଏହା ହେଉଛି, “ତାହାଙ୍କ ରାଜ୍ୟର ରାଜଧାନୀ ।” ଦାଉଦ ଯିରୁଶାଲମରେ ବାସ କରୁଥିଲେ ଓ ସେଠାରେ ରହି ଶାସନ କରୁଥିଲେ ।
+  * **ଦାଉଦଙ୍କ ରାଜତ୍ବ ସମୟରେ**  – ତାହା ହେଉଛି “ଦାଉଦ ଯିରୁଶାଲମ ଉପରେ ରାଜା ହେବା ସମୟରେ” କିମ୍ବା “ଦାଉଦ ଇଶ୍ରାୟେଲ ଉପରେ ରାଜା ଭାବେ ଶାସନ କରୁଥିବା ସମୟରେ ।”
 **[[:or:obs:notes:frames:17-04|<<]] | [[:or:obs:notes:17|Up]] | [[:or:obs:notes:frames:17-06|>>]]**
