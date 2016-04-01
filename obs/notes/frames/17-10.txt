@@ -1,22 +1,15 @@
-===== David and Bathsheba [17-10] =====
+===== **ଦାଉଦ ଓ ବଥଶେବା**** [17-10]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink}}
+**ଦିନେ**, ଯେତେବେଳେ **ଦାଉଦଙ୍କର** ସମସ୍ତ ସୈନ୍ୟ ଗୃହରୁ ବାହାରି ଯୁଦ୍ଧ କ୍ଷେତ୍ରକୁ ଯାଇଥିଲେ, ସେ ତାଙ୍କ ରାଜପ୍ରାସାଦରୁ ଦେଖୁ ଦେଖୁ **ଦେଖିଲେ** ଯେ ଜଣେ ସୁନ୍ଦର ସ୍ତ୍ରୀ **ସ୍ନାନ କରୁଅଛନ୍ତି** । ତାହାଙ୍କ ନାମ **ବଥଶେବା** ।
+===== **ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-**One day**, when all of **David's** soldiers were away from home fighting battles, he looked out from his palace and **saw** a beautiful woman **bathing**. Her name was **Bathsheba**.
-===== Important Terms: =====
+  * **ଦାଉଦଙ୍କ**
+  * **ବଥଶେବା**
+==== **ଅନୁବାଦ ଟୀପ୍ପଣୀ**: ====
 
-
-  * **[[:or:obe:other:david]]**
-  * **[[:or:obe:other:bathsheba]]**
-
-
-==== Translation Notes: ====
-
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **saw** - Bathsheba may have been bathing at her own house, but David's palace was very high and he was able to see over walls that were lower.
-  * **bathing** - This may be translated as, "taking a bath" or, "washing herself."
-
-
+  * **ଦିନେ **– ଏହି ଶବ୍ଦ ପୂର୍ବରେ ଘଟିଥିବା ଏକ ଘଟନା ବିଷୟରେ ପରିଚିତି କରାଏ, କିନ୍ତୁ ନିର୍ଦ୍ଧିଷ୍ଟ ସମୟ ଉଲ୍ଲେଖ କରେନାହିଁ । ଅନେକ ଭାଷା ଏକ ସତ୍ୟ କାହାଣୀ କହିବା ନିମନ୍ତେ ଏହିପ୍ରକାର ଭାବେ ଆରମ୍ଭ କରିଥାନ୍ତି ।
+  * **ଦେଖିଲେ**  – ବଥଶେବା ତାଙ୍କ ନିଜ ଘରେ ସ୍ନାନ କରିଥାଇପାରନ୍ତି, କିନ୍ତୁ ଦାଉଦଙ୍କର ରାଜପ୍ରାସାଦ ଅତି ଉଚ୍ଚ ଥିଲା ଏବଂ ସେ କାନ୍ଥ ଉପରେ ରହି ତଳେ ଥିବା ସମସ୍ତ ବିଷୟକୁ ଦେଖିବାରେ ସମର୍ଥ ଥିଲେ ।
+  * **ସ୍ନାନ କରୁଥିଲେ**  – ଏହାକୁ ନିମ୍ନ ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ “ସ୍ନାନ କରୁଥିଲେ” କିମ୍ବା “ନିଜକୁ ଜଳରେ ଧୋଉଥିଲେ ।”
 **[[:or:obs:notes:frames:17-09|<<]] | [[:or:obs:notes:17|Up]] | [[:or:obs:notes:frames:17-11|>>]]**
