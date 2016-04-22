@@ -1,11 +1,9 @@
-====== Complete List of Important Terms - English ======
+====== Complete List of translationWords - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:or:obe:kt:home]]
-  * [[:or:obe:other:home]]
-
-
+  * [[:or:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:or:obe:other:home|List of the Other Terms in the OBE Directory]]
 ==== All Terms in the OBE: ====
 
 <nspages or:obe -r -title -exclude:home -textPages="">
