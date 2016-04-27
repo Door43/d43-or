@@ -1,9 +1,10 @@
-====== Complete List of translationWords - English ======
+====== Complete List of translationWords - Oriya ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
   * [[:or:obe:kt:home|List of the Key Terms in the OBE Directory]]
   * [[:or:obe:other:home|List of the Other Terms in the OBE Directory]]
+ 
 ==== All Terms in the OBE: ====
 
 <nspages or:obe -r -title -exclude:home -textPages="">
