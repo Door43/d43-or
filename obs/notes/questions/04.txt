@@ -1,37 +1,38 @@
-====== ଗଳ୍ପ** # ** ୪: **ଅବ୍ରହାମଙ୍କ ସହିତ ପରମେଶ୍ଵରଙ୍କ ପ୍ରତିଜ୍ଞା**  ======
+====== **ଗଳ୍ପ** #**୪**: **ଅବ୍ରହାମଙ୍କ ସହିତ ପରମେଶ୍ଵରଙ୍କ ପ୍ରତିଜ୍ଞା**  ======
 
-===== Comprehension Questions and Answers =====
+===== **ସବିବରଣ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ**  =====
 
-  - **After the flood, did the people fill the earth as God had commanded?**
-      * //No. They gathered together and built a city. [04-01]//
-  - **How many different languages were there in the world at that time?**
-      * //There was only one language. [04-01]//
-  - **What did the people work together to do instead of filling the earth?**
-      * //The started to build a tall tower to reach heaven. [04-02]//
-  - **What did God do to cause the people to spread out all over the world?**
-      * //He changed their language into many different languages. [04-03]//
-  - **What was the name of the city that they were building?**
-      * //Babel. [04-03]//
-  - **What does the name "Babel" mean?**
-      * //Confused. [04-03]//
-  - **What did God tell Abram to do?**
-      * //God told Abram to leave his country and family and go to another land. [04-04]//
-  - **What did God promise to do for Abram?**
-      * //He promised to give Abram all the land he could see, to make his name great, to make his descendants a great nation, and to bless all the families on earth through him. [04-04]//
-  - **To which land did Abram go?**
-      * //The land of Canaan. [04-05]//
-  - **What promise did God make to Abram about Canaan?**
-      * //God would give it to Abram and his descendants as an inheritance. [04-06]//
-  - **Who was Melchizedek?**
-      * //He was the priest of God Most High. [04-07]//
-  - **What did Melchizedek do for Abram?**
-      * //He blessed Abram. [04-07]//
-  - **What did Abram give to Melchizedek?**
-      * //A tenth of all he owned. [04-07]//
-  - **What did God promise Abram after he had lived in Canaan for many years?**
-      * //Abram would have a son and as many descendants as the stars in the sky. [04-08]//
-  - **Why did God say Abram was righteous?**
-      * //Because Abram believed God's promise. [04-08]//
-  - **What is a covenant?**
-      * //An agreement between two parties. [04-09]//
+  - **ଜଳ ପ୍ଲାବନ ପରେ ମନୁଷ୍ୟମାନେ ପୃଥ୍ଵୀବୀକୁ ଯେପରି ପରମେଶ୍ୱର ଆଦେଶ ଦେଇଥିଲେ ପୁର୍ଣ କରି ପାରିଥିଲେ କି ?**
+      * ନୁହେଁ//. // ସେମାନେ ସମସ୍ତେ ଏକାଠି ହୋଇ ଏକ ନଗର ନିର୍ମାଣ କଲେ//. [04-01]//
+  - **ସେହି ସମୟରେ ଜଗତରେ କେତେ ପ୍ରକାର ଭାଷା ଥିଲା ?**
+      * ସେତେବେଳେ କେବଳ ଗୋଟିଏ ଭାଷା ଥିଲା// [04-01]//
+  - **ପୃଥ୍ଵୀବୀସାରା ବ୍ୟାପିଜିବା ପରିବର୍ତ୍ତେ ମନୁଷ୍ୟମାନେ କଣ ତିଆରି କରିବା ପାଇଁ ଏକାଠି କାମ କଲେ ?**
+      * ସେମାନେ ସ୍ୱର୍ଗକୁ ପହିଞ୍ଚିବା ପାଇଁ ଏକ ଉଚ୍ଚ ଦୁର୍ଗ ନିର୍ମାଣ କଲେ // [04-02]//
+  - **ମନୁଷ୍ୟମାନେ ସାରା ପୃଥ୍ଵୀବୀକୁ ବ୍ୟାପିଵ ପାଇଁ ପରମେଶ୍ୱର କଣ କଲେ ?**
+      * ସେ ସେମାଙ୍କର ଭାଷାକୁ ଭିନ୍ନ ଭିନ୍ନ ଭାଷାରେ ପରିଣତ କରିଦେଲେ // [04-03]//
+  - **ସେମାନେ ନିର୍ମାଣ କରୁଥିବା ସହରର ନାମ କଣ ଥିଲା ?**
+      * ବାବିଲ// [04-03]//
+  - **ବାବିଲର ଅର୍ଥ କଣ ଅଟେ?**
+      * ବିଚଳିତ// [04-03]//
+  - **ପରମେଶ୍ୱର ଅବ୍ରହାମକୁ କଣ କରିବା ପାଇଁ କହିଲେ ?**
+      * ପରମେଶ୍ୱର ଅବ୍ରାମକୁ ନିଜ ପରିବାର ଓ ଦେଶ ଛାଡି ଅନ୍ୟ ଏକ ଦେଶକୁ ଯିବା ପାଇଁ କହିଲେ // [04-04]//
+  - **ଅବ୍ରାମ ପାଇଁ ପରମେଶ୍ୱର କଣ ପ୍ରତିଜ୍ଞା କଲେ ?**
+      * ସେ ଅବ୍ରାମ ସହିତ ପ୍ରତିଜ୍ଞା କଲେ ଯେ//, // ତାହାର ଦୃଷ୍ଟି  କରିପାରୁଥିବା ସମସ୍ତ ଭୂମି ତାକୁ ଦେବେ//, // ତାହାର ନାମକୁ ମହାନ କରିବେ//, // ତାହାର ବଂଶଧରକୁ ଏକ ମହାନ ଜାତି କରିବେ ଓ ତାହା ଦ୍ୱାରା ଜଗତରେ ସମସ୍ତ ପରିବାରଙ୍କୁ ଆଶୀର୍ବାଦ  କରିବେ // [04-04]//
+  - **ଅବ୍ରାମ କେଉଁ ସ୍ଥାନକୁ ଗଲେ ?**
+      * କିଣାନ ସ୍ଥାନ // [04-05]//
+  - **କିଣାନ ବିଷୟରେ ପରମେଶ୍ୱର ଅବ୍ରହାମକୁ କେଉଁ ପ୍ରତିଜ୍ଞା ଦେଇଥିଲେ ?**
+      * ପରମେଶ୍ୱର ଅବ୍ରାମଙ୍କୁ ଓ ତାଙ୍କର ବଂଶଧରଙ୍କୁ ଏହାର ଉତ୍ତରାଧିକାରୀ ସ୍ବରୁପେ ଦେବେ// [04-06]//
+  - **ମଲକିଶେଦକ କିଏ ଥିଲେ ?**
+      * ସେ ପରମ ପ୍ରଧାନଙ୍କର ଯାଜକ ଥିଲେ // [04-07]//
+  - **ମଲକୀଶେଦକ ଅବ୍ରାମଙ୍କ ପାଇଁ କଣ କରିଥିଲେ ?**
+      * ସେ ଅବ୍ରାମଙ୍କୁ ଆଶୀର୍ବାଦ କରିଥିଲେ // [04-07]//
+  - **ଅବ୍ରାମ ମଲକିଷେଦକକୁ କଣ ଦେଇଥିଲେ ?**
+      * ତାଙ୍କର ସମସ୍ତ ଆଦାୟର ଦଶମାଂଶ // [04-07]//
+  - **କିଣାନରେ ଦୀର୍ଘ ବର୍ଷ ରହିବା ପରେ ଅବ୍ରାମଙ୍କୁ ପରମେଶ୍ୱର କଣ ପ୍ରତିଜ୍ଞା କରିଥିଲେ ?**
+      * ଅବ୍ରାମ ଏକ ସନ୍ତାନ ଲାଭ କରିବେ ଓ ତାଙ୍କର ବଂଶଜ ଆକାଶର ତାରାଗଣ ସଦୃଶ ଅସଂଖ୍ୟ ହେବେ // [04-08]//
+  - **ପରମେଶ୍ୱର ଅବ୍ରାମଙ୍କୁ ଧାର୍ମିକ ବୋଲି କାହିଁକି କହିଲେ ?**
+      * କାରଣ ଅବ୍ରାମ ପରମେଶ୍ୱରଙ୍କର ପ୍ରତିଜ୍ଞାକୁ ବିଶ୍ୱାସ କଲେ //[04-08]//
+  - **ଚୁକ୍ତି କିମ୍ବା କଣ ଅଟେ ?**
+      * ଦୁଇ ଦଳ ମଧ୍ୟରେ ଚୁକ୍ତି ପତ୍ର// [04-09]//
+
 **[[:en:obs:notes:questions:03|<< ]] | [[:en:obs:notes:questions:05| >>]]**
