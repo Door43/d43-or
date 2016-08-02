@@ -1,27 +1,26 @@
-====== Story #10: The Ten Plagues ======
+====== **ଗଳ୍ପ #** ୧୦: **ଦଶ ମହାମାରୀଗୁଡିକ**  ======
 
-===== Comprehension Questions and Answers =====
+===== ସବିବରଣ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-    *//"Let my people go!" [10-01]//
-  - **What did Pharaoh do when he heard this command?**
-    *//He forced the Israelites to work even harder. [10-01]//
-  - **What did God do when Pharaoh refused to let the Israelites go?**
-    *//He sent ten terrible plagues on Egypt. [10-02]//
-  - **What did God show Pharaoh through these plagues?**
-    *//That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]//
-  - **What did God do to the water in the Nile River?**
-    *//God turned water in the Nile River into blood. [10-03]//
-  - **Who was affected by the plague of the painful skin sores?**
-    *//The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
-  - **Did the plague of darkness affect everyone equally?**
-    *//No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
-  - **How did Pharaoh respond to each of the first nine plagues?**
-    *//He refused to let the people go free. [10-12]//
-  - **What did God do after Pharaoh did not respond to the first nine plagues?**
-    *//God planned to send one last plague. [10-12]//
-  - **What would this last plague do that the first nine had not done?**
-    *//It would change Pharaoh's mind. [10-12]//
+  - **ମୋଶା ଓ ହାରଣ ଫାରୋଙ୍କୁ ପରମେଶ୍ବରଙ୍କର କେଉଁ ସମ୍ବାଦ ଦେଲେ ?**
+      * ମୋର ଲୋକମାନଙ୍କୁ ଯିବାକୁ ଦିଅ // [10-01]//
+  - **ଫାରୋ ଏହି ଆଦେଶ ଶୁଣିବା ପରେ କଣ କଲେ ?**
+      * ସେ ଇସ୍ରାଏଲିୟମାନଙ୍କୁ  ଆହୁରି ଅଧିକ ପରିଶ୍ରମ କରିବାକୁ ବାଧ୍ୟ କଲେ // [10-01]//
+  - **ଇସ୍ରାଏଲିୟମାନଙ୍କୁ ଫାରୋ ଯିବା ପାଇଁ ମନା କରିବାରୁ ପରମେଶ୍ୱର କଣ କଲେ ?**
+      * ସେ ମିଶରକୁ ଦଶ ମହାମାରୀ ପଠାଇଲେ // [10-02]//
+  - **ଏହି ମହାମାରୀଗୁଡିକ ଦ୍ୱାରା ପରମେଶ୍ୱର ଫାରୋଙ୍କୁ କଣ ଦେଖାଇଲେ  ?**
+      * ଯେ ସେ ଫାରୋ ଓ ମିଶରର ସମସ୍ତ ଦେବତାମାନଙ୍କଠାରୁ ଶକ୍ତିଶାଳୀ ଅଟନ୍ତି // [10-02]//
+  - **ନୀଳ ନଦୀର ଜଳକୁ ପରମେଶ୍ୱର କଣ କଲେ ?**
+      * ସେ ନୀଳ ନଦୀର ଜଳକୁ ରକ୍ତରେ ପରିଣତ କଲେ // [10-03]//
+  - **ଯନ୍ତ୍ରଣାଦାୟକ ଚର୍ମ ଘା ରୂପକ ମହାମାରୀରେ କେଉଁମାନେ ପ୍ରଭାବିତ ହେଲେ ?**
+      * ମିଶରୀୟ ମାନଙ୍କ ଦେହ ସାରା ଘା ଭରିଗଲା//, // କିନ୍ତୁ ଇସ୍ରାଏଲିୟ ମାନଙ୍କୁ କିଛି ହେଲା ନାହିଁ // [10-07]//
+  - **ଅନ୍ଧକାର ରୂପକ ମହାମାରୀ କଣ ସମସ୍ଥଙ୍କୁ ଏକା ପରି ପ୍ରଭାବିତ କଲା ?**
+      * ନୁହେଁ//, // ମିଶରୀୟମାନେ ବସବାସ କରୁଥିବା ଥିବା ସ୍ଥାନରେ ଅନ୍ଧକାର ଥିଲା କିନ୍ତୁ ଇସ୍ରାଏଲିୟ ମାନେ ବସବାସ କରୁଥିବା ସ୍ଥାନରେ ଆଲୋକ ଥିଲା //[10-11]//
+  - **ଫାରୋ ପ୍ରଥମ ନଅଗୋଟି ମହାମାରୀଗୁଡିକ ପ୍ରତି କିଭଳି ପ୍ରତିକ୍ରିୟା ପ୍ରକାଶ କଲେ ?**
+      * ସେ ଲୋକମାନଙ୍କୁ ଯିବାକୁ  ମନା କଲେ // [10-12]//
+  - **ପ୍ରଥମ ନଅଗୋଟି ମହାମାରୀଗୁଡିକ ପ୍ରତି ଫାରୋ ପ୍ରତିଉତ୍ତର ନ ଦେବାରୁ ପରମେଶ୍ୱର କଣ କଲେ ?**
+      * ପରମେଶ୍ୱର ଏକ ଶେଷ ମହାମାରୀ ପଠାଇବାକୁ ଯୋଜନା କଲେ // [10-12]//
+  - **ଏହି ଶେଷ ମହାମାରୀ ଦ୍ଵାରା କଣ ହେଲା ଯାହାକି ପ୍ରଥମ ନଅଟି ମହାମାରୀ କରି ପାରି ନ ଥିଲା ?**
+      * ଏହା ଫାରୋଙ୍କ ମନକୁ ପରିବର୍ତ୍ତନ କଲା // [10-12]//
 
-
-**[[en/obs/notes/questions/09|<< ]] | [[en/obs/notes/questions/11| >>]]**
+**[[:en:obs:notes:questions:09|<< ]] | [[:en:obs:notes:questions:11| >>]]**
