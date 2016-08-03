@@ -1,31 +1,32 @@
-====== **ଗଳ୍ପ #** 27: **ଉତ୍ତମ ଶମିରୋଣୀୟଙ୍କ କାହାଣୀ**  ======
+====== ଗଳ୍ପ #27: ଉତ୍ତମ ଶମିରୋଣୀୟଙ୍କ କାହାଣୀ ======
 
-===== **ସବିବରଣୀ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ**  =====
+===== ସବିବରଣୀ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-      * //“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-      * //He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-      * //The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-      * //He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-      * //He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-      * //A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-      * //He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-      * //A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-      * //He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-      * //A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-      * //They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-      * //He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-      * //The Samaritan who was merciful to him. [27-11]//
+  - **ଯିହୁଦୀ ବ୍ୟବସ୍ଥାର ଜଣାଶୁଣା ବ୍ୟକ୍ତି ଯୀଶୁଙ୍କୁ କେଉଁ ପ୍ରଶ୍ନ ପଚାରିଲେ ?**
+      * ଗୁରୁ//, // ଅନନ୍ତ ଜୀବନ ପାଇବା ନିମନ୍ତେ ମୋତେ କ//’// ଣ କରିବାକୁ ହେବ//?” [27-01]//
+  - **ସେହି ଜଣାଶୁଣା ବ୍ୟକ୍ତିର ପ୍ରତିଉତ୍ତରରେ ଯୀଶୁ କେଉଁ ପ୍ରଶ୍ନ ପଚାରିଲେ ?**
+      * ସେ ପଚାରିଲେ//, “ // ପରମେଶ୍ଵରଙ୍କ ବ୍ୟବସ୍ଥାରେ କ//’// ଣ ଲେଖାଅଛି//?” [27-01]//
+  - **ପରମେଶ୍ଵରଙ୍କ ବ୍ୟବସ୍ଥା ଆମ୍ଭେକୁ କାହାକୁ ପ୍ରେମ କରିବାକୁ କୁହେ ?**
+      * ସଦାପ୍ରଭୁ ଆମ୍ଭମାନଙ୍କ ପରମେଶ୍ଵର ଓ ଆମ୍ଭମାନଙ୍କ ପ୍ରତିବାସୀ//. [27-02]//
+  - **ଯିହୁଦୀ ବ୍ୟବସ୍ଥାର ନିପୁଣ ବ୍ୟକ୍ତି କାହିଁକି ପଚାରିଲେ "କିଏ ତାହାଙ୍କ ପ୍ରତିବାସୀ ଥିଲେ" ?**
+      * ସେ ନିଜକୁ ଧାର୍ମିକ ପ୍ରମାଣିତ କରିବାକୁ ଚାହୁଁଥିଲେ//. [27-03]//
+  - **ଯୀଶୁଙ୍କ କାହାଣୀରେ, ଯିହୁଦୀ ବ୍ୟକ୍ତିଙ୍କୁ କଣ ଘଟିଲା ଯେତେବେଳେ ସେ ଯାତ୍ରା କରୁଥିଲେ ?**
+      * ସେ ଡକାୟତ ମାନଙ୍କ ଦ୍ଵାରା ଆକ୍ରମିତ ହୋଇଥିଲେ//, // ଯେଉଁମାନେ ତାହାଙ୍କୁ ଅର୍ଦ୍ଧମୃତ ପର୍ଯ୍ୟନ୍ତ ବାଡେଇ ସମସ୍ତ ଛଡାଇ ନେଇଗଲେ//. [27-05]//
+  - **ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ କେଉଁ ପ୍ରଥମ ବ୍ୟକ୍ତି ଦେଖିଲେ ?**
+      * ଏକ ଯିହୂଦୀ ଯାଜକ//. [27-06]//
+  - **ଯାଜକ କଣ କଲେ ଯେତେବେଳେ ସେ ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ ଦେଖିଲେ ?**
+      * ସେ ତାହାକୁ ଅଦେଖା କରି ଅପର ପାର୍ଶ୍ଵ ର ରାସ୍ତାକୁ ଚାଲିଗଲେ//. [27-06]//
+  - **ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ କେଉଁ ଦ୍ଵିତୀୟ ବ୍ୟକ୍ତି ଦେଖିଲେ ଏବଂ ଚାଲିଗଲେ ?**
+      * ଏକ ଲେବୀୟ//. [27-07]//
+  - **ଲେବୀୟ କଣ କଲେ ଯେତେବେଳେ ସେ ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ ଦେଖିଲେ ?**
+      * ସେ ତାହାକୁ ଅଦେଖା କଲେ ଏବଂ  ଅପର ପାର୍ଶ୍ଵ ର ରାସ୍ତାକୁ ଚାଲିଗଲେ//. [27-07]//
+  - **କେଉଁ ତୃତୀୟ ବ୍ୟକ୍ତି  ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ ଦେଖିଲେ ?**
+      * ଏକ ଶମିରୋଣୀୟ//. [27-08]//
+  - **ଯିହୂଦୀ ଓ ଶମିରୋଣୀୟମାନଙ୍କ ମଧ୍ୟରେ କଣ ସମ୍ପର୍କ ଥିଲା ?**
+      * ସେମାନେ ପରସ୍ପରକୁ ଘୃଣା କରୁଥିଲେ//. [27-08]//
+  - **କିପରି ଭାବରେ ଶମିରୋଣୀୟ ଆହତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ ସାହାଯ୍ୟ କଲେ ?**
+      * ସେ ସେହି ବ୍ୟକ୍ତିର ଆଘାତ ହୋଇଥିବା ସ୍ଥାନକୁ ପଟି ବାନ୍ଧିଲେ ଏବଂ ତାଙ୍କୁ ରାସ୍ତା ନିକଟରେ ଥିବା ଏକ ପାନ୍ଥଶାଳାକୁ ନେଇ ତାଙ୍କର ଯତ୍ନ ନେଲେ//. [27-09], [27-10]//
+  - **ଏହି ତିନିଜଣଙ୍କ ମଧ୍ୟରୁ କିଏ ଆଘାତ ହୋଇଥିବା ଲୋକଟିର ପ୍ରତିବାସୀ ଭାବରେ କାର୍ଯ୍ୟ କଲେ ?**
+      * ଶମିରୋଣୀୟ ବ୍ୟକ୍ତି// “// ଯିଏ ତାଙ୍କ ପ୍ରତି ଦୟା ଦେଖାଇଥିଲେ//. [27-11]//
+
 **[[:en:obs:notes:questions:26|<< ]] | [[:en:obs:notes:questions:28| >>]]**
