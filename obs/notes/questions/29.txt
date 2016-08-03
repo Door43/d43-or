@@ -1,33 +1,30 @@
-====== Story #29: The Story of the Unmerciful Servant ======
+====== **ଗଳ୍ପ #** 29: **ନିର୍ଦୟୀ ଦାସର କାହାଣୀ**  ======
 
+===== **ସବିବରଣୀ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ**  =====
 
-===== Comprehension Questions and Answers =====
+  - **ପିଟର ଯୀଶୁଙ୍କୁ କେଉଁ ପ୍ରଶ୍ନ ପଚାରିଲେ ?**
+      * //"// ଯେତେବେଳେ ମୋ ଭାଇ ମୋ ବିରୁଦ୍ଧରେ ପାପ କରେ//,  // ମୁଁ କେତେ ଥର ତାହାଙ୍କୁ କ୍ଷମା କରିବା ଉଚିତ୍// ?" [29-01]//
+  - **ପିତର କେତେ ଥର ନିଜ ଭାଇଙ୍କୁ କ୍ଷମା ଦେବା ଉଚିତ୍ ମନେକଲେ ? **
+      * ସାତଥର//. [29-01]//
+  - **ସେ ତାହାର ଭାଇଙ୍କୁ କେତେ ଥର କ୍ଷମା ଦେବା ଉଚିତ୍ ବୋଲି ଯୀଶୁ କହିଲେ ? **
+      * ସାତର ସତୁରି ଗୁଣ//. [29-01]//
+  - **ଯୀଶୁ ଉଦ୍ଦେଶ୍ୟ କଣ ଥିଲା ଯେତେବେଳେ ସେ କହିଲେ, "ସାତର ସତୁରି ଥର?**
+      * ତାଙ୍କର ଅର୍ଥ ଯେ ଆମ୍ଭେମାନେ  ସବୁବେଳେ କ୍ଷମ କରିବା ଉଚିତ୍//. [29-01]//
+  - **ଦାସ ରାଜାଙ୍କୁ ତାହାର ବୃହତ୍ ଋଣ ପରିଶୋଧ କରିବାକୁ ସକ୍ଷମ ଥଲେ କି ?**
+      * ନୁହଁ//. [29-03]//
+  - **କିପରି ଭାବରେ ରାଜା ଦାସର ବୃହତ୍ ଋଣ ଯୋଗୁଁ ଦଣ୍ଡିତ କଲେ ?**
+      * ରାଜା ସେହି ପୁରୁଷ ଓ ତାଙ୍କ ପରିବାରକୁ  ଦାସ ଭାବରେ ବିକ୍ରୟ କରିବାକୁ ଆଦେଶ ଦେଲେ//. [29-03]//
+  - **ରାଜା କଣ କଲେ ଯେତେବେଳେ ଦାସ ତାହାଙ୍କୁ ଧୈର୍ଯ୍ୟ ଧରିବାକୁ ବିନତି କଲେ?**
+      * ରାଜା ସେହି ଦାସ ଉପରେ ଦୟାବାନ୍ ହେଲେ ଏବଂ ଋଣକୁ ଛାଡ କଲେ//. [29-04]//
+  - **ତା ପରେ ସେହି ଦାସ ତାହାର ସଂଗୀ ଦାସକୁ କଣ କଲେ ଯିଏ ତାଙ୍କର ଅଳ୍ପ ଋଣୀ ହୋଇଥିଲେ ?**
+      * ସେ ଗଳା ଧରିଲା ଏବଂ ତାହାକୁ ଋଣ କରିଥିବା ସମସ୍ତ ଋଣକୁ ପରିଶୋଧ କରିବା ନିମନ୍ତେ ଦାବି କଲା//. [29-05]//
+  - **ସେହି ଦାସ କଣ କଲେ ଯେତେବେଳେ ତାହାର ସଙ୍ଗୀ ଦାସ ଗୋଡ ତଳେ ପଡି ତାଙ୍କୁ ଧୈର୍ଯ୍ୟ ଧରିବାକୁ ନିବେଦନ କଲେ ?**
+      * ସେ ତାହାର ସଙ୍ଗୀ ଦାସଙ୍କୁ କାରାଗାରରେ ଫିଙ୍ଗିଦେଲେ//. [29-06]//
+  - **ଅନ୍ୟ ଦାସମାନଙ୍କ ପ୍ରତିକ୍ରିୟା କଣ ଥିଲା ଯେତେବେଳେ ସେହି ଦାସ ତାହାର ସଙ୍ଗୀ ଦାସକୁ କାରାଗାରରେ ଫୋପାଡି ଦେଲେ ?**
+      * ସେମାନେ ଅତି ବ୍ୟସ୍ତ ହେଲେ ଏବଂ ଏହି ବିଷୟରେ ରାଜାଙ୍କୁ କହିଲେ//. [29-07]//
+  - **ରାଜା ସେହି ଦାସକୁ କିପରି ଦଣ୍ଡ ଦେଲେ ଯିଏ ତାହାର ସଙ୍ଗୀ ଦାସକୁ କ୍ଷମା କରି ନ ଥିଲେ ?**
+      * ସେ ଦାସକୁ  କାରାଗାରରେ ଫିଙ୍ଗିଦେଲେ//. [29-08]//
+  - **ଯଦି ଆମ୍ବେମାନେ ଅନ୍ୟମାନଙ୍କୁ ହୃଦୟରୁ କ୍ଷମ ନ କରିବା, ତେବେ ପରମେଶ୍ଵର ଆମ୍ଭମାନଙ୍କୁ କ୍ଷମା କରିବେ କି ?**
+      * ନୁହଁ//. [29-09]//
 
-
-  - **What question did Peter ask Jesus?**
-    *//"How many times should I forgive my brother when he sins against me?" [29-01]//
-  - **How many times did Peter think he should forgive his brother?**
-    *//Seven times. [29-01]//
-  - **How many times did Jesus say he should forgive his brother?**
-    *//Seventy times seven. [29-01]//
-  - **What did Jesus mean when he said, "Seventy times seven?**
-    *//He meant that we should always forgive. [29-01]//
-  - **	Was the servant able to pay his huge debt to the king?**
-    *//No. [29-03]//
-  - **How did the king punish the servant with the huge debt?**
-    *//The king ordered that the man and his family be sold as slaves. [29-03]//
-  - **What did the king do when the servant begged him to be patient?**
-    *//The king felt pity on the servant and cancelled his debt. [29-04]//
-  - **What did the servant then do to a fellow servant who owed him a small debt?**
-    *//He grabbed him and demanded that he pay the money that he owed him. [29-05]//
-  - **What did the servant do when his fellow servant fell on his knees and asked him to be patient?**
-    *//He threw his fellow servant into prison. [29-06]//
-  - **How did the other servants react when he threw his fellow servant in prison?**
-    *//They were greatly disturbed and told the king about it. [29-07]//
-  - **How did the king punish the servant who did not forgive his fellow servant?**
-    *//He threw him into prison. [29-08]//
-  - **Will God forgive us if we do not forgive others from our heart?**
-    *//No. [29-09]//
-
-
-**[[en/obs/notes/questions/28|<< ]] | [[en/obs/notes/questions/30| >>]]**
+**[[:en:obs:notes:questions:28|<< ]] | [[:en:obs:notes:questions:30| >>]]**
