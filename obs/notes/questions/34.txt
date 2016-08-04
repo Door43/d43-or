@@ -1,32 +1,30 @@
-====== Story #34: Jesus Teaches Other Stories ======
+====== **ଗଳ୍ପ #** 34: **ଯୀଶୁ ଅନ୍ୟ କାହାଣୀଗୁଡିକ ଶିଖାନ୍ତି **  ======
 
-===== Comprehension Questions and Answers =====
+===== **ସବିବରଣ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ**  =====
 
+  - **କିପରି ସୋରିଷ ବିହନକୁ ଅନ୍ୟ ବିହନଗୁଡିକ ସହିତ କିପରି ତୁଳନା କରିବା?**
+      * ଏହି ବୀଜ ସମସ୍ତ ବୀଜଠାରୁ କ୍ଷୁଦ୍ର ଅଟେ ।//“[34-01]//
+  - **ଏକ ସୋରିଷ ବିହନ କେତେ ବୃଦ୍ଧି ପାଏ ?**
+      * ତାହା ଉଦ୍ୟାନରେ ଥିବା ସମସ୍ତ ଉଦ୍ଭିଦଠାରୁ ବଡ ହୋଇଥାଏ // [34-02]//
+  - **ତାଡି କଣ ହୁଏ ଯଦି ତାହା ଦଳା ହୋଇଥିବା ରୋଟି ସହିତ ମିଶ୍ରିତ ହୁଏ ?**
+      * ଦଳା ଯାଇଥିବା ପ୍ରତ୍ୟେକ ସ୍ଥାନରେ ବ୍ୟାପିଯାଏ//. [34-03]//
+  - **ଜଣେ ମନୁଷ୍ୟ କ୍ଷେତରେ ଲୁଚାଯାଇଥିବା ଗୁପ୍ତ ଧନ ପାଇଲା ପରେ କଣ କଲା ?**
+      * ତାହା ପାଖରେ ଯାହା ଥିଲା//, // ସେ ସମସ୍ତ ବିକ୍ରି କଲା ଏବଂ ସେହି ଜମିକୁ କିଣିବା ନିମନ୍ତେ ଟଙ୍କା ବ୍ୟବହାର କଲା// “ [34-04]//
+  - **ମାଣିକ୍ୟ ବ୍ୟବସାୟୀ କଣ କଲା ଯେତେବେଳେ ସେ ଏକ ଉତ୍ତମ ମାନିକୟା ପାଇଲା ?**
+      * ତାହା ପାଖରେ ଯାହା ଥିଲା//, // ସେ ସମସ୍ତ ବିକ୍ରି କଲା ଏବଂ ସେହି ଜମିକୁ କିଣିବା ନିମନ୍ତେ ଟଙ୍କା ବ୍ୟବହାର କଲା// “ [34-05]//
+  - **ଯୀଶୁ କାହାକୁ ଦୁଇ ଜଣ ବ୍ୟକ୍ତିଙ୍କ ବିଷୟରେ କାହାଣୀ କହିଲେ ଯେଉଁମାନେ ମନ୍ଦିରରେ ପ୍ରାର୍ଥନା କରୁଥିଲେ ?**
+      * ଲୋକମାନେ//, // ଯେଉଁମାନେ ଉତ୍ତମ କାର୍ଯ୍ୟ ଉପରେ ବିଶ୍ବାସ ରଖୁଥିଲେ ଏବଂ ଅନ୍ୟମାନଙ୍କୁ ତୁଚ୍ଛ କରୁଥିଲେ // [34-06]//
+  - **କାହିଁକି ଧାର୍ମିକ ଗୁରୁ ପରମେଶ୍ଵରଙ୍କୁ ଧନ୍ୟବାଦ କରୁଥିଲେ ?**
+      * ସେ ପରମେଶ୍ଵରଙ୍କୁ ଧନ୍ୟବାଦ ଦେଲେ ଯେ ସେ ଅନ୍ୟମାନଙ୍କ ପରି ପାପୀ ନୁହନ୍ତି // [34-07]//
+  - **କାହିଁକି ଧାର୍ମିକ ଗୁରୁମାନେ ତାହାକୁ ଧାର୍ମିକ ବୋଲି ଭାବୁଥିଲେ ?**
+      * //“// ସେ ସପ୍ତାହରେ ଦୁଇ ଥର ଉପବାସ କରୁଥିଲା ଏବଂ ଆୟ କରିଥିବା ଅର୍ଥ ଓ ଜିନିଷର ତାଙ୍କ ଦଶ ଅଂଶ ଦେଉଥିଲା ।//” [34-08]//
+  - **କରଗ୍ରାହୀ ପରମେଶ୍ଵରଙ୍କୁ କଣ ପ୍ରାର୍ଥନା କରୁଥିଲା?**
+      * କାରଣ ସେ ଜଣେ ପାପୀ ଏବଂ ସେ ପରମେଶ୍ଵରଙ୍କୁ ତା ଉପରେ ଦୟାବନ୍ତ ହେବା ପାଇଁ ପ୍ରାର୍ଥନା କଲା // [34-09]//
+  - **କେଉଁ ବ୍ୟକ୍ତିକୁ ଧାର୍ମିକ ବୋଲି ଘୋଷଣା କରାଗଲା?**
+      * କରଗ୍ରାହୀ//. [34-10]//
+  - **ପରମେଶ୍ଵର ପ୍ରତ୍ୟେକ ଗର୍ବୀମାନଙ୍କ ସହିତ କଣ କରିବେ ?**
+      * ସେ ସେମାନଙ୍କୁ ନମ୍ର କରିବେ//. [34-01]//
+  - **ପରମେଶ୍ଵର ପ୍ରତ୍ୟେକ ନମ୍ର ବ୍ୟକ୍ତିମାନଙ୍କ ସହିତ କଣ କରିବେ ?**
+      * ସେ ସେମାନଙ୍କୁ ଉନ୍ନତ କରିବେ//. [34-10]//
 
-  - **How does a mustard seed compare to other seeds?**
-    *//It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-    *//It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-    *//It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-    *//He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-    *//He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-    *//People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-    *//He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-    *//He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-    *//He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-    *//The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-    *//He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-    *//He will lift them up. [34-10]//
-
-
-**[[en/obs/notes/questions/33|<< ]] | [[en/obs/notes/questions/35| >>]]**
+**[[:en:obs:notes:questions:33|<< ]] | [[:en:obs:notes:questions:35| >>]]**
