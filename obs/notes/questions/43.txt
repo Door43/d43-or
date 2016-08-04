@@ -1,36 +1,33 @@
-====== Story #43: The Church Begins ======
+====== **ଗଳ୍ପ #** 43: **ମଣ୍ଡଳୀର ଆରମ୍ଭ**  ======
 
-===== Comprehension Questions and Answers =====
+===== **ସବିବରଣ ପ୍ରଶ୍ନ ଏବଂ ଉତ୍ତରଗୁଡିକ**  =====
 
-
-  - **What were the disciples doing while they waited in Jerusalem?**
-    *//They gathered together constantly to pray. [43-01]//
-  - **When did the Jews celebrate Pentecost?**
-    *//They celebrated every year, 50 days after the Passover. [43-02]//
-  - **What happened to the believers during the Pentecost after Jesus rose from the dead?**
-    *//There was a sound like a strong wind, something like flames of fire appeared over their heads, and they were filled with the Holy Spirit and began to speak in other languages. [43-02]//
-  - **Why were the people in the crowd astonished?**
-    *//They heard the disciples speaking in the native languages of the people in the crowd. [43-04]//
-  - **What did some of the people think was the reason the disciples were talking this way?**
-    *//They accused the disciples of being drunk. [43-05]//
-  - **What did Peter say was causing them to speak these languages?**
-    *//Peter said God was pouring out his Spirit. [43-05]//
-  - **Who did Peter say was responsible for crucifying Jesus?**
-    *//The people in the crowd. [43-06], [43-09]//
-  - **How did Peter say Jesus became alive again?**
-    *//God raised him from the dead. [43-07]//
-  - **What caused the disciples to be able to speak in other languages?**
-    *//The Holy Spirit caused them to be able to speak in other languages. [43-08]//
-  - **What were the two things that Peter said God caused Jesus to become?**
-    *//Lord and Messiah. [43-09]//
-  - **How did the people respond to Peter's message?**
-    *//They were deeply moved and asked, “Brothers, what should we do?” [43-10]//
+  - **ଶିଷ୍ୟମାନେ କଣ କରୁଥିଲେ ଯେତେବେଳେ ସେମାନେ ଯିରୁଶାଲମରେ ଅପେକ୍ଷା କରୁଥିଲେ ?**
+      * ସେମାନେ ଏକତ୍ର ହୋଇ ନିରନ୍ତର  ପ୍ରାର୍ଥନା କରୁଥିଲେ//. [43-01]//
+  - **ଯିହୁଦୀମାନେ କେବେ ପେନ୍ତିକୋଷ୍ଟ ଦିନ ପାଳନ କରନ୍ତି ?**
+      * ନିସ୍ତାରପର୍ବର ୫୦ ଦିନ ପରେ ପ୍ରତି ବର୍ଷ ଯିହୂଦୀମାନେ ପେଣ୍ଟିକଷ୍ଟ ଦିବସ ପାଳନ କରୁଥିଲେ//. [43-02]//
+  - **ଯୀଶୁ ମୃତ୍ୟୁରୁ ଉଠିଲା ପରେ, ପେନ୍ତିକୋଷ୍ଟ ସମୟରେ ବିଶ୍ବାସୀମାନେ କଣ କରୁଥିଲେ ?**
+      * ସେହିସ୍ଥାନରେ ଏକ ଉଚ୍ଚ ଶବ୍ଦରେ ପ୍ରଚଣ୍ଡ ପବନ ବହିଲା//, // ସେମାନଙ୍କ ଉପରେ ଅଗ୍ନିସ୍ଵରୁପ ଏକ ଜିହ୍ବା ଅଧିଷ୍ଠିତ ହେଲା ଏବଂ  ସମସ୍ତେ ପବିତ୍ରଆତ୍ମାରେ ପରିପୂର୍ଣ୍ଣ ହେଲେ ଏବଂ ଅନ୍ୟାନ୍ୟ ଭାଷାରେ କଥା କହିବାକୁ ଲାଗିଲେ//. [43-02]//
+  - **ଜନଗହଳି କାହିଁକି ଆଶ୍ଚର୍ଯ୍ୟାନ୍ମିତ ହେଲେ ?**
+      * ସେମାନେ ଯେଉଁମାନେ ଜନଗହଲିରେ ଥିଲେ ଶୁଣିବାକୁ ପାଇଲେ ଯେ ଶିଷ୍ୟମାନେ ସେମାନଙ୍କ ନିଜ ନିଜ ଭାଷାରେ କଥା ହେଉଥିଲେ//. [43-04]//
+  - **କେଉଁ କାରଣରୁ ଶିଷ୍ୟମାନେ ଏପରି କଥା ହେଉଅଛନ୍ତି ବୋଲି ଲୋକମାନେ ଚିନ୍ତା କରିବାକୁ ଲାଗିଲେ ?**
+      * କିଛି ଲୋକ ଶିଷ୍ୟମାନେ ମାତୁଆଲ ହୋଇଛନ୍ତି ବୋଲି ଅଭିଯୋଗ କଲେ//. [43-05]//
+  - **ସେମାନେ ଏହି ଭାଷାଗୁଡିକ କହିବାର କାରଣ କଣ ଅଟେ ବୋଲି ପିତର କହିଲେ ?**
+      * ପିତର କହିଲେ ପରମେଶ୍ଵର ତାଙ୍କ ଉପରେ ଆତ୍ମା ଢ଼ାଲୁଛନ୍ତି//. [43-05]//
+  - **ଯୀଶୁଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କରିବାର ଦୋଷୀ କିଏ ଅଟନ୍ତି ବୋଲି ପିତର କହିଲେ ?**
+      * ଜନଗହଳିରେ ଥିବା ଲୋକମାନେ//. [43-06], [43-09]//
+  - **କିପରି ପିତର କହୁଥିଲେ ଯୀଶୁ ପୁନର୍ବାର ଜୀବିତ ହୋଇଛନ୍ତି ?**
+      * ପରମେଶ୍ଵର  ତାହାଙ୍କୁ ମୃତ୍ୟୁରୁ ଉଠାଇଲେ//. [43-07]//
+  - **କେଉଁ କାରଣରୁ ଶିଷ୍ୟମାନେ ଅନ୍ୟ ଭାଷାରେ କଥା ହେବାକୁ  ସମର୍ଥ ଥିଲେ ?**
+      * ପବିତ୍ରା ଆତ୍ମା ଦ୍ଵାରା ଶିଷ୍ୟମାନେ  ଅନ୍ୟାନ୍ୟ ଭାଷାରେ କଥା ହେଉଥିଲେ//. [43-08]//
+  - **ପରମେଶ୍ବର ଯୀଶୁଙ୍କୁ ହେବା ବିଷୟରେ ପିତର କେଉଁ ଦୁଇଗୋଟି ବିଷୟ କହିଲେ ?**
+      * ପ୍ରଭୁ ଓ ଖ୍ରୀଷ୍ଟ//. [43-09]//
+  - **ଲୋକମାନେ ପିତରଙ୍କ ସମ୍ବାଦକୁ କିପରି ଭାବରେ ପ୍ରତିଉତ୍ତର ଦେଲେ ? **
+      * ସେମାନେ ଗମ୍ଭୀର ହୋଇ ପଚାରିଲେ// ,“// ଭାଇମାନେ//, // ଆମେ କରିବା ଉଚିତ୍// ?” [43-10]//
   - **What did Peter tell the people to do?**
-    *//He told them to repent and be baptized in the name of Jesus Christ so that God will forgive their sins. [43-11]//
+      * //He told them to repent and be baptized in the name of Jesus Christ so that God will forgive their sins. [43-11]//
   - **How many people believed and were baptized that day?**
-    *//About 3000. [43-12]//
+      * //About 3000. [43-12]//
   - **What did the disciples spend their time doing?**
-    *//Listening to the teaching of the apostles, spending time together, eating together, praying with each other, praising God together, and sharing everything. [43-13]//
-
-
-**[[en/obs/notes/questions/42|<< ]] | [[en/obs/notes/questions/44| >>]]**
+      * //Listening to the teaching of the apostles, spending time together, eating together, praying with each other, praising God together, and sharing everything. [43-13]//
+**[[:en:obs:notes:questions:42|<< ]] | [[:en:obs:notes:questions:44| >>]]**
