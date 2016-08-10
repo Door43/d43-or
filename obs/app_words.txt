@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+ମୋବାଇଲ୍ ଆପ ସୀମା ବିସ୍ତାରିତ ଶବ୍ଦ ପାଇଁ ଅନୁବାଦ// //
 
+ଏକ ଭାଷାକୁ ବାଛ: ଏକ ଭାଷାକୁ ବାଛ
 
-Select a language: Select a Language
+ଅଧ୍ୟାୟଗୁଡିକ: ଅଧ୍ୟାୟଗୁଡିକ
 
+ଭାଷାଗୁଡିକ: ଭାଷାଗୁଡିକ
 
-Chapters: Chapters
+ପରବର୍ତ୍ତୀ ଅଧ୍ୟାୟ: ପରବର୍ତ୍ତୀ ଅଧ୍ୟାୟ
 
+ଠିକ୍ ଅଟେ: ଠିକ୍ ଅଟେ
 
-Languages: Languages
+ବାତିଲ୍ କରିବା: ବାତିଲ୍ କରିବା
 
+ସ୍ଥାନୀୟ ରକ୍ଷା: ସ୍ଥାନୀୟ ରକ୍ଷା
 
-Next chapter: Next Chapter
+ଏହି ଦଉଡିକୁ ରକ୍ଷା କରିବା: ସଂଯୋଗାହୀନ ବ୍ୟବହାର ପାଇଁ ସ୍ଥାନୀୟ ଭାଷାର ରକ୍ଷା
 
+ସ୍ଥାନୀୟ ଭାବରେ କାଢିନେବା: ସ୍ଥାନୀୟ ଭାବରେ କାଢିନେବା:
 
-OK: OK
-
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+ଏହି ଦଉଡିକୁ କାଢିବା: ସଂଯୋଗହୀନ ତଥ୍ୟରୁ ଏହି ଭାଷାକୁ କାଢିନିଅ. ଭବିଷ୍ୟତରେ ଏହା ଦେଖିବାକୁ ତୁମକୁ ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗର ଆବଶ୍ୟକ
