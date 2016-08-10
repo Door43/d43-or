@@ -1,50 +1,41 @@
-===== Statement of Faith =====
+====== ବିଶ୍ବାସର ସଂଜ୍ଞା         ======
 
-This module answers the question: What do we believe?\\
-Before you start this module have you learned about:
-  * [[or:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+ଏହି ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଏ: କଣ ଆମେ ବିଶ୍ଵାସ କରୁ?
 
-//The official version of this document is found at [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
+ଏହି ବିଷୟ ବୁଝିବାକୁ//, // ଏହାକୁ ପଢିବା ଉତ୍ତମ ହୋଇପାରେ//://
 
-==== Statement of Faith ====
+   * [[:or:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
 
-//The following statement of faith is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
+କାର୍ଯ୍ୟ କାଲ୍ ବୟାନରେ ଦସ୍ତାବିଜ ମିଳେ// [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
 
-We believe that Christian belief can and should be divided into **essential beliefs** and **peripheral beliefs**.
+===== ବିଶ୍ବାସର ସଂଜ୍ଞା         =====
 
-=== Essential beliefs ===
+ନିମ୍ନଲିଖିତ ବିଶ୍ବାସର ବକ୍ତବ୍ୟ ଗୁଡିକର ଅନାବୃତ ଶବ୍ଦ ପରିକଳ୍ପନାର ବିତରଣକାରିମନେ ଏବଂ ସମସ୍ତ ସଭ୍ୟ ସଂସ୍ତାରୁ ଅନୁମତି ଦିଆଯାଇଅଛି// [[http://unfoldingword.org|unfoldingWord]] project. // ଏହା ଲୌସନ୍ନେ ଚୁକ୍ତିର ରାଜିନାମା ଅଟେ// [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
 
-Essential beliefs are what define a follower of Jesus Christ and can never be compromised or ignored.
+ଆମ୍ଭେ ବିଶ୍ଵାସ କରୁ ଯେ ଖ୍ରୀଷ୍ଟିୟ **ବିଶ୍ଵାସ ଅତ୍ୟାବଶ୍ୟକ**  ବିଶ୍ଵାସରେ **କିମ୍ବା ପ୍ରାନ୍ତବର୍ତ୍ତୀ**  ବିଶ୍ଵାସରେ ବିଭାଜିତ ହେଉ
 
-  * We believe the Bible to be the only inspired, inerrant, sufficient, authoritative Word of God.
+==== **ଅତ୍ୟାବଶ୍ୟକ ବିଶ୍ଵାସ**  ====
 
-  * We believe that there is one God, eternally existent in three persons: God the Father, Jesus Christ the Son and the Holy Spirit.
+ଅତ୍ୟାବଶ୍ୟକ ବିଶ୍ଵାସ ଜଣେ ଯୀଶୁଙ୍କର ଅନୁଗମନକାରୀକୁ ସଜ୍ଞା ଦିଏ ଏବଂ ଯାହା ଆଦୌ ସମାଧାନ କିମ୍ବା ଉପେକ୍ଷା ହୋଇପାରେ ନାହିଁ
 
-  * We believe in the deity of Jesus Christ.
+  * ଆମ୍ଭେ ବିଶ୍ଵାସ କରୁ ଯେ ବାଇବଲ କେବଳ ଅନୁପ୍ରେରିତ, ପର୍ଯ୍ୟାପ୍ତ, ଅଧିକାରଯୁକ୍ତ ବିଶ୍ଵାସଯୋଗ୍ୟ ପରମେଶ୍ଵରଙ୍କ ବାକ୍ୟ ଅଟେ
+  * ଆମ୍ଭେ ବିଶ୍ବାସ କରୁ ଯେ କେବଳ ଏକ ମାତ୍ର ପରମେଶ୍ଵର ଯେ ତିନି ପୁରୁଷ, ଚିରକାଳ ପାଇଁ ଅସ୍ଥିତ୍ବ ଅଛନ୍ତି
+  * ପିତା ପରମେଶ୍ଵର, ପୁତ୍ର ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଏବଂ ପବିତ୍ରା ଆତ୍ମା
+  * ଆମେ ଯୀଶୁଖ୍ରୀଷ୍ଟଙ୍କ ଇଶ୍ଵରତ୍ଵରେ ବିଶ୍ଵାସ କରୁ
+  * ଆମେ ଯୀଶୁଙ୍କର ମାନବିକତାରେ, କୁମାରୀ ଦ୍ଵାରା ତାଙ୍କ ଜନ୍ମରେ, ତାଙ୍କ ପାପଶୁନ୍ୟ ଜୀବନରେ, ତାଙ୍କ ଆଶ୍ଚର୍ଯ୍ୟ କର୍ମରେ, ତାଙ୍କ ରକ୍ତ ବହାଇବା ଦ୍ଵାରା ତାଙ୍କ ପ୍ରାତିନିଧିକ ଏବଂ ପ୍ରାୟଶ୍ଚିତ ମୁଳକ ମୃତ୍ୟୁରେ, ତାଙ୍କ ଶରୀରର ପୁନଃରୁତ୍ଥାନରେ, ସ୍ଵର୍ଗାରୋହଣ କରି ପିତାଙ୍କ ଦକ୍ଷିଣ ପାର୍ଶ୍ଵରେ ବସିବାରେ ବିଶ୍ଵାସ କରୁ
+  * ଆମେ ବିଶ୍ଵାସ କରୁ ଯେ ପ୍ରତ୍ୟେକ ଲୋକ ଜନ୍ମରେ ପାପପୁର୍ଣ୍ଣ  ଏବଂ ଅନନ୍ତକାଳିନ ନର୍କ ପାଇଁ ଯୋଗ୍ୟ ଅଟନ୍ତି
+  * ଆମେ ବିଶ୍ବାସ କରୁ ଯେ ପାପରୁ ପରିତ୍ରାଣ ପାଇବା ପରମେଶ୍ଵରଙ୍କର ଉପହାର ଯାହା ଯୀଶୁଙ୍କର ବଳିଦାନ ପୁର୍ବକ ମୃତ୍ୟୁ ଏବଂ ପୁନଃରୁଥାନ ଦ୍ଵାରା ପ୍ରଦାନ କରାଯାଇଛି, କାର୍ଯ୍ୟ ଦ୍ଵାରା ନୁହଁ, କେବଳ ପରମେଶ୍ଵରଙ୍କର ଅନୁଗ୍ରହ ଦ୍ଵାରା ପ୍ରାପ୍ତ ଅଟେ
+  * ଆମେ ବିଶ୍ଵାସ କରୁ ଯେ ସବୁବେଳେ ସତ୍ୟ ବିଶ୍ବାସ ଅନୁତାପ ଦ୍ଵାରା  ଏବଂ ପବିତ୍ରା ଆତ୍ମାଙ୍କ ଦ୍ଵାରା ପୁନର୍ଜୀବନ ସାଙ୍ଗରେ ରହେ
+  * ଆମେ ବର୍ତ୍ତମାନ ପବିତ୍ର ଆତ୍ମାର ସେବାକାର୍ଯ୍ୟରେ ବିଶ୍ଵାସ କରୁ ଯାହା ଦ୍ଵାରା ଯୀଶୁ ଖ୍ରୀଷ୍ଟଙ୍କର ଅନୁଗମନକାରୀମାନେ ସ୍ଥାୟୀଭାବରେ ଈଶ୍ଵରୀୟ ଜୀବନଯାପନ କରିବାକୁ ସାମର୍ଥ ପାଆନ୍ତି
+  * ଆମେ ଯୀଶୁଙ୍କଠାରେ ସମଗ୍ର ଦେଶରୁ, ଭାଷାଗୁଡିକରୁ ଏବଂ ଲୋକସମୁହମାନଙ୍କରୁ  ବିଶ୍ଵାସୀମାନଙ୍କର ଆତ୍ମିକ ଏକତାରେ ବିଶ୍ଵାସ କରୁ,
+  * ଆମେ ଯୀଶୁ ଖ୍ରୀଷ୍ଟଙ୍କର ବ୍ୟକ୍ତିଗତ ଏବଂ ଶରୀରରେ ପୁନରାଗମନରେ ବିଶ୍ଵାସ କରୁ
+  * ଆମେ ନଷ୍ଟ ଏବଂ ପରିତ୍ରାଣପ୍ରାପ୍ତ ମାନଙ୍କର ପୁନଃରୁଥାନରେ ବିଶ୍ଵାସ କରୁ; ପରିତ୍ରାଣ ପାଇ ନଥିବା ସମସ୍ତେ ନର୍କରେ ବିନାଶ ହେବା ପାଇଁ ପୁନଃରୁଥାନ ହେବେ, ଏବଂ ପରିତ୍ରାଣ ପାଇଥିଵା ସମସ୍ତେ ପରମେଶ୍ଵରଙ୍କ ସହ ଅନନ୍ତକାଳୀନ ଆଶୀର୍ବାଦ ପାଇବାକୁ ପୁନଃରୁଥିତ ହେବେ
 
-  * We believe in the humanity of Jesus Christ, in His virgin birth, in His sinless life, in His miracles, in His vicarious and atoning death through His shed blood, in His bodily resurrection, in His ascension to the right hand of the Father.
+==== ପ୍ରାନ୍ତବର୍ତ୍ତୀ ବିଶ୍ବାସ ====
 
-  * We believe that every person is inherently sinful and so is deserving of eternal hell.
+ପ୍ରାନ୍ତବର୍ତ୍ତୀ ବିଶ୍ଵାସ ହେଉଛି ଯାହା ସବୁ ଶାସ୍ତ୍ରରେ ଅଛି କିନ୍ତୁ ଯୀଶୁଙ୍କର ଶିଷ୍ୟମାନେ ଅସମ୍ମତ ହୋଇ ପାରନ୍ତି( ଉଦାହରଣ – ବାପ୍ତିସ୍ମ, ପ୍ରଭୁଭୋଜ,ଏବଂ ଆକାଶକୁ ଉତ୍ଥିତ ହେବା...ଇତ୍ୟାଦି). ଆମେ ସମ୍ମତରୁ ଅସମ୍ମତକୁ ଏହି ବିଷୟ ଉପରେ ସମ୍ମତି କରୁ ଏବଂ ଏକତ୍ର କରି ଆମର ଲକ୍ଷ୍ୟ ସାଧାରଣ ଲୋକସମୁହକୁ ଶିଷ୍ୟକରିବାକୁ ନିରନ୍ତର ଚେଷ୍ଟା କରୁ(ମାଥିଉ ୨୮:୧୮-୨୦)
 
-  * We believe that salvation from sin is a gift of God, provided through the sacrificial death and resurrection of Jesus Christ, attained by grace through faith, not by works.
+ଆମେ ଆପଣଙ୍କୁ ପରବର୍ତ୍ତୀ ସମୟରେ ଶିଖିବାକୁ ସୁପାରିଶ କରୁଅଛୁ// ://
 
-  * We believe that true faith is always accompanied by repentance and regeneration by the Holy Spirit.
-
-  * We believe in the present ministry of the Holy Spirit by whose indwelling the follower of Jesus Christ is enabled to live a godly life.
-
-  * We believe in the spiritual unity of all believers in the Lord Jesus Christ, from all nations and languages and people groups.
-
-  * We believe in the personal and physical return of Jesus Christ.
-
-  * We believe in the resurrection of both the saved and the lost; the unsaved will be resurrected to eternal damnation in hell and the saved will be resurrected to eternal blessing in heaven with God.
-
-=== Peripheral beliefs ===
-
-Peripheral beliefs are everything else that is in Scripture but about which sincere followers of Christ may disagree (e.g. Baptism, Lord's Supper, the Rapture, etc.). We choose to agree to disagree agreeably on these topics and press on together toward a common goal of making disciples of every people group (Matthew 28:18-20).
-
-
-
-Next we recommend you learn about:
-  * [[or:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[or:ta:vol1:intro:open_license|Open License]]
-
+  * ଅନୁବାଦ ନିୟମଗୁଡିକ([[:or:ta:vol1:intro:translation_guidelines|Translation Guidelines]])
+  * ଉନ୍ମୁକ୍ତ ପ୍ରମାଣ ପତ୍ର([[:or:ta:vol1:intro:open_license|Open License]])
