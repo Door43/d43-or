@@ -1,41 +1,39 @@
-===== Translation Guidelines =====
+===== ଅନୁବାଦର ନିୟମସମୁହ** (** ନିୟମଗୁଡିକ**)**  =====
 
-This module answers the question: By what principles do we translate?\\
-Before you start this module have you learned about:
-  * [[or:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[or:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+ଏହି ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅ//: // କେଉଁ ସାଧାରଣ ନିୟମସମୁହକୁ ଆଧାରିତ କରି ଆମ୍ଭେ ଅନୁବାଦ କରୁ//?//
 
-//The official version of this document is found at [[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
+ଏହି ବିଷୟକୁ ବୁଝିବା ପାଇଁ//, // ଏହାକୁ ପାଠ କରିବା ଉତ୍ତମ ହୋଇପାରେ//://
 
-==== Translation Guidelines ====
+   * ବିସ୍ତାରିତ ଶବ୍ଦର କାର୍ଯ୍ୟ ([[:or:ta:vol1:intro:uw_intro|The unfoldingWord Project]])
+  * ବିଶ୍ଵାସର ସଂଜ୍ଞା ([[:or:ta:vol1:intro:statement_of_faith|Statement of Faith]])
 
-//The following statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.//
+ଏହି ତଥ୍ୟ ସମ୍ବନ୍ଧିୟ କାର୍ଯ୍ୟ ପ୍ରାପ୍ତ ହୋଇଅଛି// [[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
 
-  - **[[or:ta:vol1:translate:guidelines_accurate|Accurate]]** — Translate accurately, without  detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. 
-  - **[[or:ta:vol2:translate:guidelines_faithful|Faithful]]**  — Avoid any political, denominational, ideological, social, cultural, or theological bias in your translation. Use key terms that are faithful to the vocabulary of the original biblical languages. Use equivalent common language terms for the biblical words that describe the relationship between God the Father and God the Son. These may be clarified, as needed, in footnotes or other supplemental resources.
-  - **[[or:ta:vol2:translate:guidelines_authoritative|Authoritative]]**  — Use the original language biblical texts as the highest authority for translation of biblical content. Reliable biblical content in other languages may be used for clarification and as intermediary source texts. 
-  - **[[or:ta:vol2:translate:guidelines_historical|Historical]]**  — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content.
-  - **[[or:ta:vol1:translate:guidelines_clear|Clear]]**  — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. 
-  - **[[or:ta:vol1:translate:guidelines_natural|Natural]]**  — Use language forms that are effective and that reflect the way your language is used in corresponding contexts.
-  - **[[or:ta:vol2:translate:guidelines_equal|Equal]]** — Communicate the same intent as the source text, including expressions of feeling and attitudes. As much as possible, maintain the different kinds of literature in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. 
+==== ଅନୁବାଦର ନିୟମସମୁହ** (** ନିୟମଗୁଡିକ**)**  ====
 
-==== Identifying and Managing Translation Quality ====
+//ସମସ୍ତ ସଂସ୍ଥାର ସଦସ୍ୟମାନେ ଏବଂ ଉନ୍ମୁକ୍ତ ଶବ୍ଦର ପରିକଳ୍ପନାରେ ଅବଦାନକାରୀମାନେ ନିୟମରେ ଥିବା ନିମ୍ନଲିଖିତ ଶବ୍ଦସମୁହ ଏବଂ ଅନୁବାଦର ବ୍ୟବହାର ପ୍ରକ୍ରିୟାକୁ ସ୍ବୀକୃତ ଦେଇଛନ୍ତି (ଦେଖନ୍ତୁ​ [[http://unfoldingword.org|unfoldingWord]] project. // ସମସ୍ତ ଅନୁବାଦ କାର୍ଯ୍ୟବିଧି ଏହି ସାଧାରଣ ନିୟମ ସମୁହ ଅନୁସାରେ ନିଆଯାଇଅଛି.
 
-The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
+  - **ସଠିକ୍**  - ସଠିକ୍ ଭାବରେ ଅନୁବାଦ କର, ବିନା ହ୍ରାସ କରି  କିମ୍ବା ପ୍ରକୃତ ପାଠ୍ୟର ଅର୍ଥରେ ଯୋଗ ନ କରିବା ଅନୁବାଦିତ ବିଷୟବସ୍ତୁ ବିଶ୍ଵାସ ପୁର୍ବକ ପ୍ରକୃତ ବିଷୟବସ୍ତୁର ଅର୍ଥରେ ଏପରି ବିସ୍ତାରିତ ଭାବରେ ବାର୍ତ୍ତାଳାପ କର ଯେପରି ପ୍ରକୃତ ଶ୍ରୋତାମାନେ ବୁଝିପାରିବେ
+  - **ବିଶ୍ଵସ୍ତ**  - ଆପଣମାନଙ୍କ ଅନୁବାଦରେ କୌଣସି ରାଜନୈତିକ, ଧାର୍ମିକ ସମ୍ପ୍ରଦାୟ, ତତ୍ତ୍ଵ ସମ୍ବଦ୍ଧିୟ, ସାମାଜିକ, ସଭ୍ୟତା କିମ୍ବା ଧର୍ମ ତତ୍ତ୍ଵ ସମ୍ବନ୍ଧିୟଗୁଡିକୁ ନିବାରଣ କର. ପ୍ରକୃତ ବାଇବଲ ଭାଷାରେ ଥିବା ଶବ୍ଦସମୁହକୁ ବିଶ୍ଵାସ ପୁର୍ବକ ମୁଖ୍ୟ ପଦଗୁଡିକ ବ୍ୟବହାର କର. ବାଇବଲ ପଦଗୁଡିକ ପାଇଁ ସେହିପ୍ରକାରର ସାଧାରଣ ଭାଷା ଶବ୍ଦଗୁଡ଼ିକୁ ବ୍ୟବହାର କର ଯେପରି ପିତା ଇଶ୍ଵର, ଏବଂ ପୁତ୍ର ଇଶ୍ଵର ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କକୁ ବୁଝାଇପାରିବ.ଯେପରି ଆବଶ୍ୟକ ଅନୁସାରେ ପାଦଟିକାଗୁଡିକରେ ଏବଂ ଅନ୍ୟ ପରିପୁରକ ଉତ୍ସଗୁଡିକରେ ଏହିଗୁଡିକ ସ୍ପଷ୍ଟ ହୋଇପାରେ.
+  - **ଅଧିକାରଯୁକ୍ତ**  - ବାଇବଲ ସମ୍ବନ୍ଧୀୟ ବିଷୟର ଅନୁବାଦ ପାଇଁ ଉଚ୍ଚ ଅଧିକାରତ୍ଵ ପରି ମୁଳ ଭାଷାର ଅଂଶ ବ୍ୟବହାର କରନ୍ତୁ.  ଅନ୍ୟ ଭାଷାମାନଙ୍କରେ ବିଶ୍ଵାସଯୁକ୍ତ ବାଇବଲ ସମ୍ବନ୍ଧିୟ ବିଷୟକୁ ସ୍ପଷ୍ଟିକରଣ ପାଇଁ  ଲିଖିତ ଉତ୍ସ ପରି ବ୍ୟବହାର କରାଯାଇପାରେ.
+  - **ଐତିହାସିକ **– ଇତିହାସ ସମ୍ବନ୍ଧିୟ ଘଟଣାଗୁଡିକ ଏବଂ ସତ୍ୟ ବିଷୟକୁ ସଠିକ୍ ଭାବରେ ଜଣାନ୍ତୁ, ଯେଉଁମାନେ ଏକ ପରମ୍ପରା ଏବଂ ସଂସ୍କୃତିରେ ମୁଳତଃ ଗ୍ରହଣକାରୀ ମାନଙ୍କଠାରୁ ଭିନ୍ନ ଅଟନ୍ତି, ସେମାନଙ୍କ ପାଇଁ ଆବଶ୍ୟକ ସ୍ଥଳେ ସୁଚନାଗୁଡିକୁ ଯୋଗକରି ସଠିକ୍ ଭାବେ ଉଦ୍ଦେଶ୍ୟପୁର୍ଣ ସମ୍ବାଦକୁ ଜଣାନ୍ତୁ
+  - **ସ୍ପଷ୍ଟ**  – ଯେକୌଣସି ଭାଷାର ଗଠନ ପ୍ରଣାଳୀକୁ ବ୍ୟବହାର କର ଯାହା ଉତ୍ତମ ଭାବରେ ବୁଝିବା ଆବଶ୍ୟକ ଅଟେ. ଏହି ବିଷୟବସ୍ତୁର ରୁପକୁ ପୁନର୍ବାର ଗଠନ ଏବଂ ସମ୍ଭବତ ପ୍ରକୃତ ଅର୍ଥରେ ସ୍ପଷ୍ଟ ଭାବରେ  ବାର୍ତ୍ତାଳାପ କରିବାକୁ ଅନେକ କିମ୍ବା ଅଳ୍ପ ଶବ୍ଦ ବ୍ୟବହାର କରିବା ଅନ୍ତର୍ଭୁକ୍ତ ଅଟେ.
+  - **ସ୍ଵାଭାବିକ **– ଭାଷାର ରୁପକୁ ବ୍ୟବହାର କର ଯାହା କାର୍ଯ୍ୟକାରୀ ହେବ ଏବଂ ସାମ୍ୟ ପୃଷ୍ଠ ଭୁମିରେ ଭାଷାର ପ୍ରକ୍ରିୟାକୁ ପ୍ରତିଫଳିତ କର
+  - **ସମଭାବ**  – ପ୍ରକୃତ ଉତ୍ସକୁ ଠିକ୍ ସେହି ଭାବରେ ସେହି ଉଦ୍ଦେଶ୍ୟରେ, ମନୋଭାବ, ଅଭିବ୍ୟକ୍ତି ଏବଂ ଅଭିବୃତ୍ତିକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି ଜଣାନ୍ତୁ. ଯେତେ ଦୂର ସମ୍ଭବ, ପ୍ରକୃତ ପାଠ୍ୟ ଅଂଶରେ ବିଭିନ୍ନ ପ୍ରକାର ସାହିତ୍ୟିକ ଗ୍ରନ୍ଥ ସମୁହକୁ ବ୍ୟବହାର କରନ୍ତୁ ଯାହା ଗଳ୍ପ, କାବ୍ୟ ଓ କବିତା, ଉପଦେଶ ଏବଂ ଭାବବାଣୀମାନଙ୍କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ, ସମାନ ଆକୃତି ସହିତ ସେମାନଙ୍କୁ ବର୍ଣନା କର ଯାହା ଆପଣଙ୍କ ଭାଷାରେ ଏକାପରି ଭାବେ ସୁଚନା ଦିଏ.
+==== ଚିହ୍ନିପାରିବା ଏବଂ ଅନୁବାଦର ଗୁଣକୁ ପରିଚାଳନା କରିବା ====
 
-The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is:
-  - **Accurate, Clear, Natural, and Equal** — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
-  - **[[or:ta:vol1:translate:guidelines_church_approved|Affirmed by the Church]]**  - Endorsed and used by the Church.
+ଅନୁବାଦର ସ୍ତର  ମୁଳ ବସ୍ତୁର ଅର୍ଥକୁ ନେଇ କିପରି ବିଶ୍ବସ୍ତତାର ସହ ଅନୁବାଦ କରାଯାଏ,ଏବଂ କେତେ ପରିମାଣରେ ଅନୁବାଦ ବୁଝାଯାଉଛି ଏବଂ ଅଭିଗ୍ରାହକ ଭାଷାର ବକ୍ତା ପାଇଁ ପ୍ରଭାବଶାଳୀ ହୋଇଥାଏ. ଯେଉଁ ଯୋଜନା ଆମ୍ଭେ ଭାଷାର ସମୁଦାୟ ସହିତ ଅନୁବାଦର ଗୁଣ ଏବଂ ତାହାର ରୁପକୁ ସମୀକ୍ଷା କରିବା ପାଇଁ ପରାମର୍ଶ ଦେଉ ଏବଂ ସେହି ସମୁଦାୟରେ ମଣ୍ଡଳୀର ସହିତ ଅନୁବାଦର ବିଶ୍ବସ୍ତତା ସମୀକ୍ଷା କରୁ.
 
-We also recommend that the translation work be:
+ଭାଷା ଏବଂ ଅନୁବାଦ ଯୋଜନାର ପୃଷ୍ଠଭୁମି ଉପରେ ନିର୍ଭର କରି ଯେଉଁ ପଦକ୍ଷେପଗୁଡିକ ସମ୍ପୃକ୍ତ ହୋଇଅଛି, ତାହା ଅର୍ଥାବୋଧକ ଭାବେ ପରିବର୍ତ୍ତନ ହୋଇପାରେ: ସାଧାରଣତଃ ଆମ୍ଭେମାନେ ଏହା ଏକ ଉତ୍ତମ ଅନୁବାଦ ଗ୍ରହଣ କରିଥାଉ ଯେତେବେଳେ ସେହି ଭାଷାର ସମୁଦାୟ ଗୋଷ୍ଠିର ବକ୍ତାମାନେ ସମୀକ୍ଷା କରନ୍ତି ଏବଂ ସେହି ସମୁଦାୟ ଗୋଷ୍ଠିର ମଣ୍ଡଳୀର ନେତୃତ୍ବ କରିଥାନ୍ତି, ଯେପରି ତାହା :
 
-  - **[[or:ta:vol2:translate:guidelines_collaborative|Collaborative]]** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible.
-  - **[[or:ta:vol2:translate:guidelines_ongoing|Ongoing]]** — Translation work is never completely finished. Encourage those who are skilled with the language to suggest better ways to say things when they notice that improvements can be made. Any errors in the translation should also be corrected as soon as they are discovered. Also encourage the periodic review of translations to ascertain when revision or a new translation is needed. We recommend that each language community form a translation committee to oversee this ongoing work. Using the unfoldingWord online tools, these changes to the translation can be made quickly and easily.
+  - **ସଠିକ୍, ସ୍ପଷ୍ଟ, ସ୍ଵାଭାବିକ ଏବଂ ସମଭାବ**  – ମୁଳବସ୍ତୁର ଉଦ୍ଦେଶ୍ୟପୁର୍ଣ ଅର୍ଥକୁ ବିଶ୍ଵସ୍ତ ଭାବରେ, ଯେପରି ସେହି ସମୁଦାୟର ମଣ୍ଡଳୀ ଦ୍ଵାରା ନିର୍ଦ୍ଧାରିତ କରିଥାନ୍ତି ଏବଂ ପୃଥିବୀ ବ୍ୟାପି ମଣ୍ଡଳୀ ସହିତ ସହଯୋଗ ଏବଂ ଇତିହାସ ସମ୍ବନ୍ଧୀୟ ଏବଂ ଫଳସ୍ଵରୂପ ହୋଇଥାଏ:
+  - **ମଣ୍ଡଳୀ ଦ୍ଵାରା ଦୃଢ ଘୋଷଣା**  – ମଣ୍ଡଳୀ ଦ୍ଵାରା ସମର୍ଥନ କଲେ ଏବଂ ବ୍ୟବହାର କଲେ,
+ଆମେ ଆପଣଙ୍କୁ ପରବର୍ତ୍ତୀ ସମୟରେ ଶିଖିବାକୁ ସୁପାରିଶ କରୁଅଛୁ// ://
 
-
-
+  - **ସଂଯୋଗିତା **– ଯେଉଁଠାରେ ସମ୍ଭବ, ଅନ୍ୟ ବିଶ୍ଵାସୀମାନେ ଯିଏ ଆପଣଙ୍କ ଭାଷା କହନ୍ତି, ସେମାନଙ୍କ ସହିତ ଏକତ୍ରିତ ହୋଇ କାମ କରନ୍ତୁ, ଏବଂ ପରୀକ୍ଷା କରି ଭାଷାନ୍ତର ବିଷୟ ବାଣ୍ଟନ୍ତୁ ଏବଂ ଏହାୟ ସୁନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଏହା ଏକ ଉଚ୍ଚସ୍ତରର ଅନୁବାଦ ଅଟେ ଏବଂ ପ୍ରତ୍ୟେକ ଲୋକମାନଙ୍କ ପାଇଁ ଏହା ଉପଲବ୍ଧ
+  - **ଅଗ୍ରଗତି**  – ଭାଷାନ୍ତର କାର୍ଯ୍ୟ କେବେହେଲେ ସମାପ୍ତ ହୋଇ ନାହିଁ. ଯେଉଁମାନେ ଭାଷା ସହିତ ଅବିଜ୍ଞ ଅଟନ୍ତି, ସେମାନଙ୍କୁ ଏହାକୁ କିପରି ଉନ୍ନତି କରାଯିବ, ତାହା କରିବାକୁ ପରାମର୍ଶ କରନ୍ତୁ. ଭାଷାନ୍ତରଣରେ ଯେକୌଣସି ତ୍ରୁଟିମାନ ଦେଖାଯାଏ, ସେମାନଙ୍କୁ ଯଥାଶୀଘ୍ର ସଂଶୋଧନ କରିବା ଉଚିତ୍. ଯେତେବେଳେ ନୁତନ ଭାଷାନ୍ତରର ଆବଶ୍ୟକତା ରହିଛି, ତାହାକୁ ନିଶ୍ଚୟ କରିବାକୁ ଅନୁବାଦର ପୁନରାବୃତ୍ତି ସମୀକ୍ଷା କରିବାକୁ ମଧ୍ୟ ଉତ୍ସାହ କରନ୍ତୁ. ଆମେ ପ୍ରତ୍ୟେକ ଭାଷାର ସମାଜକୁ ସୁପାରିଶ୍ କରୁ ଯେ ଏହି ଅଗ୍ରଗତି ହୋଇଥିବା କାର୍ଯ୍ୟ ତତ୍ତ୍ଵାବଧାନ କରିବାକୁ ଏକ ଅନୁବାଦର ସଂଘକୁ ଗଠନ କରନ୍ତୁ. ଉନ୍ମୁକ୍ତ ଶବ୍ଦ ସଂଯୋଗର ସାଧନକୁ ବ୍ୟବହାର କରି ଶୀଘ୍ର ଏବଂ ସହଜରେ ଅନୁବାଦକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ.
 Next we recommend you learn about:
-  * [[or:ta:vol1:intro:open_license|Open License]]
-  * [[or:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[or:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]
 
+  * ଉନ୍ମୁକ୍ତ ପ୍ରମାଣ ପତ୍ର ([[:or:ta:vol1:intro:open_license|Open License]])
+  * ଅନୁବାଦ ତାଲିକାର ଉପକ୍ରମ ([[:or:ta:vol1:translate:translate_manual|Introduction to Translation Manual]])
+  * //}// ଅନୁବାଦକୁ ସଂଶୋଧନ କରିବା ([[:or:ta:vol1:checking:intro_checking|Introduction to Translation Checking]])
