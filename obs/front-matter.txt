@@ -1,30 +1,28 @@
-**unfoldingWord | OPEN BIBLE STORIES**
+===== ପ୍ରକାଶ କରିବା ଶବ୍ଦ ବାଇବଲର ଅନାବୃତ କହାଣୀ ଗୁଡିକ  =====
 
-**an unrestricted visual mini-Bible in any language**
+==== କୌଣସି ଭାଷାର ଏକ କୋଟଣାହୀନ ଦୃଶ୍ୟମାନ ଏକ କ୍ଷୁଦ୍ର ବାଇବଲ ====
 
-http://openbiblestories.com
+[[http://openbiblestories.com|http://openbiblestories.com]]
 
-Open Bible Stories, v. 4.1
+ଅନାବୃତ ବାଇବଲ୍ କାହାଣୀ ଗୁଡିକ, v.୪
 
-Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
+ଡିସ୍ଟାନଟ୍ ଶୋର୍ ମେଡିଆ ଦ୍ଵାରା ନିର୍ମିତ ([[http://distantshores.org|http://distantshores.org]]) ଏବଂ ଡୋର୍୪୩ ୱାଲଡ୍ ମିସନ୍ ସଂଘ ([[http://door43.org|http://door43.org]]).
 
+==== ଅନୁମତି ପତ୍ର ====
 
-**License:**
+ଏହି କାର୍ଯ୍ୟକୁ ଲୋକ ସୃଜନ୍ୟଶୀଳ ସାଧାରଣ ଗୁଣଗୁଡିକ ସହଜ ପ୍ରାପ୍ୟ କରାଯାଇ ଅଛି- ଶେଆର୍ ଅଲାଇକ୍ ୪.୦ଇଣ୍ଟରନେସନାଲ୍ ଲାଇସେନ୍ସ୍ ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]).
 
-This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/).
+ଆପଣ ସ୍ଵତନ୍ତ୍ର ଅଟନ୍ତି:
 
-You are free:
+  * **ଅଂଶ**- ଯେ କୌଣସି ମାଧ୍ୟମରେ ନକଲ୍ ଏବଂ ପୁଣି ବିତରଣ କରନ୍ତୁ
+  * **ଉପଯୋଗୀ କରିବା**- ପୁଣି ମିଶ୍ରଣ କରିବା,ପରିବର୍ତ୍ତନ କରିବା ଏବଂ ସାମଗ୍ରୀ ଯେକୌଣସି ଉଦେଶ୍ୟରେ ନିର୍ମାଣ କରିବା ଏମିତିକି ବ୍ୟବସାୟ ଉଦେଶ୍ୟରେ
+ନିମ୍ନଲିଖିତ ସର୍ତ୍ତମାନଙ୍କ ଅନୁସାରେ:
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+  * **ଅରୋପଣୀୟ**** **—  ନିମ୍ନ ଲିଖିତ କାର୍ଯ୍ୟ ଗୁଡିକ ତୁମେ ନିଶ୍ଚିତ ଏପରି ଅରୋପଣୀୟ କର.  ""ସର୍ବପ୍ରଥମ କାର୍ଯ୍ୟ ଏଠାରେ ଉପଲବ୍ଧ at http://openbiblestories.com."ବିପନ୍ନ ଆେରପ ଗୁଡିକୋର ବିବରଣ କୌଣସି ପ୍ରକାରେ ଅମେ ସୁଚନା ଦେଉ ବୋଲି କିମ୍ବା ଯାହା ତୁମେ କାର୍ଯ୍ୟ ପାଇଁ ବ୍ୟବହାର କର ତାକୁ ସମର୍ଥନ କରୁନାହୁ.
+  * ଶେଆର୍ ଆଲଇକ୍ — ଯଦି ତୁମେ ପୁଣି ମିସ୍ରଣ କର, ପରିବର୍ତନ କର କିମ୍ବା ସାମଗ୍ରୀ ଉପରେ ନିର୍ମାଣ କର ତେବେ ତୁମେ ତୁମର ଅଶଂ ଦାନକୁ ସର୍ବପ୍ରଥମ ଲଇସେନସ୍ କରିବାକୁ ପଡିବ
 
-Under the following conditions:
+ବ୍ୟାପାର୍ ଚିନ୍ନର ବ୍ୟବହାର: ଦୁରବର୍ତୀ ଅନାବୃତ ଶବ୍ଦ ହେଉଛି ଏକ ଚିନ୍ନ ମାଧ୍ୟମ କିମ୍ବା ଏହି ଅନ୍ତର୍ଗତ ବସ୍ତୁ କୌଣସି ବ୍ୟପୁନ୍ନ କାର୍ଯ୍ୟରେ ନିର୍ମାଣ କରାଯାଇଥିବା ଅନ୍ତର୍ଭୁକ୍ତ ହେବନାହି. ଅପରିବର୍ତ୍ତନ ବିଷୟ ବସ୍ତୁ [[http://openbiblestories.com|http://openbiblestories.com]] ଯେତେବେଳେ ଅନ୍ୟମାନଙ୍କୁ ବିତରଣ କୋର ଅନାବୃତ ଶବ୍ଦର ଚିନ୍ନ କୁ ଅନ୍ତର୍ଭୁକ୍ତ କର. କିନ୍ତୁ ଯଦି ତୁମେ ବିଷୟ ବସ୍ତୁ ପରିବର୍ତନ କର ଅନ୍ୟମାନକଙ୍କୁ ବିତରଣ କରିବା ଅନାବୃତ ଶବ୍ଦର ଚିନ୍ନ କୁ ବାହାର କର.
 
-* **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+କାର୍ଯ୍ୟକଳାର ଗୁଣ: କାହାଣୀରେ ବ୍ୟବହୃତ ସମସ୍ତ ପ୍ରତିମା ହେଉଛି © ସ୍ବିଟ୍ ପବଲିସିଂ ([[http://www.sweetpublishing.com|www.sweetpublishing.com]]) ଏବଂ ସଜାଯାଇଥିବା ସାଧରଣ ଲୋକ ଅରୋପଣୀୟ ଅଶଂରେ ସହଜପ୍ରାପ୍ୟ କରାଯାଇଅଛି.- ଶେଆର୍ ଆଲଇକ୍ ଲାଇସେନ୍ସ୍([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]).
 
-Use of trademarks: **unfoldingWord** is a trademark of Distant Shores Media and may not be included on any derivative works created from this content.  Unaltered content from http://openbiblestories.com must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
-
-Attribution of artwork: All images used in these stories are © Sweet Publishing (www.sweetpublishing.com) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0).
-
-To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
+ସମଗ୍ର ବିଶ୍ଵର ସମସ୍ତ ଭାଇ ଓ ଭଉଣୀ ଖ୍ରୀଷ୍ଠଙ୍କ ଠାରେ- ବିଶ୍ଵ ମଣ୍ଡଳୀ. ଏହା ଆମର ପ୍ରାର୍ଥନା ଯେ ତୁମ୍ଭମାନଙ୍କୁ ଆଶିଷ,ସାମର୍ଥ ଏବଂ ଉସ୍ଚାହ କରିବା ପାଇଁ ପରମେଶ୍ଵର ତାହାଙ୍କ ବାକ୍ୟକୁ ବ୍ୟବହାର କରନ୍ତୁ.
