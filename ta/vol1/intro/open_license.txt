@@ -1,34 +1,36 @@
-===== Open License =====
+===== ଉନ୍ମୁକ୍ତ ଅନୁମତି =====
 
-This module answers the question: What freedoms do users have with unfoldingWord content?\\
-Before you start this module have you learned about:
-  * [[or:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[or:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[or:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+ଏହି ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅ: ବ୍ୟବହାରକାରୀମାନଙ୍କ ପାଇଁ ଉନ୍ମୁକ୍ତ ଶବ୍ଦ ବିଷୟର  ସହିତ କେଉଁ ସ୍ବାଧିନ ରହିଅଛି ?
 
-//The official version of this document is found at [[https://unfoldingword.org/license|unfoldingword.org/license]].//
+ଏହି ବିଷୟ ବୁଝିବାକୁ ଏହାକୁ ପଢିବା ଉତ୍ତମ ହୋଇପାରେ
 
-==== Copyrights & Licensing ====
+  * ଉନ୍ମୁକ୍ତ ଶବ୍ଦ ଯୋଜନା ([[:or:ta:vol1:intro:uw_intro|The unfoldingWord Project]])
+  * ବିଶ୍ବାସର ସଂଜ୍ଞା ([[:or:ta:vol1:intro:statement_of_faith|Statement of Faith]])
+  * ଅନୁବାଦ ନିୟମଗୁଡିକ ([[:or:ta:vol1:intro:translation_guidelines|Translation Guidelines]])
 
-All content on Door43 is made available under a **Creative Commons Attribution-ShareAlike 4.0 International License** (http://creativecommons.org/licenses/by-sa/4.0/), which means
+ଓଫିସିଆଲ୍ ସଂସ୍କରଣ ଏହି ଡକ୍ୟୁମେଂଟ୍ ରେ ପାଇପାରିବେ// [[https://unfoldingword.org/license|unfoldingword.org/license]].//
 
-You are free:
-  * Share — copy and redistribute the material in any medium or format
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+==== ପ୍ରକାଶନ କରିବା ଏବଂ ଅନୁମତି ଦେବା ====
 
-Under the following conditions:
-  * Attribution — You must attribute the work as follows: "Original work available at http://door43.org ." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+ଡୋର ୪୩ ରେ ସମସ୍ତ ବିଷୟ ସହଜପ୍ରାପ୍ୟ କରାଯାଇଅଛି ସୃଜନ୍ୟଶୀଳ ସାଧାରଣ ଗୁଣଗୁଡିକ – ଶେଆର୍ ଅଲାଇକ୍ ୪.୦ଇଣ୍ଟରନେସନାଲ୍ ଲାଇସେନ୍ସ୍ ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]), ଯାହାର ଅର୍ଥ
 
-==== Attribution of Door43 Contributors ====
+ତୁମ୍ଭର ସ୍ବାଧିନ ରହିଅଛି:
 
-When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[www.openbiblestories.com|main page]].
+  * ବଣ୍ଟନ କରିବା -ଅନୁକରଣ କରନ୍ତୁ ଏବଂ ଉପାଦାନକୁ କୌଣସି ଆକୃତି କିମ୍ବା ଆକାର ମାଧ୍ୟମରେ ପୁନର୍ବାର ବଣ୍ଟନ କରନ୍ତୁ
+  * ଉପଯୋଗୀ କରନ୍ତୁ – ପୁନର୍ମିଶ୍ରଣ, ରୂପାନ୍ତରଣ ଏବଂ ଯେକୌଣସି ଉଦ୍ଦେଶ୍ୟ ପାଇଁ, ଏପରିକି ବ୍ୟବସାୟ ପାଇଁ ଉପାଦାନ ଉପରେ ଉପଯୋଗ କରନ୍ତୁ
 
-Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.** That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
+ନିମ୍ନଲିଖିତ ସର୍ତ୍ତମାନଙ୍କ ଅନୁସାରେ:
 
+  * Aବିଶେଷତଃ – ତୁମ୍ଭେ କାର୍ଯ୍ୟକୁ ଏପରି ବିଶେଷ ଭାବରେ କରିବୟ ଆବଶ୍ୟକ:  "ପ୍ରକୃତ କିମ୍ବା ସର୍ବପ୍ରଥମ କାର୍ଯ୍ୟ ଏହିଠାରେ ଉପଲବ୍ଧ  [[http://door43.org|http://door43.org]] ." ବ୍ୟୁତ୍ପନ୍ନ କାର୍ଯ୍ୟଗୁଡିକରେ ବିଶେଷ ଉକ୍ତିଗୁଡିକ ଆମ୍ଭେ ତୁମ୍ଭକୁ ସମର୍ଥନ କରିବା କିମ୍ବା ତୁମେ ଏହି କାର୍ଯ୍ୟ କରିବାରେ  କୌଣସି ପ୍ରକାରେ ପରାମର୍ଶ ଦେଉ ନାହାନ୍ତି
+  * ଏପରି ବଣ୍ଟନ – ଯଦି ଆପଣ ପୁନଃମିଶ୍ରଣ, ରୁପାନ୍ତର କିମ୍ବା ଉପାଦାନ ଉପରେ କିଛି କରନ୍ତି, ତୁମ୍ଭେ ତୁମ୍ଭର ଅବଦାନକୁ ପ୍ରକୃତ ଅନୁମତି ପତ୍ର ଅନୁସାରେ ବଣ୍ଟନ କରନ୍ତୁ
 
+==== ଡୋର୍୪୩ର ଆଟ୍ରୀବୁସନ୍ ଅବଦାନକାରରୀମାନେ  ====
 
-Next we recommend you learn about:
-  * [[or:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[or:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
+ଯେତେବେଳେ କୌଣସୀ ତଥ୍ୟଗୁଡିକୁ ଡୋର୪୩ରେ ଆଣିବା ସମୟରେ (ଉଦାହରଣ – ପୁସ୍ତକ, ବାଇବଲ ଅଧ୍ୟୟନ, ଇତ୍ୟାଦି), ସର୍ବପ୍ରଥମ କିମ୍ବା ପ୍ରକୃତ କାର୍ଯ୍ୟ ଉନ୍ମୁକ୍ତ ଅନୁମତି ଦ୍ଵାରା ଯାହା ଉପଲବ୍ଧ ଅଟେ,  ବିଶେଷ ହେବା ଉଚିତ୍. ଉଦାହରଣ, ପାଇଁ  ଉନ୍ମୁକ୍ତ ବାଇବଲ କାହାଣୀରେ କାର୍ଯ୍ୟକଳା ବ୍ୟବହାର କରାଯାଏ, ତାହା ମୁକ୍ତ ଅନୁମତି ଅନୁସାରେ ଉପଲବ୍ଧ ଅଟେ ଏବଂ କାର୍ଯ୍ୟର ମୁଖ୍ୟ ପୃଷ୍ଠାରେ ସ୍ପଷ୍ଟ ଭାବରେ ଦିଆଯାଇଅଛି
 
+ଡୋର ୪୩ ଯୋଜନାର ଅବଦାନକାରୀମାନେ ସହମତ ହୁଅନ୍ତି ଯେ ବିଶେଷତଃ କାର୍ଯ୍ୟ ସ୍ବୟଂକ୍ରିୟ ଭାବରେ ପ୍ରତ୍ୟେକ ପୃଷ୍ଠାର ସେମାନଙ୍କ କାମ ପାଇଁ  ଯଥେଷ୍ଟ ବିଶେଷତଃ ପୁର୍ବ କାର୍ଯ୍ୟଗୁଡିକର ପୁନରୀକ୍ଷଣ ହୋଇଥାଏ, ତାହାର ଅର୍ଥ, ଅବଦାନକାରୀମାନଙ୍କ ଉନ୍ମୁକ୍ତ ବାଇବଲର କାହାଣୀଗୁଡିକୁ ଅନେକ ଭାଷାରେ ଅନୁବାଦ ସୂଚୀ କରଯାଇଅଛି,  "ଡୋର୍ ୪୩ ୱାଲଡ୍ ମିସନ୍ ସଂଘ". ପ୍ରତେକେ ଅବଦାନକାରୀମାନଙ୍କ ପ୍ରତ୍ୟେକ ଅବଦାନ ସେହି ଅନୁବାଦ ପାଇଁ ପୁନରୀକ୍ଷଣ ଇତିହାସରେ ସଂରକ୍ଷିତ କରାଯାଇଅଛି
+
+ଆମ୍ଭେ ଆପଣଙ୍କୁ ପରବର୍ତ୍ତୀ ବିଷୟ ଶିଖିବାକୁ ସୁପାରିଶ୍ କରୁଅଛୁ :
+
+  * ଗେଟବେ ଭାଷାମାନଙ୍କର ଯୋଜନା ([[:or:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]])
+  * କପିରାଇଟସ୍//, // ଲାଇସେସିଂ//, // ଏବଂ ଲିଖିତଉତ୍ସ ([[:or:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]])
