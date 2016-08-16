@@ -1,27 +1,24 @@
-===== Cyrus Sent Judah Home [20-12] =====
+===== କୋରସ ଯିହୂଦାକୁ  ଗୃହକୁ ପଠାଇ ଦେଲେ [20-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink}}
+ପାରସ୍ୟ ସାମ୍ରାଜ୍ୟ ଦୃଢ ଥିଲା କିନ୍ତୁ ଏହା ଯେଉଁ ଦେଶଗୁଡିକୁ ଜୟ କରିଥିଲା ସେଥିର ଲୋକମାନଙ୍କ ପ୍ରତିଦୟାବନ୍ତଥିଲା ।
 
-The **Persian Empire** was strong but **merciful** to the people it conquered. Shortly after **Cyrus** became king of the Persians, he gave an order that any **Jew** who wanted to **return to Judah** could leave Persia and go back to Judah. He even gave them money to rebuild the **Temple**! So, after seventy years in **exile**, a small group of Jews **returned** to the city of **Jerusalem** in Judah.
-===== Important Terms: =====
+କୋରସ ପାରସ୍ୟର ରାଜା ହେବାର ଅଳ୍ପ ସମୟ ମଧ୍ୟରେ, ସେ ଏକ ଆଜ୍ଞା ଦେଇ କହିଲେ ଯେ ଯେକୌଣସିଯିହୂଦୀ ଯିହୂଦା ଦେଶ (ବା ରାଜ୍ୟ)କୁ ଫେରିଯିବାକୁଚାହାନ୍ତି ସେମାନେ ସେଠାକୁ ଫେରିଯାଇପାରିବେ । ସେ ଏପରିକିମନ୍ଦିର ନିର୍ମାଣ କରିବା ନିମନ୍ତେ ଅର୍ଥ ଦେଲେ! ତେଣୁ,ନିର୍ବାସନରେ ସତୁରୀ ବର୍ଷ ରହିଲା ପରେ, ଯିହୂଦୀମାନଙ୍କର ଏକ ଅଳ୍ପ ଲୋକସମୁହ ଯିହୂଦାରେ ଥିବାଯିରୁଶାଲମ ନଗରକୁଫେରିଗଲେ ।
 
+===== ମହତ୍ଵପୁର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:mercy]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:kt:temple]]**
-  * **[[:or:obe:other:jerusalem]]**
+  * **ଦୟା****କରିବା**, **ଦୟାବନ୍ତ**
+  * **ଯିହୁଦୀ**, **ଯିହୁଦୀୟ**, **ଯିହୁଦୀ**
+  * **ମନ୍ଦିର**
+  * **ଯିରୁଶାଲମ**
+===== ଅନୁବାଦର ବିବରଣୀ : =====
 
-
-==== Translation Notes: ====
-
-
-  * **Persian Empire** - See how you translated this term in **[[:or:obs:notes:frames:20-11|[20-11]]]**.
-  * **Cyrus** - See how you translated his name in **[[:or:obs:notes:frames:20-11|[20-11]]]**.
-  * **Judah** - See the note about Judah in **[[:or:obs:notes:frames:20-11|[20-11]]]**.
-  * **to return to Judah** - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say "to go to Judah."
-  * **exile** - See how you translated this term in **[[:or:obs:notes:frames:20-09|[20-09]]]**.
-  * **returned** – That is, "went back." Some languages may prefer to say, "went" since most of these people had never been to Jerusalem.
-
+  * ପାରସ୍ୟ ସାମ୍ରାଜ୍ୟ - ଏହି ଶବ୍ଦକୁ କିପରି ଆପଣ ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ **__\__ **__୨୦__**__-__ **__୧୧__**__]__ **
+  * କୋରସ - ଆପଣ ତାଙ୍କ ନାମକୁ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ  **__\__ **__୨୦__**__-__ **__୧୧__**__]__ **
+  * ଇଲିଶାବେଥ - ଯିହୁଦା ବିଷୟରେ ଟିପ୍ପଣୀକୁ ଦେଖନ୍ତୁ **__\__ **__୨୦__**__-__ **__୧୧__**__]__ **
+  * ଯିହୂଦା ଫେରିଲେ -   ଯେହେତୁ ଅଧିକାଂଶ  ଯିହୂଦୀମାନଙ୍କର ଶିଶୁ ଓ ନାତିନାତୁଣୀମାନେଥିଲେ ଯିଏ  ଯିହୁଦାକୁ ଚାଡି ଥିଲେ,ପୁର୍ବରୁ ସେମାନେ ଯିହୁଦାରେ କେବେ ରହିନଥିଲେ । ଅନ୍ୟ କିଛି ଭାଷାରେ ଏହା କହିବା ଉତମ ହେବ''ଯିହୁଦା କୁ ଯାଅ''।
+  * ନିର୍ବାସନ - ଆପଣ ଏହି ଶବ କିପରି ଅନୁବାଦ କରି ଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ  **__\__ **__୨୦__**__-09]__ **
+  * ଫେରିଲେ - ତାହା ଅଟେ , "ଫେରି ଗଲେ"। କିଛି ଭାଷା କହିବା ପସନ୍ଦ କରି ପାରେ ,''ଗଲେ'' ଯେହେତୁ ଅଧିକାଂଶ ଲୋକମାନେ କେବେ ଯିରୁଶାଲେମକୁ ଯାଇନଥିଲେ ।
 
 **[[:or:obs:notes:frames:20-11|<<]] | [[:or:obs:notes:20|Up]] | [[:or:obs:notes:frames:20-13|>>]]**
