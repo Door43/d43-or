@@ -1,25 +1,20 @@
-===== Babylon Destroyed Judah [20-07] =====
+===== ବାବିଲୋନ ଯିହୂଦାକୁ ବିନାଶ କଲେ [20-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink}}
+କିନ୍ତୁ ଅଳ୍ପ କିଛି ବର୍ଷ ପରେ,ଯିହୂଦାର ରାଜା ବାବିଲୋନ ବିରୁଦ୍ଧରେବିଦ୍ରୋହ କଲେ । ତେଣୁ, ବାବିଲୋନୀୟମାନେଫେରିଆସି ଯିହୂଦା ରାଜ୍ୟକୁ ଆକ୍ରମଣ କଲେ । ସେମାନେଯିରୁଶାଲମ ନଗର ଜିତିନେବା ନେଲେ, ମନ୍ଦିରକୁ ବିନଷ୍ଟ କଲେ, ଏବଂ ନଗରର ଓ ମନ୍ଦିରର ଧନରତ୍ନନେଇ ପଳାଇଗଲେ।
 
-But after a few years, the king of **Judah rebelled** against **Babylon**. So, the Babylonians **came back** and attacked the kingdom of Judah. They **captured the city** of **Jerusalem**, destroyed the **Temple**, and **took away** all the treasures of the city and the Temple.
-===== Important Terms: =====
+===== ମହତ୍ଵପୁର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯିହୁଦା**,**ଯିହୂଦା****ରାଜ୍ୟ**
+  * **ବିଦ୍ରୋହ****କରିବା**, **ବିଦ୍ରୋହୀ**
+  * **ବାବିଲୋନ**, **ବାବିଲୋନୀୟ**
+  * **ଯିରୁଶାଲମ**.
+  * **ମନ୍ଦିର**
+===== ଅନୁବାଦର ବିବରଣୀ : =====
 
-  * **[[:or:obe:other:kingdomofjudah]]**
-  * **[[:or:obe:other:rebel]]**
-  * **[[:or:obe:other:babylon]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:temple]]**
-
-
-==== Translation Notes: ====
-
-
-  * **came back** - This may also be translated as, "returned" or "came to Judah again."
-  * **captured the city** - That is, "took control of the city and the people there."
-  * **took away** - They carried the treasures with them back to Babylon.
-
+  * ପୁଣି ଆସିଲେ ଏହା ଏହିପରି ଭାବେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ,'ପୁଣି ଆସିଲେ''କିମ୍ବା''ଜିହୁଦାକୁ ପୁଣି ଫେରିଲେ'' ।
+  * ନଗର ଜିତିନେଲେ - ତାହା ଅଟେ, "ନଗରର ସମସ୍ତ ଲୋକ ଏବଂ ନଗରକୁ ନିଜ ନିୟନ୍ତ୍ରଣରେ ନେଲେ " ।
+  * ନେଲେ - ସେମାନେ ଧନରତ୍ନ ସହିତ ବାବିଲୋନ କୁ ଫେରିଗଲେ ।
 
 **[[:or:obs:notes:frames:20-06|<<]] | [[:or:obs:notes:20|Up]] | [[:or:obs:notes:frames:20-08|>>]]**
