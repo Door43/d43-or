@@ -1,26 +1,22 @@
-===== Persia Defeated Babylon [20-11] =====
+===== ପାରସ୍ୟ ବାବିଲୋନକୁ ପରାସ୍ତ କଲା [20-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink}}
+ସତୁରୀ ବର୍ଷ ପରେ, ପାରସ୍ୟରରାଜା କୋରସ ବାବିଲୋନକୁପରାସ୍ତ କଲେ, ତେଣୁ ପାରସ୍ୟ ସାମ୍ରାଜ୍ୟ ବାବିଲୋନୀୟସାମ୍ରାଜ୍ୟର ସ୍ଥାନ ନେଲା । ବର୍ତ୍ତମାନଇସ୍ରାଏଲୀୟମାନଙ୍କୁ ଯିହୂଦୀ ବୋଲି କୁହାଗଲା ଏବଂ ସେମାନେ ସେମାନଙ୍କ ସାରା ଜୀବନ ବାବିଲୋନରେ ବାସ କଲେ । କେବଳ ଅତି ଅଳ୍ପ ବୃଦ୍ଧ ଯିହୂଦୀଯିହୂଦା ରାଜ୍ୟକୁ ସ୍ମରଣ କଲେ ।
 
-About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
-===== Important Terms: =====
+===== ମହତ୍ଵପୁର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ରାଜା**
+  * **ବାବିଲୋନ**, **ବାବିଲୋନୀୟ**
+  * **ଇସ୍ରାଏଲ**, **ଇସ୍ରାଏଲୀୟମାନେ**, **ଇସ୍ରାଏଲର****ଦେଶ**
+  * **ଯିହୁଦୀ**, **ଯିହୁଦୀୟ**, **ଯିହୁଦୀ**
+===== ଅନୁବାଦର ବିବରଣୀ : =====
 
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:babylon]]**
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:other:jew]]**
-
-
-==== Translation Notes: ====
-
-
-  * **seventy years later** - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus** - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Persians** - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews** - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah** - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
-
+  * ସତୁରି ବର୍ଷମାନଂକର ପରେ - ଏହି refers ଙ୍କୁ ସାତ ବର୍ଷମାନଂକର ଯେ କରିଥିଲେ passed ଯେହେତୁ ଶିଶୁକୁ ସୈନ୍ୟବାହିନୀ ନେଲେ ଲୋକମାନ ର ଯିରୁଶାଲମକୁ ରେ ନିର୍ବାସନ।
+  * କୋରସ - କୋରସଙ୍କୁ ମଧ୍ୟ , " ମହାନ ସାଇରସ''କୁହାଗଲା । "ସାଇରସ" ଅର୍ଥ ଥିଲା "ସୂର୍ଯ୍ୟ ପରି ଅଟେ " ପାରସ୍ୟ ଭାଷାରେ । ତଥାପି,କୋରସ ରାଜା ଜଣେ ମହାନ ଐତିହାସିକ ବ୍ୟକ୍ତି ଥିଲେ ,ତାହାଙ୍କର ନାମର ଅର୍ଥଠାରୁ ନାମକୁ  ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ।
+  * ପାରସ୍ୟ - ପାରସ୍ୟ ସାମ୍ରାଜ୍ୟ କେନ୍ଦ୍ର ଏସିଆ ଠାରୁ ମିଶର ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତାର ହେଲା ।
+  * ଆଧୁନିକ-ଦିନ ଇରାନ ସେନାପତି ସ୍ତାନରେ ତାହାର ଗୃହ ଥିଲା ।
+  * ଇସ୍ରାଏଲୀୟମାନେ ବର୍ତ୍ତମାନ ଯିହୂଦୀ କୁହାଗଲେ  -ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରି ,''ଯିହୂଦୀ.'' ନାମରେ ବର୍ତମାନ ଲୋକମାନେ ଇସ୍ରାଏଲର ଲୋକମାନଙ୍କୁ ଡାକିଲେ ।
+  * ଯିହୂଦାର ଦେଶ - ତାହା ଅଟେ ,'' ଦେଶରୁ ବାହାର କରିବା ପୁର୍ବରୁ ଯିହୂଦା ରାଜ୍ୟ ଯେଉଁଠି  ଅବସ୍ତିତ ଥିଲା । ଯିରୁଶାଲମ ଯିହୂଦାର ରାଜଧାନୀ ଥିଲା ।
 
 **[[:or:obs:notes:frames:20-10|<<]] | [[:or:obs:notes:20|Up]] | [[:or:obs:notes:frames:20-12|>>]]**
