@@ -1,23 +1,18 @@
-===== A Descendant of David [21-04] =====
+===== ଦାଉଦଙ୍କ ବଂଶଧର [21-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+ଈଶ୍ବର ରାଜା ଦାଉଦଙ୍କୁ ପ୍ରତିଜ୍ଞା କରି କହିଲେ ଯେ ତାଙ୍କ ବଂଶଧରଙ୍କ ମଧ୍ୟରୁ ଜଣେ ଈଶ୍ବରଙ୍କ ଲୋକମାନଙ୍କୁ ଚିରଦିନ ଶାସନ କରିବେ । ତାହାର ଅର୍ଥ ମସିହ ଦାଉଦଙ୍କ ଜଣେ ବଂଶଧର ହେବେ  ।
 
-**God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ପ୍ରତିଜ୍ଞା**
+  * **ଦାଉଦ**
+  * **ଖ୍ରୀଷ୍ଟ**** , ****ମସୀହ**
+  * **ବଂଶଧର**
+===== ଅନୁବାଦର ଅନୁବାଦ: =====
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:promise]]**
-  * **[[:or:obe:other:david]]**
-  * **[[:or:obe:kt:christ]]**
-  * **[[:or:obe:other:descendant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
+  * ଦାଉଦଙ୍କ ନିଜ ବଂଶାବଳୀ - ଅନ୍ୟ ଅର୍ଥରେ କହିଲେ ସେ  ସିଧାସଳଖ ଦାଉଦଙ୍କ ସନ୍ତାନ ହୋଇପାରେ ”
 
 **[[:or:obs:notes:frames:21-03|<<]] | [[:or:obs:notes:21|Up]] | [[:or:obs:notes:frames:21-05|>>]]**
