@@ -1,28 +1,23 @@
-===== Judah Served Babylon [20-06] =====
+===== ଯିହୂଦା ବାବିଲୋନକୁ ସେବା କଲେ [20-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
-About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God sent **Nebuchadnezzar**, **king** of the **Babylonians**, to attack the **kingdom of Judah**. **Babylon** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s servant** and pay him a lot of money every year.
-===== Important Terms: =====
+ଆସିରୀୟମାନେ ଇସ୍ରାଏଲ ରାଜ୍ୟ ବିନଷ୍ଟ କରିବାର ୧00 ବର୍ଷ ପରେ, ଈଶ୍ଵରବାବିଲନର ରାଜାନବୁଖୁଦନିଦସରଙ୍କୁ ଯିହୂଦା ରାଜ୍ୟକୁ ଆକ୍ରମଣ କରିବା ନିମନ୍ତେ ପଠାଇଲେ । ବାବିଲୋନ ଏକ ଶକ୍ତିଶାଳୀସାମ୍ରାଜ୍ୟ ଥିଲା । ଯିହୂଦାର ରାଜା ନବଖୁଦନିଦସରଙ୍କ ଦାସ ହେବା ନିମନ୍ତେ ସହମତି ହେଲେ ଏବଂ ପ୍ରତିବର୍ଷ ତାଙ୍କୁ ଅନେକ ଅର୍ଥ ଦେଲେ ।
 
+===== ମହତ୍ଵପୁର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:assyria]]**
-  * **[[:or:obe:other:kingdomofisrael]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:nebuchadnezzar]]**
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:babylon]]**
-  * **[[:or:obe:other:kingdomofjudah]]**
-  * **[[:or:obe:other:babylon]]**
-  * **[[:or:obe:other:servant]]**
+  * **ଆସିରୀୟ**, **ଆସିରୀୟ**, **ଆସିରୀୟ****ସାମ୍ରାଜ୍ୟ**
+  * **ଇସ୍ରାଏଲର****ରାଜ୍ୟ**
+  * **ପରମେଶ୍ଵର**
+  * **ନବୁଖଦନିତସର**
+  * **ରାଜା**
+  * **ବାବିଲୋନ**, **ବାବିଲୋନୀୟ**
+  * **ଯିହୁଦା**,**ଯିହୂଦା****ରାଜ୍ୟ**
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+===== ଅନୁବାଦର ବିବରଣୀ : =====
 
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:or:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
+  * ସାମ୍ରାଜ୍ୟ– ଆପଣ ଏହାକୁ **__20-02]__**ରେ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ ।
+  * ସହମ୍ମତି ହେଲେ  –  ଯିହୂଦା ରାଜା ବାବିଲୋନର ରାଜାକୁ ସେବା କରିବା କିମ୍ବା ବିନାଶ ହେବାକୁ ବାଧ୍ୟ କଲେ  ।
+  * ନବୁକଦନସରଙ୍କ ଦାସ ହେବା - ଏହା ଏହିପରି ଭାବେ ଅନୁବାଦ କରାଯାଇପାରେ,'' ଯିହୂଦାକୁ ନବୁକଦନସରଙ୍କ ଆଦେଶରେ ଶାସନ ହେବାକୁ"।
 
 **[[:or:obs:notes:frames:20-05|<<]] | [[:or:obs:notes:20|Up]] | [[:or:obs:notes:frames:20-07|>>]]**
