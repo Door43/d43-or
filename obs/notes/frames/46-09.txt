@@ -1,24 +1,22 @@
-===== The Christians in Antioch [46-09] =====
+===== ଆନ୍ତିୟଖିଆରେ ଖ୍ରୀଷ୍ଟିୟାନମାନେ [46-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink&}}
 
-Some believers who fled from the **persecution** in **Jerusalem** went far away to the **city of Antioch** and preached about **Jesus**. Most of the people in Antioch were not **Jews**, but for the first time, very many of them also became believers. **Barnabas** and **Saul** went there to teach these new believers more about Jesus and to **strengthen the church**. It was at Antioch that believers in Jesus were first called “**Christians**.”
-===== Important Terms: =====
+ଅଳ୍ପ ବିଶ୍ଵାସୀମାନେ ଯେଉଁମାନେ ତାଡନା ସମୟରେ ଯିରୁଶାଲେମଠାରୁ ପଳାୟନ କରିଥିଲେ ଆନ୍ତିୟଖିଆର ନଗର ପର୍ଯ୍ୟନ୍ତ ଗଲେ ପୁଣି ଯୀଶୁଙ୍କ ବିଶୟରେ ପ୍ରଚାର କଲେ. ଆନ୍ତିୟଖିଆର ଅଧିକାଂଶ ଲୋକମାନେ ଯିହୁଦୀୟ ନ ଥିଲେ, କିନ୍ତୁ ପ୍ରଥମ ଥର ପାଇଁ ସେମାନଙ୍କ ମଧ୍ୟରୁ ଅନେକ ଲୋକ ମଧ୍ୟ ବିଶ୍ଵାସୀ ହେଲେ. ବର୍ଣ୍ଣବବା ଓ ଶାଉଲ ନୁତନ ବିଶ୍ଵାସୀମାନଙ୍କୁ ଅଧିକ ଯୀଶୁଙ୍କ ବିଷୟରେ ଶିକ୍ଷା ଦେବାକୁ ସେଠାକୁ ଗଲେ ପୁଣି ମଣ୍ଡଳୀକୁ ସାମାର୍ଥ କଲେ. ଯୀଶୁଙ୍କ ବିଶ୍ଵାସୀମାନେ ପ୍ରଥମେ ଆନ୍ତିୟଖିଆର**"** ଖ୍ରୀଷ୍ଟିୟାନ**" ** ବୋଲି ଡକାଯାଇଥିଲେ
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:persecute]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:barnabas]]**
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:kt:church]]**
-  * **[[:or:obe:kt:christian]]**
+  * **ତାଡନା****କରିବା**, **ତାଡନା**
+  * **ଯିରୁଶାଲମ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଯିହୁଦୀ**, **ଯିହୁଦୀୟ**, **ଯିହୁଦୀ**
+  * **ବର୍ଣ୍ଣବବା**
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ମଣ୍ଡଳୀ**, **ମଣ୍ଡଳୀ**
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **city of Antioch** - This was an ancient city located in what is now the southernmost tip of the modern country of Turkey, near its border with Syria and close to the Mediterranean Sea. It was about 450 miles northwest of Jerusalem.
-  * **strengthen the church** - This could also be translated as, "help the church to grow strong spiritually" or, "help the believers in Jesus to grow strong in their faith" or, "help the people to believe more firmly in Jesus."
-
+  * ଆନ୍ତିୟଖିଆର ନଗର**
+ -**  ଏହା ଏକ ପୁରୁଣା ସହର ଥିଲେ ଯାହା ବର୍ତ୍ତମାନ ଆଧୁନିକ ତୁର୍କୀର ଦକ୍ଷିଣ ଦିଗରେ ଅବସ୍ଥିତ, ଏହାର ସୀମାରେ ସୀରିୟା ଏବଂ ମଧ୍ୟସାଗର ଅବସ୍ଥିତ. ଏହା ପ୍ରାୟ ୪୫୦ ମାଇଲ୍ ଉତ୍ତର ପଶ୍ଚିମ ଯିରୁଶାଲେମଠାରୁ ଥିଲା
+  * ମଣ୍ଡଳୀକୁ ଶକ୍ତିଶାଳୀ କଲେ** -**  ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ଆତ୍ମିକତାରେ ମଣ୍ଡଳୀକୁ ବଡିବାକୁ ସାହାଯ୍ୟ କଲେ" କିମ୍ବା, "ଯୀଶୁଙ୍କ ବିଶ୍ଵାସୀମାନଙ୍କୁ ସେମାନଙ୍କର ବିଶ୍ଵାସରେ ବଢିବାକୁ ସାହାଯ୍ୟ କଲେ" କିମ୍ବା, "ଲୋକମାନଙ୍କୁ ଯୀଶୁଙ୍କ ଠାରେ ଦୃଢଭାବରେ ବିଶ୍ଵାସ କରିବାକୁ ସାହାଯ୍ୟ କଲେ"
 
 **[[:or:obs:notes:frames:46-08|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-10|>>]]**
