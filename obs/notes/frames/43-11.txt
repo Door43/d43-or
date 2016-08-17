@@ -1,25 +1,23 @@
-===== Repent and Be Baptized [43-11] =====
+===== ଅନୁତାପ କର ଓ ବାପ୍ତିଜିତ ହେବା [43-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
-**Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
-===== Important Terms: =====
+ପିତର ସେମାନଙ୍କୁ ଉତ୍ତର ଦେଲେ “ଆପଣମାନେ ପ୍ରତ୍ୟେକେ ଯୀଶୁଖ୍ରୀଷ୍ଟଙ୍କ ନାମରେ ବାପ୍ତିଜିତ ହେଉନ୍ତୁ ଯେପରିକି ଈଶ୍ବର ଆପଣମାନଙ୍କର ପାପକ୍ଷମା କରିବେ । ତା’ପରେ ସେ ପବିତ୍ରଆତ୍ମାଙ୍କ ଦାନ ଦେବେ ।”
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:repent]]**
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:holyspirit]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଅନୁତାପ****କରିବା**, **ଅନୁତାପ**
+  * **ବାପ୍ତିସ୍ମ****ଦେବା**, **ବାପ୍ତିସ୍ମ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵର**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ** - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-
+  * ନାମରେ - ଏହି ବାକ୍ୟାଂଶ ଅର୍ଥ ଦୁହେଁ, "କର୍ତ୍ତାର ଦ୍ବାରା" ଓ, "କର୍ତ୍ତାର ଅଧିନତାରେ." "ନାମ"କୁ ସେହିପରି ଅନୁବାଦ କରିବା ପାଇଁ ଅନୁଧ୍ୟାନ କରନ୍ତୁ ଯଦି ଏହା ଆପଣଙ୍କ ଭାଷାରେ ଏହିପରି ଭାବରେ ବୁଝାଏ
+  * ଖ୍ରୀଷ୍ଟ - ଏହା "ମସିହ" ଶବ୍ଦର ସମାନ ଅର୍ଥ ପରି ବୁଝାଯାଏ. ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ଅଭିଶିକ୍ତ ଜଣ" କିମ୍ବା, "ମନୋନିତ ଜଣ". ଅର୍ଥକୁ ଅନୁବାଦ କରିବା ଅପେକ୍ଷା, କେତେକ ଅନୁବାଦକାରୀମାନେ "ଖ୍ରୀଷ୍ଟ" ଶବ୍ଦକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ପସନ୍ଦ କରିଥାନ୍ତି ଏବଂ ନିଜ ଭାଷାରେ ଭଲ ଶୁଭାଜିଵ ପାଇଁ ଉଚ୍ଚାରଣ କରିଥାନ୍ତି
+  * ଯୀଶୁ ଖ୍ରୀଷ୍ଟ - ଯେହେତୁ "ଖ୍ରୀଷ୍ଟ" ଏକ ଶୀର୍ଷ ଭାବରେ ରହିଅଛି, କେତେକ ଅନୁବାଦକାରୀମାନେ କର୍ମକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ପସନ୍ଦ କରିଥାନ୍ତି ଏବଂ କହନ୍ତି, "ଖ୍ରୀଷ୍ଟ ଯୀଶୁ". ଉଭୟ କ୍ରମଗୁଡିକ ବାଇବଲରେ ବ୍ୟବହାର କରାଯାଇଅଛି
 
 **[[:or:obs:notes:frames:43-10|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-12|>>]]**
