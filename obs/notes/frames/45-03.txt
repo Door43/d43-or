@@ -1,27 +1,26 @@
-===== You Killed the Messiah [45-03] =====
+===== ମଶୀହଙ୍କୁ ଆପଣମାନେ ବଧ କଲ [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
-The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
-===== Important Terms: =====
+ମହାଯାଜକ ସ୍ତିଫାନଙ୍କୁ ପଚାରିଲେ, "ଏହି ବିଷୟଗୁଡିକ ସତ୍ୟ ଅଟେ କି?" ଅବ୍ରହାମଙ୍କ ସମୟଠାରୁ ଯୀଶୁଙ୍କ ସମୟ ପର୍ଯ୍ୟନ୍ତ ଯେତେ ମହାନ କାର୍ଯ୍ୟଗୁଡିକ ଇଶ୍ଵର କରିଥିଲେ  ପୁଣି କିପରି ପରମେଶ୍ଵରଙ୍କ ଲୋକମାନେ ତାହାଙ୍କୁ ଅବମାନନା କରି ଚାଲିଲେ, ସେମାନଙ୍କୁ ସେସବୁ ସ୍ମରଣ କରାଇ ସ୍ତିଫାନ ଉତ୍ତର ଦେଲେ. ତା ପରେ ସେ କହିଲେ, "ଅବାଧ୍ୟ ଓ ବିଦ୍ରୋହୀ ଲୋକମାନେ ଆପଣମାନେ ସର୍ବଦା ପବିତ୍ର ଆତ୍ମାଙ୍କୁ ଅଗ୍ରାହ୍ୟ କରିଅଛ, ଯେପରି ଆପଣମାନଙ୍କର ପିତୃପୁରୁଷମାନେ ପରମେଶ୍ଵରଙ୍କୁ ପରିତ୍ୟାଗ କଲେ ଓ ତାହାଙ୍କ ଭାବବାଦୀମାନଙ୍କୁ ବଧ କଲେ". କିନ୍ତୁ ଆପଣମାନେ ସେମାନଙ୍କ ଠାରୁ ଅତ୍ୟାଧିକ ମନ୍ଦ କଲ! ଆପଣମାନେ ମଶୀହଙ୍କୁ ବଧ କଲ!"
 
-  * **[[:or:obe:kt:highpriest]]**
-  * **[[:or:obe:kt:true]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:abraham]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:disobey]]**
-  * **[[:or:obe:other:rebel]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:prophet]]**
-  * **[[:or:obe:kt:christ]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+ମହାଯାଜକ
 
-===== Translation Notes: =====
+  * **ସତ୍ୟ**, **ସତ୍ୟତା**
+  * **ପରମେଶ୍ଵର**
+  * **ଅବ୍ରହାମ**, **ଅବ୍ରାମ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**  , **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଅମାନ୍ୟ****କରିବା**, **ଅବାଧ୍ୟ**. **ଅବଧ୍ୟତା**
+  * **ବିଦ୍ରୋହ****କରିବା**, **ବିଦ୍ରୋହୀ**
+  * **ପବିତ୍ର****ଆତ୍ମା**, **ପରମେଶ୍ଵରଙ୍କ****ଆତ୍ମା**, **ପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଭାବବାଦୀ**, **ଭାବବାଣୀ****କରିବା**, **ଭାବବାଣୀ**, **ଦ୍ରଷ୍ଟା**, **ଭାବବାଦୀନୀ**
+  * **ଖ୍ରୀଷ୍ଟ**, **ମଶୀହ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **Are these things true?** - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
-  * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
-  * **your ancestors** - This could be translated as, "your ancestors, the Israelites."
-
+  * ଏହି ବିଷୟଗୁଡିକ ସତ୍ୟ ଅଟେ କି ? - ଏହାର ଅର୍ଥ "ଆପଣା ବିରୁଦ୍ଧରେ ନିନ୍ଦାଗୁଡିକ ସତ୍ୟ କି?" କିମ୍ବା "ଏହି ଲୋକମାନେ ଆପଣଙ୍କ ବିଷୟରେ ଯାହାସବୁ ନିନ୍ଦା କଥା କହୁଛନ୍ତି ତାହା ସତ୍ୟ କି?" କିମ୍ବା "ଏହା ସତ୍ୟ ଅଟେ କି ଆପଣ ମୋଶା ଓ ପରମେଶ୍ଵରଙ୍କ ବିଷୟରେ ମନ୍ଦ କଥା କହିଲେ?"
+  * ସର୍ବଦା ପବିତ୍ର ଆତ୍ମାଙ୍କୁ ଅଗ୍ରାହ୍ୟ କରିବା - ଏହାର ଅର୍ଥ, "କେବେହେଲେ ପବିତ୍ରା ଆତ୍ମାଙ୍କୁ ମାନ୍ୟ କରିବା ନାହିଁ" କିମ୍ବା "ସର୍ବଦା ପବିତ୍ର ଆତ୍ମାଙ୍କୁ ଶୁଣିବାକୁ ମନା କରିବା"
+  * ଆପଣଙ୍କର ପିତୃପୁରୁଷମାନେ - ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ, "ଆପଣଙ୍କ ପିତୃପୁରୁଷ, ଇସ୍ରାଏଲୀୟମାନେ"
 
 **[[:or:obs:notes:frames:45-02|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-04|>>]]**
