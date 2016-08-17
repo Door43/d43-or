@@ -1,21 +1,19 @@
-===== Jesus Is the Messiah [43-09] =====
+===== ଯୀଶୁ ହେଉଛନ୍ତି ମସୀହ [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
-===== Important Terms: =====
+“ଏହି ଯୀଶୁଙ୍କୁ ଆପଣମାନେ କ୍ରୁଶବିଦ୍ଧ କରିଅଛନ୍ତି । କିନ୍ତୁ ନିଶ୍ଚିତ ଜାଣନ୍ତୁ ଯେ ଈଶ୍ବର ଯୀଶୁଙ୍କୁ ଉଭୟ ପ୍ରଭୁ ଏବଂ ମସୀହ ହେବାକୁ ଦେଇଅଛନ୍ତି!”
 
-  * **[[:or:obe:kt:crucify]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:christ]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **କ୍ରୁଶବିଦ୍ଧ****କରିବା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵର**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**,**ମାଲିକ**
+  * **ଖ୍ରୀଷ୍ଟ****ମସିହ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
+  * (ପିତର ଜନଗହଳିକୁ ପ୍ରଚାର କରିବା ଜାରିରଖିଲେ)
+  * କିନ୍ତୁ ଜାଣେ ନିମନ୍ତେ ନିଶ୍ଚିତ ଯେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "କିନ୍ତୁ ତୁମେ ଏହା ଜାଣିପାରିବ ଯେ ଏହା ସତ୍ୟ ଅଟେ ଯେ" କିମ୍ବା "କିନ୍ତୁ ତୁମେ ନିଶ୍ଚିତ ହୋଇପାରିବ"
 
 **[[:or:obs:notes:frames:43-08|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-10|>>]]**
