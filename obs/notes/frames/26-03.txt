@@ -1,23 +1,21 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== ଯୀଶୁ ଶାସ୍ତ୍ରରୁ ପାଠ କଲେ [26-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
-Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
-===== Important Terms: =====
+ଯୀଶୁ ପାଠ କଲେ “ଈଶ୍ବର ତାହାଙ୍କ ଆତ୍ମା ମୋତେ ପ୍ରଦାନ କରିଅଛନ୍ତି ଯେପରିକି ଦରିଦ୍ରମାନଙ୍କ ନିକଟରେ ସୁସମାଚାର ପ୍ରଚାର, ବନ୍ଦୀମାନଙ୍କ ନିକଟରେ ମୁକ୍ତିର ବିଷୟ, ଅନ୍ଧମାନଙ୍କ ନିକଟରେ ଚକ୍ଷୁଲାଭର ବିଷୟ, ଏବଂ ଉପଦ୍ରବପ୍ରାପ୍ତ ଲୋକମାନଙ୍କୁ ମୁକ୍ତ କରିବା ବିଷୟ ଘୋଷଣା କରିବି । ଏହା ଅନୁଗ୍ରହର ବର୍ଷ ।”
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:goodnews]]**
-  * **[[:or:obe:kt:lord]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଶୁଭ****ସମାଚାର**, **ସୁସମାଚାର**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**,**ମାଲିକ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **proclaim good news to the poor** - That is, "to tell poor and needy people the good message that God will help them."
-  * **freedom to captives** - That is, "to tell people who are wrongfully in prison that they will be released."
-  * **recovery of sight for the blind** - This could be translated as, "that those who are blind will receive their sight."
-  * **release to the oppressed** - That is, "freedom for those who are mistreated in life."
-  * **the year of the Lord's favor** - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
-
+  * ଦରିଦ୍ରମାନଙ୍କୁ ସୁସମାଚାର ଘୋଷଣା କରିବେ - ତାହା ହେଉଛି , "ପରମେଶ୍ଵର ସାହାଯ୍ୟ କରିବେ ବୋଲି ଏହି ସୁସମାଚାର ଦରିଦ୍ରମାନଙ୍କୁ ଏବଂ ଆବଶ୍ୟକ ଲୋକମାନଙ୍କୁ କହିବେ"
+  * ବନ୍ଦୀମାନଙ୍କୁ ମୁକ୍ତ କରିବେ - ତାହା ହେଉଛି, ଅକାରଣରେ ବନ୍ଦୀ ହୋଇଥିବା ଲୋକମାନଙ୍କୁ କହିବା ପାଇଁ ଯେପରି ସେମାନେ ମୁକ୍ତ ହେବେ  ."
+  * ଅନ୍ଧମାନଙ୍କୁ ଦୃଷ୍ଟି ଦେଲେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ "ଯେଉଁମାନେ ଅନ୍ଧ ଅଛନ୍ତି, ସେମାନେ ଦୃଷ୍ଟି ପାଇବେ ."
+  * ଉପଦ୍ରବମାନଙ୍କୁ ମୁକ୍ତ କରିବା - ତାହା ହେଉଛି, "ଯେଉଁମାନଙ୍କ ସହିତ ମନ୍ଦ ବ୍ୟବହାର ହୋଇଅଛି,ସେମାନଙ୍କୁ ମୁକ୍ତ କରିବା"
+  * ପ୍ରଭୁଙ୍କ ଅନୁଗ୍ରହର ବର୍ଷ - ଏହାକୁ ଏପରି ଅନୁବାଡ଼ କରାଯାଇପାରେ, " ଏକ ସମୟରେ ଯେତେବେଳେ ସଦାପ୍ରଭୁ ଆମ୍ଭ ପ୍ରତି ଦୟାମୟ ହେବେ" କିମ୍ବା "ଏକ ସମୟରେ ଯେତେବେଳେ ସଦାପ୍ରଭୁ ଆମ୍ଭ ପ୍ରତି ଅତି କରୁଣାମୟ ହେବେ
 
 **[[:or:obs:notes:frames:26-02|<<]] | [[:or:obs:notes:26|Up]] | [[:or:obs:notes:frames:26-04|>>]]**
