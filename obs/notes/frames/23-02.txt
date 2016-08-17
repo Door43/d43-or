@@ -1,25 +1,23 @@
-===== Take Mary as Your Wife [23-02] =====
+===== ମରିୟମଙ୍କୁ ଭାର୍ଯ୍ୟା ଭାବରେ ଗ୍ରହଣ କର [23-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
-===== Important Terms: =====
+ଦୂତ କହିଲେ “ଯୋଷେଫ, ତୁମ୍ଭ ଭାର୍ଯ୍ୟା ମରିୟମଙ୍କୁ ନେବା ନିମନ୍ତେ ଭୟ କରନାହିଁ । ତାଙ୍କ ଗର୍ଭରେ ଥିବା ଶିଶୁପୁତ୍ର ପବିତ୍ରଆତ୍ମାଙ୍କଠାରୁ ହୋଇଛି । ସେ ଜଣେ ପୁତ୍ରଙ୍କୁ ଜନ୍ମ ଦେବେ । ତାଙ୍କୁ ଯୀଶୁ ନାମ ଦିଅ (ଯାହାର ଅର୍ଥ “ସଦାପ୍ରଭୁ  ରକ୍ଷା କରନ୍ତି”), କାରଣ ସେ ଲୋକମାନଙ୍କୁ ସେମାନଙ୍କ ପାପରୁ ଉଦ୍ଧାର କରିବେ ।”
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:other:josephnt]]**
-  * **[[:or:obe:other:mary]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:yahweh]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:kt:sin]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ଯୋଷେଫ** (**ନୁତନ****ନିୟମ**)
+  * **ମରିୟମ**, **ଯୀଶୁଙ୍କ****ମାତା**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଈଶ୍ବରଙ୍କ****ପୁତ୍ର**, **ପୁତ୍ର**, **ପୁତ୍ର**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ସଦାପ୍ରଭୁ**, **ଯିହୋବା**
+  * **ରକ୍ଷା**,**ସୁରକ୍ଷା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **do not be afraid to take Mary as your wife** - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
-  * **is from the Holy Spirit** - That is, "was conceived by a miracle of the Holy Spirit."
-
+  * ମରିୟାମକୁ ନିଜ ଭାର୍ଯ୍ୟ ଭାବରେ ଗ୍ରହଣ କରିବାକୁ ଭୟ କର ନାହିଁ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ମରିୟମଙ୍କୁ ବିବାହ ନ କରିବାର ଚିନ୍ତା କରିବା ବନ୍ଦ କର" କିମ୍ବା, "ମରିୟାମକୁ ନିଜ ଭାର୍ଯ୍ୟ ଭାବରେ ଗ୍ରହଣ କରିବାକୁ ସଙ୍କୋଚ କର ନାହିଁ."
+  * ପବିତ୍ର ଆତ୍ମାଙ୍କ ଠାରୁ ଅଟନ୍ତି - ତାହା ହେଉଛି, "ପବିତ୍ର ଆତ୍ମା ଦ୍ବାରା ଆଶ୍ଚର୍ଯ୍ୟ ଭାବରେ ଗର୍ଭବତୀ ହେବା."
 
 **[[:or:obs:notes:frames:23-01|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-03|>>]]**
