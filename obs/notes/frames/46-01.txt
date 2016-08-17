@@ -1,24 +1,24 @@
-===== Saul Arrested the Believers [46-01] =====
+===== ଶାଉଲ ବିସ୍ଵାଶୀମାନଙ୍କୁ ଗିରଫ କଲେ [46-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
-**Saul** was the young man who **guarded the robes of the men who killed Stephen**. He did not **believe** in **Jesus**, and so he **persecuted** the **believers**. He went **from house to house** in **Jerusalem** to arrest both men and women and to put them in prison. The **high priest** gave Saul permission to go to the city of **Damascus** to arrest Christians there and to bring them back to Jerusalem.
-===== Important Terms: =====
+ଶାଉଲ ଯୁବକ ବ୍ୟକ୍ତି ଥିଲେ ଯେ ସ୍ତିଫାନଙ୍କୁ ମାରିଥିବା ଲୋକମାନଙ୍କର ବସ୍ତ୍ରକୁ ସୁରକ୍ଷିତ କରିଥିଲେ. ସେ ଯୀଶୁଙ୍କ ଠାରେ ବିଶ୍ଵାସ କଲେ ନାହିଁ, ଏଥିପାଇଁ ସେ ବିଶ୍ଵାସୀମାନଙ୍କୁ ତାଡନା କଲେ. ସେ ଯିରୁଶାଲମରେ ଗୃହରୁ ଗୃହକୁ ଉଭୟ ପୁରୁଷମାନ ଏବଂ ସ୍ତ୍ରୀମାନଙ୍କୁ ଗିରଫ କଲେ ଏବଂ କାରାଗାରରେ ପକାଇଲେ. ମହାଯାଜକ ସାଉଲଙ୍କୁ ଦମ୍ମେସକକୁ ଯାଇ ଖ୍ରୀଷ୍ଟିୟାନମାନଙ୍କୁ ଗିରଫ କରିବାକୁ ଏବଂ ସେମାନଙ୍କୁ ଯିରୁଶାଲମକୁ ଫେରାଇ ଆଣିବାକୁ ଅନୁମତି ଦେଲେ
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:persecute]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:highpriest]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ବିଶ୍ବାସ****କରିବା**, **ଠାରେ****ବିଶ୍ବାସ****କରିବା**, **ବିଶ୍ବାସ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ତାଡନା****କରିବା**, **ତାଡନା**
+  * **ବିଶ୍ବାସୀ**
+  * **ଯିରୁଶାଲମ**
+  * **ମହାଯାଜକ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **guarded the robes of the men who killed Stephen** - See **[[:or:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
+  * ସ୍ତିଫାନକୁ ହତ୍ୟା କରିଥିବା ପୁରୁଷମାନଙ୍କ ପୋଷାକକୁ ଜଗୁଥିଲେ - ଦେଖନ୍ତୁ **__[__ **__୪୫__**__-__ **__୦୬__**__]__ **
+  * ଘରରୁ ଘରକୁ - ତାହା ହେଉଛି, "ଅନେକ ଘରକୁ"
+  * ଦମ୍ମେସକ - ଦମ୍ମେସକ ବର୍ତ୍ତମାନ ସିରିଆ ଦେଶର ରାଜଧାନୀ ଅଟେ
+  * ଶାଉଲଙ୍କ ସମୟରେ, ଏହି ସହର ରୋମୀୟ ସାମ୍ରାଜ୍ୟର ଅନ୍ତର୍ଭୁକ୍ତ ଥିଲା
+  * ଅଧିକାଂଶ ଲୋକମାନେ ଯିହୁଦୀ ନ ଥିଲେ, କିନ୍ତୁ ସେଠାରେ କେତେକ ଯିହୁଦୀ ମାନେ ଏବଂ କେତେକ ଖ୍ରୀଷ୍ଟିୟାନମାନେ ରହୁଥିଲେ
 
 **[[:or:obs:notes:frames:45-13|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-02|>>]]**
