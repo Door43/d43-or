@@ -1,21 +1,19 @@
-===== The Priest [27-06] =====
+===== ଯାଜକ [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
+“ତାହା ପରେ  ଜଣେ ଯିହୂଦୀ ଯାଜକଙ୍କୁ  ସେହି ରାସ୍ତା ଦେଇ ଯିବାକୁ ହେଲା । ଯେତେବେଳେ ସେହି ଧର୍ମଗୁରୁ ମାଡ ମରାହୋଇ ପଡିଥିବା ଲୋକଙ୍କୁ ଦେଖିଲେ ସେ ସେତେବେଳେ ରାସ୍ତାର ଆର ପାଖ ଚାଲିଗଲେ, ଯାହାକୁ ସାହାର୍ଯ୍ୟର ଆବଶ୍ୟକତା ଥିଲା ତାହାକୁ ଅଜ୍ଞାତ କଲେ ଏବଂ ସେପରି ଚାଲିଗଲେ ।”
 
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:kt:priest]]**
-  * **[[:or:obe:other:jewishleaders]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀ**
+  * **ଯାଜକ**, **ଯାଜକବର୍ଗ**
+  * **ଯିହୂଦୀ****ନେତାମାନେ**, **ଯିହୂଦୀ****କର୍ତ୍ତୃପକ୍ଷ**, **ଧାର୍ମିକ****ନେତାମାନେ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **happened to walk down** - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
-  * **ignored the man** - That is, "did not help the man" or, "showed no concern for the man."
-  * **kept on going** - That is, "continued traveling down the road."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରିରଖିଲେ .)
+  * ଚାଲିବାକୁ ଲାଗିଲେ   - ତାହା ହେଉଛି, "ହେଲା ଙ୍କୁ be ଯାତ୍ରା କରିବାକୁ ଲାଗିଲେ." କେତେକ ଭାଷାମାନଙ୍କ ନିମନ୍ତେ ଏହି ପଦ"ଚାଲିବା" ଠାରୁ "ଯାତ୍ରା" ପରି ପଦ ବ୍ୟବହାର କରାଯାଇପାରେ ବରଂ ଠାରୁ "ଚାଲି" ଯେହେତୁ ଯାଜକ ସେ ପଥ ଦେଇ ଚାଲୁ ନ ଥିଲେ, କିନ୍ତୁ ସେ ଅନ୍ୟ ନଗରକୁ ଯାତ୍ରା କରୁଥିଲେ .
+  * ମନୁଷ୍ୟକୁ ଉପେକ୍ଷା କଲେ - ତାହା ହେଉଛି, "ମଣିଷକୁ ସାହାଯ୍ୟ କଲା ନାହିଁ" କିମ୍ବା, "ସେହି ମଣିଷ ପ୍ରତି ଚିନ୍ତିତ ନ ଥିଲେ."
+  * ନିରନ୍ତର ଚାଲୁଥିଲେ - ତାହା ହେଉଛି, "ପଥରେ ନିରନ୍ତର ଯାତ୍ରା କରୁଥିଲେ."
 
 **[[:or:obs:notes:frames:27-05|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-07|>>]]**
