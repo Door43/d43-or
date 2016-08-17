@@ -1,30 +1,28 @@
-===== The Birth of John [22-07] =====
+===== ଯୋହନଙ୍କ ଜନ୍ମ [22-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&}}
 
+ଇଲିଶାବେଥ୍ ତାଙ୍କରି ବାଳକ ଶିଶୁଙ୍କୁ ଜନ୍ମ ଦେଲା ପରେ, ଜିଖାରିୟା ଏବଂ ଇଲିଶାବେଥ ଶିଶୁଙ୍କ ନାମ, ଦୁତ ଆଜ୍ଞା ଦେବା ଅନୁସାରେ, ଯୋହନ ନାମ ରଖିଥିଲେ. ତା’ପରେ ଈଶ୍ବର ଯିଖରିୟଙ୍କୁ କଥା କହିବା ନିମନ୍ତେ ପୁନର୍ବାର ସକ୍ଷମ କରାଇଲେ । ଯିଖରିୟ କହିଲେ “ଈଶ୍ବରଙ୍କ ପ୍ରଶଂସା ହେଉ, କାରଣ ସେ ଆପଣା ଲୋକମାନଙ୍କୁ ସ୍ମରଣ କରିଅଛନ୍ତି!” ମୋ ପୁତ୍ର, ତୁମ୍ଭକୁ ସର୍ବୋପରିସ୍ଥ ଈଶ୍ବରଙ୍କର ଭାବବାଦୀ ବୋଲି ଡକାଯିବ ଯିଏ କିପରି ଲୋକମାନଙ୍କର ପାପକ୍ଷମା ଗ୍ରହଣ କରିବେ ।
 
-After **Elizabeth** gave birth to her baby boy, **Zechariah** and Elizabeth named the baby **John**, as the **angel** had commanded. Then **God** allowed **Zechariah** to speak again. Zechariah said, “**Praise God**, because he has remembered his people! You, my son, **will be called the prophet** of the **Most High God** who will tell the people how they can receive **forgiveness** for their **sins**!”
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:zechariahnt]]**
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:zechariahnt]]**
-  * **[[:or:obe:other:praise]]**
-  * **[[:or:obe:kt:prophet]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:sin]]**
+  * **ଯିଖରିୟ**  (**ନୁତନ****ନିୟମ**)
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ପରମେଶ୍ଵର**
+  * **ଯିଖରିୟ**  (**ନୁତନ****ନିୟମ**)
+  * **ସ୍ତୁତି****କରିବା**
+  * **ଭାବବାଦୀ**,**ଭାବବାଣୀ**,**ଭାବବାଣୀ****କହିବା**,**ଭାବବାଦିନୀ**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+  * **ପାପ**, **ପାପପୂର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **Elizabeth** - See the note about Elizabeth on **[[:or:obs:notes:frames:22-04|[22-04]]]**.
-  * **Praise God** - That is, "We should all praise God."
-  * **will be called** - This is another way of saying, "will be" or, "will be known as." John would actually be the Prophet of the Most High God.
-  * **the prophet** - That is, "the very important prophet." John would be the prophet that the Old Testament prophets had predicted would come before the Messiah.
-  * **Most High God** - Another way to say this would be, "the God who is greater than everything" or, "the God who rules over everything."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ଇଲିଶାବେଥ - ଇଲିଶାବେଥ ବିଷୟରେ ଟିପ୍ପଣୀକୁ ଦେଖନ୍ତୁ **__\[__ **__୨୨**-** ____୦୪**]**__.
+  * ପରମେଶ୍ଵରଙ୍କ ସ୍ତୁତି କରିବା - ତାହା ହେଉଛି, "ଆମେ ପରମେଶ୍ଵରଙ୍କ ସ୍ତୁତି କରିବା ଉଚିତ୍ ."
+  * ଡକାଯିବେ - ଏହାକୁ ଅନ୍ୟ ପ୍ରକାରେ କୁହାଯାଇଛି, "ଡକାଯିବ" କିମ୍ବା, "ଜଣାଯିବ." ଯୋହନ ପ୍ରକୃତରେ ସର୍ବୋପରିସ୍ଥ ଈଶ୍ବରଙ୍କ ଭାବବାଦୀ ହେବେ  ।”
+  * ଭବିଷ୍ୟତବକ୍ତା - ତାହା ହେଉଛି, " ଅତି ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଭାବବାଦୀ." ଯୋହନଏକ  ଭବିଷ୍ୟତବକ୍ତା ହେବେ ଯାହା ପୁରାତନ ନିୟମରେ ଭାବବାଦୀମାନେ ଭାବବାଣୀ କରିଥିଲେ କରିବେ ଯେ ସେ ମଶୀହଙ୍କ ପୂର୍ବରୁ ଆସିଥିଲେ .
+  * ସର୍ବୋପରିସ୍ଥ ପରମେଶ୍ଵର - ଅନ୍ୟ ଏକ ପ୍ରକାରେ କହିଲେ, "ପରମେଶ୍ଵର ଯିଏ ସମସ୍ତଠାରୁ ମହାନ୍ ଅଟନ୍ତି," କିମ୍ବା "ପରମେଶ୍ଵର ଯିଏ ସମସ୍ତଙ୍କ ଉପରେ ଶାସନ କରନ୍ତି"
+  * ବାଇବଲରୁ ଏକ  କାହାଣୀ – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
+  * ବାଇବଲର ଏକ କାହାଣୀ//://
 
 **[[:or:obs:notes:frames:22-06|<<]] | [[:or:obs:notes:22|Up]] | [[:or:obs:notes:frames:23-01|>>]]**
