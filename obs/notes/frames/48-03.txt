@@ -1,19 +1,17 @@
-===== Enemies of God [48-03] =====
+===== ଈଶ୍ବରଙ୍କ ଶତ୍ରୁମାନେ [48-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink&}}
 
-Because **Adam** and **Eve sinned**, something **even more terrible** happened. They became enemies of **God**. As a result, every person since then has been born with a sinful nature and is also an enemy of God. The relationship between God and people was broken by sin. But God had a plan to restore that relationship.
-===== Important Terms: =====
+ଯେହେତୁ ଆଦମ ଓ ହବା ପାପ କଲେ, ଏହାଠାରୁ ଆହୁରି କିଛି ଭୟଙ୍କର ବିଷୟ ଘଟିଲା । ସେମାନେ ଈଶ୍ବରଙ୍କର ଶତ୍ରୁ ହେଲେ । ଏହାର ଫଳ ସ୍ବରୂପ, ସେହି ଦିନ ଠାରୁ ଜନ୍ମ ନେଉଥିବା ପ୍ରତ୍ୟେକ ମନୁଷ୍ୟ ପାପ ସ୍ବଭାବରେ ଜନ୍ମ ନିଅନ୍ତି ଏବଂ ଈଶ୍ବରଙ୍କର ଶତ୍ରୁ ମଧ୍ୟ ଅଟନ୍ତି । ଈଶ୍ବର ଓ ମନୁଷ୍ୟମାନଙ୍କ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କ ପାପ ଦ୍ବାରା ବିଛେଦ ହୋଇଥିଲା । କିନ୍ତୁ ସେହି ସମ୍ପର୍କକୁ ପୁନଃପ୍ରତିଷ୍ଠିତ କରିବା ନିମନ୍ତେ ଈଶ୍ବରଙ୍କ ଏକ ଯୋଜନା ଥିଲା ।
 
-  * **[[:or:obe:other:adam]]**
-  * **[[:or:obe:other:eve]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଆଦମ**
+  * **ହବା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ୍ଣ**, **ଅପରାଧୀ**, **ପାପ****କରୁଅଛୁ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **even more terrible** - That is, "much worse" or, "worse yet."
-
+  * ଏପରିକି ଆଉ ଭୟଙ୍କର - ତାହାର ଅର୍ଥ, "ଅତିଶୟ ଖରାପ" କିମ୍ବା, "ତଥାପି ଖରାପ ."
 
 **[[:or:obs:notes:frames:48-02|<<]] | [[:or:obs:notes:48|Up]] | [[:or:obs:notes:frames:48-04|>>]]**
