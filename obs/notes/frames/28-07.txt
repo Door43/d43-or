@@ -1,19 +1,17 @@
-===== Who Can Be Saved? [28-07] =====
+===== କିଏ ପରିତ୍ରାଣ ପାଇପାରିବ ? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
-===== Important Terms: =====
+ଯୀଶୁ କହିଥିବା ବିଷୟକୁ ଯେତେବେଳେ ଶିଷ୍ୟମାନେ ଶୁଣିଲେ ସେମାନେ ଆଶ୍ଚର୍ଯ୍ୟ ହୋଇ ପଚାରିଲେ “ତେବେ କିଏ ଉଦ୍ଧାର (ପରିତ୍ରାଣ) ପାଇପାରିବ?”
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:save]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶିଷ୍ୟ**
+  * **ରକ୍ଷା**,**ସୁରକ୍ଷା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **shocked** - That is, "greatly astonished."
-  * **who can be saved** - This could also be translated as, "If even rich people cannot be saved, how can anyone else be saved?" Many people believed that being rich was a sign of God's favor.
-  * **saved** - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
-
+  * ଚକିତ ହୋଇଗଲେ - ତାହା ହେଉଛି, "ପ୍ରବଳ ଆଶ୍ଚର୍ଯ୍ୟାନ୍ମିତ."
+  * କିଏ ପରିତ୍ରାଣ ପାଇପାରିବ - ଏହଆକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରିବ, "ଯଦି ଧନୀ ଲୋକମାନେ ପରିତ୍ରାଣ ପାଇପାରିବେ ନାହିଁ, ତେବେ କିପରି ଅନ୍ୟ କେହିଜଣେ ପରିତ୍ରାଣ ପାଇପାରିବ ?" ଅନେକ ଲୋକମାନେ ବିଶ୍ଵାସ କରୁଥିଲେ ଯେ ଧନୀ ହେବା ପରମେଶ୍ଵଙ୍କର ଏକ ଅନୁଗ୍ରହ ଅଟେ.
+  * ପରିତ୍ରାଣ ପାଇଲେ  - ଏଠାରେ ପାପ ପାଇଁ ପରମେଶ୍ଵରଙ୍କ ନ୍ୟାୟ ଏବଂ ବିଚାର ଠାରୁ ଉଦ୍ଧାର ପାଇବା ଏବଂ ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟରେ ଏକ ନାଗରିକ ହେବାକୁ ବୁଝାଏ.
 
 **[[:or:obs:notes:frames:28-06|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-08|>>]]**
