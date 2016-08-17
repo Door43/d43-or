@@ -1,22 +1,20 @@
-===== The Third Temptation [25-06] =====
+===== ତୃତୀୟ ପରୀକ୍ଷା [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
+ତା’ପରେ ଶୟତାନ ଜଗତର ସମସ୍ତ ରାଜ୍ୟ ଓ ସେସବୁର ଐଶର୍ଯ୍ୟ ଦେଖାଇ କହିଲା “ତୁମ୍ଭେ ଯଦି ମୋତେ ଭୂମିଷ୍ଠ ପ୍ରଣାମ କରିବ ତେବେ ମୁଁ ଏହି ସମସ୍ତ ତୁମ୍ଭକୁ ଦେବି ।”
 
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:kingdom]]**
-  * **[[:or:obe:kt:glory]]**
-  * **[[:or:obe:kt:worship]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ରାଜ୍ୟ**
+  * **ମହିମା**, **ଐଶ୍ଵର୍ଯ୍ୟ**
+  * **ଉପାସନା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **kingdoms of the world** - This refers to all the greatest cities, countries, and other territories of the world.
-  * **their glory** - That is, "their power and wealth."
-  * **I will give you all this** - This could be translated as, "I will give you all the wealth and power of these kingdoms" or, "I will make you the ruler over all these countries, cities and people."
-
+  * ପୃଥିବୀର ରାଜ୍ୟଗୁଡିକ - ଏହା ମହାନ୍ ସହରଗୁଡିକ, ଦେଶମାନଙ୍କୁ,ଏବଂ ପୃଥିବୀର ଅନ୍ୟ ଶାସିତ ସ୍ଥାନମାନଙ୍କୁ ବୁଝାଯାଏ.
+  * ସେମାନଙ୍କର ଐଶର୍ଯ୍ୟ - ତାହା ହେଉଛି "ସେମାନଙ୍କର ଶକ୍ତି ଓ ଧନ ସମ୍ପଦ."
+  * ମୁଁ ଏହି ସମସ୍ତ ତୁମ୍ଭକୁ ଦେବି - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ମୁଁ ଏହି ଧନସମ୍ପଦ ଓ ରାଜ୍ୟମାନଙ୍କ ଶକ୍ତି ତୁମ୍ଭକୁ ଦେବି" କିମ୍ବା, "ମୁଁ ତୁମ୍ଭକୁ ଏହି ଦେଶମାନଙ୍କ, ସହର ଏବଂ ଲୋକମାନଙ୍କ ଉପରେ ଶାସକ କରାଇବି."
 
 **[[:or:obs:notes:frames:25-05|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-07|>>]]**
