@@ -1,19 +1,17 @@
-===== Paul and Silas Were Arrested [47-07] =====
+===== ପାଉଲ ଓ ଶୀଲା ବନ୍ଦୀ ହେଲେ [47-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink&}}
 
-So the owners of the **slave girl** took **Paul** and **Silas** to the **Roman authorities**, who beat them and **threw them** into jail.
-===== Important Terms: =====
+ତେଣୁ ସେହି ଦାସୀ ବାଳିକାର ମାଲିକମାନେ ପାଉଲ ଓ ଶୀଲାଙ୍କୁ ରୋମୀୟ କର୍ତ୍ତୃପକ୍ଷଙ୍କ ନିକଟକୁ ଘେନିଗଲେ, ଯେଉଁମାନେ ପାଉଲ ଓ ଶୀଲାଙ୍କୁ ପ୍ରହାର କରି କାରାଗାରରେ ଫୋପାଡି ଦେଲେ ।
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:silas]]**
-  * **[[:or:obe:other:rome]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଶୀଲା**, **ସିଲଭାନାସ୍**
+  * **ରୋମ**  ,**ରୋମିୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **threw them** - That is, "put them."
-
+  * ସେମାନଙ୍କୁ ଫୋପାଡି ଦେଲେ - ଯାହାର ଅର୍ଥ, "ସେମାନଙ୍କୁ ରଖିଲେ"
 
 **[[:or:obs:notes:frames:47-06|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-08|>>]]**
