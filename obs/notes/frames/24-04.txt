@@ -1,27 +1,25 @@
-===== Preparing the Way [24-04] =====
+===== ପଥ ପ୍ରସ୍ତୁତ କରିବା [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
-===== Important Terms: =====
+ଯୋହନ ସେହି ଧାର୍ମିକ ନେତାମାନଙ୍କୁ କହିଲେ “ହେ କାଳ ସର୍ପର ବଂଶ! ଅନୁତାପ କର ଓ ତୁମ୍ଭମାନଙ୍କ ବ୍ୟବହାର ପରିବର୍ତ୍ତନ କର । ଯେକୌଣସି ବୃକ୍ଷ ଭଲ ଫଳ ନ ଫଳେ ତାହାକୁ କତାଯାଏ ଏବଂ  ନିଆଁରେ ପକାଯାଏ ।” ଭାବବାଦୀମାନେ ଯାହା କହିଥିଲେ, ଯୋହନ ତାହା ସଫଳ କଲେ “ଦେଖ, ମୁଁ ତୁମ୍ଭ ଆଗରେ ମୋର ସମ୍ବାଦ ବାହକକୁ ପଠାଉଛି ଯିଏ ତୁମ୍ଭର ପଥ ପ୍ରସ୍ତୁତ କରିବେ ।”
 
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:repent]]**
-  * **[[:or:obe:kt:fulfill]]**
-  * **[[:or:obe:kt:prophet]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ଯିହୂଦୀ****ନେତାମାନେ**, **ଯିହୂଦୀ****କର୍ତ୍ତୃପକ୍ଷ**, **ଧାର୍ମିକ****ନେତାମାନେ**
+  * **ଅନୁତାପ****କରିବା**, **ଅନୁତାପ**
+  * **ସଫଳ****କରିବା**
+  * **ଭାବବାଦୀ**,**ଭାବବାଣୀ**,**ଭାବବାଣୀ****କହିବା**,**ଭାବବାଦିନୀ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **You poisonous snakes** - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** - This means, "will be judged and punished by God."
-  * **John fulfilled** - That is, "John was doing" what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah.
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
-
+  * ତୁମେ କାଳ ସର୍ପଗୁଡିକ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ , "ତୁମ୍ଭେମାନେ କାଳସର୍ପର ପରି ମିଛ କହୁଅଛା!" ଯୋହନ ସେମାନଙ୍କୁ କାଳ ସର୍ପଗୁଡିକ ବୋଲି ଡାକୁଥିଲେ କାରଣ ସେମାନେ ଭୟଙ୍କର ଏବଂ ଛଳନାକାରୀ ଥିଲେ .
+  * ଯେକୌଣସି ବୃକ୍ଷ ଭଲ ଫଳ ନ ଫଳେ ତାହାକୁ କଟାଯାଏ ଏବଂ  ନିଆଁରେ ପକାଯାଏ - ଯୋହନ ପ୍ରକୃତରେ ବୃଖ୍ୟମାନଙ୍କ ବିଷୟରେ କଥା କହୁ ନ ଥିଲେ ।” ଏହା ଏକ ପ୍ରକାଶନ ଅଟେ ଯାହା ଭଲ ଫଳକୁ ଭଲ କାର୍ଯ୍ୟ ଏବଂ ସ୍ବଭାବ ଯାହା ଇଶ୍ବରଙ୍କ ଠାରୁ ଆସିଥାଏ, ତୁଳନା କରାଯାଏ .
+  * କଟାଯିବା ଏବଂ ନିଆଁରେ ଫୋପାଡି ଦିଆଯିବ - ଏହାର ଅର୍ଥ," ବିଚାରିତ ହେବେ ଏବଂ ଇଶ୍ବରଙ୍କ ଦ୍ବାରା ଦଣ୍ଡିତ ହେବେ  ।”
+  * ଯୋହନ ସମ୍ପୁର୍ଣ କଲେ  - ତାହା ହେଉଛି, "ଯୋହନ କରୁଥିଲେ" ଯାହା ପରମେଶ୍ଵଙ୍କର ଦୂତବାହିନୀ କରିବେ ବୋଲି ଭବିଷ୍ୟତବକ୍ତା କହିଥିଲେ
+  * ଦେଖ- ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ଆସ ଏବଂ ଦେଖ" କିମ୍ବା "ଧ୍ୟାନ ଦେବ"
+  * ମୋର ଦୂତବାହିନୀ - ତାହା ହେଉଛି, "ମୁଁ, ସଦାପ୍ରଭୁ, "ମୋର ଦୂତବାହିନୀକୁ ପଠାଇବି." କେତେକ ଭାଷାରେ ଏହି ବାକ୍ୟକୁ ପରୋକ୍ଷ ଭାବରେ ନକଲ କରାଯାଏ," ଯେମିତି କି, ଯାହା ଭାବବାଦୀ ଯିଶାଇୟ ଭାବବାଣୀ କହିଥିଲେ, ଯେତେବେଳେ ପରମେଶ୍ଵର ତାଙ୍କ ଦୁତ ବାହିନୀକୁ ପଠାଇବେ
+  * ତୁମ୍ଭ ଆଗରେ - ଏହି ବାକ୍ୟାଂଶରେ, "ତୁମ୍ଭ" ମଶୀହଙ୍କୁ ଦର୍ଶାଏ.
+  * ତୁମ୍ଭ ପଥ ପ୍ରସ୍ତୁତ କରିବେ  - ପରମେଶ୍ଵଙ୍କର ଦୁତବାହିନୀ ମଶୀହଙ୍କ ଶୁଣିବା ପାଇଁ ଲୋକମାନଙ୍କୁ ପ୍ରସ୍ତୁତ କରିବେ .
 
 **[[:or:obs:notes:frames:24-03|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-05|>>]]**
