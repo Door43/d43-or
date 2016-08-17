@@ -1,22 +1,19 @@
-===== 3000 Believe [43-12] =====
+===== ୩୦୦୦ ବିଶ୍ବାସ କରିବା [43-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
-About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
-===== Important Terms: =====
+ପ୍ରାୟ 3000 ଲୋକ ପିତର କହିଥିବା କଥା ବିଶ୍ବାସ କଲେ ଏବଂ ଯୀଶୁଙ୍କର ଶିଷ୍ୟ ହେଲେ । ସେମାନେ ବିଶ୍ବାସ କଲେ ଏବଂ ଯିରୁଶାଲମରେ ଥିବା ମଣ୍ଡଳୀର ଏକ ଅଂଶ ହେଲେ ।
 
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:kt:church]]**
-  * **[[:or:obe:other:jerusalem]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ବିଶ୍ବାସ**, **ବିଶ୍ବାସ****ଠାରେ**,**ବିଶ୍ବାସ**
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବାପ୍ତିସ୍ମ****ଦେବା**, **ବାପ୍ତିସ୍ମ**
+  * **ମଣ୍ଡଳୀ**, **ମଣ୍ଡଳୀ**
+  * **ଯିରୁଶାଲମ**.
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(// ଏହି କାହାଣୀ ନିମନ୍ତେ କୌଣସି ଟୀପ୍ପଣୀ ନାହିଁ ।//)//
 **[[:or:obs:notes:frames:43-11|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-13|>>]]**
