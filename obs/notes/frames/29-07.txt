@@ -1,20 +1,20 @@
-===== The King Heard [29-07] =====
+===== ରାଜା ଶୁଣିବାକୁ ପାଇଲେ [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
-“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
-===== Important Terms: =====
+“କେତେକ ଦାସମାନେ ଏହି ଘଟଣା ଦେଖିଥିଲେ, ସେମାନେ ଅତି ମର୍ମାହତ ହେଲେ । ସେମାନେ ରାଜାଙ୍କ ନିକଟକୁ ଗଲେ ଏବଂ ସମସ୍ତ କଥା ଜଣାଇ ଦେଲେ ।
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:king]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ରାଜା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **what had happened** - That is, "that the servant had refused to cancel the other servant's debt and had put him into prison."
-  * **were greatly disturbed** - That is, "deeply grieved" or, "very distressed."
-  * **everything**–That is, "they told the king what the servant had done to his fellow servant."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ଯାହା ଘଟିଥିଲା - ତାହା ହେଉଛି, "ଯେ ସେହି ଦାସ ତାହାର ଅନ୍ୟ ସହଦାସର କରଜକୁ ଛାଡ କରିବା ପାଇଁ ମନ କଲା ଏବଂ ତାହାକୁ କାରାଗାରରେ ପକାଇଲା"
+  * ଅତି ମର୍ମାହତ ହେଲେ - ତାହା ହେଉଛି, "ଅତିଶୟ ଭାବରେ ଶୋକିତ ହେଲେ" କିମ୍ବା, "ଅତିଶା ନିରାଶ ହେଲେ."
+  * ସମସ୍ତ**
+ -** ତାହା ହେଉଛି**, "** ସେମାନେ ରାଜାଙ୍କୁ କହିଲେ ଯାହା ତାଙ୍କର ଦାସ ଜଣ କିପରି ତାହାର ସହଦାସ ସହିତ କଲା**"**
+=====   =====
 
 **[[:or:obs:notes:frames:29-06|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-08|>>]]**
