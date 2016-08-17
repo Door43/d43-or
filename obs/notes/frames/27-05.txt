@@ -1,15 +1,14 @@
-===== The Robbers [27-05] =====
+===== ଡକାୟତମାନେ [27-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
-===== Important Terms: =====
+ଲୋକଟି ଯେତେବେଳେ ଯାତ୍ରା କରୁଥିଲା, ସେତେବେଳେ ସେ ଦଳେ ଡକାୟତମାନଙ୍କ ଦ୍ବାରା ଆକ୍ରମଣର ଶିକାର ହେଲେ । ତାଙ୍କ ନିକଟରେ ଥିବା ସମସ୍ତ ବିଷୟକୁ ସେମାନେ ନେଇଗଲେ ଏବଂ ତାଙ୍କୁ ମରଣପ୍ରାୟ ମାଡ ମାରିଲେ । ତା’ପରେ ସେମାନେ ଚାଲିଗଲେ ।”
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * (Jesus continues to tell the story.)
-  * **everything he had** - That is, "everything he had with him, including the clothes he was wearing."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରିରଖିଲେ .)
+  * ଯାହା ସମସ୍ତ ତାହାର ଥିଲା - ଏହାର ଅର୍ଥ ହେଉଛି, "ପିନ୍ଧିଥିବା ବସ୍ତ୍ରକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି, ତାଙ୍କ  ସହିତ ଯାହା ସମସ୍ତ ଥିଲା "
 
 **[[:or:obs:notes:frames:27-04|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-06|>>]]**
