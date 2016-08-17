@@ -1,18 +1,15 @@
-===== Jesus Healed the Sick [26-08] =====
+===== ଯୀଶୁ ପୀଡିତମାନଙ୍କୁ ସୁସ୍ଥ କଲେ [26-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
-Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-===== Important Terms: =====
+ତା'ପରେ ଯୀଶୁ ଗାଲିଲିର ସମସ୍ତ ସ୍ଥାନକୁ ଗଲେ**, ** ଏବଂ ବୃହତ୍ ଜନଗହଳି ତାଙ୍କ ନିକଟକୁ ଆସିଲେ . ଯେଉଁ ଲୋକମାନେ ଦେଖିପାରୁନଥିଲେ, ଚାଲିପାରୁନଥିଲେ, ଶୁଣିପାରୁନଥିଲେ ଏମାନଙ୍କ ସମେତ ସେମାନେ ଅନେକ ପୀଡିତ ଓ ଶାରିରୀକ ଅକ୍ଷମ ଲୋକମାନଙ୍କୁ ଆଣିଲେ ।
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:galilee]]**
-  * **[[:or:obe:other:heal]]**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଗାଲିଲୀ**, **ଗାଲିଲୀୟ**
+  * **ସୁସ୍ଥ**, **ଆରୋଗ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **went throughout the region of Galilee** - That is, "all around in Galilee" or, "from place to place in Galilee."
-
+  * ଗାଲିଲିର ସମସ୍ତ ନଗରକୁ ଗଲେ  - ତାହା ହେଉଛି, "ଗାଲିଲିର ଚାରିପଟେ" କିମ୍ବା "ଗାଲିଲିର ଏକ ସ୍ଥାନରୁ ଅନ୍ୟ ସ୍ଥାନକୁ."
 
 **[[:or:obs:notes:frames:26-07|<<]] | [[:or:obs:notes:26|Up]] | [[:or:obs:notes:frames:26-09|>>]]**
