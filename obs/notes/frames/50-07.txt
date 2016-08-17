@@ -1,23 +1,19 @@
-===== Wait for the Harvest [50-07] =====
+===== ଅମଳ ପାଇଁ ଅପେକ୍ଷା କର [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
+“ଦାସମାନେ ସେମାନଙ୍କ ମାଲିକକୁ ପ୍ରରିଉତ୍ତର ଦେଲେ, ‘ଆମେ କ’ଣ ବାଳୁଙ୍ଗାଗୁଡିକ ଉପାଡି ପକାଇବୁ କି?” ମାଲିକ କହିଲେ, 'ନାହିଁ. ଯଦି ତୁମେ ତାହା କରିବ, ତାହା ସହିତ ତୁମେ ଗହମ ମଧ୍ୟ ଉପାଡିଦେବ । ଶଷ୍ୟ ଅମଳ ହେବା ଯାଏ ଦୁହିଁକୁ ଏକାଠି ବଢିବାକୁ ଦିଅ ଓ ଅମଳ ପରେ ବାଳୁଙ୍ଗାଗୁଡିକ ପୋଡି ପକାଅ, କିନ୍ତୁ ଗହମ ମୋ ଅମାରକୁ ଆଣ ।”
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
-===== Important Terms: =====
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:lord]]**
-
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ତୁମ୍ଭେମାନେ କେତେକ ଗହମକୁ ମଧ୍ୟ ଉପାଡି ପକାଇବ - ତାହା ହେଉଛି, "ଦୈବାତ୍ ତୁମେ କେତେକ ଗହମକୁ ମଧ୍ୟ ଉପାଡି ଦେବ". ହୃଷ୍ଟ ଶଷ୍ୟକୁ ବାଳୁଙ୍ଗାଠାରୁ ପୃଥକ୍ କରିବା କଷ୍ଟକର ହେବ, ଏବଂ ଗହମକୁ ନ ଉପାଡି ବାଳୁଙ୍ଗାଗୁଡିକୁ ଉପାଡିବାକୁ ପଡିବ
+  * ଅମଳ ନହେବା ପର୍ଯ୍ୟନ୍ତ - ତାହା ହେଉଛି, "ଗହମ ନ ଅମଳ ପାଇଁ ପ୍ରସ୍ତୁତ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ" କିମ୍ବା, "ଅମଳ ପାଇଁ ଗହମ ଯେପରି ଯଥା ଭାବରେ ବୃଦ୍ଧି ନ ହେବା ପର୍ଯ୍ୟନ୍ତ"
+  * ଗହମ - ତାହା ହେଉଛି, "ଅମଳ ହୋଇଥିବା ଗହମ ବୀଜଗୁଡିକ"
+  * ଅମାର - ଏହା ଏକ ଘରକୁ ବୁଝାଏ ଯେଉଁଠାରେ ଅମଳ ହୋଇଥିବା ଗହମ ବୀଜକୁ ଜମା କରାଯାଏ ଏବଂ ରଖାଯାଏ. ଏହାକୁ "ଗୋଦାମ୍" ବୋଲି କୁହାଯାଇପାରେ  ।
 
 **[[:or:obs:notes:frames:50-06|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-08|>>]]**
