@@ -1,22 +1,20 @@
-===== Our Crown [50-13] =====
+===== ଆମ୍ଭମାନଙ୍କ ପୁରଷ୍କାର [50-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
-**Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
-===== Important Terms: =====
+ଯେଉଁମାନେ ଯୀଶୁଙ୍କଠାରେ ବିଶ୍ବାସ କରନ୍ତି ସେମାନଙ୍କୁ ଏକ ମୁକୁଟ ଦେବା ପାଇଁ ଯୀଶୁ ପ୍ରତିଜ୍ଞା କରିଅଛନ୍ତି । ସେମାନେ ଈଶ୍ବରଙ୍କ ସହ ସମ୍ପୂର୍ଣ୍ଣ ଶାନ୍ତିରେ ବାସ କରି ରାଜତ୍ବ କରିବେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:promise]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:life]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:peace]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପ୍ରତିଜ୍ଞା**
+  * **ବିଶ୍ବାସ****କରିବା****, ****ଠାରେ****ବିଶ୍ବାସ****, ****ବିଶ୍ବାସ****,**
+  * **ଜୀବନ****, ****ଜୀବିତ****, ****ଜୀବନ୍ତ****, ****ସଜୀବ**
+  * **ପରମେଶ୍ଵର**
+  * **ଶାନ୍ତି****, ****ଶାନ୍ତିପୁର୍ଣ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
+  * ମୁକୁଟ - ଏହି ମୁକୁଟ ଆମ୍ଭମାନଙ୍କ ଯୀଶୁଙ୍କୁ ବିଶ୍ବାସ କରିବା ନିମନ୍ତେ ଏବଂ ତାଙ୍କୁ ସେବା କରିବା ନିମନ୍ତେ ପୁରଷ୍କାର ଅଟେ .
+  * ସିଦ୍ଧ - ତାହା ହେଉଛି, "ସମ୍ପୁର୍ଣ" କିମ୍ବା, "ସମଗ୍ର"
 
 **[[:or:obs:notes:frames:50-12|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-14|>>]]**
