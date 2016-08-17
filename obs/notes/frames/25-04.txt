@@ -1,24 +1,21 @@
-===== The Second Temptation [25-04] =====
+===== ଦ୍ଵିତୀୟ ପରୀକ୍ଷା [25-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}
 
-**Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+ତା’ପରେ ଶୟତାନ ମନ୍ଦିର ଚୂଡାକୁ ଘେନିଯାଇ ତାଙ୍କୁ କହିଲା “ତୁମ୍ଭେ ଯଦି ଈଶ୍ବରଙ୍କ ପୁତ୍ର, ତଳକୁ ଡେଇଁପଡ, କାରଣ ଲେଖାଅଛି ‘ତୁମ୍ଭର ପାଦ ଯେପରି ପଥରରେ ନ ବାଜିବ ଏଥିପାଇଁ ସେମାନେ ତୁମ୍ଭକୁ ହସ୍ତରେ ତୋଳି ଧରିବେ ।”
 
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:temple]]**
-  * **[[:or:obe:kt:sonofgod]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:angel]]**
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ମନ୍ଦିର**
+  * **ଈଶ୍ବରଙ୍କ****ପୁତ୍ର**, **ପୁତ୍ର**, **ପୁତ୍ର****।**”
+  * **ପରମେଶ୍ଵର**
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **throw yourself down** - That is, "jump off this building to the ground."
-  * **it is written** - That is, "a prophet of God wrote long ago."
-  * **so your foot does not hit a stone** - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
-
+  * ନିଜକୁ ତଳକୁ ଫୋପାଡି ଦିଅ - ତାହା ହେଉଛି, "ଏହି ପ୍ରାସାଦରୁ ତଳକୁ କୁଦା ମାର."
+  * ଏହା ଲେଖା ଅଛି - ତାହା ହେଉଛି, "ପରମେଶ୍ଵର ଏକ ଭାବବାଦୀ ଦୀର୍ଘ ପୂର୍ବରୁ ଲେଖିଥିଲେ."
+  * ତେବେ ତୁମର ପାଦ ପଥରରେ ଆଘାତ ହେବ ନାହିଁ  - ଏହାର ଅର୍ଥ, "ଯେପରି ତୁମଭକୁ କୌଣସିପ୍ରକାରେ ଆଘାତ ନ ହୁଏ;.ଏପରିକି ତୁମ୍ଭ ପାଦ ପଥର ଦ୍ବାରା ଆଘାତ ଯେପରି ନ ହୁଏ ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ଯେପରି ତୁମ ପାଦ ଏକ ପଥର ବିରୁଦ୍ଧରେ ଆଘାତ ନ ହୁଏ; ତୁମକୁ କୌଣସି ପ୍ରକାରେ ଆଘାତ ହେବ ନାହିଁ."
 
 **[[:or:obs:notes:frames:25-03|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-05|>>]]**
