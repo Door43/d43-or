@@ -1,18 +1,17 @@
-===== What Should We Do? [43-10] =====
+===== ଆମ୍ଭେ କଣ କରିବା ଉଚିତ୍ ? [43-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
-The people listening to **Peter** were **deeply moved by** the things that he said. So they asked Peter and the **disciples**, “**Brothers**, what should we do?”
-===== Important Terms: =====
+ଲୋକମାନେ ପିତରଙ୍କ କଥା ଶୁଣିଲେ ଏବଂ ସେ କହିଥିବା କଥା ଯୋଗୁଁ ଗଭୀର ଭାବରେ ସଞ୍ଚାଳିତ ହେଲେ । ତେଣୁ ସେମାନେ ପିତର ଓ ଅନ୍ୟ ଶିଷ୍ୟମାନଙ୍କୁ ପଚାରିଲେ “ଭାଇମାନେ, ଆମ୍ଭେମାନେ କ’ଣ କରିବା ଉଚିତ୍ ?”
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **deeply moved by** - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
-
+  * ଗମ୍ଭିର ଭାବରେ ଶୋକିତ ହେଲେ - ତାହା ହେଉଛି, "ଅତି ଦୁଃଖରେ ଭାଙ୍ଗି ପଡିଥିଲେ" କିମ୍ବା, "ସେମାନେ ଯେତେବେଳେ ଶୁଣିଲେ ଔ ଦୁଃଖିତ ହେଲେ."
+  * "ଆବେଗ" ଦୃଢ ଭାବନାଗୁଡିକୁ ଅନୁଭବ କରିବା ଅଟେ
+  * ଭାଇମାନେ - ଏକ ଯିହୁଦୀ ପାଇଁ ଅନ୍ୟ ଯିହୁଦୀମାନଙ୍କୁ ସମ୍ବୋଧନ କରିବା ପାଇଁ ଏକ ସାଧାରଣ ପ୍ରକ୍ରିୟା ଅଟେ. ଏହାକୁ "ବନ୍ଧୁମାନେ" ପ୍ରକାରେ ଅନୁବାଦ କରାଯାଇପାରିବ  ।
 
 **[[:or:obs:notes:frames:43-09|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-11|>>]]**
