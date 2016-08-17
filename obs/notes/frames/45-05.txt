@@ -1,23 +1,21 @@
-===== Stephen's Prayer [45-05] =====
+===== ସ୍ତିଫାନଙ୍କ ପ୍ରାର୍ଥନା [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
-===== Important Terms: =====
+ଯେତେବେଳେ ସ୍ତିଫାନ ମୃତୁବରଣ କରୁଥିଲେ,"ଯୀଶୁ ମୋର ଆତ୍ମାଙ୍କୁ ଗ୍ରହଣ କର ବୋଲି ସେ ଚିତ୍କାର କଲେ" ତା'ପରେ ସେ ତାହାରି ଆଣ୍ଠୁପାତି ପୁନର୍ବାର ଚିତ୍କାର କଲେ, "ପ୍ରଭୁ, ସେମାନଙ୍କ ବିରୁଦ୍ଧରେ ଏହି ପାପକୁ ଗଣନା କର ନାହିଁ" ତା'ପରେ ସେ ମୃତୁବରଣ କଲେ
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:receive]]**
-  * **[[:or:obe:kt:spirit]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:death]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଗ୍ରହଣ****କର**
+  * **ଆତ୍ମା**, **ଆତ୍ମିକ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ଗୁରୁ**
+  * **ପାପ****କରିବା**, **ପାପୀ**, **ପାପ****କରୁଛନ୍ତି**
+  * **ମୃତ୍ୟ**, **ମରିବା**, **ମୃତ୍ୟୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
+  * ଯେମିତି ସ୍ତିଫାନ ମୃତ୍ୟବରଣ କରୁଥିଲେ - ଏହାର ଅର୍ଥ ହେଲା, "ସ୍ତିଫାନଙ୍କ ମୃତ୍ୟ ପୁର୍ବରୁ"
+  * ଚିତ୍କାର କଲେ- ଏହାର ଅର୍ଥ ହେଲା, "ଉଚ୍ଚ ସ୍ଵରରେ ଡାକିଲେ" କିମ୍ବା, "ଅତି ଉଚ୍ଚଭାବରେ କହିଲେ"
+  * ଏହି ପାପକୁ ସେମାନଙ୍କ ବିରୁଦ୍ଧରେ ଗଣନା କର ନାହି - ଏହାର ଅର୍ଥ ହେଲା, "ସେମାନଙ୍କୁ ମୋ ମୃତ୍ୟର ଅପରାଧ ବୋଲି ବିଚାର କର ନାହିଁ"
 
 **[[:or:obs:notes:frames:45-04|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-06|>>]]**
