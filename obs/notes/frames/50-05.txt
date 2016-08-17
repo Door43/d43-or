@@ -1,20 +1,18 @@
-===== The Enemy [50-05] =====
+===== ଶତ୍ରୁ [50-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-**Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
-===== Important Terms: =====
+ଜଗତ ଶେଷ ହେବା ସମୟରେ ଲୋକମାନଙ୍କ ପ୍ରତି କ’ଣ ଘଟିବ, ଜିଶୁ ତାଙ୍କ ଶିଷ୍ୟମନଙ୍କୁ ଏକ କାହାଣୀ ବୁଝାଇ କହିଲେ  I ସେ କହିଲେ “ଜଣେ ଲୋକ ତାଙ୍କ କ୍ଷେତରେ ଉତ୍ତମ ବିହନ ବୁଣିଥିଲେ । ସେ ଶୋଇଥିବା ସମୟରେ ତାହାର ଶତ୍ରୁ ଆସି ଗହମ ସହିତ ବାଳୁଙ୍ଗା ବିହନ ବୁଣିଲା ଏବଂ ସେ ଚାଲିଗଲା ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:good]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ଉତ୍ତମ****, ****ଉତ୍ତମତା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
+  * ଉତ୍ତମ ବୀଜ - ଏହି ବୀଜ ଗହମର ବିଜ ଥିଲା. ଯଦି ଏହି ପ୍ରକାରର ବୀଜ ଆପଣଙ୍କ ନିଜ ସ୍ଥାନୀୟ ଭାଷାରେ ନାହିଁ, ଆପଣଙ୍କ ନିମନ୍ତେ ଏହିଆ ପଦକୁ "ବୀଜ" ଭାବରେ ପ୍ରୟୋଗ କରିବା ଉତ୍ତମ ହେବ" l ଯଦି ସେଠାରେ ସାଧାରଣ ପଦ ନାହିଁ, ଆପଣମାନଙ୍କ ପାଇଁ ଏକ ଗହମ ବୀଜ ପ୍ରକାରକୁ ମନୋନିତ କରିବା ଆବଶ୍ୟକ ହେବ ଯାହା ଜଣାଥିବା ଏବଂ କହିବେ, ଉଦାହରଣ ସ୍ବରୁପ, "ଚାଉଳ ପରି ଉତ୍ତମ ବୀଜ"
+  * ବାଳୁଙ୍ଗା ବୀଜଗୁଡିକ - ବାଳୁଙ୍ଗା ବୀଜଗୁଡିକ ଯାହା ଜଗା ହୋଇଥିବ ବିରାଟ ଘାସ ପରି ବୃଦ୍ଧି ହେବେ କିନ୍ତୁ ଖିଆ ଯାଇପାରିବ ନାହିଁ l ସେଗୁଡିକ ଆବର୍ଜନା ଅଟେ
+  * ଗହମ - ତାହା ହେଉଛି, "ଗହମ ବିହନଗୁଡିକ." ଗହମ ହେଉଛି ଏକ ପ୍ରକାରର ବିହନ ଯେ ଏକ ଉଚ୍ଚ ଘାସ ପରି ବୃଦ୍ଧି ହୋଇଥାଏ. ତାହାର ବୀଜଗୁଡିକ ଥାଏ ଯାହା ଲୋକମାନେ ଖାଦ୍ୟ ପାଇଁ ବ୍ୟବହାର କରନ୍ତି
 
 **[[:or:obs:notes:frames:50-04|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-06|>>]]**
