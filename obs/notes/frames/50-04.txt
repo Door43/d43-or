@@ -1,27 +1,26 @@
-===== Remain Faithful [50-04] =====
+===== ବିଶ୍ଵସ୍ତ ରୁହନ୍ତୁ [50-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
-**Jesus** also said, “A **servant** is** not greater than his master**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **suffer**, be encouraged because I have defeated **Satan**, the one who rules this world. If you **remain faithful to me to the end**, then **God will save you**!”
-===== Important Terms: =====
+ଯୀଶୁ ଆହୁରି କହିଲେ “ଦାସ ଗୁରୁଠାରୁ ଶ୍ରେଷ୍ଠ ନୁହଁନ୍ତି । ଏହି ଜଗତର ଅଧିକାରପ୍ରାପ୍ତ ବ୍ୟକ୍ତିମାନେ ଯେପରି ମୋତେ ଘୃଣା କରିଅଛନ୍ତି, ଠିକ୍ ସେହିପରି ସେମାନେ ମୋ ସକାଶେ ତୁମ୍ଭମାନଙ୍କୁ ତାଡନା କରିବେ ଏବଂ ହତ୍ୟା କରିବେ । ଯଦିଓ ଏହି ଜଗତରେ ତୁମ୍ଭେମାନେ କ୍ଲେଶଭୋଗ କରିବ, ସାହସ ଧରି ଉତ୍ସାହିତ ହୁଅ କାରଣ ଜଗତକୁ ଶାସନ କରୁଥିବା ଶୟତାନକୁ  ମୁଁ ଜୟ କରିଅଛି । ଯଦି ତୁମ୍ଭେମାନେ ଶେଷ ପର୍ଯ୍ୟନ୍ତ ମୋଠାରେ ବିଶ୍ବସ୍ତ ରହିବ, ତେବେ ଈଶ୍ବର ତୁମ୍ଭମାନଙ୍କୁ ରକ୍ଷା କରିବେ !”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:suffer]]**
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:faithful]]**
-  * **[[:or:obe:kt:save]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ
+  * ସେବକ**, ** ଦାସ**, ** ଦାସତ୍ଵ
+  * ପ୍ରଭୁ**, ** ଗୁରୁ**, ** ମହାଶୟ
+  * ଦୁଖଭୋଗ କରିବା**,** କ୍ଲେଶ
+  * ଶୟତାନ**, ** ଭୁତ**, ** ମନ୍ଦ ଜଣେ
+  * ବିଶ୍ଵସ୍ତ**, ** ବିଶ୍ବସ୍ତତା
+  * ରକ୍ଷା କରିବା**, ** ସୁରକ୍ଷିତ
 
-===== Translation Notes: =====
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, "Keep obeying me."
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-
+  * ଠାରୁ ମହାନ୍ ନୁହନ୍ତି - "ତାହା ହେଉଛି, "ଠାରୁ ଅଧିକ ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ନୁହେଁ" କିମ୍ବା, "ଏହି ଅବସ୍ଥାରେ,  "ଠାରୁ ଭଲ ଭାବରେ ଆଚରଣ କରାଯାଇନାହିଁ"
+  * ମୋ କାରଣରୁ - ତାହା ହେଉଛି, "ଯେହେତୁ ତୁମ୍ଭେମାନେ ମୋର ଆଜ୍ଞାବହ ହେଉଅଛ" କିମ୍ବା, "କାରଣ ତୁମେ ଲୋକମାନଙ୍କୁ ମୋ ବିଷୟରେ ଶିକ୍ଷା ଦେଉଅଛ" କିମ୍ବା, "କାରଣ ତୁମକୁ ମୋର ଅଟ."
+  * ଏହି ଜଗତରେ – ରେ, "ଏହି ଜୀବନକାଳରେ"
+  * ମୋଠାରେ ବିଶ୍ବସ୍ତ ରୁହ - ତାହା ହେଉଛି, "ମୋର ଆଜ୍ଞାବହ ହୋଇରୁହ"
+  * ଶେଷକୁ - ତାହା ହେଉଛି, "ତୁମମାନଙ୍କ ଜୀବନର ଶେଷରେ."
+  * ତୁମଭାମାନଙ୍କୁ ରକ୍ଷା କରିବେ  - ଏହା ଶାରୀରିକ ଆଘାତରୁ ରକ୍ଷା ଅପେକ୍ଷା ଆତ୍ମିକ ପରିତ୍ରାଣକୁ ସୁଚାଏ l ଏହା ନିର୍ଦ୍ଧାରିତ କରାଯାଇଅଛି ଯେ ବିଶ୍ବାସୀମାନଙ୍କୁ ଯନ୍ତ୍ରଣା ଭୋଗିବେ ଏବଂ ମରିବେ
 
 **[[:or:obs:notes:frames:50-03|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-05|>>]]**
