@@ -1,20 +1,21 @@
-===== Worship for the Baby [23-10] =====
+===== ଶିଶୁଙ୍କ ନିମନ୍ତେ ଉପାସନା କଲେ [23-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&}}
 
-When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
-===== Important Terms: =====
+ପଣ୍ଡିତଗଣ ଯେତେବେଳେ ଯୀଶୁଙ୍କୁ ତାଙ୍କ ମାତାଙ୍କ ସହ ଦେଖିଲେ, ସେମାନେ ଭୂମିଷ୍ଠ ହୋଇ ତାହାଙ୍କୁ ପ୍ରଣାମ କଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:worship]]**
+ସେମାନେ ଯୀଶୁଙ୍କୁ ବହୁମୂଲ୍ୟ ଉପହାରଗୁଡିକ ଦେଲେ । ତା’ପରେ ସେମାନେ ନିଜ ଗୃହକୁ ଫେରି ଆସିଲେ ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉପାସନା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **wise men** - See how you translated this term in **[[:or:obs:notes:frames:23-09|[23-09]]]**.
-  * **bowed down** - That is, "bowed low to the ground." At that time, this was the customary way of showing great respect or reverence.
-  * **expensive** - That is, "very valuable."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ପଣ୍ଡିତମାନେ – ଆପଣ ଏହାକୁ **__\[__ **__୨୩**-** ____୦୯**]**__ ରେ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ ।
+  * ନତ ହେଲେ  - ଯେ ଅଛନ୍ତି, "ଭୁମିଷ୍ଠ ନତ ହେଲେ"
+  * ସେହି  ସମୟରେ, ଭୁମିଷ୍ଠ ନତ ହୋଇ ପ୍ରଣାମ ଏକ ମହାନ୍ ଆଦର ଦେବାର ଏକ ପ୍ରଥା ଥିଲା
+  * ବହୁମୂଲ୍ୟ - ତାହା ହେଉଛି, "ଅତି ମୂଲ୍ୟବାନ୍."
+  * ବାଇବଲରୁ ଏକ  କାହାଣୀ – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:23-09|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:24-01|>>]]**
