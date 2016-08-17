@@ -1,21 +1,18 @@
-===== The Church Is Growing [50-01] =====
+===== ମଣ୍ଡଳୀର ବୃଦ୍ଧି ପାଉଅଛି [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
-===== Important Terms: =====
+୨୦୦୦ ବର୍ଷରୁ ଅଧିକ ସମୟ ସମଗ୍ର ବିଶ୍ବରୁ ଅଧିକରୁ ଅଧିକ ଲୋକ ଖ୍ରୀଷ୍ଟ ଯୀଶୁଙ୍କ ବିଷୟରେ ଶୁଭ ସମ୍ବାଦ ଶୁଣିଆସୁଅଛନ୍ତି । ମଣ୍ଡଳୀ ବୃଦ୍ଧିପାଇ ଚାଲିଛି । ଯୀଶୁ ପ୍ରତିଜ୍ଞା କରିଛନ୍ତି ଯେ ସେ ଜଗତର ଶେଷରେ ଆସିବେ । ଯଦିଓ ସେ ଆସିନାହାନ୍ତି, ତଥାପି ସେ ତାହାଙ୍କ ପ୍ରତିଜ୍ଞା ରକ୍ଷା କରିବେ ।
 
-  * **[[:or:obe:kt:goodnews]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:christ]]**
-  * **[[:or:obe:kt:church]]**
-  * **[[:or:obe:kt:promise]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ**:**  =====
+   * **ଶୁଭ ସମ୍ବାଦ, ସୁସମାଚାର**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଖ୍ରୀଷ୍ଟ, ମସିହ**
+  * **ମଣ୍ଡଳୀ, ମଣ୍ଡଳୀ**
+  * **ପ୍ରତିଜ୍ଞା**
+===== ଅନୁବାଦ ବିବରଣ**:**  =====
 
-
-===== Translation Notes: =====
-
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
+  * ମଣ୍ଡଳୀର ବୃଦ୍ଧି ହୋଇ ଚାଲୁଅଛି - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ସାରା ପୃଥିବୀରେ ମଣ୍ଡଳୀରେ ଲୋକମାନଙ୍କ ସଂଖ୍ୟା ବୃଦ୍ଧି ହୋଇ ଚାଲୁଅଛି" କିମ୍ବା, "ଯୀଶୁଙ୍କଠାରେ ବିଶ୍ବାସମାନେ ବୃଦ୍ଧି ହୋଇ ଆସୁଅଛି"
+  * ପୃଥିବୀର ଶେଷରେ - ଏହି ବାକ୍ୟାଂଶର ଅର୍ଥ, "ବର୍ତ୍ତମାନର ଜଗତ ଶେଷ ହେବା ପୁର୍ବରୁ" କିମ୍ବା, "ଏହି ପୃଥିବୀର ଅନ୍ତିମ ସମୟରେ"
 
 **[[:or:obs:notes:frames:49-18|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-02|>>]]**
