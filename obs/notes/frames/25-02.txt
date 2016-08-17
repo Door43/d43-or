@@ -1,21 +1,18 @@
-===== The First Temptation [25-02] =====
+===== ପ୍ରଥମ ପରୀକ୍ଷା [25-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
+ଶୟତାନ ଏହା କହି ଯୀଶୁଙ୍କୁ ପ୍ରଲୋଭିତ କରିଥିଲା “ଯଦି ତୁମ୍ଭେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର, ଏହି ପଥରଗୁଡିକ ରୋଟୀ ହେବା ପାଇଁ ଆଜ୍ଞା ଦିଅ!”
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:tempt]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sonofgod]]**
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ପରୀକ୍ଷା****କରିବା**, **ପରୀକ୍ଷା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଈଶ୍ବରଙ୍କ****ପୁତ୍ର**, **ପୁତ୍ର**, **ପୁତ୍ର****।**”
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
+  * ଏହି ପଥରଗୁଡିକୁ ରୋତିରେ ଅରିନତ କର - ଏହାକୁ ମଧ୍ୟ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ଏହି ପଥରକୁ ରୋତୀ କର" କିମ୍ବା, "ଅଲୌକିକ ଭାବରେ ଏହି ପଥରକୁ ରୋଟିରେ ପରିଣତ କର."
+  * ରୋଟି - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରିବ "ଖାଦ୍ୟ" ଅନ୍ୟ ଭାଷାମାନଙ୍କ ନିମନ୍ତେ ରୋତୀ ଏକ ସାଧାରଣ ଖାଦ୍ୟ ହୋଇ ନ ପାରେ . ରେ ଯିହୂଦୀମାନଙ୍କ' ପରମ୍ପରାରେ, ରୋଟି ଏକ ମୁଖ୍ୟ ଖାଦ୍ୟା ଥିଲା
 
 **[[:or:obs:notes:frames:25-01|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-03|>>]]**
