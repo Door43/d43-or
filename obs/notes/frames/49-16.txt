@@ -1,20 +1,18 @@
-===== Sins Are Forgiven [49-16] =====
+===== ପାପ କରାଯାଇଅଛି [49-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
-If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
-===== Important Terms: =====
+ଯଦି ଆପଣ ଜଣେ ଖ୍ରୀଷ୍ଟିୟାନ ଅଟନ୍ତି, ତେବେ ଯୀଶୁ ଯାହା କରିଅଛନ୍ତି ସେଥିଯୋଗୁଁ ଈଶ୍ବର ଆପଣଙ୍କ ପାପସବୁ କ୍ଷମା କରିଅଛନ୍ତି । ବର୍ତ୍ତମାନ, ଆପଣ ଈଶ୍ବରଙ୍କର ଜଣେ ଶତ୍ରୁ ନ ହୋଇ ବରଂ ତାଙ୍କର ଜଣେ ଘନିଷ୍ଠ ବନ୍ଧୁ ହେବା ପାଇଁ ଈଶ୍ବର ବିଚାର କରନ୍ତି ।
 
-  * **[[:or:obe:kt:christian]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+  * **ପରମେଶ୍ଵର**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
-
+  * ଆପଣଙ୍କୁ ହେବା ପାଇଁ ମନଯୋଗ କରନ୍ତି - ତାହା ହେଉଛି, "ଆପଣଙ୍କୁ ହେବା ପାଇଁ ଚିନ୍ତା କରନ୍ତି" କିମ୍ବା,"ଆପଣଙ୍କର ଚିନ୍ତା କରନ୍ତି" କିମ୍ବା,"ଆପଣଙ୍କୁ ଡାକନ୍ତି"
 
 **[[:or:obs:notes:frames:49-15|<<]] | [[:or:obs:notes:49|Up]] | [[:or:obs:notes:frames:49-17|>>]]**
