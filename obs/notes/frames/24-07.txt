@@ -1,21 +1,19 @@
-===== John Baptized Jesus [24-07] =====
+===== ଯୋହନ ଯୀଶୁଙ୍କୁ ବାପ୍ତିସ୍ମ ଦିଅନ୍ତି [24-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&}}
 
-**John** said to **Jesus**, “**I am not worthy to baptize you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **sinned**.
-===== Important Terms: =====
+ଯୋହନ ଯୀଶୁଙ୍କୁ କହିଲେ “ତୁମକୁ ବାପ୍ତିସ୍ମ ଦେବାକୁ ମୁଁ ଯୋଗ୍ୟ ନୁହେଁ । ବରଂ ତୁମେ ମୋତେ ବାପ୍ତିସ୍ମ ଦେବା ଉଚିତ୍ ।” କିନ୍ତୁ ଯୀଶୁ କହିଲେ “ତୁମ୍ଭେ ମୋତେ ବାପ୍ତିସ୍ମ ଦିଅ, କାରଣ ଏହା କରିବା ଠିକ୍ ବିଷୟ ଅଟେ ତେଣୁ ଯୋହନ ତାହାଙ୍କୁ ବାପ୍ତିଜିତ କଲେ, ଯଦିଓ ଯୀଶୁ କେବେ ପାପ କରିନଥିଲେ ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:kt:sin]]**
+  * ଯୋହନ** (** ବାପ୍ତିଜକ**)**
+  * ଯୀଶୁ**, ** ଯୀଶୁ ଖ୍ରୀଷ୍ଟ**, ** ଖ୍ରୀଷ୍ଟ ଯୀଶୁ
+  * ବାପ୍ତିସ୍ମ ଦେବା**, ** ବାପ୍ତିସ୍ମ
+  * ପାପ**, ** ପାପ ପୁର୍ଣ**, ** ପାପୀ**, ** ପାପ କରିବା
 
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
-
+  * ମୁଁ ତୁମ୍ଭକୁ ବାପ୍ତିସ୍ମ ଦେବାକୁ ଯୋଗ୍ୟ ନୁହେଁ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ମୁଁ ତୁମକୁ ବାପ୍ତିସ୍ମ ଦେବାପାଇଁ ଯଥା ଉତ୍ତମ ନୁହେଁ " କିମ୍ବା, "ମୁଁ ପାପୀ ଅଟେ, ତେଣୁ ମୁଁ ତୁମକୁ ବାପ୍ତିସ୍ମ ଦେବା ଉଚିତ୍ ନୁହେଁ."
+  * ଏହା କରିବା ଯଥାର୍ଥ ଅଟେ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ଏହା କରିବା ଉପଯୁକ୍ତ ବିଷୟ ଅଟେ" କିମ୍ବା, "ଏହା ହିଁ ପରମେଶ୍ଵର ମୋ ଠାରୁ ଚାହାନ୍ତି."
 
 **[[:or:obs:notes:frames:24-06|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-08|>>]]**
