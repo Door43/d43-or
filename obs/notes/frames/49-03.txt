@@ -1,19 +1,17 @@
-===== Jesus the Teacher [49-03] =====
+===== ଯୀଶୁ  ଗୁରୁ [49-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
-**Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
-===== Important Terms: =====
+ଯୀଶୁ ଜଣେ ମହାନ୍ ଶିକ୍ଷକ ମଧ୍ୟ ଥିଲେ, ଏବଂ ସେ ଅଧିକାର ସହିତ କଥା କହୁଥିଲେ କାରଣ ସେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର ଥିଲେ । ସେ ଶିକ୍ଷା ଦେଇଥିଲେ ଯେ ଆପଣ ନିଜକୁ ଯେପରି ଭାବରେ ପ୍ରେମ କରନ୍ତି ସେପରି ଅନ୍ୟମାନଙ୍କୁ ମଧ୍ୟ ପ୍ରେମ କରିବାକୁ ହେବ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sonofgod]]**
-  * **[[:or:obe:kt:love]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ବରଙ୍କ****ପୁତ୍ର****, ****ପୁତ୍ର****, ****ପୁତ୍ର**
+  * **ପ୍ରେମ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
+  * ଏକ ମହାନ୍ ଶିକ୍ଷକ - ତାହା ହେଉଛି, " ଅତି ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଗୁରୁ."
+  * ଏହିପରି ଭାବରେ - ତାହା ହେଉଛି, "ଯେତେ ପର୍ଯ୍ୟନ୍ତ ତୁମେ ନିଜକୁ ପ୍ରେମ କର"  କିମ୍ବା, "ତୁମେ ନିଜକୁ ଯେତେ ପରିମାଣରେ ପ୍ରେମ କର."
 
 **[[:or:obs:notes:frames:49-02|<<]] | [[:or:obs:notes:49|Up]] | [[:or:obs:notes:frames:49-04|>>]]**
