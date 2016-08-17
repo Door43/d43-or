@@ -1,21 +1,18 @@
-===== The Two Disciples [42-01] =====
+===== ଦୁଇ ଶିଷ୍ୟମାନେ [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
-===== Important Terms: =====
+ଯୀଶୁ ଯେଉଁ ଦିନ ମୃତମାନଙ୍କ ମଧ୍ୟରୁ ଉଠିଲେ, ଦୁଇଜଣ ଶିଷ୍ୟ ନିକଟସ୍ଥ ଏକ ସହରକୁ ଯାଉଥିଲେ । ସେମାନେ ଚାଲୁଥିବା ସମୟରେ, ଯୀଶୁଙ୍କ ପ୍ରତି କ’ଣ ଘଟିଥିଲା ସେ ବିଷୟରେ ସେମାନେ କଥାବାର୍ତ୍ତା କରୁଥିଲେ । ସେମାନେ ଆଶା କରୁଥିଲେ ଯେ ସେ ମଶୀହ ଥିଲେ କିନ୍ତୁ ସେମାନେ ତାଙ୍କୁ ହତ୍ୟା କଲେ । ବର୍ତ୍ତମାନ ସେହି ସ୍ତ୍ରୀ ଲୋକମାନେ କହିଲେ  ଯେ ସେ ଜୀବିତ ଅଟନ୍ତି  । କେଉଁ ବିଷୟକୁ ବିଶ୍ବାସ କରିବେ ସେମାନେ ଜାଣିପାରିଲେ ନାହିଁ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:christ]]**
-  * **[[:or:obe:kt:life]]**
-  * **[[:or:obe:kt:believe]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉଠାଇବା**, **ଉଠିବା**, **ଉଠିଛନ୍ତି**, **ଉଠିବା**, **ଉଠିଲେ**
+  * **ଶିଷ୍ୟ**
+  * **ଖ୍ରୀଷ୍ଟ**  , **ମଶୀହ**
+  * **ଜୀବନ**, **ବଂଚିବା**, **ଜୀବନଯାପନ**, **ଜୀବିତ**
+  * **ବିଶ୍ବାସ**, **ବିଶ୍ବାସ****ଠାରେ**,**ବିଶ୍ବାସ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(// ଏହି କାହାଣୀ ନିମନ୍ତେ କୌଣସି ଟୀପ୍ପଣୀ ନାହିଁ ।//)//
 **[[:or:obs:notes:frames:41-08|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:42-02|>>]]**
