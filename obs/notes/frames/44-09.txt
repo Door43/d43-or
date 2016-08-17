@@ -1,27 +1,24 @@
-===== The Disciples Were Released [44-09] =====
+===== ଶିଶ୍ୟମାନଙ୍କୁ ଛଡାଗଲା [44-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
-The **leaders were shocked** that **Peter** and **John** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with Jesus**. **After they threatened** Peter and John, they **let them go**.
+ପିତର ଓ ଯୋହନ ଏତେ ସାହସରେ କଥା କହୁଥିବା ଦେଖି ନେତାମାନେ ଆଶ୍ଚର୍ଯ୍ୟ ହେଲେ କାରଣ ସେମାନେ ଦେଖିଲେ ଯେ ସେମାନେ ସାଧାରଣ ଓ ଅଶିକ୍ଷିତ ଥିଲେ । କିନ୍ତୁ ପରେ ସେମାନେ ସ୍ମରଣ କଲେ ଯେ ଏମାନେ ଯୀଶୁଙ୍କ ସହିତ ଥିଲେ । ସେମାନେ ପିତର ଓ ଯୋହନଙ୍କୁ ଧମକଇଲା ପରେ କଲା ପରେ ଛାଡିଦେଇଥିଲେ ।
 
-===== Important Terms: =====
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:johntheapostle]]**
-  * **[[:or:obe:kt:jesus]]**
+  * **ଯିହୁଦୀ****ନେତାମାନେ**, **ଯିହୁଦୀ****ଅଧିକାରୀମାନେ**, **ଧାର୍ମିକ****ନେତାମାନେ**
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଯୋହନ**  (**ପ୍ରେରିତ**)
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **were shocked** - That is, "were very surprised" or, "were amazed."
-  * **ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
-  * **then they remembered** - This could also be translated as, "But then they thought about the fact that."
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **let them go** - That is, "allowed them to leave."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ଚକିତ ହେଲେ - ତାହା ହେଉଛି, "ଅତି ଚକିତ ହେଲେ" କିମ୍ବା, "ଆଶ୍ଚର୍ଯ୍ୟ ହେଲେ"
+  * ସାଧାରଣ - ତାହା ହେଉଛି, "ସାଧାରଣ", କିମ୍ବା, "ନିମ୍ନ ସ୍ତର". ଦିନେ, ପିତର ଓ ଯୋହନ ମନ୍ଦିରକୁ ଯାଉଥିଲେ ।
+  * ଯେଉଁମାନେ ଅଶିଖିତ ଥିଲେ - ତାହା ହେଉଛି, "ଯାହାଙ୍କର ପ୍ରାଥମିକ ଶିକ୍ଷା ନ ଥିଲା". ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଯେଉଁମାନେ ଧାର୍ମିକ ବିଦ୍ୟାଳୟକୁ ଯାଇ ନ ଥିଲେ"
+  * ସେତେବେଳେ ସେମାନେ ସ୍ମରଣ କଲେ - ଏହାକୁ ଏଅରୀ ଅନୁବାଦ କରାଯାଇପାରେ, "କିନ୍ତୁ ସେତେବେଳେ ସେମାନେ ସତ୍ୟ ବିଷୟରେ ଜ୍ଞାତ ହେଲେ"
+  * ଯୀଶୁଙ୍କ ସହିତ ଥିଲେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଯୀଶୁ ସହିତ ସମୟ ବ୍ୟତିତ କାଇଥିଲେ" କିମ୍ବା, "ଯୀଶୁଙ୍କ ଦ୍ବାରା ଶିକ୍ଷିତ ହୋଇଥିଲେ"
+  * ସେମାନେ ଧମକଇଲା ପରେ - ନେତାମାନେ କହିଲେ ଯେ ସେମାନେ ପିତର ଏବଂ ଯୋହନକୁ ଦଣ୍ଡ ଦେବେ ଯଦି ସେମାନେ ଲୋକମାନଙ୍କୁ ଯୀଶୁଙ୍କ ବିଷୟରେ ଶିକ୍ଷା ଦେବେ
+  * ସେମାନେ ଯାଆନ୍ତୁ - ତାହା ହେଉଛି, "ଛାଡିବା ପାଇଁ ଅନୁମତି ଦେଲେ"
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:44-08|<<]] | [[:or:obs:notes:44|Up]] | [[:or:obs:notes:frames:45-01|>>]]**
