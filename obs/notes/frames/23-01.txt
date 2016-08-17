@@ -1,25 +1,22 @@
-===== Mary Was Pregnant [23-01] =====
+===== ମରିୟମ ଗର୍ଭବତୀ ଥିଲେ [23-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
+ଯୋଷେଫ ନାମକ ଜଣେ ଧାର୍ମିକ ବ୍ୟକ୍ତିଙ୍କ ସହ ମରିୟମଙ୍କର ବିବାହ ନିର୍ବନ୍ଧ ହୋଇଥିଲା । ମରିୟମ ଗର୍ଭବତୀ ଅଛନ୍ତି ବୋଲି ସେ ଯେତେବେଳେ ଜାଣିଲେ , ସେ ଜାଣିଲେ ସେହି ଶିଶୁ ସନ୍ତାନ ତାଙ୍କର ନୁହେଁ । ସେ ପ୍ରକାଶ୍ୟରେ ମରିୟମଙ୍କୁ ଲଜ୍ଜିତ କରିବାକୁ ଇଛା କଲେନାହିଁ, ତେଣୁ ସେ ଗୁପ୍ତରେ ତାଙ୍କୁ ଛାଡପତ୍ର ଦେବା ନିମନ୍ତେ ଯୋଜନା କଲେ । ସେ ସେହି କାର୍ଯ୍ୟ କରିବା ପୂର୍ବରୁ ଜଣେ ଦୂତ ତାଙ୍କ ନିକଟକୁ ଆସିଲେ ଏବଂ ସ୍ବପ୍ନରେ ତାଙ୍କୁ କହିଲେ ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:mary]]**
-  * **[[:or:obe:kt:righteous]]**
-  * **[[:or:obe:other:josephnt]]**
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:other:dream]]**
+  * **ମରିୟମ**, **ଯୀଶୁଙ୍କ****ମାତା**
+  * **ଧାର୍ମିକ**, **ଧାର୍ମିକତା**
+  * **ଯୋଷେଫ** (**ନୁତନ****ନିୟମ**)
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ସ୍ବପ୍ନ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **he knew it was not his baby** - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **to shame Mary** - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, "while he was asleep and dreaming."
-
+  * ସେ ଜାଣିଥିଲେ ତାହାତାଙ୍କ ଶିଶୁ ସନ୍ତାନ ନ ଥିଲା,- ତାହା ହେଉଛି, "ସେ ଜାଣିଥିଲେ ଯେ ସେ ତାଙ୍କୁ ଗର୍ଭବତୀ ହେବାର କାରଣ ନୁହନ୍ତି."
+  * ମରିୟମଙ୍କୁ ଲଜ୍ଜିତ - ତାହା ହେଉଛି , "ମରିୟମଙ୍କୁ ଜନସାଧାରଣ ମଧ୍ୟରେ ଲଜ୍ଜିତ କରିବା." କିମ୍ବା "ମରିୟମଙ୍କୁ ସର୍ବସାଧାରଣ ସମ୍ମୁଖରେ ସମସ୍ୟାରେ ପକାଇବା". ଯୋଶେଫ ମରିୟମଙ୍କ ପ୍ରତି ଦୟବନ୍ତ ଥିଲେ , ଯଦିଓ ସେ ଏକ ବ୍ୟଭିଚାରିଣୀ ପରି ଦେଖାଗଲେ.
+  * ସେ ଗୁପ୍ତରେ ତାଙ୍କୁ ଛାଡପତ୍ର ଦେବାକୁ ଚାହୁଁଥିଲେ - ଏହାକୁ ଏପରିଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ସେ ଅନ୍ୟମାନଙ୍କୁ କାରଣ ନ କହି ତାହାଙ୍କୁ ଛାଡିବାକୁ ଚାହୁଁଥିଲେ," କିମ୍ବା, "ସେ ଅନ୍ୟମାନଙ୍କୁ ତାହାର ଗର୍ଭ ବିଷୟରେ ନ ଜଣାଇ ତାହାଙ୍କୁ ଛାଡବାକୁ ଯୋଜନା କରିଥିଲେ. ଯେହେତୁ ଯୋଶେଫ ଜଣେ ଧାର୍ମିକ ବ୍ୟକ୍ତି ଥିଲେ, ସେ ଏହି ପରିସ୍ଥିତିକୁ ଉତମ ଭାବରେ ସମାଧାନ କରିବାକୁ ଚାହିଁଲେ, ଯାହା ତାଙ୍କ ପରମ୍ପରା ଅନୁସାରେ ଗୁପ୍ତରେ ତାହାଙ୍କୁ ଛାଡପତ୍ର ଦିଆଯିବାର ପ୍ରକ୍ରିୟା ହୋଇପାରେ.
+  * ଛାଡପତ୍ର ଦେବା – କେତେକ ଭାଷାଗୁଡିକରେ ଏହିପରି କହିବା ଅଧିକ ଉତ୍ତମ ହେବ “ସେମାନଙ୍କ ବିବାହ ନିର୍ବନ୍ଧ ଭାଙ୍ଗିଗଲା ।” ଯୋଶେଫ ଓ ମରିୟମ ନିର୍ବନ୍ଧ ହୋଇଥିଲେ  କିମ୍ବା, " ବିବାହ କରିବା ପାଇଁ ମଥ ଦେଇଥିଲେ ." କିନ୍ତୁ ଯିହୁଦୀମାନଙ୍କ ପରମ୍ପରା ଅନୁସାରେ ବିବାହ ନିର୍ବନ୍ଧ ସମାପ୍ତ କରିବା ପାଇଁ ଛାଡପତ୍ର ଦେବାର ଆବଶ୍ୟକ ଥିଲା
+  * ସ୍ବପ୍ନରେ - ତାହା ହେଉଛି, "ଯେତେବେଳେ ସେ ଥିଲା ନିଦ୍ରାରେ ଥିଲେ ଏବଂ ସ୍ବପ୍ନ ଦେଖୁଥିଲେ."
 
 **[[:or:obs:notes:frames:22-07|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-02|>>]]**
