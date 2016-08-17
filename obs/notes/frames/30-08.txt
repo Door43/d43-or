@@ -1,19 +1,17 @@
-===== Everyone Ate [30-08] =====
+===== ସମସ୍ତେ ଖାଇଲେ [30-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
-===== Important Terms: =====
+ତା’ପରେ ଯୀଶୁ ରୋଟି ଓ ସେହି ମାଛଗୁଡିକୁ ଖଣ୍ଡ ଖଣ୍ଡ କରି ଭାଙ୍ଗିଲେ। ସେ ସେହି ଖଣ୍ଡଗୁଡିକୁ ଲୋକମାନଙ୍କୁ ଦେବା ପାଇଁ ତାହାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ ଦେବାକୁ କହିଲେ । ଶିଷ୍ୟମାନେ ସେହି ଖାଦ୍ୟକୁ ବାଣ୍ଟିଦେବାକୁ ଲାଗିଲେ, ଏବଂ ଏହା ଆଉ ଶେଷ ହେଲା ନାହିଁ । ସମସ୍ତ ଲୋକ ଭୋଜନ କରି ପରିତୃପ୍ତ ଥିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * ** ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **broke the bread and the fish** - That is, "tore the bread and the fish."
-  * **it never ran out** - Another way to say this would be, "there was always more left."
-  * **were satisfied** - That is, "were no longer hungry" or, "were not hungry any more."
-
+  * ରୋଟି ଓ ମାଛଗୁଡିକୁ ଖଣ୍ଡ ଖଣ୍ଡ କରି ଭାଙ୍ଗିଲେ-ତାହା ହେଉଅଛି ,"ରୋଟୀ ଏବଂ ମାଛଗୁଡିକ ଖଣ୍ଡ ଖଣ୍ଡ କରି  ଭାଙ୍ଗିଲେ."
+  * ଏହା ଆଉ ସମାପ୍ତ ହେଲାନାହି -ଅନ୍ୟ ଭାବରେ ଏହାକୁ  କହିବାକୁ ହେଲେ ,ସେଠାରେ ବହୁତ୍ ମାତ୍ରରେ ବଳକିଥିଲା ।”
+  * ପରିତୃପ୍ତ ଥିଲେ**\** ହେଲେ - ତାହା ହେଉଅଛି , ସେମାନେ ଆଉ ଭୋକିଲା ନ ଥିଲେ " କିମ୍ବା ," ସେମାନେ ଭୋକିଲା ନଥିଲେ."
 
 **[[:or:obs:notes:frames:30-07|<<]] | [[:or:obs:notes:30|Up]] | [[:or:obs:notes:frames:30-09|>>]]**
