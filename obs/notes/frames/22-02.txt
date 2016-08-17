@@ -1,23 +1,27 @@
-===== You Will Have a Son [22-02] =====
+===== ତୁମ୍ଭର ଏକ ପୁତ୍ର ହେବ [22-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-===== Important Terms: =====
+ଦୁତ ଯିଖରୀୟଙ୍କୁ କହିଲେ, "ତୁମ୍ଭର ସ୍ତ୍ରୀଙ୍କର ଏକ ସନ୍ତାନ ହେବତୁମ୍ଭେ ତାହାର ନାମ ଯୋହନ ଦେବ
 
+ସେ ପବିତ୍ରା ଆତ୍ମାରେ ପରିପୁର୍ଣ ହେବ, ଏବଂ ମଶୀହଙ୍କ ନିମନ୍ତେ ଲୋକମାନଙ୍କୁ ପ୍ରସ୍ତୁତ କରିବ !”
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:other:zechariahnt]]**
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:christ]]**
+ଯିଖରିୟ କହିଲା,, “ମୋର ସ୍ତ୍ରୀ ଓ ମୁଁ ସନ୍ତାନ ଜାତ କରିବା ପାଇଁ ଅଧିକ ବୃଦ୍ଧ ହୋଇଅଛୁ !
 
+ଏହା ଘଟିବ ବୋଲି ମୁଁ କିପରି ଜାଣିବି ?”
 
-===== Translation Notes: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:or:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, "How can I be sure that this will truly happen?"
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ଯିଖରିୟ**  (**ନୁତନ****ନିୟମ**)
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଖ୍ରୀଷ୍ଟ**  , **ମଶୀହ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
+  * ଦୂତ - ଏହି ଦର୍ଶାଏ ଙ୍କୁ ଦୂତ ଯେ ଆସିଲା ଙ୍କୁ ଯିଖରିୟ ରେ **__\[__ **__୨୨**-** ____୦୧**]]**__.
+  * ପବିତ୍ର ଆତ୍ମାରେ ପରିପୁର୍ଣ - ତାହା ହେଉଛି, "ନିୟନ୍ତ୍ରଣ  ପବିତ୍ର ଆତ୍ମାଙ୍କ ଦ୍ବାରା ନିୟନ୍ତ୍ରିତ ହେବା" କିମ୍ବା, " ପବିତ୍ର ଆତ୍ମାଙ୍କ ଦ୍ବାରା ଜ୍ଞାନ ଏବଂ ଶକ୍ତି ଦିଆଯିବା."
+  * ଏହା ଘଟିବା ଯେ ମୁ କିପରି ଜାଣିବି** ?**
+ - ଅନ୍ୟପ୍ରକାରେ ଅନୁବାଦ କଲେ "ମୁଁ କିପରି ଏହା ସତ୍ୟରେ ଘଟିବ ବୋଲି ନିଶ୍ଚିତ ହେବି ?"
 
 **[[:or:obs:notes:frames:22-01|<<]] | [[:or:obs:notes:22|Up]] | [[:or:obs:notes:frames:22-03|>>]]**
