@@ -1,22 +1,20 @@
-===== The People Attacked the Believers [45-06] =====
+===== ବିଶ୍ଵାସୀମାନଙ୍କୁ ଲୋକମାନେ ଆକ୍ରମଣ କଲେ [45-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink&}}
 
-A young man named **Saul** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **Jerusalem** started **persecuting** the followers of Jesus, so the **believers** fled to other places. **But in spite of this**, they **preached** about Jesus everywhere they went.
-===== Important Terms: =====
+ସାଉଲ ନାମକ ଜଣେ ଯୁବକ ଯେଉଁ ଲୋକମାନେ ସ୍ତିଫାନଙ୍କୁ ବଧ କଲେ ତାହାଙ୍କ ସହ ସହମତି ହୋଇ ଯେତେବେଳେ ସେମାନେ ତାଙ୍କ ଉପରକୁ ପଥର ଫୋପାଡୁ ଥିଲେ ସେମାନଙ୍କର ବସ୍ତ୍ରଙ୍କୁ ସୁରକ୍ଷା କଲେ. ସେହି ଦିନ ଅନେକ ଲୋକମାନେ ଯିରୁଶାଲମରେ ଯୀଶୁଙ୍କ ଅନୁଗାମୀକାରୀମାନଙ୍କୁ ତାଡନା କରିବା ଆରମ୍ବ କଲେ, ତେଣୁ ବିଶ୍ବାସୀମାନେ ଅନ୍ୟାନ ସ୍ଥାନକୁ ପଳେଇଗଲେ. କିନ୍ତୁ ଏହା ପରେ ମଧ୍ୟ, ସେମାନେ ଯେକୌଣସି ସ୍ଥାନକୁ ଗଲେ ଯୀଶୁଙ୍କ ବିଷୟରେ ପ୍ରଚାର କଲେ.
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:other:persecute]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:other:preach]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ସାଉଲ**
+  * **ଯିରୁଶାଲମ**
+  * **ତାଡ଼ନା****କରିବା**, **ତାଡନା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବିଶ୍ଵାସୀ**
+  * **ପ୍ରଚାର****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **guarded their robes** - This could be translated as, "watched over their coats." He was probably making sure they didn't get stolen or damaged.
-  * **But in spite of this** - The Jewish leaders thought they could stop the spread of Jesus' teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely.
-
+  * ସେମାନଙ୍କର ବସ୍ତ୍ରକୁ ସୁରକ୍ଷିତ କଲେ - ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରାଯାଈପାରେ ଯେମିତି, "ସେମାନଙ୍କର ବସ୍ତ୍ର ଉପରେ ନଜର ରଖିଲେ". ବୋଧ ହୁଏ, ସେ ସେମାନଙ୍କ ବସ୍ତ୍ର ଯେପରି ଚୋରି କିମ୍ବା କ୍ଷତି ନ ହୁଏ ତାହା ନିଶ୍ଚୟ କରୁଥିଲେ
+  * କିନ୍ତୁ ଏହା ସତ୍ତ୍ବେ - ଯିହୁଦୀ ନେତାମାନେ ଭାବିଲେ ଯେ ସେମାନେ ତାହାଙ୍କ ଅନୁଗାମୀକାରୀମାନଙ୍କୁ ତାଡ଼ନ କରିବା ଦ୍ଵାରା ଯୀଶୁଙ୍କ ଶିକ୍ଷାର ବିସ୍ତାରକୁ ବନ୍ଦ କରିବେ. ତାହା ବଦଳରେ, ଏହା ସେମାନଙ୍କ ଛିନ୍ନଭିନ୍ନ ହେବାର କାରଣ ହେଲା ପୁଣି ସେମାନେ ଅତ୍ୟାଧିକ ଭାବରେ ସମ୍ବାଦକୁ ବିସ୍ତାରକଲେ
 
 **[[:or:obs:notes:frames:45-05|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-07|>>]]**
