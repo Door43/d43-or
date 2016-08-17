@@ -1,19 +1,16 @@
-===== Get Up and Walk [44-02] =====
+===== ଉଠିବା ଏବଂ ଚାଲିବା [44-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
-**Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
-===== Important Terms: =====
+ପିତର ଖଞ୍ଜ ବ୍ୟକ୍ତି ପ୍ରତି ଦୃଷ୍ଟି କରି କହିଲେ “ଦେବା ନିମନ୍ତେ ମୋଠାରେ ଟଙ୍କା ନାହିଁ । କିନ୍ତୁ ମୋହର ଯାହା ଅଛି ତାହା ମୁଁ ତୁମ୍ଭକୁ ଦେଉଅଛି । ନାଜରିତୀୟ ଯୀଶୁଙ୍କ ନାମରେ ଉଠ ଏବଂ ଚାଲ !”
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:jesus]]**
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **In the name of Jesus** - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
-  * **get up** - That is, "stand up."
-
+  * ଯୀଶୁଙ୍କ ନାମରେ - "ନାମ" ଏଠାରେ ଏହି ଶବ୍ଦଟି ବ୍ୟକ୍ତିର ଅଧିକାର ଏବଂ ଶକ୍ତିକୁ ବୁଝାଏ. ଅତଏବ, ଏହି ପ୍ରକାଶନର ଏଠାରେ ଅର୍ଥ, "ଯୀଶୁଙ୍କ ଅଧିକାରଜନକ ନାମରେ."
+  * ଉଠିବା - ତାହା ହେଉଛି, "ଠିଆ ହେବା."
 
 **[[:or:obs:notes:frames:44-01|<<]] | [[:or:obs:notes:44|Up]] | [[:or:obs:notes:frames:44-03|>>]]**
