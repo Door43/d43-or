@@ -1,24 +1,24 @@
-===== The New Heaven and Earth [50-16] =====
+===== ନୂତନ ସ୍ଵର୍ଗ ଓ ପୃଥିବୀ [50-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
+ଯେହେତୁ ଆଦମ ଓ ହବା ଈଶ୍ବରଙ୍କର ଅନାଜ୍ଞାବହ ହେଲେ ଏବଂ ଏହି ଜଗତକୁ ପାପ ପ୍ରବେଶ କରାଇଲେ, ତେଣୁ ଈଶ୍ବର ଏହାକୁ ଅଭିଶାପ ଦେଲେ ଏବଂ ଏହାକୁ ବିନାଶ କରିବା ନିମନ୍ତେ ନିଷ୍ପତ୍ତି ନେଲେ
 
-  * **[[:or:obe:other:adam]]**
-  * **[[:or:obe:other:eve]]**
-  * **[[:or:obe:other:disobey]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:curse]]**
-  * **[[:or:obe:kt:heaven]]**
+କିନ୍ତୁ ଦିନେ ଈଶ୍ବର ଏକ ନୂତନ ସ୍ବର୍ଗ ଓ ନୂତନ ପୃଥିବୀ ସୃଷ୍ଟି କରିବେ ଯାହା ସିଦ୍ଧ ଓ ସମ୍ପୂର୍ଣ୍ଣ ହେବ ।
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
-===== Translation Notes: =====
+  * **ଆଦମ**
+  * **ହବା**
+  * **ଅମାନ୍ୟ କରିବା, ଅବାଧ୍ୟ. ଅବଧ୍ୟତା**
+  * **ପରମେଶ୍ଵର**
+  * **ପାପ, ପାପ ପୂର୍ଣ୍ଣ, ପାପୀ, ପାପ କରୁଅଛି**
+  * **ଅଭିଶାପ,ଅଭିଶପ୍ତ**
+  * **ସ୍ଵର୍ଗ, ଆକାଶ, ସ୍ଵର୍ଗ, ସ୍ବର୍ଗସ୍ଥ, **
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
+  * ପାପ ଏହା ମଧ୍ୟକୁ ଆଣିଲେ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ପାପକୁ ପ୍ରବେଶ ହେବାର କାରଣ ଥିଲେ"
+  * ଏକ ନୂତନ ଆକାଶ – ଏହାକୁ ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ “ଏକ ନୁତନ ଆକାଶ” କିମ୍ବା "ଏକ ନୁତନ ପୃଥିବୀ"। ଏହା ଆକାଶରେ ସଜାଯାଇଥିବା ତାରାମାନ ଏବଂ ସମସ୍ତକୁ ସୁଚାଏ
+  * ଏକ ନୂତନ ପୃଥିବୀ - ବର୍ତ୍ତମାନର ନୁତନ ପୃଥିବୀ ଯେଉଁଠାରେ ଆମ୍ଭେମାନେ ରହୁ, ଏକ ନୁତନ ଏବଂ ଉନ୍ନତ ପୃଥିବୀ ସହ ବଦଳି ଦିଆଯିବ
 
 **[[:or:obs:notes:frames:50-15|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-17|>>]]**
