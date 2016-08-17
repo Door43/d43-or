@@ -1,28 +1,26 @@
-===== Follow Jesus' Teachings [49-17] =====
+===== ଯୀଶୁଙ୍କ ଶିକ୍ଷାକୁ ଅନୁସରଣ କରନ୍ତୁ [49-17] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&}}
 
-If you are a friend of **God** and a **servant** of **Jesus** the **Master**, you will want to **obey** what Jesus teaches you. Even though you are a **Christian**, you will still **be tempted to sin**. But God **is faithful** and says that if you **confess your sins**, he will **forgive** you. **He will give you strength to fight against sin**.
-===== Important Terms: =====
+ଯଦି ଆପଣ ଈଶ୍ବରଙ୍କର ଜଣେ ବନ୍ଧୁ ଓ ପ୍ରଭୁ ଯୀଶୁଙ୍କ ଜଣେ ସେବକ, ତେବେ ଯୀଶୁ ଯାହା ଶିକ୍ଷା ଦିଅନ୍ତି ତାହା ପାଳନ କରିବା ନିମନ୍ତେ ଆପଣ ଚାହିଁବେ । ଯଦିଓ ଆପଣ ଜଣେ ଖ୍ରୀଷ୍ଟିୟାନ ଅଟନ୍ତି, ଆପଣ ତଥାପି ପାପ କରିବା ନିମନ୍ତେ ପ୍ରଲୋଭିତ ହେବେ । କିନ୍ତୁ ଈଶ୍ବର ବିଶ୍ବସ୍ତ ଅଟନ୍ତି ଏବଂ ସେ କୁହନ୍ତି ଯେ ଯଦି ଆପଣ ଆପଣଙ୍କର ପାପସବୁ ସ୍ବୀକାର କରିବେ, ସେ ଆପଣଙ୍କୁ କ୍ଷମା ଦେବେ । ପାପ ବିରୁଦ୍ଧରେ ଯୁଦ୍ଧ କରିବା ନିମନ୍ତେ ସେ ଆପଣଙ୍କୁ ବଳ ଯୋଗାଇଦେବେ।
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:other:obey]]**
-  * **[[:or:obe:kt:christian]]**
-  * **[[:or:obe:kt:tempt]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:faithful]]**
-  * **[[:or:obe:kt:forgive]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+  * **ପାଳନ****କରିବା**, **ଆଜ୍ଞାବହ****ହେବା**, **ଆଜ୍ଞାବହ**
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+  * **ପରୀକ୍ଷା****କରିବା**, **ପରୀକ୍ଷା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+  * **ବିଶ୍ଵସ୍ତ**, **ବିଶ୍ବସ୍ତତା**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **be tempted to sin** - That is, ""be tempted to sin even though you know sin is wrong."
-  * **is faithful** - In this context this means that God, "keeps his promises."
-  * **confess your sins** - This could be translated as, "admit to God what you have done wrong."
-  * **He will give you strength to fight against sin** - That is, "He will give you spiritual strength to refuse to sin."
-
+  * ପାପରେ ପ୍ରଲୋଭିତ ହେବା - ତାହା ହେଉଛି, "ପାପରେ ପ୍ରଲୋଭିତ ହେବା ଯଦିଓ ଆପଣ ଜାଣିଛନ୍ତି ଯେ ପାପ କରିବା ଭୁଲ୍ ଅଟେ"
+  * ବିଶ୍ଵସ୍ତ ଅଟନ୍ତି - ଏହି ପୃଷ୍ଠଭୁମିରେ ଏହାର ଅର୍ଥ ଯେ ପରମେଶ୍ଵର, "ତାଙ୍କ ପ୍ରତିଜ୍ଞା ରକ୍ଷା କରନ୍ତି."
+  * ତୁମମାନଙ୍କ ପାପ ସ୍ବୀକାର କର- ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରିବ, "ସ୍ବୀକାର କର ଯାହା ତୁମ୍ଭେ ପରମେଶ୍ବରଙ୍କ ବିରୁଦ୍ଧରେ ଭୁଲ୍ କରିଅଛ"
+  * ପାପ ବିରୁଦ୍ଧରେ ଯୁଦ୍ଧ କରିବା ନିମନ୍ତେ ସେ ଆପଣଙ୍କୁ ବଳ ଯୋଗାଇବେ। - ତାହା ହେଉଛି, "ସେ ଆପଣଙ୍କୁ ପାପକୁ ମନା କରିବା ପାଇଁ ଆତ୍ମିକ ବଳ ଦେବେ"
 
 **[[:or:obs:notes:frames:49-16|<<]] | [[:or:obs:notes:49|Up]] | [[:or:obs:notes:frames:49-18|>>]]**
