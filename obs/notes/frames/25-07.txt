@@ -1,24 +1,21 @@
-===== Worship Only God [25-07] =====
+===== କେବଳ ପରମେଶ୍ଵରଙ୍କ ଉପାସନା କର  [25-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-**Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
-===== Important Terms: =====
+ଯୀଶୁ ଉତ୍ତର ଦେଲେ “ଦୂର ହୁଅ ଶୟତାନ! ଈଶ୍ବରଙ୍କ ବାକ୍ୟରେ ଲୋକମାନଙ୍କୁ କୁହାଯାଇଛି ‘ତୁମ୍ଭେ କେବଳ ପ୍ରଭୁ ତୁମ୍ଭ ଈଶ୍ବରଙ୍କର ହିଁ ଉପାସନା କରିବ ଓ ତାହାଙ୍କର ସେବା କରିବ ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:worship]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ବାକ୍ୟ**, **ସଦାପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ଶାସ୍ତ୍ର**
+  * **ଉପାସନା**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**,**ମାଲିକ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:or:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
+  * ମୋ ଠାରୁ ଦୂର ହୁଅ - ଏହା ମଧ୍ୟ ଏପରି ଅନୁବାଦ ହୋଇପାରେ , "ମୋତେ ଛାଡ" କିମ୍ବା, "ମୋତେ ଏକାକୀ ଛାଡ. ଈଶ୍ବରଙ୍କ ବାକ୍ୟରେ ଲୋକମାନଙ୍କୁ କୁହାଯାଇଛି ‘ତୁମ୍ଭେ କେବଳ  ତୁମ୍ଭ ପ୍ରଭୁ ଈଶ୍ବରଙ୍କର ହିଁ ଉପାସନା କରିବ ଓ ତାହାଙ୍କର ସେବା କରିବ ।” - ଏହାକୁ ପରୋକ୍ଷ ଭାବରେ ଲେଖାଯାଇପାରେ, ଇଶ୍ବରଙ୍କ ବାକ୍ୟରେ ସେ ଆମ୍ଭମାନଙ୍କୁ ଆଜ୍ଞା ଦିଅନ୍ତି ଯେ ଆମ୍ଭେମାନେ ପ୍ରଭୁ ଇସ୍ବରଙ୍କୁ ଉପାସନା ଏବଂ ସେବା କରିବା ଉଚିତ୍, ଯିଏ ଆମ୍ଭ ଉପରେ ଶାସନ କରନ୍ତି
+  * ପ୍ରଭୁ ତୁମମାନଙ୍କ ପରମେଶ୍ଵର - ଏହି ବାକ୍ୟାଂଶକୁ ଯେପରି ତୁମ୍ଭେ କରିଥିଲ, ସେପରି ଅନୁବାଦ କର  **__ [__ **__୨୫**-** ____୦୫**]**__.
+  * ଏବଂ ତାହାଙ୍କ କେବଳ ସେବା କର – ଏହାକୁ ଅନ୍ୟ ଭାବରେ କହିଲେ ଏପରି ହେବ “ସେ ମାତ୍ର ଜଣେ ଯାହାକୁ ଆମ୍ଭେ ସେବା କରିବା ଉଚିତ୍ ।”
 
 **[[:or:obs:notes:frames:25-06|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-08|>>]]**
