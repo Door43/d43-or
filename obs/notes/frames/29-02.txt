@@ -1,20 +1,20 @@
-===== The Huge Debt [29-02] =====
+===== ଏକ ବୃହତ୍ କରଜ [29-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
-Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
-===== Important Terms: =====
+ଯୀଶୁ କହିଲେ “ଈଶ୍ବରଙ୍କ ରାଜ୍ୟ ଏହିପରି ଜଣେ ରାଜାଙ୍କ ପରି ଯିଏ ତାଙ୍କ ଦାସମାନଙ୍କ ବସି ହିସାବ କରିବାକୁ ଚାହିଁଲେ ।
 
-  * **[[:or:obe:kt:kingdomofgod]]**
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:servant]]**
+ତାଙ୍କ ଦାସମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ 2,00,000 ବର୍ଷ ମୂଲ୍ୟର ପ୍ରଚୁର ପାଉଣା କରଜ କରିଥିଲା  ।”
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+  * **ପରମେଶ୍ଵରଙ୍କ****ରାଜ୍ୟ**, **ସ୍ଵର୍ଗରାଜ୍ୟ**
+  * **ରାଜା**
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **The kingdom of God is like** - Another way to say this would be, "God's rule over people is like" or, "The way God rules people can be compared to."
-  * **is like a king who** - This could be translated as, "is like the kingdom of a king who" or, "can be compared with the rule of a king who."
-  * **settle accounts with his servants** - That is, "collect the debts his servants owed him" or, "collect the money his servants had borrowed from him."
-
+  * ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ ଏପରି ଅଟେ -  ଏହାକୁ ଅନ୍ୟ ପ୍ରକାରେ କହିଲେ ଏପରି ହେବ, "ପରମେଶ୍ଵଙ୍କର ରାଜତ୍ବ ଲୋକମାନଙ୍କ ଉପରେ ଏପରି ହେବ" କିମ୍ବା, "ପରମେଶ୍ଵରଙ୍କ ଶାସନ ଯେଉଁ ପ୍ରକ୍ରିୟାରେ ଲୋକମାନଙ୍କ ଉପରେ କରିବେ."
+  * ରାଜା ପରି ଅଟନ୍ତି ଯିଏ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ରାଜାଙ୍କ ରାଜ୍ୟ ପରି ଅଟେ ଯିଏ" କିମ୍ବା, "ରାଜାଙ୍କ ଶାସନ ଶିତ ତୁଳନା କରାଯାଇପାରେ ଯିଏ"
+  * ତାହାଙ୍କ ଦାସମାନଙ୍କ ସହିତ ହିସାବ ସ୍ଥିର କଲେ - ତାହା ହେଉଛି, "ତାଙ୍କର ଦାସଙ୍କ ଠାରୁ ଋଣ ସଂଗ୍ରହ କରିବା" କିମ୍ବା, "ଦାସ କରଜ କରିଥିବା ଧନକୁ ସଂଗ୍ରହ କରିବା"
 
 **[[:or:obs:notes:frames:29-01|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-03|>>]]**
