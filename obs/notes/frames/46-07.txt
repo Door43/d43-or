@@ -1,20 +1,19 @@
-===== Saul Escaped Damascus [46-07] =====
+===== ଶାଉଲ ଦମ୍ମେସକରୁ ପଳାୟନ କଲେ [46-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink&}}
 
-After many days, the **Jews** made a plan to kill **Saul**. They sent people to watch for him at **the city gates** in order to kill him. But Saul heard about the plan, and his friends helped him escape. One night they **lowered him over the city wall in a basket**. After Saul escaped from Damascus, he continued to **preach** about **Jesus**.
-===== Important Terms: =====
+ଅନେକ ଦିନେ ପରେ, ଯିହୁଦୀମାନେ ଶାଉଲଙ୍କୁ ବଧ କରିବାକୁ ଯୋଜନା କଲେ. ସେମାନେ ଲୋକମାନଙ୍କୁ ନଗର ଦ୍ଵାରରେ ତାହାଙ୍କୁ ଖୋଜିବା ନିମନ୍ତେ ପଠାଇଲେ ଯଦ୍ଵାରା ତାହାକୁ ସେମାନେ ବଧ କରିବେ. କିନ୍ତୁ ଶାଉଲ ସେହି ଯୋଜନା ବିଷୟରେ ଶୁଣିଲେ ପୁଣି ତାହାଙ୍କ ସାଥିମାନେ ତାହାଙ୍କୁ ଯିବା ପାଇଁ ସାହାଯ୍ୟ କଲେ. ଏକ ରାତ୍ରୀ ସେମାନେ ଏକ ଟୋକେଇରେ ତାହାଙ୍କୁ ନଗରର ପ୍ରାଚୀର ଦେଇ ତଳକୁ ଓଲ୍ହାଇଦେଲେ. ଶାଉଲ ଦମ୍ମେସକଠାରୁ ପଳାୟନ କଲା ଉତ୍ତାରେ, ସେ ଯୀଶୁଙ୍କ ବିଷୟରେ ପ୍ରଚାର କରିବା ଚାଲୁରଖିଲେ
 
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିହୁଦୀ**, **ଯିହୁଦୀୟ**, **ଯିହୁଦୀୟମାନେ**
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ପ୍ରଚାର****କରିବା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the city gates** - The gates were the only normal way into or out of the walled cities.
-  * **lowered him over the city wall in a basket** - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall."
-
+  * ନଗର ଦ୍ଵାରଗୁଡିକ**
+ -**  ଏହି ଦ୍ଵାରଗୁଡିକ ପ୍ରାଚୀର ନଗରର ଏକ ଭିତରକୁ ପୁଣି ବାହାରକୁ ଯିବାର ଏକ  ସାଧାରଣ ରାସ୍ତା ଥିଲା
+  * ଏକ ଟୋକେଇରେ ତାହାଙ୍କୁ ନଗରର ପ୍ରାଚୀର ଦେଇ ତଳକୁ ଓଲ୍ହାଇଦେଲେ** -**  ଅନ୍ୟ ଭାବରେ ଏହାକୁ କହିଲେ, "ତାହାକୁ ଏକ ବୃହତ ଟୋକେଇରେ ପ୍ରବେଶ କରିବରେ ସାହାଯ୍ୟ କଲେ ପୁଣି ପ୍ରାଚୀର ଉପର ଦେଇ ଟୋକେଇ ସହ ତାହାକୁ ତଳକୁ ଓଲ୍ହାଇଦେଲେ"
 
 **[[:or:obs:notes:frames:46-06|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-08|>>]]**
