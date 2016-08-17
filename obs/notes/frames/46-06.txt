@@ -1,23 +1,22 @@
-===== Saul Preached about Jesus [46-06] =====
+===== ଶାଉଲ ଯୀଶୁଙ୍କ ବିଷୟରେ ପ୍ରଚାରକଲେ [46-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
-**Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
-===== Important Terms: =====
+ସଂଗେ ସଂଗେ ଶାଉଲ ଦମ୍ମେସକରେ ଯିହୁଦୀମାନଙ୍କୁ ଏହା କହି, "ଯୀଶୁ ପରମେଶ୍ଵରଙ୍କ ପୁତ୍ର ଅଟନ୍ତି"  ପ୍ରଚାର କରିବା ଆରମ୍ବ କଲେ. ଯିହୁଦୀମାନେ ଆଶ୍ଚର୍ଯ୍ୟ ହେଲେ ଯେ ଯେଉଁ ବ୍ୟକ୍ତି ବିଶ୍ଵାସୀମାନଙ୍କୁ ନାଶ କରିବାକୁ ଚେଷ୍ଟା କରିଥିଲେ ସେ ମଧ୍ୟ ବର୍ତ୍ତମାନ ଯୀଶୁଙ୍କ ଠାରେ ବିଶ୍ଵାସ କଲେ. ଯୀଶୁ ମଶୀହ ଥିଲେ ବୋଲି ପ୍ରମାଣ କରୁ କରୁ ଶାଉଲ ଯିହୁଦୀମାନଙ୍କ ସହ ବାଦାନୁବାଦ କଲେ
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sonofgod]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:kt:christ]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ପ୍ରଚାର****କରିବା**
+  * **ଯିହୁଦୀ**, **ଯିହୁଦୀୟ**, **ଯିହୁଦୀମାନେ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ପୁତ୍ର**, **କେବଳ****ଏକମାତ୍ର****ପୁତ୍ର**, **ପୁତ୍ର**
+  * **ବିଶ୍ଵାସୀ**
+  * **ଖ୍ରୀଷ୍ଟ**, **ମଶୀହ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
+  * ସଂଗେ ସଂଗେ**
+ -**  ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଈପାରେ ଯେମିତି, "ସଂଗେ ସଂଗେ" କିମ୍ବା, "ତା' ପରେ"
+  * ଯିହୁଦୀମାନଙ୍କ ସହ ବାଦାନୁବାଦ କଲେ** -**  ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଈପାରେ ଯେମିତି, "ଯୀଶୁଙ୍କ ଠାରେ ବିସ୍ଵାଶ କରିବା ନିମନ୍ତେ ଯିହୁଦୀମାନଙ୍କୁ ଉତ୍ତମ କାରଣଗୁଡିକ ଦେଲେ" କିମ୍ବା, "ଯିହୁଦୀଙ୍କ ସହ ପ୍ରବର୍ତ୍ତାଇବା ପରି କଥା କହିଲେ"
 
 **[[:or:obs:notes:frames:46-05|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-07|>>]]**
