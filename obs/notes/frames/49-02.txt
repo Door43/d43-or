@@ -1,23 +1,21 @@
-===== The Miracles [49-02] =====
+===== ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ [49-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-**Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
+ଯୀଶୁ ଅନେକ ଆଶ୍ଚର୍ଯ୍ୟକାର୍ଯ୍ୟ କଲେ ଯାହା ସେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର ବୋଲି ପ୍ରମାଣିତ କରୁଥିଲା । ସେ ଜଳ ଉପରେ ଚାଲିଲେ, ଝଡକୁ ଶାନ୍ତ କଲେ, ଅନେକ ଅସୁସ୍ଥ ବ୍ୟକ୍ତିଙ୍କୁ ସୁସ୍ଥ କଲେ, ଭୂତମାନଙ୍କୁ ବିତାଡିତ କଲେ, ମୃତମାନଙ୍କୁ ଜୀବନଦାନ କଲେ ଏବଂ ୫୦୦୦ ରୁ ଅଧିକ ବ୍ୟକ୍ତିଙ୍କୁ ପାଞ୍ଚଟି ରୋଟୀ ଓ ଦୁଇଟି ମାଛରେ ଖୁଆଇଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:miracle]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:heal]]**
-  * **[[:or:obe:kt:demon]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:death]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ****, ****ଆଶ୍ଚର୍ଯ୍ୟ****, ****ଚିହ୍ନ**
+  * **ପରମେଶ୍ଵର**
+  * **ସୁସ୍ଥ****, ****ଆରୋଗ୍ୟ****କରିବା**
+  * **ଭୂତ****, ****ମନ୍ଦ****ଆତ୍ମା****, ****ଅଶୁଚି****ଆତ୍ମା**
+  * **ଉଠାଇବା****, ****ଉଠିବା****, ****ଉଠିଛନ୍ତି****, ****ଉଠ****, ****ଉଠିଲେ**
+  * **ମୃତ୍ୟୁ****, ****ମରିବା****, ****ମରିଯାଇଅଛନ୍ତି**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * ବିତାଡିତ କଲେ ଭୂତଗ୍ରସ୍ତ - ଯେ ଅଛନ୍ତି, "ସୃଷ୍ଟି କଲେ ଭୂତଗ୍ରସ୍ତ ଆସିଅଛି ବାହାରକୁ ର ଲୋକମାନଙ୍କ."
+  * ମୃତ୍ୟୁରୁ ଜୀବିତ କଲେ - ଏହା ଏହି ପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇ ପାରେ ଯେପରି ,'' ମୃତ ଲୋକମାନଙ୍କୁ ପୁଣି ଥରେ ଜୀବିତ କଲେ .''
 
 **[[:or:obs:notes:frames:49-01|<<]] | [[:or:obs:notes:49|Up]] | [[:or:obs:notes:frames:49-03|>>]]**
