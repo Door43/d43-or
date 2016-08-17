@@ -1,21 +1,19 @@
-===== The Angel Appeared [41-04] =====
+===== ଦୂତ ଦୃଶ୍ୟମାନ୍ ହେଲେ [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
-===== Important Terms: =====
+ହଠାତ୍ ସେଠାରେ ଏକ ଭୂମିକମ୍ପ ହେଲା । ବିଜୁଳି ଆଲୋକ ପରି ଝଲସୁ ଥିବା ଜଣେ ଦୂତ ସ୍ବର୍ଗରୁ ଆସି ଦେଖାଦେଲେ । ସମାଧି ମୁହଁରେ ଦିଆଯାଇଥିବା ପଥରକୁ ଗଡାଇଲେ ଏବଂ ସେ ସେଥିରେ ବସିଲେ । ଯେଉଁ ସୈନ୍ୟମାନେ ସେଠାରେ ପ୍ରହରୀ ଭାବରେ ଜଗି ରହିଥିଲେ ସେମାନେ ଭୟଭୀତ ହୋଇ ମୃତ ବ୍ୟକ୍ତି ପରି ଭୂମିରେ ପଡିଗଲେ ।
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:other:tomb]]**
-  * **[[:or:obe:kt:death]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**
+  * **ସମାଧି****ସ୍ଥଳ**, **କବର**, **ସମାଧି****ସ୍ଥାନ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
-
+  * ମହା ଭୁମିକମ୍ପ – ଏହାକୁ ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ “ପ୍ରଚଣ୍ଡ ଭୁମିକମ୍ପ” କିମ୍ବା "ଭୁମି ପ୍ରବଳ ଭାବରେ କମ୍ପିବା"  । କେତେକ ଭାଷାଗୁଡିକ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଭୁମି ପ୍ରଚଣ୍ଡ ଭାବରେ କମ୍ପମାନ ହେବାକୁ ଲାଗିଲା"
+  * ବିଜୁଳି ଆଲୋକ ପରି ଝଲସୁ ଥିବା ପରି ଆଲୋକିତ ହେଲେ - ତାହା ହେଉଛି, "ଯାହାର ଦୃଶ୍ୟ ବିଜୁଳି ପରି ଆଲୋକିତ ହେଉଥିଲା ।
+  * ଭୁମିର ପଡି ମୃତ ସମାନ ହେଲେ - ସେମାନେ ମରି ନ ଥିଲେ, କିନ୍ତୁ ସେମାନେ ମୃତ ବ୍ୟକ୍ତିମାନଙ୍କ ପରି ହଲଚଲ ହେଲେ ନାହିଁ. ସେମାନେ ହୁଏତ ଭୟରେ ଶକ୍ତିହୀନ ହୋଇଥିବେ. ଏହାକୁ କୁ ସ୍ପଷ୍ଟ କରିବାକୁ ,ଏହା ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇ ପାରେ ଯେପରି ,"ହଟାତ ଭୁମିରେ ପଡିଗଲେ ଏବଂ  ଅଗତିଶିଳ ରହିଲେ."
 
 **[[:or:obs:notes:frames:41-03|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-05|>>]]**
