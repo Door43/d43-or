@@ -1,18 +1,16 @@
-===== Here Is Water [45-11] =====
+===== ପାଣି ଏଠାରେ ଅଛି [45-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
-As Philip and the Ethiopian traveled, they came to **some water**. The Ethiopian said, “Look! There is some water! **May I be baptized**?” And he told the driver to stop the **chariot**.
-===== Important Terms: =====
+ଯେପରି ଫିଲିପ୍ ଓ କୂଶୀୟ ଯାତ୍ରା କଲେ, ସେମାନେ ପାଣି ପାଖକୁ ଆସିଲେ. କୂଶୀୟ କହିଲେ, "ଦେଖ !" ସେଠାରେ କିଛି ପାଣି ଅଛି ! ମୁଁ ବାପ୍ତିସ୍ମ ହୋଇପାରେ କି ? ପୁଣି ସେ ଚାଳକଙ୍କୁ ରଥ ରଖିବାକୁ କହିଲେ
 
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:other:chariot]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ବାପ୍ତିସ୍ମ****ଦେବା**, **ବାପ୍ତିସ୍ମ**
+  * **ରଥ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **some water** - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **May I be baptized?** - This could also be translated as, "Is there any reason that I cannot be baptized?"
-
+  * ଅଳ୍ପ ପାଣି - ଏକ ପଦ ବ୍ୟବହାର କର ଯାହା ଅଧିକ ପାଣିର ଆକାରକୁ ବୁଝାଇବ ଯେମିତି ଏକ ପୋଖରୀ, ହ୍ରଦ, କିମ୍ବା କ୍ଷୁଦ୍ର ନଦୀ
+  * ମୁଁ ବାପ୍ତିସ୍ମ ହୋଇପାରେ କି ? - ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ସେଠାରେ କୌଣସି କାରଣ ଅଛି ଯଦ୍ଵାରା ମୁ ବାପ୍ତିସ୍ମ ହୋଇପାରେ ?"
 
 **[[:or:obs:notes:frames:45-10|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-12|>>]]**
