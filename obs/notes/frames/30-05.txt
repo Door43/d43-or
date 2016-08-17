@@ -1,17 +1,16 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== ପାଞ୍ଚଟି ରୋଟି ଓ ଦୁଇଗୋଟି ମାଛ [30-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
-===== Important Terms: =====
+କିନ୍ତୁ ଯୀଶୁ ଶିଷ୍ୟମାନଙ୍କୁ କହିଲେ “ତୁମେ ସେମାନଙ୍କୁ କିଛି  ଭୋଜନ କରିବାକୁ ଦିଅ !” ସେମାନେ ଉତ୍ତର ଦେଲେ “ଆମେ ତାହା କିପରି କରିପାରିବୁ? ଆମ ନିକଟରେ କେବଳ ପାଞ୍ଚଟି ରୋଟି ଓ ଦୁଇଗୋଟି ମାଛ ଅଛି ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * ** ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **How can we do that?** - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
-
+ଆମେ ଏହା କିପରି କରିପାରିବୁ** ?**
+ - ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇ ପାରେ, "ଆମେ ତାହା କରିପାରିବୁ ନାହିଁ " କିମ୍ବା, "ତାହା କରିବା ଅସମ୍ଭବ ଅଟେ" ଶିଷ୍ୟମାନେ ଏକ ବାସ୍ତବିକ ପ୍ରଶ୍ନ ପଚାରୁ ନ ଥିଲେ. ବରଂ, ସେମାନେ ଦୃଢ଼ ଭାବରେ ପ୍ରକାଶ୍ କରୁଥିଲେ ଯେ ସେମାନେ ଏହା ଅସମ୍ଭବ ବଲୀ ମନେ କରୁଥିଲେ.
 
 **[[:or:obs:notes:frames:30-04|<<]] | [[:or:obs:notes:30|Up]] | [[:or:obs:notes:frames:30-06|>>]]**
