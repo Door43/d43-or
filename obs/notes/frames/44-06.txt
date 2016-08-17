@@ -1,20 +1,18 @@
-===== Peter and John Were Arrested [44-06] =====
+===== ପିତର ଏବଂ ଯୋହନ ଗିରଫ ହେଲେ [44-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
-The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
-===== Important Terms: =====
+ପିତର ଓ ଯୋହନ ଯାହା ଯାହା କହୁଥିଲେ ତାହା ଶୁଣି ମନ୍ଦିରର ନେତାମାନେ ବିଚଳିତ ହୋଇଯାଇଥିଲେ । ତେଣୁ ସେମାନେ ସେମାନଙ୍କୁ ଗିରଫ କରି କାରାଗାରରେ ରଖିଲେ । କିନ୍ତୁ ଅନେକ ଲୋକ ପିତରଙ୍କ ବାର୍ତ୍ତାରେ ବିଶ୍ବାସ କଲେ, ଏବଂ ଯୀଶୁଙ୍କୁ ବିଶ୍ବାସ କରିଥିବା ଲୋକମାନଙ୍କର ସଂଖ୍ୟା ୫୦୦୦ ରେ ପହଞ୍ଚିଥିଲା ।
 
-  * **[[:or:obe:kt:temple]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:johntheapostle]]**
-  * **[[:or:obe:kt:believe]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ମନ୍ଦିର**
+  * **ପିତର**,**ଶିମୋନ****ପିତର**,**କେଫା**
+  * **ଯୋହନ**  (**ପ୍ରେରିତ**)
+  * **ବିଶ୍ବାସ****କରିବା**, **ଠାରେ****ବିଶ୍ବାସ**, **ବିଶ୍ବାସ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Peter's message** - That is, "the message that Peter had preached to them."
-  * **number of men** - This was in addition to the woman and children who believed.
-
+  * ପିତରଙ୍କ ସମ୍ବାଦ - ତାହା ହେଉଛି, "ପିତର ସେମାନଙ୍କୁ ପ୍ରଚାର କରିଥିବା ସମ୍ବାଦ"
+  * ଲୋକଙ୍କ ସଂଖ୍ୟା -ଏଥିରେ ସ୍ତ୍ରୀମାନେ ଏବଂ ପିଲାମାନେ, ଯେଉଁମାନେ ବିଶ୍ବାସ କଲେ  ଅନ୍ତର୍ଭୁକ୍ତ ଅଟନ୍ତି
 
 **[[:or:obs:notes:frames:44-05|<<]] | [[:or:obs:notes:44|Up]] | [[:or:obs:notes:frames:44-07|>>]]**
