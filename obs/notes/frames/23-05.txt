@@ -1,19 +1,17 @@
-===== The Birth of Jesus [23-05] =====
+===== ଯୀଶୁଙ୍କ ଜନ୍ମ [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
+ସେମାନେ ଯେତେବେଳେ ବେଥଲିହିମରେ ପହଞ୍ଚିଲେ, ସେମାନଙ୍କୁ ରହିବା ପାଇଁ ସ୍ଥାନ ନ ଥିଲା । ପଶୁଗୁଡିକ ରହୁଥିବା ସ୍ଥାନ ହିଁ ସେମାନେ ରହିବା ପାଇଁ ଏକ ସ୍ଥାନ ପାଇଥିଲେ । ଶିଶୁଟି ସେଠାରେ ଜନ୍ମଲାଭ କରିଥିଲା ଏବଂ ତାଙ୍କ ମା ତାଙ୍କୁ କୁଣ୍ଡରେ ଶୁଆଇଦେଇଥିଲେ, ଯେହେତୁ ତାଙ୍କୁ ଶୁଆଇବା ନିମନ୍ତେ ସେମାନେ ଶଯ୍ୟା ପାଇନଥିଲେ । ସେମାନେ ତାହାଙ୍କୁ ଯୀଶୁ ନାମ ଦେଲେ ।
 
-  * **[[:or:obe:other:bethlehem]]**
-  * **[[:or:obe:kt:jesus]]**
- 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+  * **ବେଥଲିହିମ**, **ଇପଫ୍ରା଼ତ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **no place to stay** - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
-
+  * ରହିବା ନିମନେ ସ୍ଥାନ ନ ଥିଲା  - ତାହା ହେଉଛି, "ରହିବା ନିମନେ ସାଧାରଣ ସ୍ଥାନ ନ ଥିଲା ." କାରଣ ସେତେବେଳେ ବେଥଲିହିମ ଏକ ଜନଗହଳି ସ୍ଥାନ ଥିଲା , ସାଧାରଣ କୋଠରୀ ମଧ୍ୟ କୁଣିଆ ମାନଙ୍କ ଦ୍ବାରା ପୁର୍ଣ ହୋଇଥିଲା .
+  * ଯେଉଁଠାରେ ପଶୁମାନେ ରହୁଥିଲେ - ଏହା ଏକ ସ୍ଥାନ ଥିଲା ଯେଉଁଠାରେ ପଶୁମାନେ ରହୁଥିଲେ, ଲୋକମାନଙ୍କ ରହିବା ପାଇଁ ଏକ ସ୍ଥାନ ନ ଥିଲା . ଏକ ପଦ ସହିତ ଏହାକୁ ଅନୁବାଦ କର ଯେପରି ସାଧାରଣ ଭାବରେ,ଏକ ସ୍ଥାନକୁ, ଯେଉଁଠାରେ ପଶୁ ଥିଲେ ରଖୁଥିଲେ, ବ୍ୟବହାର କରାଯାଇପାରିବ.
+  * ଖାଇବା କୁଣ୍ଡରେ -ଏହା ପଶୁମାନଙ୍କର ଖାଇବା ଏକ ବାକ୍ସ ଥିଲା", କିମ୍ବା "କାଠ",  କିମ୍ବା ପଶୁମାନଙ୍କୁ ଖୁଆଇବା ପାଇଁ  "ପଥର ପେଢି". ପେଢି ଶୁଖିଲା ଘାସରେ ପୁର୍ଣ ହୋଇଥିଲା ଯେପରି ଶିଶୁକୁ ଶୁଆଇବା ନିମନ୍ତେ ଏକ ସମତଳ ଜାଗା କରାଯାଇଥିଲା
 
 **[[:or:obs:notes:frames:23-04|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-06|>>]]**
