@@ -1,14 +1,15 @@
-===== The Earthquake [47-09] =====
+===== ଭୂମିକମ୍ପ [47-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
-Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
-===== Important Terms: =====
+ହଠାତ୍, ଅତି ଭୟଙ୍କର ଭୂମିକମ୍ପ ହେଲା! କାରାଗାରରେ ଥିବା ସମସ୍ତ ଦ୍ଵାର ଖୋଲିଗଲା, ଏବଂ ସମସ୍ତ ବନ୍ଦୀଙ୍କ ହସ୍ତରୁ ଶିକୁଳିଗୁଡିକ ଖସିପଡିଲା ।
 
-===== Translation Notes: =====
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **flew open** - That is, "became unlocked and suddenly opened wide."
-  * **fell off** - That is, "suddenly came off" or, "suddenly came apart so that the prisoners were released."
+===== ଅନୁବାଦ ବିବରଣ: =====
 
+  * ଖୋଲିଗଲା - ଯାହାର ଅର୍ଥ, "ଖୋଲା ହୋଇଗଲା ଏବଂ ହଠାତ୍ ଚଉଡା ହୋଇ ଖୋଲିଗଲା"
+  * ଅଲଗା ହୋଇଗଲା**
+ - ** ଏହା ହେଉଅଛି ,"ହଠାତ୍ ଅସିଲା" କିମ୍ବା, " ହଠାତ୍ ଅସିଲା ତେଣୁ ବନ୍ଦୀମାନେ ମୁକ୍ତ ହୋଇଥିଲେ"
 
 **[[:or:obs:notes:frames:47-08|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-10|>>]]**
