@@ -1,18 +1,14 @@
-===== Preparation for the Meal [30-06] =====
+===== ଭୋଜନ ପାଇଁ ପ୍ରସ୍ତୁତ [30-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
+ଯୀଶୁ ତାହାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ ଲୋକମାନଙ୍କୁ ଘାସ ଉପରେ ପଚାଶ ପଚାଶ କରି ଧାଡିରେ ବସିବାକୁ କହିବା ପାଇଁ କହିଲେ ।
 
-**Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * ** ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(// ଏହି ଫ୍ରେମ୍﻿ନିମନ୍ତେ କୌଣସି ଟୀପ୍ପଣୀ ନାହିଁ ।//)//
 **[[:or:obs:notes:frames:30-05|<<]] | [[:or:obs:notes:30|Up]] | [[:or:obs:notes:frames:30-07|>>]]**
