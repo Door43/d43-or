@@ -1,21 +1,19 @@
-===== The Shepherds Visited Jesus [23-08] =====
+===== ମେଷପାଳକଗଣ ଯୀଶୁଙ୍କୁ ଭ୍ରମଣ କଲେ [23-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
-The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
-===== Important Terms: =====
+ମେଷପାଳକଗଣ ଅତିଶୀଘ୍ର ଯୀଶୁ ଯେଉଁଠାରେ ଥିଲେ ସେଠାରେ ପହଞ୍ଚିଲେ ଏବଂ ସେମାନେ ତାହାଙ୍କୁ ଦୂତ କହିଥିବା ଅନୁଯାୟୀ ଗୁହାଳ କୁଣ୍ଡରେ ଶୋଇଥିବାର ଦେଖିଲେ । ସେମାନେ ଅତିଶୟ ଉତ୍ସାହିତ ହୋଇଯାଇଥିଲେ । ମରିୟମ ମଧ୍ୟ ଅତିଶୟ ଉତ୍ସାହିତ ହୋଇଯାଇଥିଲେ । ମେଷପାଳକଗଣ କ୍ଷେତରେ ପହଞ୍ଚିଲେ ଯେଉଁଠାରେ ସେମାନଙ୍କର ମେଷଗଣ ଥିଲେ ଏବଂ ସେମାନେ ଯାହା ସବୁ ଶୁଣିଥିଲେ ଓ ଦେଖିଥିଲେ ସେଥିଯୋଗୁଁ ଈଶ୍ବରଙ୍କର ପ୍ରଶଂସା କରୁଥିଲେ ।
 
-  * **[[:or:obe:other:shepherd]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:other:mary]]**
-  * **[[:or:obe:other:praise]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ମେଷପାଳକ**, **ମେଷପାଳକଙ୍କୁ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ମରିୟମ**, **ଯୀଶୁଙ୍କ****ମାତା**
+  * **ସ୍ତୁତି****କରିବା**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **all they had heard and seen** - That is, "for everything they had heard and seen." This included the glorious angels and their amazing message, as well as seeing the newborn Messiah himself.
-
+  * ସେମାନେ ଶୁଣିବାକୁ ଏବଂ ଦେଖିବାକୁ ପାଇଲେ  - ତାହା ହେଉଛି, "ସମସ୍ତ ବିଷୟ ସେମାନେ  ଶୁଣିବାକୁ ଏବଂ ଦେଖିବାକୁ ପାଇଲେ ."ତେଜୋମୟ ଦୂତଗଣ ଓ ସେମାନଙ୍କର ଆଶ୍ଚର୍ଯ୍ୟ ସମ୍ବାଦ, ଏପରିକି ଏକ ନୁତନଜାତ ମଶୀହଙ୍କୁ ଦେଖିବା ଏଗୁଡିକ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିଲା.
 
 **[[:or:obs:notes:frames:23-07|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-09|>>]]**
