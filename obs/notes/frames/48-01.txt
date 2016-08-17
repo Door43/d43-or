@@ -1,24 +1,22 @@
-===== The Perfect Creation [48-01] =====
+===== ସିଦ୍ଧ ସୃଷ୍ଟି [48-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink&}}
 
-When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
-===== Important Terms: =====
+ଯେତେବେଳେ ପରମେଶ୍ଵର ଜଗତକୁ ସୃଷ୍ଟି କଲେ, ସମସ୍ତ ବିଷୟ ସିଦ୍ଧ ଥିଲା । ସେଠାରେ କୌଣସି ପାପ ନ ଥିଲା । ଆଦମ ଓ ହବା ପରସ୍ପରକୁ ପ୍ରେମ କଲେ ପୁଣି ସେମାନେ ଈଶ୍ବରଙ୍କୁ ପ୍ରେମ କଲେ। ସେଠାରେ କୌଣସି ଅସୁସ୍ଥତା ବା ମୃତ୍ୟୁ ନ ଥିଲା । ପୃଥିବୀ ଏପରି ହିଁ ହେଉ ବୋଲି ଈଶ୍ବର ଚାହୁଁଥିଲେ ।
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:other:adam]]**
-  * **[[:or:obe:other:eve]]**
-  * **[[:or:obe:kt:love]]**
-  * **[[:or:obe:kt:death]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ପାପ**, **ପାପ****ପୂର୍ଣ୍ଣ**, **ପାପୀ**/**ଅପରାଧୀ**, **ପାପ****କରୁଅଛି**
+  * **ଆଦମ**
+  * **ହବା**
+  * **ପ୍ରେମ**
+  * **ମୃତ୍ୟ**, **ମରିବା**, **ମୃତ୍ୟୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **God created the world** - That is, "God made the world out of nothing."
-  * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
-  * **There was no sin** - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
-  * **There was no sickness or death** - That is, "No one got sick and no one died" or, "They did not get sick or die."
-
+  * ପରମେଶ୍ଵର ଜଗତକୁ ସୃଷ୍ଟି କଲେ - ଯେ ଅଛନ୍ତି, "ପରମେଶ୍ଵର ଜଗତକୁ ଶୁନ୍ୟରି ସୃଷ୍ଟି କଲେ"
+  * ସମ୍ପୂର୍ଣ୍ଣ - ତାହା ହେଉଅଛି ,"ଯେପରି ହେବା ଉଚିତ୍ ସେହିପରି" ସମସ୍ତ ବିଷୟ ଯାହା ପରମେଶ୍ବର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଯୋଜନା କରିଥିଲେ
+  * ସେଠାରେ ପାପ ନ ଥିଲା - କିଛି ଭାଷାରେ ଏହା ପ୍ରକାଶ କରିବା ସମ୍ଭବ ନୁହେଁ "ପାପ "ଯେପରି ଏକ ବସ୍ତୁ, ବରଂ ଏହା ଏକ କ୍ରିୟା ଅଟେ. ଏହି ପରିସ୍ତିତିରେ ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି ,"କେହି କେବେ ପାପ କରିନଥିଲେ'' କିମ୍ବା ''ଲୋକମାନେ ପାପ କଲେ ନାହିଁ'' କିମ୍ବା ''କିଛି ମନ୍ଦ ଘଟିନଥିଲା,''
+  * ସେଠାରେ ମୃତ୍ୟୁ କିମ୍ବା ଅସୁସ୍ଥତା ନ ଥିଲା - ତାହା ହେଉଅଛି ,''କେହି ଅସୁସ୍ଥତା କିମ୍ବା ମୃତ୍ୟୁ ଭୋଗ କରୁନଥିଲା'' କିମ୍ବା, ''ସେମାନେ ଅସୁସ୍ଥତା ହେଉନଥିଲେ କିମ୍ବା ମରୁନଥିଲେ,''
 
 **[[:or:obs:notes:frames:47-14|<<]] | [[:or:obs:notes:48|Up]] | [[:or:obs:notes:frames:48-02|>>]]**
