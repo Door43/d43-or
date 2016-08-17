@@ -1,26 +1,24 @@
-===== Jesus Died in Our Place [49-10] =====
+===== ଯୀଶୁ ଆମ୍ଭମାନଙ୍କ ସ୍ଥାନରେ ମୃତ୍ୟୁବରଣ କଲେ [49-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&}}
 
-**Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
-===== Important Terms: =====
+କାରଣ ଆପଣମାନଙ୍କ ପାପ ପାଇଁ, ଆପଣମାନେ ଦୋଷୀ ଏବଂ ମରିବାକୁ ଯୋଗ୍ୟ ଅଟନ୍ତି ଈଶ୍ବର ଆପଣଙ୍କ ଉପରେ କ୍ରୋଧ କରିବା ଉଚିତ୍ ଥିଲା, କିନ୍ତୁ ସେ ଆପଣଙ୍କ ଉପରେ ସେହି କ୍ରୋଧ ନ ଢାଳି ଯୀଶୁଙ୍କ ଉପରେ ଆପଣାର କ୍ରୋଧ ଢାଳି ଦେଲେ । ଯୀଶୁ ଯେତେବେଳେ କ୍ରୁଶ ଉପରେ ମୃତ୍ୟୁଭୋଗ କଲେ, ସେତେବେଳେ ସେ ଆପଣଙ୍କ ଦଣ୍ଡକୁ ପାଇଲେ ।
 
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:guilt]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:cross]]**
-  * **[[:or:obe:kt:receive]]**
-  * **[[:or:obe:other:punish]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+  * **ଦୋଷ**, **ଦୋଷାବହ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+  * **ପରମେଶ୍ଵର**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **କ୍ରୁଶ**
+  * **ପାଇବା**
+  * **ଦଣ୍ଡ****ଦେବା**, **ଦଣ୍ଡ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Because of your sin** - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
-  * **God should be angry** - This can also be translated as, "It would be right for God to be angry."
-  * **poured out his anger on** - That is, "directed his anger at" or, "placed all of his anger upon" or, "was angry only with."
-  * **received your punishment** - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
-
+  * ତୁମମାନଙ୍କ ପାପ କାରଣରୁ- ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ  "ଯେହେତୁ ଆପଣମାନେ ପାପ କରିଅଛନ୍ତି." ଏହା ସ୍ପଷ୍ଟ କରିବାକୁ ଯେ ଏହି ବିଷୟ ସମସ୍ତ ଲୋକମାନଙ୍କ ପାଇଁ ଅଟେ, କେତେକ ଭାଷାମାନଙ୍କ ପାଇଁ ଏହା ଅନୁବାଦ କରିବା ପାଇଁ ଆହୁରି ଅଧିକ ସ୍ପଷ୍ଟ ହୋଇପାରେ, କାରଣ ସମସ୍ତ ଲୋକ ପାପ କରିଛନ୍ତି, ସେମାନେ ଦୋଷୀ ଅଟନ୍ତି I ସେମାନେ ମୃତ୍ୟୁର ଯୋଗ୍ୟ ଅଟନ୍ତି."
+  * ପରମେଶ୍ବର କ୍ରୋଧ ହେବା ଉଚିତ୍ ଥିଲା - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ବର କ୍ରୋଧ ହେବା ଉଚିତ୍ ଥିଲା"
+  * ଉପରେ ତାହାଙ୍କ କ୍ରୋଧ ଢଳାଗଲା- ତାହା ହେଉଛି, "ତାହାଙ୍କ କ୍ରୋଧକୁ ଦର୍ଶାଇଲେ" କିମ୍ବା, "ଉପରେ ତାହାଙ୍କ ସମସ୍ତ କ୍ରୋଧକୁ ସ୍ଥାନାନ୍ତରିତ କଲେ" କିମ୍ବା, "ସହିତ କେବଳ କ୍ରୋଧ ଥିଲେ"
+  * ତୁମ୍ଭମାନଙ୍କ ଦଣ୍ଡକୁ ଗ୍ରହଣ କଲେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, ତୁମ୍ଭମାନଙ୍କ ପରିବର୍ତ୍ତେ ଦଣ୍ଡ ପାଇଲେ" କିମ୍ବା, ତୁମ୍ଭ ପାପ ପାଇଁ ଦଣ୍ଡିତ ହେଲେ" I ଏହା ସ୍ପଷ୍ଟ କରିବାକୁ ଯେ ଏହା ଯେପରି ସମସ୍ତଙ୍କ ଠାରେ ଲାଗୁ ହୋଇପାରିବ, ଏହାକୁ ଏପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ, "ସମସ୍ତଙ୍କ ପାପର ନିମନ୍ତେ ଦଣ୍ଡିତ ହେଲେ"
 
 **[[:or:obs:notes:frames:49-09|<<]] | [[:or:obs:notes:49|Up]] | [[:or:obs:notes:frames:49-11|>>]]**
