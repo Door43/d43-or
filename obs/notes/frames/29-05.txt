@@ -1,17 +1,15 @@
-===== The Small Debt [29-05] =====
+===== କ୍ଷୁଦ୍ର ଉଧାର [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
+କିନ୍ତୁ ସେହି ଦାସ ଯେତେବେଳେ ରାଜାଙ୍କ ନିକଟରୁ ଗଲା, ସେତେବେଳେ ସେ ଆଉ ଜଣେ ସହଦାସର ଦେଖା ପାଇଲେ ଯିଏ କି ତାକୁ ଚାରି ମାସର କରଜ ଶୁଝିବାକୁ ଥିଲା । ସେହି ଦାସ ତାହାର ସହଦାସର ଗଳା ଧରି କହିଲା “ମୋ ଠାରୁ ଋଣ କରିଥିବା କରଜ ଶୁଝ !”
 
-  * **[[:or:obe:other:servant]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fellow servant** - This refers to another man who was also a servant of the king.
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ଦାସ ଜଣ - ଏହା ଆଉ ବ୍ୟକ୍ତିଙ୍କୁ ଦର୍ଶାଏ ଯିଏ ସେହି ରାଜାର ଅନ୍ୟ ଏକ ଦାସ ଥିଲା .
 
 **[[:or:obs:notes:frames:29-04|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-06|>>]]**
