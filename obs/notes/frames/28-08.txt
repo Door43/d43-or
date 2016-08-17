@@ -1,19 +1,17 @@
-===== All Things Are Possible [28-08] =====
+===== ସମସ୍ତ ବିଷୟ ସମ୍ଭବ ଅଟେ [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
-===== Important Terms: =====
+ଯୀଶୁ ଶିଷ୍ୟମାନଙ୍କ ପ୍ରତି ଚାହିଁ କହିଲେ “ମନୁଷ୍ୟ ଦୃଷ୍ଟିରେ ଏହା ଅସମ୍ଭବ, କିନ୍ତୁ ଈଶ୍ବରଙ୍କ ଦୃଷ୍ଟିରେ ସମସ୍ତ ବିଷୟ ସମ୍ଭବ ଅଟେ ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
+  * ଲୋକମାନଙ୍କ ନିମନ୍ତେ ଏହା ଅସମ୍ଭବ - ତାହା ହେଉଛି, "ଲୋକମାନେ ଏହା କରିବା ଅସମ୍ଭବ ଅଟେ" କିମ୍ବା, "କେବଳ ମନୁଷ୍ୟମାନେ ସେମାନଙ୍କୁ ନିଜକୁ ରକ୍ଷା କରିପାରିବେ ନାହିଁ."
+  * ପରମେଶ୍ଵରଙ୍କ ସହିତ**, ** ସମସ୍ତ ବିଷୟ ସମ୍ଭବ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵର ସମସ୍ତ କରିବାକୁ ସାମର୍ଥଃ ଅଟନ୍ତି, ଏପରିକି ଧନୀ ବ୍ୟକ୍ତିକୁ ରକ୍ଷା କରିପାରିବେ" କିମ୍ବା "ଅସମ୍ଭାବ୍ ବିଷୟ କରିବା ପାଇଁ ପରମେଶ୍ଵର ସମର୍ଥ ଅଟନ୍ତି, ତେଣୁ ସେ ଏପରିକି ଧନୀ ଲୋକଙ୍କୁ ମଧ୍ୟ ରକ୍ଷା କରିପାରିବେ"
 
 **[[:or:obs:notes:frames:28-07|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-09|>>]]**
