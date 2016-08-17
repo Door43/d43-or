@@ -1,24 +1,22 @@
-===== Do the Same [27-11] =====
+===== ସେହିପରି କର [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+ତା’ପରେ ଯୀଶୁ ସେହି ବ୍ୟବସ୍ଥା ଶାସ୍ତ୍ରଜ୍ଞଙ୍କୁ ପଚାରିଲେ “ତୁମ୍ଭେ କ’ଣ ଭାବୁଅଛ? ଏହି ତିନିଜଣଙ୍କ ମଧ୍ୟରୁ କିଏ ଡକାୟତମାନଙ୍କ ହାବୁଡରେ ପଡିଥିବା ଲୋକଟିର ପ୍ରତିବାସୀ ବୋଲି ଭାବୁଅଛ?” ସେ ଉତ୍ତର ଦେଲେ “ଯିଏ ତାଙ୍କ ପ୍ରତି ଦୟା ଦେଖାଇଥିଲେ, ସିଏ ।” ଯୀଶୁ ତାଙ୍କୁ କହିଲେ “ତୁମ୍ଭେ ମଧ୍ୟ ଯାଇ ତାହା କର ।”
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:mercy]]**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଦୟା**, **ଦୟାବନ୍ତ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:or:obs:notes:frames:27-01|[27-01]]]**.
-  * **the three men** - The three men were the priest, the Levite, and the Samaritan.
-  * **neighbor** - Jesus is using the word "neighbor" in a broader sense than in **[[:or:obs:notes:frames:27-02|[27-02]]]**. "Neighbor" here refers to anyone that we meet who needs our help.
-  * **was a neighbor** - This can also be translated as, "behaved as a neighbor" or, "was a friend" or, "acted in a loving way". See how you translated "neighbor" in **[[:or:obs:notes:frames:27-02|[27-02]]]** and **[[:or:obs:notes:frames:27-03|[27-03]]]**.
-  * **You go and do** - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
-  * **do the same** - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ନିପୁଣ ବ୍ୟବସ୍ଥାଶାସ୍ତ୍ରଜ୍ଞ  - ତାହା ହେଉଛି, "ଯିହୁଦୀ ବ୍ୟବସ୍ଥାର ନିପୁଣ." ଆପଣ ଏହାକୁ **__[__ **__୨୭**-** ____୦୧**]**__ ରେ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ ।
+  * ତିନିଜଣ ପୁରୁଷ ମାନେ - ତିନିଜଣ ପୁରୁଷ ମାନେ ଥିଲେ ଯାଜକ, ଲେବୀୟ, ଓ ଶମିରୋଣୀୟ.
+  * ପ୍ରତିବାସୀ - ଯୀଶୁ ଏହି "ପ୍ରତିବାସୀ" ପଦଟିକୁ ବ୍ୟାପ୍ତରୁପକ ଚେତନା ସହିତ  **__[__ **__୨୭**-** ____୦୨**]**__ ବ୍ୟବହାର କରିଛନ୍ତି . "ପ୍ରତିବାସୀ" ଏଠାରେ କୌଣସି ବ୍ୟକ୍ତିକୁ ସୁଚାଏ ଯାହାକୁ ଆମ୍ଭର ସାହାଯ୍ୟ ନିତାନ୍ତ ଆବଶ୍ୟକ ହୋଇଥାଏ
+  * ଏକ ପ୍ରତିବାସୀ ଥିଲେ  - ଏହାକୁ ମଧ୍ୟ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଏକ ପ୍ରତିବାସୀ ପରି ବ୍ୟବହାର କରିବା" କିମ୍ବା, "ଏକ ବନ୍ଧୁ ଥିଲା" କିମ୍ବା, "ପ୍ରେମ ପରି ଅଭିନୟ କରୁଥିଲେ". ଆପଣ "ପ୍ରତିବାସୀ" ପଦଟିକୁ  \[୨୬-୦୨] କିପରି ଅନୁବାଦ କରିଛନ୍ତି, ତାହାକୁ ଦେଖନ୍ତୁ ।
+  * ତୁମକୁ ଯାଅ ଓ କରିବ - ତାହା ହେଉଛି, "ତୁମେ ମଧ୍ୟ, ଯାଅ ଓ କରିବ" କିମ୍ବା, "ବର୍ତ୍ତମାନ ତୁମକୁ କରିବା ଉଚିତ୍."
+  * ଯୀଶୁ ମଧ୍ୟ ବ୍ୟବସ୍ଥା ଶାସ୍ତ୍ରଜ୍ଞକୁ ଶମିରିଣୀୟ ପରି ମାରିବାକୁ କହିଲେ.
+  * ଏହିପରି କର - ତାହା ହେଉଛି, "ଅନ୍ୟକୁ ପ୍ରେମ କର, ଏପରିକି ତୁମମାନଙ୍କ ଶତ୍ରୁମାନଙ୍କୁ ମଧ୍ୟ." ନିଶ୍ଚିତ କରନ୍ତୁ ତାହା ଯେପରି "ସେହିପରି" କେବଳ ଆଘାତ ହୋଇ ପଡିଥିବା ବ୍ୟକ୍ତିକୁ କେବଳ ସୁଚାଉଥିବା ଭଳି ଶୁଭା ନ ଯାଏ
+  * ଏକ ବାଇବଲରୁ କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:27-10|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:28-01|>>]]**
