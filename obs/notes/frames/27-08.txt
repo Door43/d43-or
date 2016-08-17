@@ -1,18 +1,16 @@
-===== The Samaritan [27-08] =====
+===== ଶମିରୋଣୀୟ [27-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
-“The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
-===== Important Terms: =====
+“ଅନ୍ୟ ଯେଉଁ ବ୍ୟକ୍ତି ସେହି ରାସ୍ତା ଦେଇ ଗଲେ  ଜଣେ ଶମିରୋଣୀୟ ଲୋକ ଥିଲେ । (ଶମିରୋଣୀୟମାନେ ହେଉଛନ୍ତି ଯିହୂଦୀମାନଙ୍କର ବଂଶଧର ଯେଉଁମାନେ ଅନ୍ୟ ଦେଶର ଲୋକମାନଙ୍କ ସହିତ ବିବାହ କରୁଥିଲେ ।ଶମିରୋଣୀୟମାନେ ଓ ଯିହୂଦୀମାନେ ପରସ୍ପରକୁ ଘୃଣା କରୁଥିଲେ ।) କିନ୍ତୁ ଶମିରୋଣୀୟ ଲୋକ ଯେତେବେଳେ ସେହି ଯିହୂଦୀ ବ୍ୟକ୍ତିଙ୍କୁ ଦେଖିଲେ, ସେ ତାଙ୍କ ପ୍ରତି ଦୟାରେ ବିଗଳିତ ହେଲେ । ତେଣୁ ସେ ତାଙ୍କର ଯତ୍ନ ନେଲେ ଏବଂ ତାଙ୍କର କ୍ଷତକୁ ମଲମ ପଟି କଲେ ।”
 
-  * **[[:or:obe:other:samaria]]**
-  * **[[:or:obe:other:jew]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶମିରଣ**, **ଶମିରୋଣୀୟ**
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀମାନେ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ଚାଲିଲେ - ତାହା ହେଉଛି, "ସହିତ ଯାତ୍ରା କଲେ" ଏହି ଲୋକମାନେ ଏକ ନଗରରୁ ଅନ୍ୟ ନଗରକୁ ଯାତ୍ରା କରୁଥିଲେ.ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଏମାନେ କେବଳ ଚାଲୁଥିଲେ ବୋଲି ଏପରି ଶୁଭା ନ ଯାଉ.
 
 **[[:or:obs:notes:frames:27-07|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-09|>>]]**
