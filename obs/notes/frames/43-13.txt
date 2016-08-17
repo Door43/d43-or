@@ -1,22 +1,20 @@
-===== The Disciples Met Together [43-13] =====
+===== ଶିଷ୍ୟମାନେ ଏକତ୍ର ଭେଟ ହେଲେ [43-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
-The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
-===== Important Terms: =====
+ଶିଷ୍ୟମାନେ ନିରନ୍ତର ଭାବରେ ପ୍ରଥମ ଶିଷ୍ୟମାନଙ୍କ ଶିକ୍ଷା ଶୁଣିବାକୁ ଲାଗିଲେ, ଏକାଠି ସମୟ କଟାଇଲେ, ଏକାଠି ଭୋଜନ କଲେ, ଏବଂ ପରସ୍ପର ପାଇଁ ଏକାଠି ପ୍ରାର୍ଥନା କଲେ । ସେମାନେ ଏକାଠି ଈଶ୍ବରଙ୍କର ପ୍ରଶଂସା କରିବାକୁ ଲାଗିଲେ ଏବଂ ସେମାନଙ୍କର ଯାହା ଯାହା ଥିଲା ତାହା ନିଜ ନିଜ ମଧ୍ୟରେ ବାଣ୍ଟିବାକୁ ଲାଗିଲେ । ପ୍ରତ୍ୟେକେ ପ୍ରତ୍ୟେକଙ୍କର ମଙ୍ଗଳ କାମନା କରୁଥିଲେ । ପ୍ରତିଦିନ ଅଧିକାରୁ ଅଧିକ ଲୋକ ବିଶ୍ବାସ କରୁଥିଲେ ।
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:apostle]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:other:praise]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:believer]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶିଷ୍ୟ**
+  * **ପ୍ରେରିତ**, **ପ୍ରେରିତ****ପଦ**
+  * **ପ୍ରାର୍ଥନା****କରିବା**, **ପ୍ରାର୍ଥନା**
+  * **ସ୍ତୁତି****କରିବା**
+  * **ପରମେଶ୍ଵର**
+  * **ବିଶ୍ବାସୀ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **thought well of them** - That is, "had a positive opinion of them."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ସେମାନଙ୍କୁ ଉତ୍ତମ ମନେ କଲେ  - ତାହା ହେଉଛି, "ସେମାନଙ୍କ ବିଷୟରେ ସକାରାତ୍ମକ ଚିନ୍ତାଧାରା ଥିଲା"
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:43-12|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:44-01|>>]]**
