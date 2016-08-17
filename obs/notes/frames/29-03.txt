@@ -1,20 +1,18 @@
-===== Not Able to Repay [29-03] =====
+===== ପରିଶୋଧ କରିବାକୁ ଅକ୍ଷମ [29-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
-===== Important Terms: =====
+ଯେହେତୁ ସେହି ଦାସ ପାଉଣା ପରିଶୋଧ କରିପାରିଲେ ନାହିଁ, ତେଣୁ ରାଜା କହିଲେ “ଏହି ଲୋକ ଓ ଏହାର ପରିବାରକୁ ଦାସ ଭାବରେ ବିକ୍ରୟ କରି ପାଉଣା ଶୁଝିବାକୁ ଦିଅ ।“
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:servant]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ରାଜା**
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ପାଉଣା ପରିଶୋଧ କରିବା - ତାହା ହେଉଛି, "ରାଜାଙ୍କ ଠାରୁ କାର୍ଯ କରିଥିବା ଟଙ୍କାକୁ ପରିଶୋଧ କରିବା."
+  * ତାଙ୍କ ଋଣ ପରିଶୋଧ କରିବା ପରେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, " ଏବଂ ସେମାନଙ୍କୁ ବିକ୍ରୟ କଲା ପରେ ଯାହା ଟଙ୍କା ପାଇବ, ତାହା ଋଣ ପରିସୋଧ କରିବା ପାଇଁ ବ୍ୟବହାର କରିବା"
 
 **[[:or:obs:notes:frames:29-02|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-04|>>]]**
