@@ -1,25 +1,23 @@
-===== What Must I Do? [47-11] =====
+===== ମୁ କଣ କରିବା ଆବଶ୍ୟକ ? [47-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink&}}
 
-The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
-===== Important Terms: =====
+କାରାରକ୍ଷକ ଯେତେବେଳେ ପାଉଲ ଓ ଶୀଲାଙ୍କ ନିକଟକୁ ଆସିଲେ, ସେତେବେଳେ ସେ ଭୟରେ ଥରିଉଠିଲେ, ପୁଣି ପଚାରିଲା, "ପରିତ୍ରାଣ ପାଇବା ପାଇଁ ମୁ କଣ କରିବି ?" ପାଉଲ ଉତ୍ତର ଦେଲେ “ପ୍ରଭୁ ଯୀଶୁଙ୍କଠାରେ ବିଶ୍ଵାସ କର, ପୁଣି ତୁମେ ଓ ତୁମର ପରିବାର ଉଦ୍ଧାର ପାଇବେ । ତା’ପରେ ସେହି କାରାରକ୍ଷକ ତାଙ୍କ ନିଜ ଗୃହକ ମଧ୍ୟକୁ ପାଉଲ ଓ ଶୀଲାଙ୍କୁ ନେଇ ସେମାନଙ୍କ କ୍ଷତସବୁ ଧୋଇଦେଲେ ଦେଲେ । ତାଙ୍କ ଗୃହରେ ଥିବା ସମସ୍ତଙ୍କୁ ପାଉଲ ଯୀଶୁଙ୍କ ସମ୍ବନ୍ଧୀୟ ଶୁଭସମ୍ବାଦ ପ୍ରଚାର କଲେ ।
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:silas]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:goodnews]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଶୀଲା**, **ସିଲଭାନାସ୍**
+  * **ରକ୍ଷା****କରିବା**, **ସୁରକ୍ଷିତ**
+  * **ବିଶ୍ଵାସ****କରିବା**, **ଠାରେ****ବିଶ୍ଵାସ**, **ବିଶ୍ଵାସ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+  * **ପ୍ରଚାର****କରିବା**
+  * **ଶୁଭ****ସମ୍ବାଦ**, **ସୁସମାଚାର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
-
+  * ପରିତ୍ରାଣ ପାଇବାକୁ -ଏହା ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରି,"ମୋ ପାପରୁ ପରିତ୍ରାଣ ପାଇବା ପାଇଁ" କିମ୍ବା "ଯଦ୍ଵାରା ପରମେଶ୍ବର ମୋ ପାପରୁ ମୋତେ ପରିତ୍ରାଣ କରିବେ," ଏହି ପ୍ରଶ୍ନ ପରମେଶ୍ଵରଙ୍କ ଦଣ୍ଡରୁ ମୁକ୍ତି ପାଇବାକୁ ସୁଚାଏ ଯିଏ ଭୁମିକମ୍ପ କରିଥିଲେ
+  * ପ୍ରଭୁ ଯୀଶୁଙ୍କ ଠାରେ ବିଶ୍ବାସ କର -ଏହା ଉଭୟ ଜେଲର୍ ଓ ତାହାର ପରିବାରକୁ ଦର୍ଶାଏ , ଯିଏ ସମସ୍ତେ ବିଶ୍ଵାସ କରି ବାପ୍ତିଜିତ ହୋଇଥିଲେ. ହୋଇପାରେ କିଛି ଭାଷାରେ ଏହା କୁ ପ୍ରକାଶ କରିବା ନିମନ୍ତେ ଅନ୍ୟ ଆକୃତି କୁ ବ୍ୟବହାର କରିପାରନ୍ତି ଯେ ପାଉଲ ଲୋକସମୁହକୁ କହୁଅଛନ୍ତି ବୋଲି
+  * ତୁମେ ଏବଂ ତୁମ୍ଭର ପରିବାର ରକ୍ଷା ପାଇବେ - ଏହା ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ ଯେପରି ," ପରମେଶ୍ବର ତୁମ୍ଭକୁ ଏବଂ ତୁମ୍ଭର ପରିବାରକୁ ତୁମ୍ଭମାନଙ୍କର ପାପ ପାଇଁ ଅନନ୍ତ କାଳର ଦଣ୍ଡରୁ ମୁକ୍ତି କରିବେ. ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଏଠାରେ ମୁକ୍ତି ଆତ୍ମିକତା କୁ ସୁଚାଏ, ଶାରୀରିକତାକୁ ନୁହେଁ
 
 **[[:or:obs:notes:frames:47-10|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-12|>>]]**
