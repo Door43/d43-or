@@ -1,22 +1,20 @@
-===== The Good News [50-02] =====
+===== ଶୁଭ ସମ୍ବାଦ [50-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
-===== Important Terms: =====
+ଯେପରି ଆମେ ଯୀଶୁଙ୍କ ଫେରିବାର ଅପେକ୍ଷା କରୁ, ଈଶ୍ବର ଚାହାନ୍ତି ଯେପରିକି ଆମେ ଏକ ପବିତ୍ର ଏବଂ ତାହାଙ୍କୁ ଗୌରବ ପ୍ରଦାନ କରୁଥିବା ଏକ ଜୀବନ କାଟିବା । ସେ ଚାହାନ୍ତି ଯେପରି ଆମେ ତାହାଙ୍କ ରାଜ୍ୟ ବିଷୟରେ ଅନ୍ୟମାନଙ୍କୁ କହୁ । ଯୀଶୁ ପୃଥିବୀରେ ବାସ କରୁଥିବା ସମୟରେ ସେ କହିଲେ “ମୋ ଶିଷ୍ୟମାନେ ଈଶ୍ବରଙ୍କ ରାଜ୍ୟର ଶୁଭସମ୍ବାଦ ଜଗତରେ ଥିବା ସମସ୍ତ ଲୋକଙ୍କୁ ପ୍ରଚାର କରିବେ, ତା’ପରେ ହିଁ ଯୁଗାନ୍ତ ହେବ ।“
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:holy]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:goodnews]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵର**
+  * **ପବିତ୍ର****, ****ପବିତ୍ରତା**
+  * **ପରମେଶ୍ଵରଙ୍କ****ରାଜ୍ୟ****, ****ସ୍ଵର୍ଗରାଜ୍ୟ**
+  * **ଶିଷ୍ୟ**
+  * **ପ୍ରଚାର****କରିବା**
+  * **ଶୁଭ****ସମ୍ବାଦ****, ****ସୁସମାଚାର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the end will come** - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
-
+  * ଶେଷ ଆସିବ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଏହି ଜଗତର ଶେଷ ଆସିବ" କିମ୍ବା, "ଏହି ଜଗତର ଶେଷ ଘଟିବ" କିମ୍ବା, "ବର୍ତ୍ତମାନର ଯୁଗ ଶେଷ ହେବ"
 
 **[[:or:obs:notes:frames:50-01|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-03|>>]]**
