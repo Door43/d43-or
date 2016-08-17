@@ -1,18 +1,16 @@
-===== The Tomb Was Sealed [41-02] =====
+===== ସମାଧି ସ୍ଥାନକୁ ମୁଦ୍ରାଙ୍କିତ କରାଗଲା [41-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-**Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
-===== Important Terms: =====
+ପିଲାତ କହିଲେ “କିଛି ସୈନ୍ୟଙ୍କୁ ନେଇ ତୁମ୍ଭେମାନଙ୍କ ପାରୁ ପର୍ଯ୍ୟନ୍ତ ସମାଧି ସ୍ଥାନ ସୁରକ୍ଷିତ ରଖା ।” ତେଣୁ ସେମାନେ ସମାଧି ସ୍ଥାନର ପ୍ରବେଶ ସ୍ଥାନରେ ଥିବା ପଥରକୁ ମୁଦ୍ରାଙ୍କିତ କଲେ ଏବଂ ସେଠାରେ ସୈନ୍ୟମାନଙ୍କୁ ମୁତୟନ କଲେ ଯେପରିକି କେହି ତାଙ୍କ ଶରୀରକୁ ଚୋରାଇ ନେଇ ନ ପାରନ୍ତି ।
 
-  * **[[:or:obe:other:pilate]]**
-  * **[[:or:obe:other:tomb]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ଶବ୍ଦ ସମୂହ : =====
 
+  * **ପିଲାତ**
+  * **ସମାଧି****ସ୍ଥଳ**, **କବର**, **ସମାଧି****ସ୍ଥାନ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
+  * ସେମାନେ ନିଯୁକ୍ତ କଲେ - ଯେ ଅଛନ୍ତି, "ଧାର୍ମିକ ନେତାମାନଙ୍କୁ ଓ ସୈନ୍ୟମାନେ ନିଯୁକ୍ତ କଲେ."
+  * ପଥର ଉପରେ ମୁଦ୍ରାଙ୍କନ - ସେମାନେ ମାଟି ଓ ମହମ ସଦୃଶ୍ୟ ନରମ ଉପାଦାନକୁ ସମାଧି ଏବଂ ପଥର ମଧ୍ୟରେ ରଖିଲେ ପୁଣି ଏହାକୁ ଏକ ପଦାଧିକାରୀ ମୁଦ୍ରା ସହିତ ମୁଦ୍ରାଙ୍କିତ କଲେ . ଯଦି କେହିଜଣେ ପଥରକୁ ଘୁଞ୍ଚାଏ ସେହି ଉପାଦାନ ଭାଙ୍ଗିଯିବା ପୁଣି କେହିଜଣେ ପ୍ରବେଶ କରିଥିଲେ ବୋଲି ତାହା ଦେଖାଇବ ଏହାକୁ ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ଲୋକମାନଙ୍କୁ ଏହା ଘୁଞ୍ଚାଈବାକୁ ମନା କରିବା ନିମନ୍ତେ ପଥରରେ ଏକ ମୁଦ୍ରାଙ୍କିତ କଲେ."
 
 **[[:or:obs:notes:frames:41-01|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-03|>>]]**
