@@ -1,17 +1,16 @@
-===== Who Is My Neighbor? [27-03] =====
+===== କିଏ ମୋର ପ୍ରତିବାସୀ ଅଟନ୍ତି ? [27-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
-But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
-===== Important Terms: =====
+କିନ୍ତୁ ବ୍ୟବସ୍ଥା ଶାସ୍ତ୍ରଜ୍ଞ ନିଜକୁ ଧାର୍ମିକ ପ୍ରମାଣିତ କରିବାକୁ ପଚାରିଲେ “ମୋ ପ୍ରତିବାସୀ କିଏ?”
 
-  * **[[:or:obe:kt:righteous]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଧାର୍ମିକ**, **ଧାର୍ମିକତା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:or:obs:notes:frames:27-01|[27-01]]]**.
-  * **Who is my neighbor?** - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
-
+  * ନିପୁଣ ବ୍ୟବସ୍ଥାଶାସ୍ତ୍ରଜ୍ଞ  - ତାହା ହେଉଛି, "ଯିହୁଦୀ ବ୍ୟବସ୍ଥାର ନିପୁଣ." ଆପଣ ଏହାକୁ **__[__ **__୨୭**-** ____୦୧**]**__ ରେ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ ।
+  * କିଏ ମୋର ପ୍ରତିବାସୀ**?**
+ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "'ପ୍ରତିବାସୀର ଅର୍ଥ ତୁମେ କଣ ବୁଝୁଛ?" କିମ୍ବା, "କେଉଁମାନେ  ମୋର ପ୍ରତିବାସୀ ଅଟନ୍ତି?" ସେ ଜାଣିଥିଲେ ଯେ ସେ ସମସ୍ତଙ୍କୁ ପ୍ରେମ କରନ୍ତି ନାହିଁ, ଏବଂ ପଚାରୁଥିଲେ କୌନ୍ ଲୋକମାନଙ୍କୁ ସେ ପ୍ରେମ କରିବା ଆବଶ୍ୟକ.
 
 **[[:or:obs:notes:frames:27-02|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-04|>>]]**
