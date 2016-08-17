@@ -1,17 +1,15 @@
-===== Stephen Was Stoned [45-04] =====
+===== ସ୍ତିଫାନଙ୍କୁ ପଥରାଘାତ ହେଲେ [45-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
-When the **religious leaders** heard this, they were so angry that they **covered their ears** and **yelled loudly**. They dragged Stephen out of the city and threw stones at him in order to kill him.
-===== Important Terms: =====
+ଯେତେବେଳେ ଧର୍ମପରାୟଣ ନେତାମାନେ ଏହା ଶୁଣିଲେ, ସେମାନେ ଅତି କ୍ରୋଧିତ ଥିଲେ ଯେ ସେମାନେ ସେମାନକର କନକୁ ରୁଦ୍ଧ କରି ଚିତ୍କାର କଲେ. ସେମାନେ ସ୍ତିଫାନଙ୍କୁ ନଗରର ବାହାରକୁ ଘୋଷରୀ ନେଲେ ପୁଣି ତାହାଙ୍କୁ ମରିବା ଉଦେଶ୍ୟରେ ପଥରେ ଫୋଫାଡିଲେ.
 
-  * **[[:or:obe:other:jewishleaders]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିହୁଦୀ****ନେତାମାନେ**, **ଯିହୁଦୀ****ଅଧିକାରୀମାନେ**, **ଧର୍ମପରାୟଣ****ନେତାମାନେ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **covered their ears** - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
-  * **yelled loudly** - They were yelling in anger. Translate this in a way that communicates that they were very upset.
-
+  * ସେମାନେ କାନ ବନ୍ଦ କଲେ  - ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ,"ସେମାନେ ସେମାନଙ୍କ କାନ ଉପରେ ସେମାନଙ୍କ ହାତ ରଖିଲେ". ଏହା ଦର୍ଶାଏ ଯେ ସ୍ତିଫାନ ଯାହା କହିଲେ ତାହା ସେମାନେ ଶୁଣିବାକୁ ଇଚ୍ଛା କଲେ ନାହିଁ
+  * ଚିତ୍କାର କଲେ - ସେମାନେ କ୍ରୋଧରେ ଚିତ୍କାର କରୁଥିଲେ. ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କର ଯେପରି ସେମାନେ  ଅସ୍ବସ୍ତ ଅଟନ୍ତି ପରି ବୁଝାଯାଇପାରିବ
 
 **[[:or:obs:notes:frames:45-03|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-05|>>]]**
