@@ -1,20 +1,18 @@
-===== We Will Meet Jesus in the Sky [50-12] =====
+===== ଆମ୍ଭେମାନେ ଯୀଶୁଙ୍କ ସହିତ ଭେଟ ହେବା [50-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink&}}
 
-Then the **Christians** who are **still alive** will rise up into the sky and join with the other Christians who **rose** from the **dead**. They will all be with **Jesus** there.
-===== Important Terms: =====
+ତା’ପରେ ଯେଉଁ ଖ୍ରୀଷ୍ଟିୟାନମାନେ ଜୀବିତ ଥିବେ ସେମାନେ ମୃତ୍ୟୁରୁ ଉତ୍ଥିତ ହେବେ ଏବଂ ଖ୍ରୀଷ୍ଟିୟାନମାନଙ୍କ ସହ ମିଳିତ ହୋଇ ଆକାଶ (ମଧ୍ୟ ଆକାଶ)କୁ ନୀତ ହେବେ । ସେମାନେ ସେଠାରେ ଯୀଶୁଙ୍କ ସହିତ ରହିବେ ।
 
-  * **[[:or:obe:kt:christian]]**
-  * **[[:or:obe:kt:life]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+  * **ଜୀବନ**, **ଜୀବିତ**, **ଜୀବନ୍ତ**, **ସଜୀବ**
+  * **ଉଠାଇବା**, **ଉଠିବା**, **ଉଠିଛନ୍ତି**, **ଉଠିବା**, **ଉଠିଲେ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ **
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **still alive** - That is, "still alive when Jesus returns."
-
+  * ଏ ପର୍ଯ୍ୟନ୍ତ ଜୀବିତ - ତାହା ହେଉଛି, "ଏ ପର୍ଯ୍ୟନ୍ତ ଜୀବିତ ଥିବେ ଯେତେବେଳେ ଯୀଶୁ ଫେରିବେ."
 
 **[[:or:obs:notes:frames:50-11|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-13|>>]]**
