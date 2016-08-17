@@ -1,21 +1,18 @@
-===== Jesus Is Risen [41-05] =====
+===== ଯୀଶୁ  ଉଠିଅଛନ୍ତି [41-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-===== Important Terms: =====
+ଯେତେବେଳେ ସ୍ତ୍ରୀଲୋକମାନେ ସମାଧିରେ ପହଞ୍ଚିଲେ, ଦୂତ ସେମାନଙ୍କୁ କହିଲେ “ଭୟ କରନାହିଁ । ଯୀଶୁ ଏଠାରେ ନାହାନ୍ତି । ସେ ଯେପରି କହିଥିଲେ, ସେହିପରି ମୃତ୍ୟୁରୁ ଉଠିଅଛନ୍ତି! ଆସ ଏବଂ ସମାଧିକୁ ଦେଖ ।” ସ୍ତ୍ରୀ ଲୋକମାନେ ସମାଧି ଭିତରକୁ ଯାଇ ଯୀଶୁଙ୍କ ଶରୀର ଯେଉଁ ସ୍ଥାନରେ ଥିଲା ତାହା ଦେଖିଲେ । ତାଙ୍କ ଶରୀର ସେଠାରେ ନ ଥିଲା!
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:other:tomb]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉଠାଇବା**, **ଉଠିବା**, **ଉଠିଛନ୍ତି**, **ଉଠିବା**, **ଉଠିଲେ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+  * **ସମାଧି****ସ୍ଥଳ**, **କବର**, **ସମାଧି****ସ୍ଥାନ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Do not be afraid** - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **He has risen from the dead** - This could be translated as, "He has come back to life."
-
+ଭୟ କର ନାହିଁ -  ଏହାର ଅର୍ଥ, " ଭୟ କରିବା ବନ୍ଦ କର "।  ଏକ ଦୂତର ଦୃଷ୍ଟି ବିଜୁଳି ପରି ଭୟଙ୍କକାର ଭାବରେ ଉଜ୍ଜଳିତ ହେଉଥିଲା ସେ ମୃତ୍ୟୁରୁ ଉଠିଅଛନ୍ତି - ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି ,ସେ ପୁଣି ଜୀବନକୁ ଫେରି ଆସିଲେ ."
 
 **[[:or:obs:notes:frames:41-04|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-06|>>]]**
