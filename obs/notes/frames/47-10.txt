@@ -1,18 +1,18 @@
-===== The Jailer [47-10] =====
+===== କାରରକ୍ଷକ [47-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
-===== Important Terms: =====
+କାରାରକ୍ଷକ ନିଦ୍ରାରୁ ଉଠିପଡିଲେ, ଏବଂ ଯେତେବେଳେ ସେ ଦେଖିଲେ ଯେ କାରାଗାରର ଦ୍ଵାର ସବୁ ଖୋଲା ହୋଇଅଛି, ସେ ଭୟଭୀତ ହୋଇଗଲେ । ସେ ଭାବିଲେ ଯେ ସମସ୍ତ ବନ୍ଦୀ ପଳାଇଯାଇଅଛନ୍ତି, ତେଣୁ ସେ ନିଜକୁ ନିଜେ ହତ୍ୟା କରିବା ନିମନ୍ତେ ଯୋଜନା କଲେ ।
 
-  * **[[:or:obe:other:rome]]**
-  * **[[:or:obe:other:paul]]**
+(ସେ ଜାଣିଥିଲେ ଯେ ଯଦି ସେ ବନ୍ଦୀମାନଙ୍କୁ ମୁକ୍ତ କରିଦେବେ ରୋମୀୟ କର୍ତ୍ତୃପକ୍ଷ ତାଙ୍କୁ ହତ୍ୟା କରିବେ ।) କିନ୍ତୁ ପାଉଲ ତାଙ୍କୁ ଦେଖି ଚିତ୍କାର କରି କହିଲେ, “ରୁହ! ନିଜକୁ ଆଘାତ କରନାହିଁ । ଆମ୍ବେମାନେ ସମସ୍ତେ ଏଠାରେ ଅଛୁ ।”
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
-===== Translation Notes: =====
+  * **ରୋମ**, **ରୋମୀୟ**
+  * **ପାଉଲ**, **ଶାଉଲ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
+  * କାରାଗାର ରକ୍ଷକ - ଏହାର ଅର୍ଥ,  "ଜେଲ୍ ର ଅଧିକାରୀ"
+  * ଆମ୍ବେମାନେ - କିଛି ଭାଷାରେ "ଆମ୍ଭେ " ଶବ୍ଦ ର ବିଶେଷ ଗଠନ ରହିଅଛି ଏହା ଯେଉଁ ବ୍ୟକ୍ତି କୁ କୁହାଗଲ ତାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ ନାହି ଏଠାରେ "ଆମେ"  କାରାଗାର ରକ୍ଷକଙ୍କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ ନାହିଁ, କେବଳ ପାଉଲ ଓ ଅବଶିଷ୍ଟାଂଶ ର କାରାଗାରକୁ .
 
 **[[:or:obs:notes:frames:47-09|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-11|>>]]**
