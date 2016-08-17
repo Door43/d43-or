@@ -1,21 +1,19 @@
-===== The Levite [27-07] =====
+===== ଲେବୀୟ [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
+“ତାହାର ଅଧିକ ସମୟ ପରେ ନୁହେଁ ଜଣେ ଲେବୀ ସେହି ରାସ୍ତା ଦେଇ  ଆସିଲେ । (ଲେବୀୟମାନେ ହେଉଛନ୍ତି ଯିହୂଦୀମାନଙ୍କ ଏକ ଜାତି ଯିଏ ଯାଜକମାନଙ୍କୁ ମନ୍ଦିରରେ ସାହାଯ୍ୟ କରୁଥିଲେ ।) ଲେବୀୟ ମଧ୍ୟ ସେହି ରାସ୍ତାର ଅପର ପାର୍ଶ୍ଵ ଦେଇ ଚାଲିଯାଇ ସେହି ଦରମରା ଅବସ୍ଥାରେ ପଡିଥିବା ଲୋକଙ୍କୁ ଉପେକ୍ଷା କଲେ ।”
 
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:kt:priest]]**
-  * **[[:or:obe:kt:temple]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀ**
+  * **ଯାଜକ**, **ଯାଜକୀୟ**
+  * **ମନ୍ଦିର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ରାସ୍ତାଆଡକୁ ଚାଲିଲେ - ତାହା ହେଉଛି, "ସେ ପଥ ଦେଇ ଯାତ୍ର କରୁଥିଲେ."
+  * ଲେବୀୟ ଥିଲେ ଯିହୁଦୀମାନଙ୍କର ଏକ ଗୋଷ୍ଠି - ତାହା ହେଉଛି, "ଲେବୀୟମାନେ ଇସ୍ରାଏଲର ଏକ ଗୋଷ୍ଠିରୁ ଆସିଅଛନ୍ତି." କିମ୍ବା "ଲେବୀୟମାନେ ଇସ୍ରାଏଲର ଲେବୀୟ ବଂଶରୁ ଆସିଅଛନ୍ତି
+  * ଉପେକ୍ଷା କଲା - ତାହା ହେଉଛି, "ସାହାଯ୍ୟ କଲା ନାହିଁ."
 
 **[[:or:obs:notes:frames:27-06|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-08|>>]]**
