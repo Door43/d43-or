@@ -1,22 +1,20 @@
-===== Do Not Test God [25-05] =====
+===== ପରମେଶ୍ଵରଙ୍କୁ ପରୀକ୍ଷା କର ନାହିଁ [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
-===== Important Terms: =====
+କିନ୍ତୁ ଯୀଶୁ ଶାସ୍ତ୍ରରୁ ଉଦ୍ଧୃତ କରି ଶୟତାନକୁ ଉତ୍ତର ଦେଲେ । ସେ କହିଲେ “ଈଶ୍ବରଙ୍କ ବାକ୍ୟରେ, ସେ ତାହାଙ୍କ ଲୋକମାନଙ୍କୁ ଆଦେଶ ଦିଅନ୍ତି ‘ତୁମ୍ଭେ ପ୍ରଭୁ ଆପଣା ଈଶ୍ବରଙ୍କୁ ପରୀକ୍ଷା କରିବ ନାହିଁ ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ବାକ୍ୟ**, **ସଦାପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ଶାସ୍ତ୍ର**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**,**ମାଲିକ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **In God's word, he commands his people, 'Do not test the Lord, your God.'"** - This could be translated as an indirect quote: "God commands us in his word that we should not test the Lord our God."
-  * **Do not test the Lord your God** - This could be translated as, "Do not make the Lord your God prove himself to you" or, "Do not make the Lord your God prove that he is good."
-  * **Lord your God** - That is, "Yahweh, your God" or, "Yahweh, who is God and has authority over you."
-
+  * ସେ କହିଲେ “ଈଶ୍ବରଙ୍କ ବାକ୍ୟରେ, ସେ ତାହାଙ୍କ ଲୋକମାନଙ୍କୁ ଆଦେଶ ଦିଅନ୍ତି ‘ତୁମ୍ଭେ ପ୍ରଭୁ ଆପଣା ଈଶ୍ବରଙ୍କୁ ପରୀକ୍ଷା କରିବ ନାହିଁ ।” - ଏହାକୁ ପ୍ରତ୍ୟକ୍ଷ ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରିବ. "ପରମେଶ୍ଵର ଆମ୍ଭକୁ ଆଜ୍ଞା ଦିଅନ୍ତି ଯେ ତାଙ୍କ ବାକ୍ୟ ଯେ ଆମେ ଆମ ପରମେଶ୍ଵରଙ୍କୁ ପରୀକ୍ଷା କରିବା ଉଚିତ୍ ନୁହେଁ."
+  * ତୁମମାନଙ୍କ ପରମେଶ୍ଵରଙ୍କ ପରୀକ୍ଷା କର ନାହିଁ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରିବ, "ପ୍ରଭୁ ତୁମ୍ଭ ପରମେଶ୍ବର ସ୍ବୟଂ ପ୍ରମାଣ କରାଇବାକୁ ଦିଅ ନାହିଁ" କିମ୍ବା, "ପ୍ରଭୁ ପରମେଶ୍ଵର ଯେ ଉତ୍ତମ ଅଟନ୍ତି ତାହା ପ୍ରମାଣ କରିବାକୁ ଚାହ ନାହିଁ."
+  * ପ୍ରଭୁ ତୁମମାନଙ୍କ ପରମେଶ୍ଵର -ତାହା ହେଉଛି, "ସଦାପ୍ରଭୁ, ତୁମମାନଙ୍କ ପରମେଶ୍ଵର" କିମ୍ବା, "ସଦାପ୍ରଭୁ, ଯିଏ ପରମେଶ୍ଵର ଅଟନ୍ତି ଓ ଯାହାର ତୁମ ଉପରେ ଅଧିକାର ଅଛି."
 
 **[[:or:obs:notes:frames:25-04|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-06|>>]]**
