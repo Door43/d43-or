@@ -1,18 +1,17 @@
-===== The People Were Angry [47-06] =====
+===== ଲୋକମାନେ କ୍ରୋଧିତ ଥିଲେ [47-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
-The men who owned the **slave girl** became very angry! They realized that **without the demon**, the slave girl could not tell people **the future**. **This meant that** people would no longer pay her owners money so that she would tell them what would happen to them.
-===== Important Terms: =====
+ଯେଉଁ ଲୋକ ସେହି ଦାସୀ ବାଳିକାକୁ ରଖି ବ୍ୟବହାର କରୁଥିଲା ସେ ଅତି କ୍ରୋଧ ହେଲା । ସେମାନେ ହୃଦୟଙ୍ଗମ କଲେ ଯେ ଭୂତ ବିହୂନେ ସେହି ଦାସୀ ବାଳିକା ଲୋକମାନଙ୍କର ଭବିଷ୍ୟତ କହିପାରିବ ନାହିଁ । ଏହାର ଅର୍ଥ ହେଉଛି ଲୋକମାନଙ୍କ ଭବିଷ୍ୟତ କହିବା ନିମନ୍ତେ ସେମାନେ ସେହି ଦାସୀ ବାଳିକାର ମାଲିକକୁ ଆଉ ଅର୍ଥ ଦେବେ ନାହିଁ ।
 
-  * **[[:or:obe:other:servant]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **without the demon** - That is, "without the power from the demon" or, "now that she did not have the demon."
-  * **the future** - That is, "what would happen to them in the future."
-  * **This meant that** - This could also be translated as, "Because of this" or, "Therefore."
-
+  * ଭୂତ ବିନା - ଯେ ଅଛନ୍ତି, "ଭୂତର ଶକ୍ତି ବିନା" କିମ୍ବା, "ବର୍ତ୍ତମାନ ତା ପାଖରେ ଭୁତ ନାହିଁ."
+  * ଭବିଷ୍ୟତ - ଏହା ହେଉଅଛି "ଭବିଷ୍ୟତରେ ସେମାନଙ୍କୁ କଣ ହୋଇଥାନ୍ତ"
+  * ଏହାର ଅର୍ଥ ହେଉଛି**
+ - ** ଏହା ଏହି ପରି ଭି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି ,"ଏହି କାରଣରୁ" କିମ୍ବା, "ସେଥିପାଇଁ"
 
 **[[:or:obs:notes:frames:47-05|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-07|>>]]**
