@@ -1,20 +1,18 @@
-===== Generous Help [27-10] =====
+===== ଉଦାରତାର ସାହାଯ୍ୟ [27-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
-“The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
-===== Important Terms: =====
+“ପରଦିନ, ସେହି ଶମିରୋଣୀୟ ବ୍ୟକ୍ତି ତାଙ୍କ ଯାତ୍ରାକୁ ଜାରି ରଖିବା ଆବଶ୍ୟକ ଥିଲା  । ସେ ପାନ୍ଥଶାଳାର ଦାୟିତ୍ବରେ ଥିବା ବ୍ୟକ୍ତିଙ୍କୁ କିଛି ଅର୍ଥ ଦେଇ କହିଲେ “ତାହାଙ୍କର ଯତ୍ନ ନିଅ ଏବଂ ତୁମେ ଯଦି ଏହାଠାରୁ ଅଧିକ ଖର୍ଚ୍ଚ କରିବ, ତେବେ ମୁଁ ବାହୁଡିବା ସମୟରେ ସେହି ଖର୍ଚ୍ଚଗୁଡିକ ପରିଶୋଧ କରିଦେବି ।”
 
-  * **[[:or:obe:other:samaria]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶମିରଣ**, **ଶମିରୋଣୀୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ତାଙ୍କ ଯାତ୍ରା ଜାରି ରଖିଲେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ତାହାଙ୍କ ଲକ୍ଷସ୍ଥଳକୁ ଯାତ୍ରା ଜାରି ରଖିଲେ."
+  * ଦାୟିତ୍ବରେ - ତାହା ହେଉଛି, "ଯିଏ ପରିଚାଳିତ କରୁଥିଲେ ." ଏହା ଏପରି ହୋଇପାରେ ଯେ ସେହି ନ୍ୟକ୍ତି ସେହି ପାନ୍ଥଶାଳାକୁ ମଧ୍ୟ କିଣିଥିଲା.
+  * ତାହାଙ୍କର ଯତ୍ନ ନେବା - କେତେକ ଭାଷାମାନଙ୍କ ନିମନ୍ତେ  ଏହା କହିବା ପାଇଁ ଗ୍ରହଣୀୟ ହୋଇପାରେ, "ଦୟାକରି ତାହାଙ୍କର ଯତ୍ନ ନିଅନ୍ତୁ" ସ୍ପଷ୍ଟ ଭାବରେ ଜଣାଇବା ପାଇଁ ଏହା ଏକ ଆଜ୍ଞା ନୁହେଁ ବରଂ ଶିଷ୍ଟ ଅନୁରୋଧ ଥିଲା .
+  * ସେ ଖର୍ଚଗୁଡିକୁ ପରିଶୋଧ କରିବା - ଏହାକୁ ଏପରି  ଅନୁବାଦ କରାଯାଇପାରେ, "ତୁମକୁ ପରିଶୋଧ କରିବି" କିମ୍ବା, "ସେହି ଅର୍ଥର ପରିଶୋଧ କରିବା" କିମ୍ବା, "ତାହାର ପରିଶୋଧ"
 
 **[[:or:obs:notes:frames:27-09|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-11|>>]]**
