@@ -1,24 +1,21 @@
-===== The Trip to Bethlehem [23-04] =====
+===== ବେଥଲିହିମକୁ ଯାତ୍ରା [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+ମରିୟମଙ୍କୁ ଜନ୍ମଦେବାର ସମୟ ଯେତେବେଳେ ନିକଟ ହେଲା, ରୋମୀୟ ସରକାର ସମସ୍ତଙ୍କୁ ନିଜ ନିଜ ପୈତୃକ ସ୍ଥାନକୁ ଯାଇ ଜନଗଣନାରେ ସାମିଲ ହେବାକୁ କହିଲେ ।  ଯୋଷେଫ ଓ ମରିୟମ ବାସ କରୁଥିବା ନାଜରିତରୁ ଦୂର ଯାତ୍ରା କରି ବେଥଲିହିମକୁ ଯିବାକୁ ପଡିଥିଲା କାରଣ ସେମାନଙ୍କର ପିତୃପୁରୁଷ ଦାଉଦଙ୍କ ନିଜ ସହର ବେଥଲିହିମ ଥିଲା ।
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:mary]]**
-  * **[[:or:obe:other:rome]]**
-  * **[[:or:obe:other:josephnt]]**
-  * **[[:or:obe:other:nazareth]]**
-  * **[[:or:obe:other:bethlehem]]**
-  * **[[:or:obe:other:david]]**
+  * **ମରିୟମ**, **ଯୀଶୁଙ୍କ****ମାତା**
+  * **ରୋମ**, **ରୋମୀୟ**
+  * **ଯୋଷେଫ** (**ନୁତନ****ନିୟମ**)
+  * **ନାଜରିତ****ନାଜରିତିୟ**
+  * **ବେଥଲିହିମ**, **ଇପଫ୍ରା଼ତ**
+  * **ଦାଉଦ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
-
+  * ଯେତେବେଳେ ମରିୟମଙ୍କୁ ଜନ୍ମ ଦେବାର ସମୟ ପାଖେଇ ଆସିଲା  - ତାହା ହେଉଛି, "ମରିୟମଙ୍କ ଗର୍ଭାବତିର ଅନ୍ତିମ ସମୟ ପାଖେଇ ଆସିଲା."
+  * ରୋମୀୟ ସରକାର - ଏହି ସମୟରେ ରୋମ୍ ଇସ୍ରାଏଲ୍ ଉପରେ ବିଜୟ ପାଇ ଶାସନ କରୁଥିଲେ .
+  * ଏକ ଜନଗଣନା ନିମନ୍ତେ  - ତାହା ହେଉଛି,"ସରକାରଙ୍କ ଲିପିବନ୍ଧ ପାଇଁ ଗଣିତ ହେବା" କିମ୍ବା "ଏକ ତାଲିକାରେ ସରକାର ସେମାନଙ୍କର ନାମ ଲେଖିବେ, " ସରକାର ଦ୍ବାରା ଗଣିତ ହେବେ" . ଏହି ଜନଗଣନା ହୁଏତ ସମସ୍ତ ଲୋକମାନଙ୍କୁ କର ଦେବାର ଉଦ୍ଦେଶ୍ୟ ଥିଲା.
 
 **[[:or:obs:notes:frames:23-03|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-05|>>]]**
