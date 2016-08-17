@@ -1,22 +1,21 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== ଶାଉଲ ଯିରୁଶଲେମ ଗଲେ [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
-===== Important Terms: =====
+ଶାଉଲ ଶିଷ୍ୟମାନଙ୍କ ସହ ସାକ୍ଷାତ କରିବାକୁ ଯିରୁଶଲେମ ଗଲେ, କିନ୍ତୁ ସେମାନେ ତାହାକୁ ଡରିଲେ. ତା'ପରେ ବର୍ଣ୍ଣବବା ନାମକ ଜଣେ ବିଶ୍ଵାସୀ ଶାଉଲଙ୍କୁ ପ୍ରେରିତମାନଙ୍କ ପାଖକୁ ନେଲେ ପୁଣି ଶାଉଲ ଦମ୍ମେସକରେ କିପରି ସାହାସରେ ପ୍ରଚାର କରିଥିଲେ ସେମାନଙ୍କୁ କହିଲେ. ତା'ପରେ ଶିଷ୍ୟମାନେ ଶାଉଲଙ୍କୁ ଗ୍ରହଣ କଲେ
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:other:barnabas]]**
-  * **[[:or:obe:kt:apostle]]**
-  * **[[:or:obe:other:preach]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଯିରୁଶାଲମ**
+  * **ଶିଷ୍ୟ**
+  * **ବିଶ୍ଵାସୀ**
+  * **ବର୍ଣ୍ଣବବା**
+  * **ପ୍ରେରିତ**, **ପ୍ରେରିତପଦ**
+  * **ପ୍ରଚାର****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
+  * ଶାଉଲଙ୍କୁ ଗ୍ରହଣ କଲେ**
+ -**  ଏହାର ଅର୍ଥ, " ଶାଉଲ ମଧ୍ୟ ଯୀଶୁଙ୍କର ଜଣେ ବିଶ୍ଵାସୀ ଥିଲେ ବୋଲି ବିଶ୍ଵାସ କଲେ"
 
 **[[:or:obs:notes:frames:46-07|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-09|>>]]**
