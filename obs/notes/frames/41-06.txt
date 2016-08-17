@@ -1,21 +1,19 @@
-===== Tell the Disciples [41-06] =====
+===== ଶିଷ୍ୟମନଙ୍କୁ କୁହ [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
-===== Important Terms: =====
+ତା’ପରେ ଦୂତ ସେହି ସ୍ତ୍ରୀ ଲୋକମାନଙ୍କୁ କହିଲେ “ଯାଇ ଶିଷ୍ୟମାନଙ୍କୁ କୁହ, ‘ଯୀଶୁ ଉଠିଅଛନ୍ତି ଓ ତୁମ୍ଭମାନଙ୍କ ଆଗେ ଆଗେ ଗାଲିଲୀକୁ ଯିବେ  ।”
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:other:galilee]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉଠାଇବା**, **ଉଠିବା**, **ଉଠିଛନ୍ତି**, **ଉଠିବା**, **ଉଠିଲେ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+  * **ଗାଲିଲୀ**, **ଗାଲିଲୀୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
-
+  * ସେ ତୁମ ଅଗେ ଅଗେ ଗଲିଲି କୁ ଯିବେ**
+ - ** ତାହା ହେଉଅଛି** ,"** ସେ ତୁମ୍ବମାନଙ୍କୁ ଗଲିଲିରେ ଦେଖା କରିବେ** " ** କିମ୍ବା ଯେତେବେଳେ ତୁମ୍ବେମାନେ ସେଠାରେ ପହଂଚିବ ସେ ସେଠାରେ ଥିବେ** ."** ତୁମ୍ଭେ** " ** ଏହା ଏଠାରେ ବହୁବଚନ**, ** ପ୍ରେରିତ ଓ ଅନ୍ୟ ଶିଷ୍ୟମାନଙ୍କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ** ."   **
 **[[:or:obs:notes:frames:41-05|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-07|>>]]**
