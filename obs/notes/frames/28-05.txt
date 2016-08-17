@@ -1,18 +1,14 @@
-===== Not Willing to Obey [28-05] =====
+===== ଆଜ୍ଞା ପାଳନ କରିବାକୁ ଇଛୁକ ନ ଥିଲେ [28-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
-When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+ଯୀଶୁ କହିଥିବା ବିଷୟକୁ ଯୁବକ ଯେତେବେଳେ ଶୁଣିଲେ ସେତେବେଳେ ସେ ଅତ୍ୟନ୍ତ ଦୁଃଖିତ ହେଲେ, କାରଣ ସେ ଅତି ଧନୀ ବ୍ୟକ୍ତି ଥିଲେ ଏବଂ ତାଙ୍କ ନିକଟରେ ଥିବା ସମସ୍ତ ପରିତ୍ୟାଗ କରିବାକୁ ଚାହିଁଲେ ନାହିଁ । ସେ ମୁଖ ଫେରାଇ ଯୀଶୁଙ୍କ ନିକଟରୁ ଚାଲିଗଲା ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Important Terms: =====
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **heard what Jesus said** - That is, "heard Jesus tell him to give away what he owned."
-
+  * ଶୁଣିଲେ ଯାହା ଯୀଶୁ କହିଲେ - ତାହା ହେଉଛି, "ଯୀଶୁ ତାହାକୁ ନିଜସ୍ବ କରିଥିବା ସମସ୍ତ ଧନକୁ ପରିତ୍ୟାଗ କରିବା ବିଷୟରେ ଶୁଣିବାକୁ ପାଇଲେ"
 
 **[[:or:obs:notes:frames:28-04|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-06|>>]]**
