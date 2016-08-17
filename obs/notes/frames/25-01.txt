@@ -1,25 +1,23 @@
-===== Satan Tempted Jesus [25-01] =====
+===== ଶୟତାନ ଯୀଶୁଙ୍କୁ ପରୀକ୍ଷା କଲା [25-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
-===== Important Terms: =====
+ଯୀଶୁ ବାପ୍ତିଜିତ ହେବାର ତତ୍ କ୍ଷଣାତ୍ ପବିତ୍ରଆତ୍ମା ତାଙ୍କୁ ପ୍ରାନ୍ତରକୁ ଚାଳିତ କଲେ, ଯେଉଁଠି ସେ ଚାଳିଶ ଦିନ ଓ ଚାଳିଶ ରାତ୍ରି ପାଇଁ ଉପବାସ କରୁଥିଲେ । ଶୟତାନ ଯୀଶୁଙ୍କ ନିକଟକୁ ଆସିଲା ଏବଂ ତାଙ୍କୁ ପାପ କରିବା ନିମନ୍ତେ ପ୍ରଲୋଭିତ କଲା ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:other:fast]]**
-  * **[[:or:obe:kt:satan]]**
-  * **[[:or:obe:kt:tempt]]**
-  * **[[:or:obe:kt:sin]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବାପ୍ତିସ୍ମ****ଦେବା**, **ବାପ୍ତିସ୍ମ**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଉପବାସ**
+  * **ଶୟତାନ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
+  * **ପରୀକ୍ଷା****କରିବା**, **ପରୀକ୍ଷା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the Holy Spirit led him** - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
-  * **the wilderness** - This could also be translated as, "the desert" or, "a remote, barren place with few people." This place probably had very few trees or other plants, so most people would not be able to live there.
-  * **forty days and forty nights** - This means "forty days, both during the day and during the night." Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, "tried to convince him to sin."
-
+  * ପବିତ୍ର ଆତ୍ମା ତାହାକୁ କଢାଇଲେ -ତାହା ହେଉଛି , "ପବିତ୍ର ଆତ୍ମା ତାହାକୁ କଢାଉଥିଲେ" କିମ୍ବା, "ପବିତ୍ର ଆତ୍ମା ତାହାଙ୍କୁ ପ୍ରେରଣ କରୁଥିଲେ"
+  * ମରୁଭୁମି - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ମରୁଭୂମି" କିମ୍ବା, "ଅଳ୍ପ ଲୋକମାନଙ୍କ ସହିତ ଏକ ଅନ୍ତରସ୍ଥ, ଉତ୍ପାଦ ବିହୀନ ସ୍ଥାନ ଅଟେ ." ଏହା ସ୍ଥାନରେ ଅତି ଅଳ୍ପ ବୃକ୍ଷ୍ୟଗୁଡିକ କିମ୍ବା ଅନ୍ୟ ଉଦ୍ଭିଦଗୁଡିକ ଥିଲା ଅନ୍ୟ ବୁଣିବା, ତେଣୁ ଅଧିକାଂଶ ଲୋକମାନେ ସେହିସ୍ଥାନରେ ରହି ପାରୁ ନ ଥିଲେ.
+  * ଚାଳିଶ ଦିନ ଓ ଚାଳିଶ ରାତ୍ରି - ଏହାର ଅର୍ଥ "ଚାଳିଶ ଦିନରେ, ଉଭୟ ଦିନରେ ଓ ରାତ୍ରି ସମୟରେ." ନିଶ୍ଚିତ ହୁଅନ୍ତୁ ଯେ ଏହି ବାକ୍ୟର ଅନୁବାଦର ଅର୍ଥ ନୁହେଁ ଯେ ସମ୍ପୁର୍ଣ ଅଶୀ ଦିନ .
+  * ପାପ କରିବାକୁ ପ୍ରଲୋଭିତ କଲା - ଯେହେତୁ ଯୀଶୁ ପାପ କରି ନ ଥିଲେ,  ନିଶ୍ଚିତ କରନ୍ତୁ ଆପଣ ଯେଉଁ ଶବ୍ଦ ବ୍ୟବହାର କରନ୍ତି, ତାହା ଏପରି ପ୍ରୟୋଗ ହେବା ଉଚିତ୍ ନୁହେଁ ଯେ ଶୟତାନ ଯୀଶୁଙ୍କୁ ପାପ କରିବାକୁ . ଏହା ବାକ୍ୟାଂଶକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ , "ତାଙ୍କୁ ପାପ କରାଇବାକୁ ଚେଷ୍ଟା କରିହିଲେ ."
 
 **[[:or:obs:notes:frames:24-09|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-02|>>]]**
