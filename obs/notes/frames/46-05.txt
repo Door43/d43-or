@@ -1,21 +1,19 @@
-===== Ananias Baptized Saul [46-05] =====
+===== ହନନିୟ ଶାଉଲଙ୍କୁ ବାପ୍ତିସ୍ମ ଦେଲେ [46-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
-So Ananias went to **Saul**, placed his hands on him, and said, “**Jesus**, who appeared to you on your way **here**, sent me to you so that you can **regain your sight** and be filled with the **Holy Spirit**.” Saul immediately was able to see again, and Ananias **baptized** him. Then Saul ate some food and **his strength returned**.
-===== Important Terms: =====
+ଏହିପରି ହନନିୟ ଶାଉଲଙ୍କ ପାଖକୁ ଗଲେ, ତାହାଙ୍କ ହସ୍ଥ ଉପରେ ରଖିଲେ, ଏବଂ କହିଲେ **"** ଯୀଶୁ**, ** ଯିଏ ଆପଣଙ୍କୁ ଆପଣଙ୍କ ରାସ୍ତାରେ ଦେଖାଦେଲେ ସେ ମୋତେ ଆପଣଙ୍କ ପାଖକୁ ପଠାଇଅଛନ୍ତି ଯଦ୍ଵାରା ଆପଣ ଆପଣଙ୍କ ଦୃଷ୍ଟିକୁ ପୁଣି ପାଇଁବେ ଏବଂ ପବିତ୍ରା ଆତ୍ମା ସହ ପରିପୁର୍ଣ୍ଣ ହେବେ". ସେହି ମୁହୁର୍ତ୍ତରେ ସେ ପୁନର୍ବାର୍ ଦେଖିବାକୁ ସକ୍ଷମ ହେଲେ, ଏବଂ ହନନିୟ ତାହାଙ୍କୁ ବାପ୍ତିସ୍ମ ଦେଲେ. ତା'ପରେ ଶାଉଲ ଅଳ୍ପ ଖାଦ୍ୟା ଖାଇଲେ ପୁଣି ତାହାରି ଶକ୍ତି ଫେରି ଅସିଲା
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:baptize]]**
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ପରମେଶ୍ଵରଙ୍କ****ଆତ୍ମା**, **ପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ବାପ୍ତିସ୍ମ****କରିବା**, **ବାପ୍ତିସ୍ମ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **here** - That is, "to Damascus."
-  * **regain your sight** - This could also be translated as, "be able to see again."
-  * **his strength returned** - This could also be translated as, "he became strong again" or, "he felt better."
-
+  * ଏଠାରେ - ଏହାର ଅର୍ଥ "ଦମସେକ" ଅଟେ
+  * ଆପଣାର ଦୃଷ୍ଟି ପୁନଃଲାଭ କରିବା - ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପରେ ଯେମିତି, "ପୁନର୍ବାର ଦେଖିବାରେ ସକ୍ଷମ ହେଲେ"
+  * ତାହର ଶକ୍ତି ଫେରିଆସିଲା**
+ -**  ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପରେ ଯେମିତି, "ସେ ପୁନର୍ବାର୍ ଶକ୍ତିଶାଳୀ ହେଲେ" କିମ୍ବା, "ସେ ଉତ୍ତମ ଅନୁଭବ କଲେ"
 
 **[[:or:obs:notes:frames:46-04|<<]] | [[:or:obs:notes:46|Up]] | [[:or:obs:notes:frames:46-06|>>]]**
