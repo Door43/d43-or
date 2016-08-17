@@ -1,19 +1,17 @@
-===== Not the Messiah [24-05] =====
+===== ଖ୍ରୀଷ୍ଟ ନୁହନ୍ତି [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
+କିଛି ଯିହୂଦୀ ଯୋହନଙ୍କୁ ମଶୀହ ଅଟନ୍ତି  କି ବୋଲି ପଚାରିଲେ । ଯୋହନ ଉତ୍ତର ଦେଲେ “ମୁଁ ମଶୀହ ନୁହେଁ, କିନ୍ତୁ ମୋ ଉତ୍ତାରେ ଜଣେ ଆସୁଅଛନ୍ତି । ସେ ଏତେ ମହାନ୍ ଯେ ତାହାଙ୍କ ପାଦୁକାର ବନ୍ଧନ ଫିଟାଇବାକୁ ମୁଁ ଯୋଗ୍ୟ ନୁହେଁ ।”
 
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:kt:christ]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀ**
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ଖ୍ରୀଷ୍ଟ**  , **ମଶୀହ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
+  * ସେ ଅତି ମହାନ ଅଟନ୍ତି - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ସେ ଅତି ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଅଟନ୍ତି."
+  * ପାଦୁକା ଫିଟାଇବା ପାଇଁ ମଧ୍ୟ ଯୋଗ୍ୟ ନୁହନ୍ତି - ଅନ୍ୟ ଅର୍ଥରେ, "ତାହାଙ୍କ ତୁଳନାରେ  ମୁଁ ତାଙ୍କ ପାଇଁ ଏକ ସାଧାରଣ କାମ କରିବାକୁ ମଧ୍ୟ ଯୋଗ୍ୟ ନୁହେଁ ." ପାଦୁକାର ବନ୍ଧନକୁ  ଫିଟାଇବା ଏକ ନ୍ୟୁନ ଧରଣର କାମ ଥିଲା ଯାହା ଚାକରମାନେ କରିଥାନ୍ତି  .
 
 **[[:or:obs:notes:frames:24-04|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-06|>>]]**
