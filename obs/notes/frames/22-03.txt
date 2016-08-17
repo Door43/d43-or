@@ -1,20 +1,17 @@
-===== Unable to Speak [22-03] =====
+===== କହିବା ପାଇଁ ଅକ୍ଷମ [22-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
+ଦୂତ ଯିଖରିୟଙ୍କୁ ଉତ୍ତର ଦେଲେ “ଏହି ଶୁଭସମ୍ବାଦ ତୁମକୁ ଦେବା ନିମନ୍ତେ ମୋତେ ଈଶ୍ବର ପଠାଇ ଅଛନ୍ତି । ଯେହେତୁ ତୁମେ ମୋ ଠାରେ ବିଶ୍ବାସ କଲ ନାହିଁ ତେଣୁ ସନ୍ତାନ ଜନ୍ମ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ ତୁମେ କଥା କହିବାକୁ ଅକ୍ଷମ ହେବ ।” ତତକ୍ଷଣାତ୍  ଯିଖରିୟ କଥା କହିବାକୁ ଅକ୍ଷମ ହେଲେ । ତା’ପରେ ସେହି ଦୂତ ତାଙ୍କୁ ଛାଡି ଚାଲିଗଲେ । ଏହାପରେ, ଯିଖରିୟ ଗୃହକୁ ଫେରିଗଲେ ଏବଂ ତାଙ୍କ ସ୍ତ୍ରୀ ଗର୍ଭବତୀ ହେଲେ ।
 
-The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
-===== Important Terms: =====
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:other:zechariahnt]]**
+  * **ଦୁତ**, **ପ୍ରଧାନ****ଦୁତ**
+  * **ପରମେଶ୍ଵର**
+  * **ବିଶ୍ବାସ**, **ଠାରେ****ବିଶ୍ବାସ**,**ବିଶ୍ବାସ**
+  * **ଯିଖରିୟ**  (**ନୁତନ****ନିୟମ**)
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **became pregnant** - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
-
+  * ଗର୍ଭବତୀ ହେଲେ - କିଛି ଭାଷାଗୁଡିକ ସ୍ପଷ୍ଟଭାବରେ ଏପରି କହିଥାନ୍ତି "ହେବା ପାଇଁ ଗର୍ଭବତୀ." ଏପରି ଏକ ପ୍ରକାଶନ ବ୍ୟବହାର କର ଯାହା ପାଠକମାନେ ଅଧ୍ୟୟନ କରିବାକୁ ହତସ୍ତତ ନ ହୁଅନ୍ତି .
 
 **[[:or:obs:notes:frames:22-02|<<]] | [[:or:obs:notes:22|Up]] | [[:or:obs:notes:frames:22-04|>>]]**
