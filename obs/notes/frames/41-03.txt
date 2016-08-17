@@ -1,21 +1,18 @@
-===== The Women [41-03] =====
+===== ସ୍ତ୍ରୀମାନଙ୍କୁ [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
-===== Important Terms: =====
+ଯୀଶୁଙ୍କ ସମାଧିର ପରବର୍ତ୍ତୀ ଦିନ ଏକ ବିଶ୍ରାମବାର ଥିଲା, ପୁଣି  ଯିହୂଦୀମାନଙ୍କୁ ସେହି ଦିନ ସମାଧିକୁ ଯିବାର ଅନୁମତି ନ ଥିଲା ବିଶ୍ରାମବାରର ପରଦିନ ପ୍ରଭାତରେ ଅନେକେ ସ୍ତ୍ରୀଲୋକମାନେ ଯୀଶୁଙ୍କ ସମାଧିକୁ ଯାଇ କିଛି ସୁଗନ୍ଧି ଦ୍ରବ୍ୟ ତାହାର ଶରୀର ଉପରେ ଢାଳିବାକୁ ପ୍ରସ୍ତୁତ ହେଲେ.
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sabbath]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:tomb]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବିଶ୍ରାମବାର**
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀମାନେ**
+  * **ସମାଧି****ସ୍ଥଳ**, **କବର**, **ସମାଧି****ସ୍ଥାନ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **the Jews were not permitted** - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-
+  * ଯିହୂଦୀମାନଙ୍କୁ ଅନୁମତି ନ ଥିଲା - ବିଶ୍ରାମ ଦିନର ନିୟମ ଯିହୁଦୀମାନଙ୍କୁ ଅଧିକ ଦୂର ଯାତ୍ରା କରିବା ପାଇଁ ଏବଂ କାମ କରିବାକୁ ଅନୁମତି ଦେଉ ନ ଥିଲେ
+  * ସମାଧି ସୁଗନ୍ଧି ଦ୍ରବ୍ୟ - ଏହା ଏକ ମିଠ ସୁଗନ୍ଧିତ ଦ୍ରବ୍ୟକୁ ସୁଚିତ କରେ ଯାହା ମୃତ ଶରିଅର ଦୁର୍ଗନ୍ଧକୁ ଦୂର କରିବାକୁ ବ୍ୟବହାର କରାଯାଏ. ଏହାକୁ ଏପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ  "ମିଠ ସୁଗନ୍ଧିତ ଦ୍ରବ୍ୟ." କିମ୍ବା ମିଠ ସୁଗନ୍ଧିତ ତେଲ" କିମ୍ବା "ମିଠା ସୁଗନ୍ଧିତ ଉଦ୍ଭିଦ"
 
 **[[:or:obs:notes:frames:41-02|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-04|>>]]**
