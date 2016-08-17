@@ -1,19 +1,16 @@
-===== Jesus Walked with the Disciples [42-02] =====
+===== ଯୀଶୁ ଶିଷ୍ୟମାନଙ୍କ ସହ ଚାଲିଲେ [42-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink&}}
 
-**Jesus** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **Jerusalem**.
-===== Important Terms: =====
+ଯୀଶୁ ସେମାନଙ୍କର ନିକଟବର୍ତ୍ତୀ ହେଲେ ଏବଂ ସେମାନଙ୍କ ସହ ଚାଲିବାକୁ ଲାଗିଲେ, କିନ୍ତୁ ସେମାନେ ତାଙ୍କୁ ଚିହ୍ନିଲେ ନାହିଁ । ସେମାନେ କେଉଁ ବିଷୟରେ କଥାବାର୍ତ୍ତା କରୁଥିଲେ ବୋଲି ସେ ସେମାନଙ୍କୁ ପଚାରିଲେ, ଏବଂ କିଛି  ଦିନ ପୂର୍ବରୁ ଯୀଶୁଙ୍କ ସହିତ ମୁଖ୍ୟ ଯାହା ସବୁ ଘଟିଥିଲା ତାହା ସେମାନେ ତାହାଙ୍କୁ କହିଲେ । ସେମାନେ ଭାବିଲେ ଯେ ସେମାନେ ଜଣେ ନୂଆ ଲୋକଙ୍କ ସହ କଥାବାର୍ତ୍ତା କରୁଅଛନ୍ତି ଯିଏକି ଯିରୁଶାଲମରେ ଘଟିଯାଇଥିବା ବିଷୟଗୁଡିକୁ ଜାଣିନଥିବେ  ।
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:jerusalem]]**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଯିରୁଶାଲମ**.
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
+  * ତାହାଙ୍କୁ ଚିହ୍ନି ପାରିଲେ ନାହି - ତାହା ହେଉଅଛି ,"ସେ ଯୀଶୁ ଥିଲେ ବଲି ଜାଣି ପାରିଲେ ନାହି ."
+  * ସମସ୍ତ ମୁଖ୍ୟ ବିଷୟଗୁଡିକ ଯାହା ଘଟିଥିଲା  - ଏହା ଯିଶୁଙ୍କର ଶିକ୍ଷା ଓ ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ, ତାଙ୍କ ମୃତ୍ୟୁ,ଏବଂ ତାଙ୍କ ପୁନରୁତ୍ଥାନ କୁ ସୁଚାଏ .
 
 **[[:or:obs:notes:frames:42-01|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:42-03|>>]]**
