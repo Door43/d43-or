@@ -1,22 +1,20 @@
-===== Letters to the Churches [47-14] =====
+===== ମଣ୍ଡଳୀଙ୍କୁ ପତ୍ରଗୁଡିକ [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
-===== Important Terms: =====
+ପାଉଲ ଓ ଅନ୍ୟ ଖ୍ରୀଷ୍ଟିୟ ନେତାମାନେ ଯୀଶୁଙ୍କ ଶୁଭସମ୍ବାଦ ପ୍ରଚାର କରି ପୁଣି ଲୋକମାନଙ୍କୁ ଶିକ୍ଷା ଦେଇ ଅନେକ ନଗର ଭ୍ରମଣ କଲେ । ସେମାନେ ମଧ୍ୟ ମଣ୍ଡଳୀଗୁଡିକରେ ଥିବା ବିଶ୍ବାସୀମାନଙ୍କୁ ଉତ୍ସାହିତ ଓ ଶିକ୍ଷା ଦେବା ନିମନ୍ତେ ଅନେକ ପତ୍ର ଲେଖିଲେ । ଏହି ପତ୍ରଗୁଡିକ ମଧ୍ୟରୁ କିଛି ବାଇବଲରେ ପୁସ୍ତକ ଭାବରେ ସ୍ଥାନ ପାଇଲା ।
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:kt:christian]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:goodnews]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:kt:church]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+  * **ପ୍ରଚାର****କରିବା**
+  * **ଶୁଭ****ସମ୍ବାଦ**, **ସୁସମାଚାର**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବିଶ୍ଵାସୀ**
+  * **ମଣ୍ଡଳୀ**, **ମଣ୍ଡଳୀ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:47-13|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:48-01|>>]]**
