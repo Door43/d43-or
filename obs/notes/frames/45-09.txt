@@ -1,16 +1,13 @@
-===== Philip Met the Ethiopian [45-09] =====
+===== ଫିଲିପ୍ କୁଶୀୟଙ୍କୁ ସାକ୍ଷାତ କଲେ [45-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
-===== Important Terms: =====
+ଫିଲିପ୍ କୁଶୀୟଙ୍କୁ ପଚାରିଲେ, "ଆପଣ ଯାହା ପଢ଼ୁଛନ୍ତି ତାହା ଆପଣ କ'ଣ ବୁଝିପାରୁଛନ୍ତି ?" କୁଶୀୟ ଉତ୍ତର ଦେଲେ, "ଯେ ପର୍ଯ୍ୟନ୍ତ ଜଣେ ଏହାକୁ ମୋତେ ବୁଝାନ୍ତି ନାହି ମୁ ଏହାକୁ ବୁଝି ପାରିବି ନାହିଁ. ଦୟାକରି ଆସନ୍ତୁ ପୁଣି ମୋ ପାଖରେ ବସନ୍ତୁ. ଯିଶାଇୟ ନିଜ ବିଷୟରେ ଲେଖିଛନ୍ତି ବା ଅନ୍ୟ ଜଣଙ୍କ ବିଷୟରେ ?
 
-  * **[[:or:obe:other:isaiah]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯିଶାଇୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Was Isaiah writing about** - This can also be translated as, "Was Isaiah referring to."
-
-
+  * **ଯିଶାଇୟ****ବିଷୟରେ****ଲେଖୁଥିଲେ**  - **ଏହାକୁ****ଏହାପରି****ଅନୁବାଦ****କରାଯାଇପାରେ****ଯେପରି**, "**ଯିଶାଇୟ****ଦର୍ଶାଉଥିଲେ**"
 **[[:or:obs:notes:frames:45-08|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-10|>>]]**
