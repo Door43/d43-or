@@ -1,19 +1,17 @@
-===== The Weeds [50-06] =====
+===== ବାଳୁଙ୍ଗାଗୁଡିକ [50-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
-===== Important Terms: =====
+“ଯେତେବେଳେ ମଞ୍ଜି ଗଜା ହେଲା, ସେହି ଲୋକର ଦାସମାନେ ଆସି କହିଲେ ‘ସାଆନ୍ତେ, ଆପଣ ସେହି କ୍ଷେତରେ ଉତ୍ତମ ବିହନ ବୁଣିଥିଲେ । ତେବେ ସେଠାରେ କାହିଁକି ବାଳୁଙ୍ଗା ଦେଖାଦେଇଛି?” ‘ସାଆନ୍ତେ ଉତ୍ତର ଦେଲେ, ‘ଜଣେ ଶତ୍ରୁ ତାହା କରିଅଛି ।”
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:good]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ସେବକ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+  * **ଉତ୍ତମ**, **ଉତ୍ତମତା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ଏକ ଶତ୍ରୁ ତାହା କରିଅଛି - ଯଦି ସମ୍ଭବ, ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କର ଯେପରି ତାହା ସୁଚାଉଥିବ ଯେ ବକ୍ତା ଯେପରିଏହି ଘଟଣାକୁ ଦେଖି ନାହିଁ
 
 **[[:or:obs:notes:frames:50-05|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-07|>>]]**
