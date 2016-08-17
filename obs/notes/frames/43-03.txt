@@ -1,20 +1,21 @@
-===== Speaking Other Languages [43-03] =====
+===== ଅନ୍ୟାନ୍ୟ ଭାଷାରେ କଥା ହେବା [43-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
+ବିଶ୍ବାସୀମାନେ ଯେତେବେଳେ ଏକାଠି ଥିଲେ, ହଠାତ୍ ଗୃହରେ ପ୍ରଚଣ୍ଡ ପବନର ଶବ୍ଦ ପରି ଏକ ଶବ୍ଦ ସେହି ଗୃହକୁ ପରିପୂର୍ଣ୍ଣ କଲା ।
 
-While the **believers** were all together, suddenly the house where they were was filled with **a sound like a strong wind**. Then something that looked like flames of fire appeared over the heads of all the believers. They were all **filled with the Holy Spirit** and they began to speak **in other languages**.
-===== Important Terms: =====
+ତା’ପରେ ଅଗ୍ନି ସଦୃଶ ଜିହ୍ବାଗୁଡିକ ସମସ୍ତ ବିଶ୍ବାସୀଙ୍କ ମସ୍ତକ ଉପରେ ଦେଖାଦେଲା ।
 
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:kt:holyspirit]]**
+ସେମାନେ ସମସ୍ତେ ପବିତ୍ରଆତ୍ମାରେ ପରିପୂର୍ଣ୍ଣ ହେଲେ ଏବଂ ଅନ୍ୟାନ୍ୟ ଭାଷାରେ କଥା କହିବାକୁ ଲାଗିଲେ।
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+  * **ବିଶ୍ବାସୀ**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **a sound like a strong wind** - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
-  * **filled with the Holy Spirit** - That is, "given ability by the Holy Spirit" or, "given power by the Holy Spirit."
-  * **in other languages** - This could be translated as, "in languages other than their own language" or, "in foreign languages" or, "as people from other places speak." The believers did not know these languages until the Holy Spirit gave them the power to speak them. Make sure the word used to translate "languages" refers to languages people actually speak and understand.
-
+  * ପ୍ରଚଣ୍ଡ  ପବନ ପରି ଏକ ଶବ୍ଦ - ତାହା ହେଉଛି, "ଏକ ଶବ୍ଦ ଯାହା ଏକ ପ୍ରବଳ ପବନ କରିଥାଏ." କିମ୍ବା "ଯେତେବେ ପ୍ରଚଣ୍ଡ ପବନ ବହିବା ସମୟରେ ଯେଉଁ ଶବ୍ଦ ହୋଇଥାଏ"
+  * ପବିତ୍ର ଆତ୍ମାରେ ପରିପୁର୍ଣ - ତାହା ହେଉଛି, "ପବିତ୍ର ଆତ୍ମାଙ୍କ ଦ୍ବାରା ଦକ୍ଷତା ଦିଆଯାଇଅଛି" କିମ୍ବା, " ପବିତ୍ର ଆତ୍ମାଙ୍କ ଦ୍ବାରା ଶକ୍ତି ଦିଆଯାଇଅଛି."
+  * ଅନ୍ୟ ଭାଷାରେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ସେମାନଙ୍କ ନିଜ ଭାଷା ଅପେକ୍ଷା ଅନ୍ୟାନ୍ୟ ଭାଷାରେ" କିମ୍ବା "ବିଦେଶୀ ଭାଷାଗୁଡିକରେ" କିମ୍ବା "ଯେପରି ଅନ୍ୟ ସ୍ଥାନରୁ ଲୋକମାନେ କଥା ହୁଅନ୍ତି". ବିଶ୍ବାସୀମାନେ ଏହି ଭାଷାଗୁଡିକ ଜାଣି ନ ଥିଲେ ଯେତେବେଳ ପର୍ଯ୍ୟନ୍ତ ପବିତ୍ର ଆତ୍ମା ସେମାନଙ୍କୁ ଅନ୍ୟ ମାନଙ୍କୁ କଥା କହିବାରେ ଶକ୍ତିଯୁକ୍ତ କଲେ ନାହିଁ". ସୁନିଶ୍ଚିତ କରନ୍ତୁଯେଉଁ ବାକ୍ୟ ବ୍ୟବହାର କରାଯାଇଅଛି, ଯେଉଁ ଭାଷାକୁ ଲୋକମାନେ ପ୍ରକୃତରେ କୁହନ୍ତି ଏବଂ ବୁଝନ୍ତି
 
 **[[:or:obs:notes:frames:43-02|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-04|>>]]**
