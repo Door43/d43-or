@@ -1,18 +1,16 @@
-===== The Joyful News [41-07] =====
+===== ଆନନ୍ଦପୁର୍ଣ ସମ୍ବାଦ [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
-===== Important Terms: =====
+ସ୍ତ୍ରୀମାନେ  ଅତ୍ୟନ୍ତ ଭୟ ଓ ମହା ଆନନ୍ଦରେ ଥିଲେ . ସେମାନେ ଶିଷ୍ୟମନଙ୍କୁ ସୁସମାଚାର କହିବାକୁ ଦୌଡିଗଲେ
 
-  * **[[:or:obe:kt:joy]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଆନନ୍ଦ**, **ଆନନ୍ଦପୁର୍ଣ**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **full of fear and great joy** - That is, "experiencing emotions of fear and also great joy."
-  * **good news** - This can also be translated as, "the good news that Jesus was alive again." This good news refers to the fact that Jesus had risen from the dead.
-
+  * ଅତ୍ୟନ୍ତ ଭୟଭୀତ ଏବଂ  ଅତିଶୟ ଆନନ୍ଦିତ - ଏହାହେଉଅଛି ଭୟଭୀତ ଆବେଗ ଏବଂ ଅତିଶୟ ଅନାନ୍ଦର ଅନୁଭୁତି  ।
+  * ସୁସମାଚାର - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ,"ସୁସମାଚାର ଯାହା ଯୀଶୁ ପୁଣିଥରେ ଜୀବିତ ହେଲେ ," ଯୀଶୁ ମୃତ୍ୟୁରୁ ଉଠା ଯାଇଥିବା ସତ୍ୟତାକୁ ସୁସମାଚାର ସୁଚାଏ.
 
 **[[:or:obs:notes:frames:41-06|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:41-08|>>]]**
