@@ -1,26 +1,21 @@
-===== The Wise Men Visited Jesus [23-09] =====
+===== ପଣ୍ଡିତମାନେ ଯୀଶୁଙ୍କୁ ଭ୍ରମଣ କଲେ [23-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
+କିଛି ସମୟ ପରେ, ପୂର୍ବ ଦେଶରୁ ଆସିଥିବା ପଣ୍ଡିତଗଣ ଆକାଶରେ ଏକ ଅସ୍ବାଭାବିକ ତାରା ଦେଖିଲେ । ସେମାନେ ହୃଦୟଙ୍ଗମ କଲେ ଯେ ଯିହୂଦୀମାନଙ୍କର ନୂତନ ରାଜା ଜନ୍ମ ହେବା ବିଷୟରେ ଏହା ବୁଝାଉଥିଲା । ତେଣୁ, ସେମାନେ ଏହି ରାଜାଙ୍କୁ ଦେଖିବା ନିମନ୍ତେ ଦୂର ସ୍ଥାନରୁ ଯାତ୍ରା କରି ଆସିଲେ । ସେମାନେ ବେଥଲିହିମକୁ ଆସିଲେ ଏବଂ ଯୀଶୁ ଓ ତାହାଙ୍କ ପିତାମାତା ଯେଉଁ ଗୃହରେ ରହୁଥିଲେ ସେହି ଗୃହକୁ ପାଇଲେ ।
 
-**Sometime later**, **wise men** from countries far to the east saw an **unusual star** in the sky. T**hey realized** it meant a new **king of the Jews** had been born. So, they traveled a great distance to see this king. They came to **Bethlehem** and found **the house** where **Jesus** and his parents were staying.
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପଣ୍ଡିତ**, **ଜ୍ଞାନ**
+  * **ଯିହୂଦୀମାନଙ୍କର****ରାଜା**
+  * **ବେଥଲିହିମ**, **ଇପଫ୍ରା଼ତ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Important Terms: =====
-
-  * **[[:or:obe:kt:wise]]**
-  * **[[:or:obe:kt:kingofthejews]]**
-  * **[[:or:obe:other:bethlehem]]**
-  * **[[:or:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
+  * କିଛି ସମୟ ପରେ - ଏହା ସ୍ପଷ୍ଟ ନୁହେଁ ଯେ ଯୀଶୁଙ୍କ ଜନ୍ମର କେତେ ସମୟ ପରେ ଜ୍ଞାନୀପୁରୁଷମାନେ ତାରାକୁ ଦେଖିଲେ , କିନ୍ତୁ ସେମାନଙ୍କୁ ଯାତ୍ରା ପ୍ରସ୍ତୁତ କରିବା ନିମନ୍ତେ ଏବଂ ବେଥାଲିହମକୁ ଯାତ୍ରା କରିବା ପାଇଁ ପ୍ରାୟ ଦୁଇ ବର୍ଷ ଲାଗିଥାଇପାରେ  .
+  * ପଣ୍ଡିତମାନେ -  "ଜ୍ଞାନବାନ ପୁରୁଷ ମାନେ" ହୁଏତ ଜ୍ୟୋତିଷ୍କ୍ ଯେଉଁମାନେ ତାରାମାନଙ୍କ ବିଷୟରେ ଅଧ୍ୟୟନ କରୁଥିଲେ . ସେମାନେ ହୁଏତ ପୁରାତନ ନିୟମରେ ଭାବବାଦୀମାନଙ୍କ ଲେଖାରେ ଯେଉଁଠାରେ ଯୀଶୁଙ୍କ ଜନ୍ମ ବିଷୟରେ ଭାବବାଣୀ କରାଯାଇଥିବା ବିଷୟକୁ ଜାଣିଥାଇପାରନ୍ତି
+  * ଅସ୍ବାଭାବିକ ତାରା - ଯେଉଁ ତାରା ଯେ ସେମାନେ ଦେଖିଲେ, ସ୍ବାଭାବିକ ତାରା ନ ଥିଲା . ଏହା ଯୀଶୁଙ୍କ ଜନ୍ମ ସମୟରେ ଦେଖାଯାଇଥିଲା .
+  * ସେମାନେ ହୃଦୟଙ୍ଗମ କଲେ - କିଛି ଭାଷା କରିବ ଯୋଡିଥାଇପାରନ୍ତି, "ଏହି ଶାସ୍ତ୍ରଜ୍ଞମାନଙ୍କ ଅଧ୍ୟୟନରୁ ହୃଦୟଙ୍ଗମ କଲେ."
+  * ସେହି ଗୃହ -  ସେମାନେ ଅଧିକ ସମୟ ସେହି ପଶୁଶାଳାରେ ରହିଲେ ନାହିଁ.,ସେ ଯେଉଁଠି ଜନ୍ମ ହୋଇଥିଲେ
 
 **[[:or:obs:notes:frames:23-08|<<]] | [[:or:obs:notes:23|Up]] | [[:or:obs:notes:frames:23-10|>>]]**
