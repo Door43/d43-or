@@ -1,23 +1,22 @@
-===== You Crucified Jesus [43-06] =====
+===== ତୁମେ ଯୀଶୁଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କଲ [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
-===== Important Terms: =====
+“ହେ ଇଶ୍ରାୟେଲୀୟ ଲୋକମାନେ, ଯୀଶୁ ଜଣେ ବ୍ୟକ୍ତି ଥିଲେ ଯିଏ ଈଶ୍ବରଙ୍କ ଶକ୍ତିରେ ଅନେକ ମହତ୍ ଚିହ୍ନଗୁଡିକ ଏବଂ ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ ସବୁ କଲେ, ଯାହା ଆପଣମାନେ ଦେଖିଅଛନ୍ତି ଓ ଜାଣିଅଛନ୍ତି । କିନ୍ତୁ ଆପଣମାନେ ତାହାଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କଲ !”
 
-  * **[[:or:obe:other:israel]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:miracle]]**
-  * **[[:or:obe:kt:power]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:crucify]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଇସ୍ରାଏଲ**, **ଇସ୍ରାଏଲୀୟମାନେ**, **ଇସ୍ରାଏଲର****ଦେଶ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ**, **ଆଶ୍ଚର୍ଯ୍ୟ**, **ଚିହ୍ନ**
+  * **ଶକ୍ତି**, **ଶକ୍ତି**
+  * **ପରମେଶ୍ଵର**
+  * **କ୍ରୁଶବିଦ୍ଧ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **Men of Israel** - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
-  * **you crucified him!** - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
-
+  * (ପିତର ଜନଗହଳିକୁ ପ୍ରଚାର କରିବା ଜାରିରଖିଲେ)
+  * ଇସ୍ରାଏଲର ପୁରୁଷମାନେ - କେତେକ ଭାଷାମାନଙ୍କ ନିମନ୍ତେ ଏହା କହିବା ଉତ୍ତମ "ଇସ୍ରାଏଲର ଲୋକମାନେ" ଏହା ସ୍ପଷ୍ଟ କରିବା ପାଇଁ ଯେ ଏଥିରେ ପୁରୁଶେବଂ ସ୍ତ୍ରୀମାନେ ଥିଲେ. ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଇସ୍ରାଏଲର ମୋର ଲୋକମାନେ" କିମ୍ବା, "ମୋର  ଯିହୂଦୀ ଲୋକମାନେ" ଏହା ସ୍ପଷ୍ଟ କରିବା ପାଇଁ ପିତର ଜଣେ ଯିହୁଦୀ ଥିଲେଏବଂ ଇସ୍ରାଏଲର ଲୋକମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ ଥିଲେ"
+  * ତୁମକୁ ତାହାଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କଲ** !**
+ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରଯାଇପାରେ, "ତୁମେ ତାହାଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କରାଇଲ" କିମ୍ବା "ତୁମଭାମାନଙ୍କ ନିମନ୍ତେ ସେ କ୍ରୁଶବିଦ୍ଧ ହେଲେ". ଯିହୁଦୀମାନେ ପ୍ରକୃତରେ ଯୀଶୁଙ୍କୁ କ୍ରୁଶରେ ବିଦ୍ଧ କରି ନ ଥିଲେ. ଯାହାଭି ହେଉ, ଯିହୁଦୀମାନେ ତାହାଙ୍କୁ ଦୋଷୀକରାର କଲେ ଏବଂ ଜନଗହଳିରେ ଅନେକ ଲୋକମାନେ ତାଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କରାଯାଉ ବୋଲି ଚିତ୍କାର କଲେ
 
 **[[:or:obs:notes:frames:43-05|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-07|>>]]**
