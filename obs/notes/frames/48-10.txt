@@ -1,27 +1,37 @@
-===== The Passover Lamb [48-10] =====
+===== ନିସ୍ତାର ପର୍ବ [48-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink&}}
 
-**Jesus** is **our Passover Lamb**. He was perfect and **sinless** and was killed at the time of the Passover celebration. When anyone **believes** in Jesus, the **blood of Jesus** pays for that person’s **sin**, and **God's punishment passes over that person**.
-===== Important Terms: =====
+ଯୀଶୁ ହେଉଛନ୍ତି ଆମ୍ଭମାନଙ୍କ ନିସ୍ତାରପର୍ବର ମେଷ ।
 
+ସେ ସିଦ୍ଧ ଓ ପାପଶୂନ୍ୟ ଥିଲେ ଏବଂ ନିସ୍ତାରପର୍ବ ପାଳନ ସମୟରେ ହିଁ ବଧ କରାଯାଇଥିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:passover]]**
-  * **[[:or:obe:kt:lamb]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:blood]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:punish]]**
+ଯେତେବେଳେ ଯେକୌଣସି ବ୍ୟକ୍ତି ଯୀଶୁଙ୍କଠାରେ ବିଶ୍ବାସ କରୁଥିଲେ, ସେତେବେଳେ ଯୀଶୁଙ୍କ ରକ୍ତ ସେହି ବ୍ୟକ୍ତିଙ୍କ ପାପର ପ୍ରାୟଶ୍ଚିତ କରେ, ଏବଂ ଈଶ୍ବରଙ୍କ ଦଣ୍ଡ ସେହି ବ୍ୟକ୍ତି ନିକଟକୁ ଯାଏ ନାହିଁ ।
 
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
-===== Translation Notes: =====
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ନିସ୍ତାରପର୍ବ**
+  * **ମେଷ**, **ପରମେଶ୍ଵରଙ୍କ****ମେଷଶାବକ**
+  * **ବିଶ୍ବାସ**, **ବିଶ୍ବାସ****ଠାରେ**,**ବିଶ୍ବାସ**
+  * **ରକ୍ତ**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ୍ଣ**, **ଅପରାଧୀ**, **ପାପ****କରୁଅଛୁ**
+  * **ପରମେଶ୍ଵର**
+  * **ଦଣ୍ଡଦେବା**, **ଦଣ୍ଡ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **our Passover Lamb** - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
-  * **sinless** - This can also be translated as, “had never sinned.”
-  * **blood of Jesus** – This could be translated as, “The sacrifice that Jesus made of himself when he died for sinners.” The word “blood” here also means “death.”
-  * **God's punishment passes over that person** - This statement means, “God does not punish that person.” Translate it using a phrase that shows its relationship to the words for "Passover" and the "Passover Lamb." If the word "spare" is used in the name of the Passover, this could also be translated as, “God spares that person from punishment.”
+ଆମ୍ଭମାନଙ୍କ ନିସ୍ତାରପର୍ବ ମେଷ - ତାହା ହେଉଛି, " - ତାହା  ହେଉଅଛି, ନିସ୍ତାର ପର୍ବର ମେଷ ଯାହା ଆମ୍ବମାନଙ୍କ ପାଇଁ ବଧ କରାଯାଇ ଥିଲା,''କିମ୍ବା ''ମେଷ ଯାହା ବଧ କରା ଯାଇଥିଲା ,ତେଣୁ ପରମେଶ୍ବର ଆମକୁ ମୁକ୍ତ କରିଥାନ୍ତେ''କିମ୍ବା ''ମେଷ ଯାହା ବଧ ହୋଇଥିଲା ତେନୁକାରୀ ପରମେଶ୍ବର ଆମକୁ ଛାଡିଦେଲେ .''
 
+ପାପଶୁନ୍ୟ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "କେବେ ପାପ କରି ନଥିଲେ"
+
+ଯୀଶୁଙ୍କର ରକ୍ତ -ଏହା ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇ ପାରେ ଯେପରି ,''ବଲିଦାନ ଯାହା ଯୀଶୁ ନିଜକୁ ଦେଲେ ଯେତେବେଳେ ସେ ପାପୀଙ୍କ ପାଇଁ  ମୃତ୍ୟୁ ବରଣ କଲେ''
+
+ଶବ୍ଦ "ରକ୍ତ" ଏଠାରେ ମଧ୍ୟ "ମୃତ୍ୟୁ .''
+
+ପରମେଶ୍ବରଙ୍କର ଦଣ୍ଡ ସେହି ବ୍ୟକ୍ତିଙ୍କ ଉପରକୁ ଚାଲିଗଲା- ଏହି କଥନର ଅର୍ଥ ,''ସେହି ବ୍ୟକ୍ତି କୁ ପରମେଶ୍ବର ଦଣ୍ଡ ଦିଅନ୍ତି ନାହି .''
+
+ଏହାକୁ ଏକ ବାକ୍ୟାଂଶ ବ୍ୟବହାର କରି ଅନୁବାଦ କର  ଯାହା ;;ନିସ୍ତାର ପର୍ବ ''ଏବଂ ନିସ୍ତାର ପର୍ବର ମେଷ ''ସହ ସମ୍ପର୍କ ଦେଖାଏ .
+
+ଯଦି ନିସ୍ତାର ପର୍ବ ନାମରେ ଶବ୍ଦ ''ଛାଡିଦେବା'' ବ୍ୟବହୃତ ହୋଇଅଛି , ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରାଯାଇ ପାରେ ଯେପରି ,'' ପରମେଶ୍ବର ସେହି ବ୍ୟକ୍ତି କୁ ଦଣ୍ଡରୁ ମୁକ୍ତି କରି ଦେଲେ .''
 
 **[[:or:obs:notes:frames:48-09|<<]] | [[:or:obs:notes:48|Up]] | [[:or:obs:notes:frames:48-11|>>]]**
