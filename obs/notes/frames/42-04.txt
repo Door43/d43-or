@@ -1,17 +1,15 @@
-===== Breaking the Bread [42-04] =====
+===== ରୋଟି  ଭାଙ୍ଗିଲେ [42-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
-The two men invited **Jesus** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **God** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
-===== Important Terms: =====
+ସେହି ଦୁଇଜଣ ସେମାନଙ୍କ ସହ ରହିବା ନିମନ୍ତେ ଯୀଶୁଙ୍କୁ ନିମନ୍ତ୍ରଣ କଲେ, ତେଣୁ ସେ ସେମାନଙ୍କ ସହିତ ଗଲେ । ସେମାନେ ଯେତେବେଳେ ସଂନ୍ଧ୍ୟା ଭୋଜନ କରିବା ନିମନ୍ତେ ପ୍ରସ୍ତୁତ ହେଉଥିଲେ, ଯୀଶୁ ଏକ ରୋଟୀ ଘେନି ଈଶ୍ବରଙ୍କୁ ଧନ୍ୟବାଦ ଦେଲେ ଓ ଏହାକୁ ଭାଙ୍ଗିଲେ । ସାଙ୍ଗେ ସାଙ୍ଗେ ସେ ଯେ ଯୀଶୁ ବୋଲି ସେମାନେ ଚିହ୍ନିଲେ । କିନ୍ତୁ ସେହି ସମୟରେ ସେ ସେମାନଙ୍କ ଦୃଷ୍ଟିରୁ ଅନ୍ତର୍ଦ୍ଧାନ ହୋଇଗଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **he disappeared from their sight** - This could also be translated as, "he was gone" or, "he was no longer there."
-
+  * ସେମାନଙ୍କ ଦୃଷ୍ଟିରୁ ସେ ଆଦୃଶ୍ୟ ହୋଇଗଲେ  - ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ ସେ ସେଠାରେ ଆଉ ନୋଥିଲେ" କିମ୍ବା" ସେଠାରୁ ଚାଲି ଯାଇଥିଲେ ."
 
 **[[:or:obs:notes:frames:42-03|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:42-05|>>]]**
