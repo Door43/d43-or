@@ -1,24 +1,21 @@
-===== How Many Times? [29-01] =====
+===== କେତେ ଥର? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
+ଦିନେ, ପିତର ଯୀଶୁଙ୍କୁ  ପଚାରିଲେ , “ଗୁରୁ, କେତେ ଥର   ମୋର ଭାଇକୁ କ୍ଷମା କରିବା ଉଚିତ୍ ଯେତେବେଳେ ସେ ମୋ ବିରୁଦ୍ଧରେ ପାପ କରେ? ସାତ ଥରରୁ ଅଧକ ଥର?” ଯୀଶୁ କହିଲେ, “ସାତ ଥର ନୁହେଁ, କିନ୍ତୁ ସାତର ସତୁରି ଥର!” ଏହା ଦ୍ବାରା**, ** ଯୀଶୁଙ୍କର ଉଦ୍ଦେଶ୍ୟ ଥିଲା ଯେ ଆମ୍ଭେ ସବୁବେଳେ କ୍ଷମା କରିବା ଉଚିତ୍. ତା ପରେ ଯୀଶୁ କାହାଣୀ ଜାରି ରଖିଲେ .
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:sin]]**
+  * **ପିତର**, **ଶିମୋନ****ଓଇତର**, **କେଫା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମାଲିକ**
+  * **କ୍ଷମା**, **କ୍ଷମା**
+  * **ପାପ**, **ପାପୀ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
+  * ଦିନେ - ଏହି ବାକ୍ୟାଂଶ ପୂର୍ବରୁ ଘଟିଥିବା ଏକ ଘଟଣାର ପରିଚୟ ଦିଏ, କିନ୍ତୁ ପ୍ରକୃତ ସମୟକୁ ବୁଝାଏ ନାହିଁ. ଅନେକ ଭାଷା ଗୁଡିକ ଏକ ସତ୍ୟ କାହାଣୀ କହିବାକୁ ଆରମ୍ଭ କରିବା ପାଇଁ ଏକାପରି ଥାଏ.
+  * ମୋର ଭାଇ - ଏହି ପଦ ବେଳେବେଳେ ଅନ୍ତର୍ଭୁକ୍ତ ଥିଲା ଲୋକମାନଙ୍କ ଯେଉଁମାନେ ଥିଲେ ନୁହେଁ, କିନ୍ତୁ ଯେଉଁମାନେ ବାଣ୍ଟିବାକୁ ଲାଗିଲେ ଆଉ ଅତି ବଳିଷ୍ଠ ପରି.
+  * ମୋ ବିରୁଦ୍ଧରେ ପାପ- ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ମୋ ବିରୁଦ୍ଧରେ କିଛି କରିବା"
+  * ସାତ ଥର ନୁହେଁ**, ** ସାତ ଥରର ସତୁରି ଗୁଣ**!**- ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ତୁମେ କେବଳ ସାତ ଥର ନୁହେଁ ବରଂ ତୁମେ ସାତ ଥରର ସତୁରି ଗୁଣ କ୍ଷମା କରିବା ଉଚିତ୍". ଯୀଶୁ ଏକ ପ୍ରକୃତ ସଂଖ୍ୟା ବିଷୟରେ କଥା ହେଉ ନ ଥିଲେ. ସେ କହୁଥିଲେ ଯେ ଆମେ ଲୋକମାନଙ୍କୁ ସବୁବେଳେ କ୍ଷମା କରିବା ଆବଶ୍ୟକ ଯେତେ ଥର ସେମାନେ ଆମ ବିରୁଦ୍ଧରେ ପାପ କରନ୍ତି
+  * ଏହା ଦ୍ବାରା ଯୀଶୁଙ୍କର କହିବାର ଥିଲା - ତାହା ହେଉଛି, "ଯେତେବେଳେ ଯୀଶୁ କହିଲେ, ସେ ତାହା ହିଁ କହୁଥିଲେ."
 
 **[[:or:obs:notes:frames:28-10|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-02|>>]]**
