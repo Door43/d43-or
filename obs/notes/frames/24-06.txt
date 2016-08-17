@@ -1,24 +1,22 @@
-===== Jesus Is the Lamb of God [24-06] =====
+===== ଯୀଶୁ ଈଶ୍ବରଙ୍କ ମେଷ ଅଟନ୍ତି [24-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
-The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
-===== Important Terms: =====
+ପରଦିନ ଯୋହନଙ୍କ ଦ୍ବାରା ବାପ୍ତିଜିତ ହେବା ନିମନ୍ତେ ଯୀଶୁ ଆସିଥିଲେ । ଯୋହନ ଯେତେବେଳେ ତାହାଙ୍କୁ ଦେଖିଲେ, ସେ କହିଲେ “ଏହି ଦେଖ! ଈଶ୍ବରଙ୍କ ମେଷଶାବକ ଯିଏ ଜଗତର ପାପ ଭାର ବୋହିନେଇ ଯାଆନ୍ତି ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:baptize]]**
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:kt:lamb]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:sin]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବାପ୍ତିସ୍ମ****ଦେବା**, **ବାପ୍ତିସ୍ମ**
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ଯୀଶୁ****ଈଶ୍ବରଙ୍କ****ମେଷ****ଅଟନ୍ତି****।**”
+  * **ପରମେଶ୍ଵର**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **There is** - For some languages this would be, "Here is" or, "That man is."
-  * **Lamb of God** - This could also be translated as, "the Lamb from God" or, "the sacrifice Lamb that God has provided." Jesus was the perfect sacrifice for sin that God promised to provide. He fulfills the image that was presented by the sacrifice of lambs in the Old Testament.
-  * **will take away** - The sacrifice of Jesus causes God to look at our sin as if it never existed.
-  * **sin of the world** - That is, "the sin of the people in the world."
-
+  * ସେହିଠାରେ -କେତେକ ଭାଷା ନିମନ୍ତେ  ଏହା ଏପରି ହେବ, "ଏଠାରେ ଅଛନ୍ତି" କିମ୍ବା, "ସେହି ବ୍ୟକ୍ତି ଅଟନ୍ତି."
+  * ପରମେଶ୍ଵରଙ୍କ ମେଷ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵରଙ୍କ ଠାରୁ ମେଷ" କିମ୍ବା, "ବଲିଦାନ ଉତ୍ସର୍ଗ ମେଷ ଯାହା ପରମେଶ୍ଵର ଯୋଗାଇଛନ୍ତି." ଯୀଶୁ ଏକ ପାପ ପାଇଁ ଏକ ସିଦ୍ଧ ବଳିଦାନ ଥିଲେ ଯାହା ପରମେଶ୍ଵର ଯୋଗାଇବା ପାଇଁ ପ୍ରତିଜ୍ଞା କରିଥିଲେ . ସେ ପୁରାତନ ନିୟମର ଯେଉଁ ମେଷଶାବକ ବଳିଦାନର ଉପସ୍ଥାପନା କରାଯାଇଛିସେହି ଆକୃତିକୁ ପୁର୍ଣ କରନ୍ତି
+  * ଦୂର କରିବେ - ଯୀଶୁଙ୍କ ବଳିଦାନ ଉତ୍ସର୍ଗ ହେବାର କାରଣ ପରମେଶ୍ଵର ଆମ୍ଭମାନଙ୍କ ପାପକୁ ଦେଖିବେ ଯେପରି ତାହାର ଅସ୍ଥିତ୍ବ ହୋଇ ନ ଥିଲା .
+  * ଜଗତର ପାପ  - ତାହା ହେଉଛି, "ଜଗତରେ ଲୋକମାନଙ୍କ ପାପ ."
 
 **[[:or:obs:notes:frames:24-05|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-07|>>]]**
