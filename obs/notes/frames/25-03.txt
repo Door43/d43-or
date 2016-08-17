@@ -1,19 +1,18 @@
-===== God's Word Gives Life [25-03] =====
+===== ଇଶ୍ବରଙ୍କ ବାକ୍ୟ ଜୀବନ ଦିଏ [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
+ଯୀଶୁ ଉତ୍ତର ଦେଲେ “ଇଶ୍ବରଙ୍କ ବାକ୍ୟରେ ଲେଖାଅଛି, ‘ମନୁଷ୍ୟ କେବଳ ରୋଟୀରେ ବଞ୍ଚେ ନାହିଁ କିନ୍ତୁ ଈଶ୍ବରଙ୍କ ମୁଖରୁ ନିର୍ଗତ ପ୍ରତ୍ୟେକ ବାକ୍ୟରେ ବଞ୍ଚେ!”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ବାକ୍ୟ**, **ସଦାପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ଶାସ୍ତ୍ର**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:or:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
+  * ରୋଟି -  ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ ସେହି ସମାନ ଶବ୍ଦର "ରୋଟି" ର ଅନୁବାଦ ସେହିପରି କରିଛନ୍ତି ଯେପରି ଏହିଠାରେ କରିଥିଲେ   **__[__ **__୨୫**-** ____୦୨**]**__.
+  * କିନ୍ତୁ ସେମାନଙ୍କୁ ପରମେଶ୍ବର କହିଥିବା ପ୍ରତ୍ୟେକ ବାକ୍ୟ ଆବଶ୍ୟକ**!**
+ - ଅନ୍ୟପ୍ରକାରେ ଅନୁବାଦ କଲେ ଏହା ହେବ, "ବରଂ,ପରମେଶ୍ଵର କହୁଥିବା କଥା ଲୋକମାନେ ଶୁଣିବାକୁ ଏବଂ ଆଜ୍ଞା ପାଳନ କରିବା ଆବଶ୍ୟକ" କିମ୍ବା, "ବରଂ, ପରମେଶ୍ଵର କହନ୍ତି, ଯଦି ଲୋକମାନେ ବିଶ୍ବାସ କରିବେ ଏବଂ ପାଳନ କରିବେ, ତାହାହେଲେ ପ୍ରକୃତ ଜୀବନ ପାଇବେ."
 
 **[[:or:obs:notes:frames:25-02|<<]] | [[:or:obs:notes:25|Up]] | [[:or:obs:notes:frames:25-04|>>]]**
