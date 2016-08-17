@@ -1,22 +1,20 @@
-===== The Disciples in Jerusalem [43-01] =====
+===== ଯିରୁଶାଲମରେ ଶିଷ୍ୟମାନେ [43-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
-===== Important Terms: =====
+ଯୀଶୁ ସ୍ବର୍ଗକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କଲା ପରେ, ଯୀଶୁ ଯେପରି ଆଦେଶ ଦେଇଥିଲେ ସେହି ଅନୁସାରେ ଶିଷ୍ୟମାନେ ଯିରୁଶାଲମରେ ରହିଲେ । ବିଶ୍ବାସୀମାନେ ସେଠାରେ ପ୍ରାର୍ଥନା କରିବା ନିମନ୍ତେ ଅବିରତ ଏକାଠି ହୋଇ ରହିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:other:pray]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**
+  * **ଶିଷ୍ୟ**
+  * **ଯିରୁଶାଲମ**.
+  * **ବିଶ୍ବାସୀ**
+  * **ପ୍ରାର୍ଥନା****କରିବା**, **ପ୍ରାର୍ଥନା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
+  * ସ୍ଵର୍ଗକୁ ଫେରିଲେ - ତାହା ହେଉଛି, "ସ୍ବର୍ଗକୁ ଫେରିଗଲେ."
+  * ଯିରୁଶାଲମରେ ରହିଲେ -ତାହା ହେଉଛି, "କିଛି ସମୟ ନିମନ୍ତେ ଯିରୁଶାଲମରେ ରହିଲେ." ସେମାନେ ସେଠାରେ ଚିରଦିନ ପାଇଁ ରହିଲେ ନାହିଁ.
 
 **[[:or:obs:notes:frames:42-11|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-02|>>]]**
