@@ -1,23 +1,22 @@
-===== The Great High Priest [48-06] =====
+===== ମହାନ ମହାଯାଜକ [48-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&}}
 
-For hundreds of years, **priests** continually offered **sacrifices** to **God** for people to show the punishment that they deserved for their **sins**. But those sacrifices could not take away their sin. **Jesus** is the **Great High Priest**. Unlike other priests, **he offered himself** as the only sacrifice that could take away the sin of all the people in the world. Jesus was the perfect high priest because he **took the punishment** for every sin that anyone has ever committed.
-===== Important Terms: =====
+ସହସ୍ର ବର୍ଷ ଧରି, ସେମାନଙ୍କର ପାପର ଦଣ୍ଡକୁ ଦେଖାଇବା ନିମନ୍ତେ ଯାହା ସେମାନେ ପାଇବାକୁ ଯୋଗ୍ୟ, ଯାଜକମାନେ ନିରନ୍ତନ ଭାବରେ ଲୋକମାନଙ୍କ ନିମନ୍ତେ ପରମେଶ୍ଵରଙ୍କୁ ବଳିଦାନ ଚଢାଉ ଥିଲେI କିନ୍ତୁ ସେହି ସବୁ ବଳିଦାନ ସେମାନଙ୍କର ପାପଗୁଡିକୁ ଘେନିନେଇ ପାରିଲା ନାହିI ଯୀଶୁ ହିଁ ମହାଯାଜକ ଅଟନ୍ତି I ଅନ୍ୟ ଯାଜକମାନଙ୍କ ପରି ନୁହେଁ, କିନ୍ତୁ ସେ ନିଜକୁ ଉସ୍ଚର୍ଗ କଲେ ଯେପରି ତାହା ଏକମାତ୍ର ବଳିଦାନ ଯାହା ଜଗତର ସମସ୍ତ ଲୋକମାନଙ୍କର ପାପକୁ ଘେନିନେଇ ପାରିବ I ଯୀଶୁ ସିଦ୍ଧ ମହାଯାଜକ ଥିଲେ କାରଣ ସେ ସମସ୍ତଙ୍କ ପାପର ଦଣ୍ଡ ଯାହା ଯେକୌଣସି ଲୋକ ଆଜିପର୍ଯ୍ୟନ୍ତ କରିଛନ୍ତି ତାହାକୁ ସେ ଘେନିନେଲେ
 
-  * **[[:or:obe:kt:priest]]**
-  * **[[:or:obe:other:sacrifice]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:highpriest]]**
-  * **[[:or:obe:other:punish]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଯାଜକ**,**ଯାଜକୀୟ**
+  * **ବଲିଦାନ**, **ଉତ୍ସର୍ଗ**
+  * **ପରମେଶ୍ବର**
+  * **ପାପ**, **ପାପପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିଅଛି**
+  * **ଯୀଶୁ**, **ଯୀଶୁଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟଯୀଶୁ**
+  * **ମାହାଯାଜକ**
+  * **ଦଣ୍ଡ****ଦେବା**, **ଦଣ୍ଡ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **he offered himself** - This could also be translated as, "Jesus allowed himself to be killed."
-  * **took the punishment** - That is, "received the punishment in his own body."
-
+  * ସେ ନିଜକୁ ଉସର୍ଗ କଲେ**
+ -**  ଏହା ଏହି ପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି, "ଯୀଶୁ ନିଜକୁ ବଧ କରିବାକୁ ଦେଲେ,''
+  * ଦଣ୍ଡକୁ ନେଲେ** - ** ତାହା ହେଉଅଛି, ''ନିଜ ଶରୀରରେ ଦଣ୍ଡକୁ ସ୍ବୀକାର କଲେ''
 
 **[[:or:obs:notes:frames:48-05|<<]] | [[:or:obs:notes:48|Up]] | [[:or:obs:notes:frames:48-07|>>]]**
