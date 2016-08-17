@@ -1,16 +1,14 @@
-===== The Ethiopian Went Home [45-13] =====
+===== କୂଶୀୟ ଗୃହକୁ ଗଲେ [45-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
-The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
-===== Important Terms: =====
+କୂଶୀୟ ତାହାଙ୍କ ଗୃହ ଆଡ଼କୁ ଯାତ୍ରା କରୁ କରୁ ସେ ଯୀଶୁଙ୍କୁ ଜାଣିଲେ ବୋଲି ଆନନ୍ଦରେ ଗଲେ
 
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ****, ****ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ****, ****ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:45-12|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:46-01|>>]]**
