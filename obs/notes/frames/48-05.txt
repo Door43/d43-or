@@ -1,20 +1,19 @@
-===== A Way of Salvation [48-05] =====
+===== ଏକ ମୁକ୍ତିର ପଥ [48-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
+ଯେତେବେଳେ ପରମେଶ୍ବର ସମଗ୍ର ପୃଥିବୀକୁ ଜଲପ୍ଲାବନ ଦ୍ବାର ବିନାଶ କଲେ, ସେ ଏକ ଜାହାଜ ପ୍ରସ୍ତୁତ କଲେ ଯେଉଁମାନେ ତାଙ୍କ ଠାରେ ବିଶ୍ବାସ କଲେ. ସେହିପରି, ପ୍ରତ୍ୟେକ ଜଣ ସେମାନଙ୍କର ପାପ ସକାଶୁ  ବିନାଶ ହେବାର ଯୋଗ୍ୟ ଅଟନ୍ତି କିନ୍ତୁ ପରମେଶ୍ବର ପ୍ରତ୍ୟେକ ଜଣ ଯିଏ ତାହାଙ୍କ ଠାରେ ବିଶ୍ବାସ କରେ ସେମାନଙ୍କୁ ଉଦ୍ଧାର କରିବାକୁ ଯୀଶୁଙ୍କୁ ପ୍ରଦାନ କଲେ
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ରକ୍ଷା****କରିବା**, **ସୁରକ୍ଷିତ**
+  * **ବିଶ୍ବାସ****କରିବା**, **ଠାରେ****ବିଶାସ**, **ବିଶ୍ବାସ**
+  * **ପାପ**, **ପାପପୁର୍ଣ**, **ପାପୀ**,**ପାପ****କରୁଅଛି**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
+  * ସେମାନଙ୍କର ପାପ ସକାଶୁ ବିନାଶ କଲେ**
+ -**  ଏହା ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇ ପାରେ  ଯେପରିକି, ''ପ୍ରତ୍ୟେକ ଜଣ ପରମେଶ୍ବରଙ୍କ ଦ୍ବାରା ଅନନ୍ତ କାଳିନ ଦଣ୍ଡ ପାଇବା ଉଚିତ୍ କାରଣ ସେମାନେ ପାପ କରି ଅଛନ୍ତି,''
 
 **[[:or:obs:notes:frames:48-04|<<]] | [[:or:obs:notes:48|Up]] | [[:or:obs:notes:frames:48-06|>>]]**
