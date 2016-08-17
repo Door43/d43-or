@@ -1,31 +1,30 @@
-===== Peter Preached [44-05] =====
+===== ପିତର ପ୍ରଚାର କଲେ [44-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
-===== Important Terms: =====
+“ଆପଣମାନେ ହିଁ ଯୀଶୁଙ୍କୁ ବଧ କରିବା ନିମନ୍ତେ ରୋମୀୟ ଶାସକଙ୍କୁ କହିଥିଲେ । ଆପଣମାନେ ଜୀବନର କର୍ତ୍ତାଙ୍କୁ ହତ୍ୟା କଲେ, କିନ୍ତୁ ଈଶ୍ବର ତାହାଙ୍କୁ ମୃତରୁ ଉଠାଇଲେ । ଆପଣମାନେ ଯାହା ଯାହା କରିଥିଲେ ତାହା ଯଦିଓ ବୁଝିପାରିନଥିଲେ, ତଥାପି ମସୀହ ଯେ ଦୁଃଖଭୋଗ କରି ମୃତ୍ୟୁବରଣ କରିବେ ଏହି ଭାବବାଣୀ ସଫଳ କରିବା ନିମନ୍ତେ ଈଶ୍ବର ଆପଣମାନଙ୍କର କାର୍ଯ୍ୟକୁ ବ୍ୟବହାର କଲେ । ତେଣୁ, ବର୍ତ୍ତମାନ, ମନପରିବର୍ତ୍ତନ ବା ଅନୁତାପ କରି ଈଶ୍ବରଙ୍କ ନିକଟକୁ ଫେରନ୍ତୁ ଯେପରିକି ଆପଣମାନଙ୍କର ପାପ କ୍ଷମା ହୋଇପାରେ ।”
 
-  * **[[:or:obe:other:rome]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:life]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:raise]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:fulfill]]**
-  * **[[:or:obe:kt:prophet]]**
-  * **[[:or:obe:kt:christ]]**
-  * **[[:or:obe:kt:suffer]]**
-  * **[[:or:obe:kt:repent]]**
-  * **[[:or:obe:kt:sin]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ରୋମ**, **ରୋମୀୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଜୀବନ**, **ବଂଚିବା**, **ଜୀବନଯାପନ**, **ଜୀବିତ**
+  * **ପରମେଶ୍ଵର**
+  * **ଉଠାଇବା**, **ଉଠିବା**, **ଉଠିଛନ୍ତି**, **ଉଠିବା**, **ଉଠିଲେ**
+  * **ମୃତ୍ୟୁ**, **ମରିବା**, **ମରିଯାଇଅଛନ୍ତି**
+  * **ସଫଳ****କରିବା**
+  * **ଭାବବାଦୀ**, **ଭାବବାଣୀ**, **ଭାବବାଣୀ****କହିବା**, **ଦେଖି**, **ଭାବବାଦୀ**
+  * **ଖ୍ରୀଷ୍ଟ**  , **ମସୀହ**
+  * **କଷ୍ଟ****ପାଇବା**  ,**ଦୁଃଖ****ଭୋଗକରିବା**
+  * **ଅନୁତାପ****କରିବା**, **ଅନୁତାପ**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
-  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God** - That is, "decide to obey God."
-  * **your sin will be washed away** - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-
+  * (ପିତର ଜନଗହଳିକୁ ପ୍ରଚାର କରିବା ଜାରିରଖିଲେ)
+  * ଜୀବନର ଲେଖକ - ତାହା ହେଉଛି, "ସେ ଯିଏ ଜୀବନକୁ ସୃଷ୍ଟି କରିଅଛି" କିମ୍ବା, "ସେ ଯିଏ ଆମ୍ଭାମାନଙ୍କୁ ଜୀବନ ଦେଇଛନ୍ତି" କିମ୍ବା, " ସେ ଯିଏ ଲୋକମାନଙ୍କୁ ବନ୍ଚାଇଥଆନ୍ତି"
+  * ଏହା ଯୀଶୁଙ୍କୁ ସୁଚିତ କରାଏ
+  * ତୁମମାନଙ୍କ କାର୍ଯ୍ୟ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ  "ଯେଉଁ ବିଷୟ ତୁମେ କରିଥିଲା." ଏହା ଯୀଶୁଙ୍କୁ ମାରିବା ନିମନ୍ତେ ସେମାନଙ୍କ ଅନୁରୋଧକୁ ସୁଚାଏ
+  * ପରମେଶ୍ଵରଙ୍କ ନିକଟକୁ ଫେର - ତାହା ହେଉଛି, "ପରମେଶ୍ବରଙ୍କ ଆଜ୍ଞାବହ ହେବା."
+  * ତୁମମାନଙ୍କ ପାପ ଧୋଇହୋଇଯିବ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵର ଆପଣମାନଙ୍କ ପାପକୁ ଧୋଇ ଦୁର କରିବେ" କିମ୍ବା, "ପରମେଶ୍ଵର ଆପଣମାନଙ୍କ ପାପକୁ ଘେନି ନେଇଯିବେ ଏବଂ ଆପଣମାନଙ୍କୁ ସୂଚୀ କରିବେ" ଏହା ପରମେଶ୍ବର ଲୋକମାନଙ୍କୁ ସେମାନଙ୍କ ଆତ୍ମାକୁ ସମ୍ପୁର୍ଣ ଭାବରେ ପାପକୁ ଦୁର କରି ସୁଚୀ କରିବା ବିଷୟରେ କୁହାଯାଇଅଛି. ଏହାର ଅର୍ଥ ନୁହେଁ ଯେ ଶାରୀରିକ ପରିଷ୍କାର
 
 **[[:or:obs:notes:frames:44-04|<<]] | [[:or:obs:notes:44|Up]] | [[:or:obs:notes:frames:44-06|>>]]**
