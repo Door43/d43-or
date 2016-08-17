@@ -1,22 +1,20 @@
-===== The Feast of Pentecost [43-02] =====
+===== ପେଣ୍ଟିକଷ୍ଟର ପର୍ବ [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
-===== Important Terms: =====
+ପ୍ରତି ବର୍ଷ, ନିସ୍ତାରପର୍ବର 50 ଦିନ ପରେ, ଯିହୂଦୀମାନେ ପେଣ୍ଟିକଷ୍ଟ ନାମକ ଏକ ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ ଦିବସ ପାଳନ କରୁଥିଲେ । ପେଣ୍ଟିକଷ୍ଟ ହେଉଛି ସେହି ସମୟ ଯେତେବେଳେ କି ଯିହୂଦୀମାନେ ଶଷ୍ୟ ଅମଳହେବାର ପାଳନ କରନ୍ତି । ପେଣ୍ଟିକଷ୍ଟ ଏକାଠି ପାଳନ କରିବା ପାଇଁ ସମଗ୍ର ଜଗତରୁ ଯିହୂଦୀମାନେ ଯିରୁଶାଲମକୁ ଆସୁଥିଲେ । ସେହି ବର୍ଷ, ଯୀଶୁ ସ୍ବର୍ଗକୁ ଯିବାର ପ୍ରାୟ ଏକ ସପ୍ତାହ ପରେ ପେଣ୍ଟିକଷ୍ଟ ଦିନ ଆସିଲା ।
 
-  * **[[:or:obe:kt:passover]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:heaven]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ନିସ୍ତାରପର୍ବ**
+  * **ଯିହୂଦୀଜଣ**, **ଯିହୂଦୀ**, **ଯିହୂଦୀମାନେ**
+  * **ଯିରୁଶାଲମ**.
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Pentecost** - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
-  * **celebrated the wheat harvest** - The Jews would thank God for the wheat harvest by bringing offerings and celebrate by having special meals. Wheat is a grain crop; if you have no word that means "wheat," you can use a more general word for grain. This happened in May; other crops were harvested at other times of the year.
-  * **This year** - That is, "In the year that Jesus died."
-
-
+  * ପେଣ୍ଟିକଷ୍ଟ - "ପେଣ୍ଟିକଷ୍ଟ" ଅର୍ଥ "ପଚାଶତମ(ଦିନ)." ଆପଣ "ପେନ୍ତିକୋଷ୍ଟ" ପଦକୁ ଆପଣଙ୍କ ନିଜ ଭାଷାରେ ଅନୁବାଦ କରିପଇନ୍ତି ଏବଂ ସେହି ଲିଖିତ ତାହାର ଅର୍ଥ ବିସ୍ତାରିତ କରୁ କିମ୍ବା, ଆପଣ ଆଉ ଏକ ପଦ "୫୦ ଦିନ." କରିପାରନ୍ତି
+  * ଶଷ୍ୟ ଅମଳ ପର୍ବ ପାଳନ କଲେ - ଯିହୂଦୀମାନେ ଅମଳ ହୋଇଥିବା ଶଷ୍ୟକୁ ପରମେଶ୍ଵରଙ୍କ ନିକଟରେ ଆଣି ଦାନ କରନୀ ଏବଂ ବିଶେଷ ଭୋଜନ ଦ୍ବାରା ପାଳନ କରନ୍ତି. ଶଷ୍ୟ ହେଉଛି ଗହମର ଏକ ବିହନ; ଯଦି ଆପଣଙ୍କ ପାଖରେ "ଗହମ," ଶବ୍ଦ ବ୍ୟବହାର କରିବାକୁ ନାହିଁ, ତେବେ ଆପଣ ଗହମ ବିହନ ନିମନ୍ତେ ଅନ୍ୟ ଏକ ଶବ୍ଦ ପ୍ରୟୋଗ କରିପାରିବେ. ଏହା ମଇ ମାସରେ ହୋଇଥିଲା; ଅନ୍ୟ ଶଷ୍ୟ ବର୍ଷର ଅନ୍ୟ ସମୟରେ ଅମଳ ହେଉଥିଲା
+  * ଏହି ବର୍ଷ**
+ - ** ତାହା ହେଉଛି**, "** ଯେଉଁ ବର୍ଷରେ ଯୀଶୁ ମୃତ୍ୟୁବରଣ କଲେ**"**
 **[[:or:obs:notes:frames:43-01|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-03|>>]]**
