@@ -1,21 +1,19 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== କୂଶୀୟ ଯିଶାଇୟ ପଢନ୍ତି [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
+ଯେତେବେଳେ ଫିଲିପ୍ ରଥ ପାଖକୁ ଆସିଲେ, ଯାହା ଯିଶାଇୟ ଭାବବାଦୀ ଲେଖିଲେ ତାହା କୂଶୀୟ ପଢ଼ିବାର ଫିଲିପ୍ ଶୁଣିଲେ. ସେହି ବ୍ୟକ୍ତି ପଢ଼ନ୍ତି, "ମେଷ ଯେପରି ନିରବ ରୁହେ, ସେମାନେ ତାହାକୁ ମେଷ ତୁଲ୍ୟ ହତ କରିବାକୁ ନେଲେ, ସେ ଗୋଟିଏ ଶବ୍ଦ ମଧ୍ୟ କହିଲେ ନାହିଁ. ସେମାନେ ତାହାକୁ ଅନ୍ୟାୟ ଭାବରେ ବ୍ୟବହାର କଲେ ପୁଣି ତାହାକୁ ସମ୍ମାନ ଦେଲେ ନାହିଁ. ସେମାନେ ତାହାଙ୍କ ଠାରୁ ତାହାରି ଜୀବନ ନେଇଗଲେ"
 
-  * **[[:or:obe:other:chariot]]**
-  * **[[:or:obe:other:isaiah]]**
-  * **[[:or:obe:kt:lamb]]**
-  * **[[:or:obe:kt:life]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ରଥ**
+  * **ଯିଶାଇୟ**
+  * **ମେଷ**, **ପରମେଶ୍ଵରଙ୍କ****ମେଷଶାବକ**
+  * **ଜୀବନ**, **ଜୀବିତ****ରହିବା**, **ସଜୀବ**/**ଜୀବନ୍ତ**, **ସଜୀବ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:or:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-
+  * କୂଶୀୟ - ଏହାର ଅର୍ଥ ହେଉଛି "କୂଶ ଦେଶର ଜଣେ ବ୍ୟକ୍ତି". ଉପର ଟିପ୍ପଣୀ ଦେଖାନ୍ତୁ \[୪୫-୦୭]
+  * ରଥ ପାଖକୁ ଆସିଲେ - ଏହାର ଅର୍ଥ ହେଉଛି "ରଥର ନିକଟବର୍ତ୍ତୀ ହେଲେ" କିମ୍ବା, "ରଥ ନିକଟକୁ ଆସିଲେ"
+  * ଯେପରି ମେଷଶାବକ ନିରବ ରୁହନ୍ତି - ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ବଧ ହେବାକୁ ଯାଉଥିବା ଏକ ମେଷ ତୁଲ୍ୟ ନିରବ ରହିଲେ"
 
 **[[:or:obs:notes:frames:45-07|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-09|>>]]**
