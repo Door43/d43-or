@@ -1,26 +1,25 @@
-===== You Are Witnesses [42-08] =====
+===== ତୁମ୍ଭେମାନେ ସାକ୍ଷୀ ଅଟ [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
-===== Important Terms: =====
+“ଶାସ୍ତ୍ରରେ ଏହା ମଧ୍ୟ ଲେଖାଯାଇଥିଲା ଯେ  ପ୍ରତ୍ୟେକେ ସେମାନଙ୍କ ପାପରୁ କ୍ଷମା ପାଇବା ନିମନ୍ତେ ଅନୁତାପ କରିବ ଉଚିତ୍ ବୋଲି ମୋହର ଶିଷ୍ୟମାନେ ଘୋଷଣା କରିବେ । ସେମାନେ ଏହା ଯିରୁଶାଲମରୁ ଆରମ୍ଭ କରି ସବୁ ସ୍ଥାନରେ ଥିବା ସମସ୍ତ ଲୋକଦଳ ନିକଟକୁ ଯିବେ ।ତୁମ୍ଭେମାନେ ଏହି ବିଷୟଗୁଡିକର ସାକ୍ଷୀ ଅଟ ।
 
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:repent]]**
-  * **[[:or:obe:kt:receive]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:other:peoplegroup]]**
-  * **[[:or:obe:kt:witness]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପରମେଶ୍ଵରଙ୍କ****ବାକ୍ୟ**, **ସଦାପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ପ୍ରଭୁଙ୍କ****ବାକ୍ୟ**, **ଶାସ୍ତ୍ର**
+  * **ଶିଷ୍ୟ**
+  * **ଅନୁତାପ****କରିବା**, **ଅନୁତାପ**
+  * **ପ୍ରାପ୍ତ**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+  * **ପାପ**, **ପାପ****ପୁର୍ଣ**, **ପାପୀ**, **ପାପ****କରିବା**
+  * **ଯିରୁଶାଲମ**.
+  * **ଲୋକସମୁହ**, **ଲୋକମାନେ**
+  * **ଲୋକସମୁହ**
+  * **ସାକ୍ଷୀ****ହେବ**, **ସାକ୍ଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
+  * ଘୋଷଣା କରିବେ - ଯେ ଅଛନ୍ତି, "ଘୋଷଣା କରିବା" କିମ୍ବା, "ପ୍ରଚାର କରିବା."
+  * ସେମାନେ ଏହା ଯିରୁଶାଲମରେ ଆରମ୍ଭ କରିବେ - ଏହା ହେଉଛି, "ସେମାନେ ଯିରୁଶାଲମରେ ଏହା କରିବା ଆରମ୍ଭ କରିବେ" କିମ୍ବା, "ସେମାନେ ଏହି ବିଷୟକୁ ଯିରୁଶାଲାମରେ ଘୋଷଣା ଆରମ୍ଭ."
+  * ତୁମ୍ବେମାନେ ଏହି ବିଷୟଗୁଡିକର ସାକ୍ଷୀ - ଯାହାର ଅର୍ଥ, "ତୁମେ ଏହି ବିଷୟଗୁଡିକ ଘଟିବାର ଦେଖିଅଛ" କିମ୍ବା, " ଯାହା ତୁମେ ଘଟିବାର ଦେଖିଅଛ ତାହା ତୁମେ ଅନ୍ୟମାନଙ୍କୁ କହିବ."
 
 **[[:or:obs:notes:frames:42-07|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:42-09|>>]]**
