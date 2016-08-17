@@ -1,23 +1,21 @@
-===== The Good News Spreads [47-13] =====
+===== ଶୁଭ ସମ୍ବାଦ ପ୍ରସାରିତ ହୁଅନ୍ତି [47-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
-===== Important Terms: =====
+ପରଦିନ ନଗରର ନେତାମାନେ ପାଉଲ ଓ ଶୀଲାଙ୍କୁ କାରାଗାରରୁ ମୁକ୍ତ କରି ସେମାନଙ୍କୁ ଫିଲିପ୍ପୀରୁ ଚାଲିଯିବା ନିମନ୍ତେ ପଚାରିଲେ । ପାଉଲ ଓ ଶୀଲା ଲୂଦିଆ ଓ ଅନ୍ୟ କେତେକ ବନ୍ଧୁଙ୍କୁ ସାକ୍ଷାତ କଲେ ତା’ପରେ ସେମାନେ ସେହି ନଗର ପରିତ୍ୟାଗ କଲେ । ଯୀଶୁଙ୍କ ବିଷୟକ ଶୁଭସମ୍ବାଦ ପ୍ରସାରିତ ହୋଇଚାଲିଲା, ଏବଂ ମଣ୍ଡଳୀ ମଧ୍ୟ ବୃଦ୍ଧିପାଇବାକୁ ଲାଗିଲା ।
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:silas]]**
-  * **[[:or:obe:other:philippi]]**
-  * **[[:or:obe:kt:goodnews]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:church]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଶୀଲା**,
+  * **ଫିଲିପ୍ପୀ**
+  * **ଶୁଭ****ସମ୍ବାଦ**, **ସୁସମାଚାର**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ମଣ୍ଡଳୀ**, **ମଣ୍ଡଳୀ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, "People in more and more places were hearing the good news about Jesus."
-  * **the Church kept growing** - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
-
+  * ନଗରର ନେତାଗଣ - ଏହା ସୁଚିତ କରେ ,"ନଗରର ଅଧିକାରୀ ମାନଙ୍କୁ " କିମ୍ବା "  ସହରର କ୍ଷମାତାପ୍ରାପ୍ତ ଅଧିକାରୀ ମାନଙ୍କୁ,"
+  * ଯୀଶୁଙ୍କ ବିଷୟକ ଶୁଭ ସମ୍ବାଦ ପ୍ରସାରିତ ହୋଇ ଚାଲିଲା - ଯେ ଅଛନ୍ତି, "ଲୋକମାନଙ୍କ ରେ ଆଉ ଓ ଆଉ ସ୍ଥାନ ଥିଲେ ଶୁଣିଥିବାରୁ ଉତ୍ତମ ନୂତନ ବିଷୟରେ ଯୀଶୁ."
+  * ମଣ୍ଡଳୀ ବୃଦ୍ଧିପାଇ  ଚାଲିଲା - ତାହା ହେଉଅଛି, "ଅନେକ ଲୋକମାନେ ମଣ୍ଡଳୀର ଅଂଶ ହେଉଥିଲେ" କିମ୍ବା, "ଅନେକରୁ ଅନେକ ଲୋକେ ଯୀଶୁଙ୍କ ଠାରେ ବିଶ୍ଵାସ କରୁଥିଲେ"
 
 **[[:or:obs:notes:frames:47-12|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-14|>>]]**
