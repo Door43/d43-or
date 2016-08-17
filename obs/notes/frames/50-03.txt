@@ -1,25 +1,23 @@
-===== The Fields Are Ripe [50-03] =====
+===== କ୍ଷେତଗୁଡିକ ପାଚିଯାଇଅଛି [50-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
-Many **people groups** still have not heard about **Jesus**. Before he returned to **heaven**, Jesus told **Christians** to proclaim the **good news** to people who have never heard it. He said, “Go and **make disciples** of all people groups!” and, “**The fields are ripe for harvest**!”
-===== Important Terms: =====
+ଅନେକ ଲୋକଦଳ ଏପର୍ଯ୍ୟନ୍ତ ଯୀଶୁଙ୍କ ବିଷୟରେ ଶୁଣିନାହାନ୍ତି । ସେ ସ୍ବର୍ଗକୁ ଫେରିଯିବା ପୂର୍ବରୁ, ଯେଉଁମାନେ କେବେ ମଧ୍ୟ ସୁସମାଚାର ଶୁଣିନାହାନ୍ତି ସେମାନଙ୍କ ନିକଟରେ ସୁସମାଚାର ଘୋଷଣା କରିବା ନିମନ୍ତେ ଯୀଶୁ ଖ୍ରୀଷ୍ଟିୟାନମାନଙ୍କୁ କହିଅଛନ୍ତି । ସେ କହିଲେ “ତୁମ୍ଭେମାନେ ଯାଇ ସମସ୍ତ ଲୋକଦଳଙ୍କୁ ଶିଷ୍ୟ କର!”, ଏବଂ “ଅମଳ ନିମନ୍ତେ ଶଷ୍ୟ ପାଚି ଯାଇଅଛି!”
 
-  * **[[:or:obe:other:peoplegroup]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:kt:christian]]**
-  * **[[:or:obe:kt:goodnews]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଲୋକସମୁହ**, **ଲୋକମାନେ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**,
+  * **ଖ୍ରୀଷ୍ଟୀୟାନ**
+  * **ଶୁଭ****ସମ୍ବାଦ**, **ସୁସମାଚାର**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **make disciples** - This has the meaning, "help people to become my disciples."
-  * **The fields are ripe for harvest** - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
-  * **The fields** - In this expression, "The fields" represents the people in the world.
-  * **ripe** - "Ripe" here represents being ready to believe in Jesus.
-  * **harvest** - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
-
+  * ଶିଷ୍ୟ କରନ୍ତୁ - ଏହାର ଅରହ ଅଛି, "ସାହାଯ୍ୟକୁ ଲୋକମାନଙ୍କୁ ମୋର ଶିଷ୍ୟ ହେବାପାଇଁ ସାହାଯ୍ୟ କରନ୍ତୁ"
+  * କ୍ଷେତରେ ଅମଳ ନିମନ୍ତେ ପାଚିଯାଇଅଛି - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ , "କ୍ଷେତ ଯେପରି ଅମଳ କରିବା ନିମନ୍ତେ ପାଚି ଯାଇଅଛି, ସେହିପରି ସେମାନେ ଇଶ୍ବରଙ୍କ ନିକଟକୁ ଆଣିବା ପାଇଁ ପ୍ରସ୍ତୁତ ଅଛି, କିମ୍ବା, "ସେମାନଙ୍କୁ ଜମା କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଅଛି ଏବଂ  ପରମେଶ୍ବରଙ୍କ ଅଣାଯାଇଅଛି ଯେପରି କ୍ଷେତଗୁଡିକ ଯାହାର ଶଷ୍ୟଗୁଡିକ ପାଚି ଯାଇଅଛିଏବଂ ଜମା କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଅଛି"
+  * କ୍ଷେତଗୁଡିକ - ଏହି ପ୍ରକାଶନରେ, "କ୍ଷେତଗୁଡିକ" ଜଗତର ଲୋକମାନଙ୍କୁ ସୁଚାଏ ।
+  * ପାଚିବା - "ପାଚିବା" ଏଠାରେ ଯୀଶୁଙ୍କୁ ବିଶ୍ବାସ କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ ହୋଇଅଛିକୁ ସୁଚାଏ.
+  * ଅମଳ - "ଅମଳ" ଏଠାରେ ଲୋକମାନଙ୍କୁଯୀଶୁଙ୍କ ବିଷୟରେ ଶିକ୍ଷା ଦେବା ଦ୍ଵାରା ପରମେଶ୍ବରଙ୍କ ନିକଟକୁ ଆଣିବାକୁ ସୁଚାଏ
 
 **[[:or:obs:notes:frames:50-02|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-04|>>]]**
