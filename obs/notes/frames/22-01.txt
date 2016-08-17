@@ -1,23 +1,21 @@
-===== God Spoke to Zechariah [22-01] =====
+===== ପରମେଶ୍ଵର ଯିଖରିୟଙ୍କୁ କଥା ହେଲେ [22-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
-In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
-===== Important Terms: =====
+ପୁର୍ବରେ, ଈଶ୍ବର ତାହାଙ୍କ ଲୋକମାନଙ୍କୁ ତାହାଙ୍କ ଦୂତଗଣ ଏବଂ ଭାବବାଦୀମାନଙ୍କ ଦ୍ବାରା କଥା କହୁଥିଲେ । କିନ୍ତୁ 400 ବର୍ଷ ବିତିଗଲା ଯେତେବେଳେ କି ସେ ସେମାନଙ୍କୁ କଥା କହିଲେ ନାହିଁ । ହଠାତ୍ ଜଣେ ଦୂତ ଈଶ୍ବରଙ୍କଠାରୁ ଏକ ବାର୍ତ୍ତା ନେଇ ଯିଖରିୟ ନାମକ ଏକ ବୃଦ୍ଧ ଯାଜକଙ୍କ ନିକଟକୁ ଆସିଲେ । ଯିଖରିୟ ଏବଂ ତାଙ୍କ ସ୍ତ୍ରୀ ଇଲିଶାବେଥ ଈଶ୍ବର ପରାୟଣ ଲୋକ ଥିଲେ, କିନ୍ତୁ ସେ ସନ୍ତାନ ଜନ୍ମ କରିବା ନିମନ୍ତେ ଅକ୍ଷମ ଥିଲେ ।
 
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:kt:prophet]]**
-  * **[[:or:obe:kt:priest]]**
-  * **[[:or:obe:other:zechariahnt]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପରମେଶ୍ଵର**
+  * **ଦୁତ, ****ପ୍ରଧାନ ****ଦୁତ**
+  * **ଭାବବାଦୀ, ****ଭାବବାଣୀ, ****ଭାବବାଣୀ ****କହିବା ****ଭାବବାଦୀ**
+  * **ଯାଜକ, ****ଯାଜକୀୟ**
+  * **ଯିଖରିୟ (****ନୁତନ ****ନିୟମ)**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **his people** - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
-  * **400 years went by** - Another way to say this would be, "400 years passed" or "there were 400 years." 400 years had passed since the last Old Testament prophet, Malachi.
-  * **when he did not speak to them** - That is, "during which God did not give any messages to the prophets for his people."
-  * **godly people** - That is, "people who obeyed God."
-
+  * ତାଙ୍କ ଲୋକମାନେ - ଏହିକୁ ଏହିପରିଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ତାଙ୍କ ଲୋକମାନେ, ଇସ୍ରାଏଲୀୟ" କିମ୍ବା "ତାଙ୍କ ଲୋକମାନେ, ଯିହୂଦୀମାନେ." କିନ୍ତୁ କେବଳ ଯୋଡାଯାଇଥିବା ସୁଚନାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ ଯଦି ଏହି ଲୋକମାନେ କିଏ ଥିଲେ ବୋଲି ସ୍ପଷ୍ଟ ଭାବରେ ବୁଝାଯାଏ ନାହିଁ
+  * ୪୦୦ ବର୍ଷ ବିତିଗଲା - ଏହାକୁ ଅନ୍ୟ ପ୍ରକାରରେ କହିପାରିବା, "୪୦୦ ବର୍ଷ ବିତିଗଲା" କିମ୍ବା "  ୪୦୦ ବର୍ଷ ପରେ" ୪୦୦ ବର୍ଷ  ବିତିଗଲା ପୁରାତନ ସମୟରେ ଥିବା ମଲାଖୀଙ୍କ ସମୟଠାରୁ.
+  * ଯେତେବେଳେ ସେ ସେମାନଙ୍କ ସହିତ କଥା କହିଲେ ନାହିଁ - ତାହା ହେଉଛି, "ଯେଉଁ ସମୟରେ ପରମେଶ୍ଵର  ତାହାଙ୍କ ଲୋକମାନଙ୍କୁ  କୌଣସି ସମ୍ବାଦ ଭାବବାଦୀମାନଙ୍କୁ ଦେଇ ନ ଥିଲେ ."
+  * ଈଶ୍ବର ପରାୟଣ ଲୋକମାନେ- ତାହା ହେଉଛି, "ଲୋକମାନେ ଯେଉଁମାନେ ପରମେଶ୍ଵରଙ୍କ ବାଧ୍ୟ ହେଲେ ."
 
 **[[:or:obs:notes:frames:21-15|<<]] | [[:or:obs:notes:22|Up]] | [[:or:obs:notes:frames:22-02|>>]]**
