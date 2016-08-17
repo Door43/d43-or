@@ -1,21 +1,19 @@
-===== Sell Everything [28-04] =====
+===== ସମସ୍ତ ବିକ୍ରୀ କର [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
-===== Important Terms: =====
+ଯୀଶୁ ଉତ୍ତର ଦେଲେ “ଯଦି ତୁମ୍ଭେ ସିଦ୍ଧ ହେବାକୁ ଚାହଁ, ତେବେ ତୁମ୍ଭର ସମସ୍ତ ବିକ୍ରୟ କରି ଦରିଦ୍ରମାନଙ୍କୁ ଦାନ କର, ଏବଂ ତୁମ୍ଭେ ସ୍ବର୍ଗରେ ଧନ ପାଇବ । ତା’ପରେ ଆସି ମୋର ଅନୁଗମନ କର ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:heaven]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
+  * ତୁମ - ଯଦି ଆପଣଙ୍କ ଭାଷାରେ "ଆପଣ" ଶବ୍ଦଟି ଅନେକ ଥର  ଥାଏ, ଲୋକଙ୍କ ସଂଖ୍ୟାରେ ନିର୍ଭର କରେ, ତେବେ ଏକବଚନ ବ୍ୟବହାର କରନ୍ତୁ". ଯୀଶୁ ଏହି ଆଜ୍ଞା ଜଣେ ବ୍ୟକ୍ତିଙ୍କୁ କହୁଥିଲେ .
+  * ସିଦ୍ଧ - ତାହା ହେଉଛି, "ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ଧାର୍ମିକ."
+  * ତୁମ ନିଜ ସମସ୍ତ - ତାହା ହେଉଛି, "ତୁମ ସମସ୍ତ ସମ୍ପତ୍ତି."
+  * ଧନ – ଏହାକୁ ଏପରି  ଅନୁବାଦ କରାଯାଇପାରିବ," ଧନସମ୍ପତ୍ତି" କିମ୍ବା "ଧନ" ।
+  * ସ୍ବର୍ଗରେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ସ୍ବର୍ଗରେ ରହିଅଛି ଯେତେବେଳେ ତୁମେ ସ୍ବର୍ଗରେ ପହଂଚିବ." ଏହି ଧନ "ସେହିସ୍ଥାନରେ ଏବଂ ସେତେବେଳେ."ଥିବା ଯେପରି ଯୀଶୁ ସେହି ଯୁବକକୁ ଏହି ଧନ ବିରୁଦ୍ଧରେ "ଏହିଠାରେ ଏବଂ ବର୍ତ୍ତମାନ" ପରିତ୍ୟାଗ କରିବାକୁ କହିଲେ
 
 **[[:or:obs:notes:frames:28-03|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-05|>>]]**
