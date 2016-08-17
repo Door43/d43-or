@@ -1,23 +1,22 @@
-===== The Slave Girl [47-03] =====
+===== ଦାସୀ ବାଳିକା [47-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
-**Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
-===== Important Terms: =====
+ପାଉଲ ଓ ଶୀଲା ପ୍ରାର୍ଥନା ସ୍ଥାନରେ ଅନେକ ସମୟରେ ଲୋକମାନଙ୍କୁ ସାକ୍ଷାତ କରୁଥିଲେ । ପ୍ରତିଦିନ ଯେପରି ସେମାନେ ସେଠାକୁ ଯାଆନ୍ତି, ଭୂତାକ୍ରାନ୍ତ ଜଣେ ଦାସୀ ବାଳିକା ତାଙ୍କ ପଛେ ପଛେ ଅନୁଗମନ ଗଲେ । ଏହି ଭୂତ ଦ୍ବାରା ସେ ଭବିଷ୍ୟତ ଗଣନା କରି ଲୋକମାନଙ୍କର ଭବିଷ୍ୟତ କହିପାରୁଥିଲା, ତେଣୁ ସେ ତାହାର ମାଲିକ ନିମନ୍ତେ ଏକ ଭବିଷ୍ୟତ କୁହାଳୀ ଭାବରେ ପ୍ରଚୁର ଅର୍ଥ ଉପାର୍ଜନ କରିଦେଉଥିଲା ।
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:silas]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:demonpossessed]]**
-  * **[[:or:obe:kt:demon]]**
-  * **[[:or:obe:kt:lord]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଶୀଲା**, **ସିଲଭାନାସ୍**
+  * **ପ୍ରାର୍ଥନା****କରିବା**, **ପ୍ରାର୍ଥନା**
+  * **ସେବକ**  ,**ଦାସ**  ,**ଦାସତ୍ଵ**
+  * **ଭୂତ**-**ଗ୍ରସିତ**
+  * **ଭୂତ**, **ମନ୍ଦ****ଆତ୍ମା**, **ଅଶୁଚୀ****ଆତ୍ମା**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
+  * ତାହାର ମାଲିକମାନେ**
+ -**  ଏଠାରେ, ଏହାକୁ ଏହିପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇ ପାରିବ ଯେପରିକି, "ତାହାର ମାଲିକମାନେ"
+  * ଯେପରି ଏକ ଭବିଷ୍ୟତ କୁହାଳୀ - ଯାହା ଅଟେ, "କେହିଜଣେ ଯେ ଲୋକମାନଙ୍କ କହିଲେ ଭବିଷ୍ୟତରେ ସେମାନଙ୍କୁ କ'ଣ ଘଟିବ"
 
 **[[:or:obs:notes:frames:47-02|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-04|>>]]**
