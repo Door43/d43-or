@@ -1,20 +1,18 @@
-===== Jesus Appeared to the Women [41-08] =====
+===== ଯୀଶୁ ସ୍ତ୍ରୀମାନଙ୍କୁ ଦୃଶ୍ୟମାନ ହେଲେ [41-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&}}
 
-As the women were on their way to tell the **disciples** the good news, **Jesus** appeared to them, and they **worshiped** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **Galilee**. They **will see me** there.”
-===== Important Terms: =====
+ଯେତେବେଳେ ସେହି ଶୁଭ ସମ୍ବାଦକୁ ଶିଷ୍ୟମାନଙ୍କୁ କହିବା ନିମନ୍ତେ ସେମାନେ ଯାଉଥିଲେ, ରାସ୍ତାରେ ଯୀଶୁ ସେମାନଙ୍କୁ ଦେଖାଦେଲେ ଏବଂ ସେମାନେ ତାହାଙ୍କୁ ପ୍ରଣାମ କଲେ । ଯୀଶୁ କହିଲେ “ଭୟ କରନାହିଁ । ଗାଲିଲୀକୁ ଯିବା ନିମନ୍ତେ ମୋହର ଶିଷ୍ୟମାନଙ୍କୁ ଯାଇ କୁହ ।ସେଠାରେ ସେମାନେ ମୋତେ ଦେଖିବେ ।”
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:worship]]**
-  * **[[:or:obe:other:galilee]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉପାସନା**
+  * **ଗାଲିଲୀ**, **ଗାଲିଲୀୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **will see me** - That is, "will meet me" or, "can meet with me."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ମୋତେ ଦେଖିବେ  - ତାହା ହେଉଅଛି ," ମୋତେ ଦେଖ କରିବେ " କିମ୍ବା ମୋ ସହିତ ଦେଖା କରିବେ ."
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:41-07|<<]] | [[:or:obs:notes:41|Up]] | [[:or:obs:notes:frames:42-01|>>]]**
