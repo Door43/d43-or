@@ -1,18 +1,16 @@
-===== The Twelve Disciples [26-10] =====
+===== ବାର ଶିଷ୍ୟମାନେ [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
-Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
-===== Important Terms: =====
+ତା’ପରେ ଯୀଶୁ ବାରଜଣ ବ୍ୟକ୍ତିଙ୍କୁ ମନୋନୀତ କଲେ ଯେଉଁମାନଙ୍କୁ ଶିଷ୍ୟ କୁହାଯାଉଥିଲା । ଶିଷ୍ୟମାନେ ଯୀଶୁଙ୍କ ସହ ଗମନ କରୁଥିଲେ ଏବଂ ତାଙ୍କଠାରୁ ଶିଖୁଥିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:apostle]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ପ୍ରେରିତ**, **ପ୍ରେରିତ****ପଦ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **learned from him** - That is, "learned from what he taught them" or, "learned from everything he said and did."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ତାହାଙ୍କ ଠାରୁ ଶିଖିଲେ -ଏହାର ଅର୍ଥ, "ଯାହା ସେ ସେମାନଙ୍କୁ ଶିକ୍ଷା ଦେଲେ, ସେମାନେ ଶିଖିଲେ, କିମ୍ବା "ଯାହା ସମସ୍ତ ସେ କହିଲେ ଏବଂ କଲେ  ସେମାନେ ଶିଖିଲେ"
+  * ଏକ ବାଇବଲରୁ କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:26-09|<<]] | [[:or:obs:notes:26|Up]] | [[:or:obs:notes:frames:27-01|>>]]**
