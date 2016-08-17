@@ -1,21 +1,18 @@
-===== The Jewish Traveler [27-04] =====
+===== ଯିହୂଦୀ ଯାତ୍ରୀ [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
-===== Important Terms: =====
+ଯୀଶୁ ବ୍ୟବସ୍ଥା ଶାସ୍ତ୍ରଜ୍ଞଙ୍କୁ ଏକ କାହାଣୀ କହି ଏହାର ଉତ୍ତର ଦେଲେ । “ଜଣେ ଯିହୂଦୀ ବ୍ୟକ୍ତି ଥିଲେ ଯିଏ ଯିରୁଶାଲମରୁ ଯିରୀହୋକୁ ଯାତ୍ରା କରୁଥିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:other:jericho]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଯିହୂଦା**, **ଯିହୂଦୀ**, **ଯିହୂଦୀମାନେ**
+  * **ଯିରୁଶାଲମ**.
+  * **ଯିରୀହୋ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:or:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
+  * ଏହିପରି ଦୃଶ୍ୟର ଚାରିପଟେ ଥିବା ମେଘ ପରି ଫ୍ରେମ୍ ସୁଚାଏ ଯେ ଯୀଶୁ ଏହି କାହାଣୀକୁ କହୁଛନ୍ତି, ଏହ ଏକ ଐତିହାସିକ ଘଟଣା ପରି ବର୍ଣନା କରିବା ଆବଶ୍ୟକ ନୁହେଁ ବ୍ୟବସ୍ଥା ନିପୁଣତା ଆପଣ ଏହାକୁ **__[__ **__୨୭**-** ____୦୧**]**__ ରେ କିପରି ଅନୁବାଦ କରିଅଛନ୍ତି ତାହା ଦେଖନ୍ତୁ ।
+  * ଯିରୁଶାଲମରୁ ଯିରୀହୋକୁ - କେତେକ ଭାଷାରେ ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ଯିରୁଶାଲମ ନଗରରୁ ଯିରୀହୋ ନଗରକୁ" କିମ୍ବା, "ଠାରୁ ଯିରୁଶାଲମ ନଗରରୁ ଯିରୀହୋ ନଗରକୁ."
 
 **[[:or:obs:notes:frames:27-03|<<]] | [[:or:obs:notes:27|Up]] | [[:or:obs:notes:frames:27-05|>>]]**
