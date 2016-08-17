@@ -1,19 +1,17 @@
-===== The Attempt to Kill Jesus [26-07] =====
+===== ଯୀଶୁଙ୍କୁ ହତ୍ୟା କରିବାକୁ ଚେଷ୍ଟା [26-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&}}
 
-The people of **Nazareth** dragged **Jesus** out of the **place of worship** and brought him to the edge of a cliff to throw him off of it in order to kill him. **But Jesus walked through the crowd** and left the town of Nazareth.
-===== Important Terms: =====
+ନାଜରିତରେ ଥିବା ଲୋକେ ଉପାସନାର ସ୍ଥାନରୁ ଯୀଶୁଙ୍କୁ ହତ୍ୟା କରିବା ନିମନ୍ତେ ପାହାଡ ତୀଖରୁ ଠେଲି ଦେବା ନିମନ୍ତେ ସେଠାକୁ ଆଣିଲେ । କିନ୍ତୁ ଯୀଶୁ ସେମାନଙ୍କ ମଧ୍ୟ ଦେଇ ଚାଲିଗଲେ ଓ ନାଜରିତ ସହର ପରିତ୍ୟାଗ କଲେ ।
 
-  * **[[:or:obe:other:nazareth]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:worship]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ନାଜରିତ****ନାଜରିତିୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉପାସନା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jewish people gathered to worship God." This can also be translated as "worship building." See how you translated it in **[[:or:obs:notes:frames:26-02|[26-02]]]**.
-  * **But Jesus walked through the crowd** - "But" could be translated with a strong contrast word or phrase such as "But instead" or, "However" to show that the people were not able to do to Jesus what they had planned to do.
-
+  * ଉପାସନାର ସ୍ଥାନ - ତାହା ହେଉଛି, "ଏକ ଆଳୟ.ଯେଉଁସ୍ଥାନରେ ଯିହୁଦୀମାନେ ପରମେଶ୍ଵରଙ୍କୁ ଉପାସନା କରୁଥିଲେ ". ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ  "ଆରାଧନାଳୟ." ଆପଣ ସେଠାରେ କିପରି ଅନୁବାଦ କରିଛନ୍ତି \[୨୬-୦୨]ତାହାକୁ ଦେଖନ୍ତୁ
+  * କିନ୍ତୁ ଯୀଶୁ ଜନଗହଳି ମଧ୍ୟ ଦେଇ ଚାଲିଗଲେ - "କିନ୍ତୁ ଦୃଢ ପ୍ରତିରୋଧ ଶବ୍ଦ କିମ୍ବା ବାକ୍ୟାଂଶ ସହିତ ଅନୁବାଦ କରାଯାଇପାରେ ଯଥା "କିନ୍ତୁ ପରିବର୍ତ୍ତେ" କିମ୍ବା "ଯେପରିକି" ଲୋକମାନେ ଯୀଶୁଙ୍କୁ ଯାହା କରିବାକୁ ଯୋଜନା କରିଥିଲେ, ସେମାନେ ତାହା କରିପାରିଲେ ନାହିଁ, ତାହା ଦେଖାଇବାକୁ ଚାହୁଥିଲେ
 
 **[[:or:obs:notes:frames:26-06|<<]] | [[:or:obs:notes:26|Up]] | [[:or:obs:notes:frames:26-08|>>]]**
