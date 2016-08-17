@@ -1,24 +1,22 @@
-===== The Miracles of Stephen [45-01] =====
+===== ଫିଲିପଙ୍କ ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ [45-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
-===== Important Terms: =====
+ଆଦ୍ୟ ମଣ୍ଡଳୀରେ ନେତାମାନଙ୍କ ମଧ୍ୟରୁ ସ୍ତିଫାନ ନାମକ ଜଣେ ବ୍ୟକ୍ତି ଥିଲେ. ତାହାଙ୍କର ଏକ ଉତ୍ତମ ସୁନାମ ଥିଲା ଏବଂ ପବିତ୍ରା ଆତ୍ମାରେ ଏବଂ ଜ୍ଞାନରେ ପୁର୍ଣ ଥିଲେ. ସ୍ତିଫାନ ଅନକ ଆଶ୍ଚର୍ଯ୍ୟ କର୍ମଗୁଡିକ କଲେ ଏବଂ ପ୍ରବର୍ତାଇଲା ପରି କଳନା କରୁଥିଲେ ଯେ ଲୋକମାନେ ଯୀଶୁଙ୍କୁ ବିଶ୍ବାସ କରିବା ଉଚିତ୍
 
-  * **[[:or:obe:kt:church]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:wise]]**
-  * **[[:or:obe:kt:miracle]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ମଣ୍ଡଳୀ**, **ମଣ୍ଡଳୀ**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇସ୍ବରଙ୍କ****ଆତ୍ମା**, **ପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ଜ୍ଞାନବାନ୍**, **ଜ୍ଞାନ**
+  * **ଆଶ୍ଚର୍ଯ୍ୟ**, **ଚମତ୍କାର**, **ଚିହ୍ନ**
+  * **ବିଶ୍ବାସ****କରିବା**, **ଠାରେ****ବିଶ୍ବାସ****କରିବା**, **ବିଶ୍ବାସ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the early Church** - That is, "the Church when it first began."
-  * **had a good reputation** - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
-  * **reasoned persuasively that** - That is, "gave convincing reasons why."
-
+  * ଆଦ୍ୟ ମଣ୍ଡଳୀ - ଏହାର ଅର୍ଥ ହେଲା "ମଣ୍ଡଳୀ ଯାହା ପ୍ରଥମେ ଆରମ୍ବ ହୋଇଥିଲା."
+  * ଉତ୍ତମ ସମ୍ମାନ ଥିଲା - ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି "ଲୋକମାନଙ୍କ ଦ୍ବାରା ଉତ୍ତମ ଜଣାଯିବ". କିଛି ଭାଷାରେ ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରାଯାଏ ଯେମିତି "ଉତ୍ତମ ନାମ ଥିଲା"
+  * ପବିତ୍ର ଆତ୍ମା ଓ ଜ୍ଞାନରେ ପୁର୍ଣ ଥିଲେ - ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ପବିତ୍ର ଆତ୍ମା ଠାରୁ ବହୁତ ଶକ୍ତି ଓ ସାମର୍ଥ ଥିଲା ଏବଂ ବୁଧିମାନ ଥିଲେ" କିମ୍ବା "ପବିତ୍ର ଆତ୍ମାରେ ପରିପୁର୍ଣ ଏବଂ ବୁଧିମାନ ଥିଲେ"
+  * ପ୍ରବର୍ତ୍ତାଇଲା ପରି ଯୁକ୍ତିଯୁକ୍ତ କଲେ - ଏହାର ଅର୍ଥ ହେଲା "କାହିଁକି ହୃଦବୋଧ କାରଣଗୁଡିକ ଦେଲେ"
 
 **[[:or:obs:notes:frames:44-09|<<]] | [[:or:obs:notes:45|Up]] | [[:or:obs:notes:frames:45-02|>>]]**
