@@ -1,20 +1,20 @@
-===== Paul and Silas in Prison [47-08] =====
+===== କାରାଗାର ପାଉଲ ଓ ଶୀଲା [47-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?nolink&}}
 
-They put **Paul** and **Silas** in the most secure part of the prison and even locked up their feet. Yet **in the middle of the night**, they were **singing songs of praise to God**.
-===== Important Terms: =====
+ସେମାନେ ପାଉଲ ଓ ଶୀଲାଙ୍କୁ କାରାଗାରର ଅତି ସୁରକ୍ଷିତ ସ୍ଥାନରେ ରଖି ସେମାନଙ୍କର ପାଦକୁ ମଧ୍ୟ ବନ୍ଧନ କରି ରଖିଲେ । ତଥାପି ମଧ୍ୟରାତ୍ରିରେ ସେମାନେ ଈଶ୍ବରଙ୍କ ନିକଟରେ ପ୍ରସଂଶାର ଗୀତ ଗାନ କରୁଥିଲେ ।
 
-  * **[[:or:obe:other:paul]]**
-  * **[[:or:obe:other:silas]]**
-  * **[[:or:obe:other:praise]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ପାଉଲ**, **ଶାଉଲ**
+  * **ଶୀଲା**, **ସିଲଭାନାସ୍**
+  * **ସ୍ତୁତି****କରିବା**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **in the middle of the night** - This could be translated as, "very late at night" or, "very early in the morning." This was when it was completely dark outside, when people would normally be asleep.
-  * **singing songs of praise to God** - This can also be translating as, "praising God by singing" or, "singing songs to praise God" or, "singing songs that gave praise to God."
-
+  * ମଧ୍ୟ ରାତ୍ରିରେ**
+ - ** ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି ,"ରାତି ଅଧରେ " କିମ୍ବା " ପ୍ରାପ୍ତ କାଳରେ"
+  * ବାହାରେ ଏହା ସମ୍ପୁର୍ଣ ଭାବରେ ଅନ୍ଧକାର ଥିଲା ,ସ୍ବାଭାବିକତଃ ଏହି ସମୟରେ ଲୋକମାନେ ନିଦ୍ରିତ ଥାନ୍ତି
+  * ପରମେଶ୍ଵରଙ୍କୁ ପ୍ରସଂଶାର ଗୀତ ଗାଉଥିଲେ** -**  ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେପରିକି ,"ପରମେଶ୍ଵରଙ୍କୁ ଗୀତ ଗାଇ ପ୍ରସଂଶା କରିବା" କିମ୍ବା, "ପରମେଶ୍ବରଙ୍କ ପାଇଁ ପ୍ରସଂଶାର ଗୀତ ଗାଇବା" କିମ୍ବା " ସଂଗୀତ ଗୁଡିକ ଯାହା ପରମେଶ୍ଵରଙ୍କୁ ପ୍ରସଂଶା ଦିଏ,"
 
 **[[:or:obs:notes:frames:47-07|<<]] | [[:or:obs:notes:47|Up]] | [[:or:obs:notes:frames:47-09|>>]]**
