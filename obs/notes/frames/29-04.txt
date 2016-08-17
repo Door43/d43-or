@@ -1,21 +1,19 @@
-===== The Debt Is Canceled [29-04] =====
+===== କରଜକୁ ଛାଡ କଲେ [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
-===== Important Terms: =====
+“ସେହି ଦାସ ରାଜାଙ୍କ ଗୋଡ ତଳେ ପଡିଯାଇ କହିଲା ‘ଦୟାକରି ମୋ ଉପରେ ଧୈର୍ଯ୍ୟ ଧରନ୍ତୁ, ଏବଂ ମୁଁ ଆପଣଙ୍କଠାରେ ଋଣୀ ଥିବା ସମସ୍ତ ଋଣ ପରିଶୋଧ କରିଦେବି ।‘  ରାଜା ସେହି ଦାସ ପ୍ରତି ଦୟା ଦେଖାଇଲେ, ତେଣୁ ସେ ତାହାର ସମସ୍ତ ଋଣକୁ ଛାଡ କରିଦେଲା ।“
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:king]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **ରାଜା**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fell on his knees** - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, "in front of the king."
-  * **felt pity** - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ତାଙ୍କ ଗୋଡ ତଳେ ପଡିଲା - ତାହା ହେଉଛି, " ଭୁମି ଉପରେ ଆଣ୍ଠେଇ ପଡିଲା." ଏହି ପ୍ରକାରେ ତାହାର ନମ୍ରତାକୁ ଦେଖାଇଲା ଏବଂ ରାଜାଙ୍କଠାରୁ ତାହାକୁ ସାହାଯ୍ୟ ପାଇବାର ଇଚ୍ଛା ରଖିଲା. ନିଶ୍ଚିତ କରନ୍ତୁ ଏହି ଶବ୍ଦ ଏପରି ଶୁଭା ନ ଯାଉ ଦେ ଅକସ୍ମାତ୍ ପଡିଗଲେ .
+  * ରାଜା ସମ୍ମୁଖରେ - ଏହାର ଅର୍ଥ, " ରାଜାଙ୍କ ସମ୍ମୁଖରେ"
+  * ଦୟା ଦେଖାଇଲେ - ତାହା ହେଉଛି, "ଦୟାରେ ବିଗଲିତ ହେଲେ" କିମ୍ବା, "ଦୁଃଖ ପ୍ରକାଶ କଲେ." ରାଜା ଜାଣିଥିଲେ ଯେ ଯଦି ଦାସ ଏବଂ ତାହାର ପରିବାରକୁ ଅତିଶୟ କଷ୍ଟ ସ୍ନୁଭାବ କରିବେ ଯଦି ସେମାନଙ୍କୁ ଦାସ ଭାବରେ ବିକ୍ରୀ କରାଯାଏ.
+  * ତାଙ୍କର ସମସ୍ତ କରଜ ଛାଡ କରିଦେଲେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରିବା, "କହିଲେ ଯେ ଦାସ ରାଜାଙ୍କ ଠାରୁ ଯେତେ କରଜ କରିଅଛି, ପରିଶୋଧ କରିବାର ଆବଶ୍ୟକ ନାହିଁ"
 
 **[[:or:obs:notes:frames:29-03|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-05|>>]]**
