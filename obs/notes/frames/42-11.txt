@@ -1,27 +1,25 @@
-===== Jesus Went to Heaven [42-11] =====
+===== ଯୀଶୁ ସ୍ବର୍ଗକୁ ଗଲେ [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
-===== Important Terms: =====
+ଯୀଶୁ ମୃତ୍ୟୁରୁ ଉଠିବାର ଚାଳିଶ ଦିନ ପରେ, ସେ ତାହାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ କହିଲେ “ପବିତ୍ରଆତ୍ମା ତୁମ୍ଭମାନଙ୍କ ଉପରେ ଅବତରଣ କରିବା ସମୟରେ ମୋ ପିତା ତୁମ୍ଭମାନଙ୍କୁ ଯେତେବେଳେ ଶକ୍ତି ନ ଦେବା ପର୍ଯ୍ୟନ୍ତ ଯିରୁଶାଲମରେ ରହିଥାଅ ।” ତା’ପରେ ଯୀଶୁ ସ୍ବର୍ଗକୁ ଗଲେ, ଏବଂ ଏକ ମେଘ ସେମାନଙ୍କ ଆଖି ଆଢୁଆଳରୁ ଯୀଶୁଙ୍କୁ ଲୁଚାଇ ଦେଲା । ଯୀଶୁ ସମସ୍ତ ବିଷୟ ଉପରେ କର୍ତ୍ତୃକ କରିବା ନିମନ୍ତେ ଈଶ୍ବରଙ୍କ ଦକ୍ଷିଣ ପାର୍ଶ୍ବରେ ବସିଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:godthefather]]**
-  * **[[:or:obe:kt:power]]**
-  * **[[:or:obe:kt:holyspirit]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:kt:god]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ଯିରୁଶାଲମ**.
+  * **ପରମେଶ୍ଵର****ପିତା**, **ସ୍ବର୍ଗସ୍ଥ****ପିତା**, **ପିତା**
+  * **ଶକ୍ତି**, **ଶକ୍ତି**
+  * **ପବିତ୍ରା****ଆତ୍ମା**, **ଇଶ୍ବରଙ୍କ****ଆତ୍ମା**,**ସଦାପ୍ରଭୁଙ୍କ****ଆତ୍ମା**
+  * **ସ୍ଵର୍ଗ**, **ଆକାଶ**, **ସ୍ଵର୍ଗ**, **ସ୍ବର୍ଗସ୍ଥ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ତୁମ ଉପରେ ଆସିବ - ତାହା ହେଉଛି,."ତୁମ ଉପରେ ଅବତରଣ ହେବ" କିମ୍ବା "ତୁମ ଉପରେ ଆସିବ"
+  * ସେମାନଙ୍କ ଦୃଷ୍ଟିରୁ ତାଙ୍କୁ ମେଘ ଲୁଚାଇଲା - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ସେ ମେଘରେ ଅଦୃଶ୍ୟ ହୋଇଗଲେ"
+  * ପରମେଶ୍ଵରଙ୍କ ଡାହାଣ ହସ୍ତରେ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵରଙ୍କ ଡାହାଣ ପାର୍ଶ୍ବରେ."
+  * ସମସ୍ତ ବିଷୟ ଉପରେ - ତାହା ହେଉଛି, "ସମସ୍ତ ଉପରେ."
+  * ଏକ ବାଇବଲର  କାହାଣୀ//\//  – ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରୁ ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ।
 
 **[[:or:obs:notes:frames:42-10|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:43-01|>>]]**
