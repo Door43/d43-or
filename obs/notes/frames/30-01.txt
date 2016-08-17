@@ -1,20 +1,16 @@
-===== A Quiet Place [30-01] =====
+===== ଏକ ନିର୍ଜନ ସ୍ଥାନ [30-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-**Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
+ଅନେକ ଭିନ୍ନ ଭିନ୍ନ ଗ୍ରାମରେ ପ୍ରଚାର କରିବାକୁ ଓ ଶିକ୍ଷା ଦେବାକୁ ଯୀଶୁ ତାହାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ ପ୍ରେରଣ କଲେ । ଯୀଶୁ ଯେଉଁଠାରେ ଥିଲେ ସେଠାକୁ ସେମାନେ ଯେତେବେଳେ ଫେରିଲେ, କ’ଣ କ’ଣ ଘଟିଥିଲା ତାହା ସେମାନେ ତାହାଙ୍କୁ କହିଥିଲେ । ତା’ପରେ ଯୀଶୁ ହ୍ରଦର ଆରପାରିରେ ଥିବା କୌଣସି ଏକ ନିର୍ଜନ ସ୍ଥାନକୁ ଯିବା ନିମନ୍ତେ ସେମାନଙ୍କୁ ଆହ୍ବାନ କଲେ । ତେଣୁ, ସେମାନେ ଏକ ନୌକାରେ ବସିଲେ ଏବଂ ହ୍ରଦର ଆରପାରିକି ଗଲେ ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Important Terms: =====
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପ୍ରେରିତ, ପ୍ରେରିତ ପଦ**
+  * **ପ୍ରଚାର**
+===== ଅନୁବାଦ ବିବରଣ**:**  =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:apostle]]**
-  * **[[:or:obe:other:preach]]**
-
-
-===== Translation Notes: =====
-
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
+  * ନିରବ ସ୍ଥାନ -ଏହା ଏକ ସ୍ତାନକୁ ସୁଚାଏ ଯେଉଁଠି କେବଳ କିଛି ଲୋକାମାନେ ରୁହନ୍ତି.
 
 **[[:or:obs:notes:frames:29-09|<<]] | [[:or:obs:notes:30|Up]] | [[:or:obs:notes:frames:30-02|>>]]**
