@@ -1,24 +1,23 @@
-===== The Wicked Servant [29-08] =====
+===== ଦୁଷ୍ଟ ଦାସ [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
+“ରାଜା ସେହି ଦାସକୁ ଡାକି କହିଲେ, ‘ଦୁଷ୍ଟ ଦାସ!” ତୁମେ ମୋତେ କ୍ଷମାଭିକ୍ଷା ମାଗିବାରୁ ମୁଁ ତୁମର ସମସ୍ତ ଋଣ ଛାଡ କରିଦେଲି! ତୁମେ ମଧ୍ୟ ଠିକ୍ ସେହିପରି ଭାବରେ ହିଁ କରିବା ଉଚିତ ।‘ ରାଜା ଏତେ କ୍ରୋଧୀ ହୋଇଯାଇଥିଲେ ଯେ ସେହି ଦାସ ସମସ୍ତ ଋଣ ପରିଶୋଧ କରିବା ପର୍ଯ୍ୟନ୍ତ କାରାଗାର ମଧ୍ୟକୁ ପଠାଇଦେଲେ ।
 
-  * **[[:or:obe:other:king]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:other:beg]]**
-  * **[[:or:obe:kt:evil]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ରାଜା**
+  * **ଦାସୀ**, **ଦାସ**, **ଦାସତ୍ଵ**
+  * **କ୍ଷମା****କରିବା**, **କ୍ଷମା**
+  * **ଭିକ୍ଷା****ମାଗିବା**, **ଭିକାରୀ**
+  * , **ମନ୍ଦ**, **ଭୁତ**, **ମନ୍ଦ****ଜଣେ**
 
-===== Translation Notes: =====
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:or:obs:notes:frames:29-06|[29-06]]]**.
-
+  * (ଯୀଶୁ କାହାଣୀ କହିବା ଜାରି ରଖିଲେ .)
+  * ଦାସକୁ ଡାକିଲେ - ତାହା ହେଉଛି, "ଦାସକୁ ତାଙ୍କ ନିକଟକୁ ଆସିବାକୁ କହିଲେ. କିମ୍ବା "ତାହାଙ୍କ ପ୍ରହରିମାନଙ୍କୁ ସେହି ଦାସକୁ ତାଙ୍କ ନିକଟକୁ ଆଣିବା ପାଇଁ କହିଲେ
+  * ମୋତେ ବିନତି କଲେ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ" କିମ୍ବା, "ଜରୁରୀ ଭାବରେ ଦୟା ହକରିବାକୁ କହିଲେ."
+  * ତୁମକୁ ଏହିପରି ସମାନ କରିବାର ଉଚିତ୍ ଥିଲା - ତାହା ହେଉଛି, "ତୁମେ ସେହି ବ୍ୟକ୍ତିକୁ କ୍ଷମା କରିବା ଆବଶ୍ୟକ ଥିଲା ଯିଏ ତୁମଥାତୁ କରଜ କରିଥିଲା,ଯେପରି ମୁଁ ତୁମକୁ କ୍ଷମା କଲି"
+  * ଫୋପାଡି ଦେଲେ - ତାହା ହେଉଛି, "ତାହାଙ୍କ ପ୍ରହରିମାନଙ୍କୁ ପକାଇବାକୁ ଆଜ୍ଞା ଦେଲେ." ଜାଣନ୍ତୁ  କିପରି "ଫୋପାଡି ଦେଲେ" ପଦକୁ  **__[__ **__୨୯**-** ____୦୬**]**__.ରେ ଅନୁବାଦ କରିଛନ୍ତି
 
 **[[:or:obs:notes:frames:29-07|<<]] | [[:or:obs:notes:29|Up]] | [[:or:obs:notes:frames:29-09|>>]]**
