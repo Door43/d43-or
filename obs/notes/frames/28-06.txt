@@ -1,20 +1,18 @@
-===== The Camel and the Needle [28-06] =====
+===== ଓଟ ଏବଂ ସୂଚୀ [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
+ତା’ପରେ ଯୀଶୁ ତାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ କହିଲେ “ଧନୀ ଲୋକର ଈଶ୍ବରଙ୍କ ରାଜ୍ୟରେ ପ୍ରବେଶ କରିବା ଅତ୍ୟନ୍ତ କଷ୍ଟକର ଅଟେ! ହଁ, ଧନୀ ଲୋକର ସ୍ବର୍ଗରେ ପ୍ରବେଶ କରିବା ଅପେକ୍ଷା ସୂଚୀ (ଛୁଞ୍ଚି)ର ଛିଦ୍ର (କଣା) ଦେଇ ଓଟର ପ୍ରବେଶ କରିବା ସହଜ ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ରାଜ୍ୟ**, **ସ୍ଵର୍ଗରାଜ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **enter the kingdom of God** - This can also be translated as, "become a citizen in God's kingdom."
-  * **camel** - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
-
+  * ପ୍ରବେଶ ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟରେ ଏକ ନାଗରିକ ହେବା."
+  * ଓଟ - ଓଟମାନେ  ଅତି ବୃହତ୍ ପଶୁ ଯେ ଅତି ଭାରୀ ବୋଝକୁ ଉଠାଇବା ନିମତେ ବ୍ୟବହାର କରାଯାଏ. ଯଦି ଓଟକୁ ଆପଣଙ୍କ ଭାଷାରେ ଜଣ ନାହିଁ, ଏକ ବାକ୍ୟାଂଶ ଯେପରି "ଅତି ବୃହତ୍ ପଶୁ" କିମ୍ବା "ବୋଝକୁ ଉଠାଇବା ପଶୁ" ନିମନ୍ତେ ବ୍ୟବହାର କରାଯାଇପାରିବ ଯଦି ତୁମେ କୌଣସି ବୃହତ୍ ପଶୁର ନାମ ବ୍ୟବହାର କର, ତାହା ହେଲେ ନିଶ୍ଚିତ କର ଲୋକମାନେ ଯେପରି ତାହା ଜାଣିପାରିବେ, ଯେମିତି ଯୀଶୁ "ବଳଦ" କିମ୍ବା "ଗଧ" ବିଷୟରେ କହୁଥିଲେ
+  * ସୁଚିର ଛିଦ୍ର - ଏହା ଏକ ସରୁ ଛିଦ୍ର ଯାହା ସୁଚିର ଶେଷ ଭାଗରେ ଥାଏ. ଓଟ ସୁଚିର ଛିଦ୍ର ଦେଇ ପ୍ରବେଶ କରିବା ଏକ ଅସମ୍ଭବ ବିଷୟକୁ ସୁଚାଇବା ନିମନ୍ତେ ଏକ କଳ୍ପନା ବ୍ୟବହାର କରାଯାଇଛି
 
 **[[:or:obs:notes:frames:28-05|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-07|>>]]**
