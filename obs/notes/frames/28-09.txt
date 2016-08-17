@@ -1,18 +1,19 @@
-===== What Is Our Reward? [28-09] =====
+===== ଆମ୍ଭମାନଙ୍କ ପୁରଷ୍କାର କଣ ଅଟେ ? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
-**Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
-===== Important Terms: =====
+ପିତର ଯୀଶୁଙ୍କୁ କହିଲେ “ଆମେ ସମସ୍ତ ବିଷୟ ପରିତ୍ୟାଗ କରି ତୁମ୍ଭର ଅନୁଗମନ କରିଅଛୁ ।
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:jesus]]**
+ଆମ୍ଭ ପୁରଷ୍କାର କଣ ହେବ ?”
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-===== Translation Notes: =====
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-  * **left everything** - That is, "left everything behind" or, "given up everything we owned."
-  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
-
+  * ସମସ୍ତ ପରିତ୍ୟାଗ କଲେ  - ତାହା ହେଉଛି, "ସମସ୍ତ ପଛରେ ପରିତ୍ୟାଗ କଲେ" ଆମେ ନିଜସ୍ବ କରିଥିବା ସମସ୍ତ ପରିତ୍ୟାଗ କଲେ."
+  * ଆମ୍ଭମାନଙ୍କ ପୁରଷ୍କାର କଣ ହେବ** ?**
+ - ଅନ୍ୟ ପ୍ରକାରେ କହିବାକୁ ହେଲେ , "କେଉଁ ପୁରଷ୍କାର ଆମ୍ଭେ ପାଇବୁ" କିମ୍ବା, "ଆମ୍ଭେ କିପରି ପୁରଷ୍କୃତ ହେବୁ?" କିମ୍ବା, "ପରମେଶ୍ଵର ପୁରଷ୍କାର ପରି ଆମ୍ଭକୁ କଣ ଦେବେ?" ଏହା ମଧ୍ୟ ଯୋଡିବାକୁ ଆବଶ୍ୟକ ହୋଇପାରେ, "ଯେହେତୁ ଆମେ ଏହା କରିଅଛୁ?"
 
 **[[:or:obs:notes:frames:28-08|<<]] | [[:or:obs:notes:28|Up]] | [[:or:obs:notes:frames:28-10|>>]]**
