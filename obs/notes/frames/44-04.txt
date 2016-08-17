@@ -1,20 +1,17 @@
-===== The Power of Jesus [44-04] =====
+===== ଯୀଶୁଙ୍କ ଶକ୍ତି [44-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
-A crowd of people quickly came to see the man who was **healed**. **Peter** said to them, “Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the **power** of **Jesus** and the **faith** that Jesus gives that healed this man.”
-===== Important Terms: =====
+ଯେଉଁ ଲୋକଟି ସୁସ୍ଥ ହୋଇଥିଲା ତାହାକୁ ଦେଖିବା ନିମନ୍ତେ ଲୋକ ଗହଳି ଆସିଲେ । ପିତର ସେମାନଙ୍କୁ କହିଲେ “ଏହି ଲୋକ ସୁସ୍ଥ ହେବାରୁ ତୁମ୍ଭେମାନେ କାହିଁକି ଏତେ ଆଶ୍ଚର୍ଯ୍ୟାନ୍ମିତ ହେଉଅଛ? ଆମ୍ଭମାନଙ୍କ ଶକ୍ତି ବା ଉତ୍ତମତା ଦ୍ବାରା ଆମ୍ଭେମାନେ ସେହି ଲୋକକୁ ସୁସ୍ଥ କରିନାହୁଁ । ବରଂ, ଏହା ଯୀଶୁଙ୍କ ଶକ୍ତି ଓ ଯୀଶୁ ପ୍ରଦାନ କରିଥିବା ବିଶ୍ବାସ ଯାହା ସେହି ବ୍ୟକ୍ତିକୁ ସୁସ୍ଥ କଲା ।”
 
-  * **[[:or:obe:other:heal]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:power]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:faith]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ସୁସ୍ଥ**, **ଆରୋଗ୍ୟ****କରିବା**
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ଶକ୍ତି**, **ଶକ୍ତି**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବିଶ୍ବାସ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(// ଏହି କାହାଣୀ ନିମନ୍ତେ କୌଣସି ଟୀପ୍ପଣୀ ନାହିଁ ।//)//
 **[[:or:obs:notes:frames:44-03|<<]] | [[:or:obs:notes:44|Up]] | [[:or:obs:notes:frames:44-05|>>]]**
