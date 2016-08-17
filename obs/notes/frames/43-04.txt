@@ -1,20 +1,17 @@
-===== The Crowd Gathered [43-04] =====
+===== ଜନଗହଳି ଏକତ୍ର କଲେ [43-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
+ଯେତେବେଳେ ଯିରୁଶାଲମରେ ଥିବା ଲୋକେ ଏହି ଶବ୍ଦ ଶୁଣିଲେ, କ’ଣ ଘଟିଲା ତାହା ଦେଖିବାକୁ ଜନ ସମାଗମ ହେଲା । ଈଶ୍ବରଙ୍କର ଆଶ୍ଚର୍ଯ୍ୟ କାର୍ଯ୍ୟକୁ ବିଶ୍ବାସୀମାନେ ଘୋଷଣା କରୁଥିବାର ଲୋକମାନେ ଯେତେବେଳେ ଶୁଣିଲେ, ସେମାନେ ଆଶ୍ଚର୍ଯ୍ୟାନ୍ମିତ ହେଲେ କାରଣ ସେମାନେ ସେଗୁଡିକୁ ଆପଣା ଆପଣା ଭାଷାରେ କହୁଥିବାର ଶୁଣିଲେ ।
 
-When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
-===== Important Terms: =====
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:believer]]**
-  * **[[:or:obe:kt:god]]**
+  * **ଯିରୁଶାଲମ**.
+  * **ବିଶ୍ବାସୀ**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **a crowd** - This could be translated as, "a crowd of people" or, "a large group of people."
-  * **the wonderful works of God** - This could be translated as, "the amazing things that God had done."
-
+  * ଏକ ଜନଗହଳି - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ଲୋକମାନଙ୍କ ଏକ ଗହଳି" କିମ୍ବା" ଲୋକମାନଙ୍କ ଏକ ବିରାଟ ସମୁହ"
+  * ପରମେଶ୍ଵରଙ୍କ ଆଶ୍ଚର୍ଯ୍ୟ କାର୍ଯ୍ୟଗୁଡିକ - ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵର କରିଥିବା ଆଶ୍ଚର୍ଯ୍ୟ କାର୍ଯ୍ୟଗୁଡିକ."
 
 **[[:or:obs:notes:frames:43-03|<<]] | [[:or:obs:notes:43|Up]] | [[:or:obs:notes:frames:43-05|>>]]**
