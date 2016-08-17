@@ -1,20 +1,18 @@
-===== The Field Is the World [50-08] =====
+===== କ୍ଷେତ ହେଉଛି ଜଗତ [50-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
-The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
-===== Important Terms: =====
+ଶିଷ୍ୟମାନେ ସେହି କାହାଣୀ ବା ଦୃଷ୍ଟାନ୍ତର ଅର୍ଥ ବୁଝିପାରିଲେ ନାହିଁ, ତେଣୁ ସେମାନେ ତାହା ବୁଝାଇଦେବା ନିମନ୍ତେ ଯୀଶୁଙ୍କୁ କହିଲେ । ଯୀଶୁ କହିଲେ “ଯେଉଁ ବ୍ୟକ୍ତି ଉତ୍ତମ ବିହନ ରୋପଣ କଲେ ସେ ମଶୀହଙ୍କୁ ବୁଝାନ୍ତି । କ୍ଷେତ ଜଗତକୁ ଦର୍ଶାଏ । ଉତ୍ତମ ବିହନ ଈଶ୍ବରଙ୍କ ରାଜ୍ୟର ଲୋକମାନଙ୍କୁ ବୁଝାଏ ।”
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:good]]**
-  * **[[:or:obe:kt:christ]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ: =====
 
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଉତ୍ତମ**, **ଉତ୍ତମତା**
+  * **ଖ୍ରୀଷ୍ଟ**, **ମସିହ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ରାଜ୍ୟ**, **ସ୍ଵର୍ଗରାଜ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **the people of God's kingdom** - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
-
+  * ପରମେଶ୍ବରଙ୍କ ରାଜ୍ୟରେ ଲୋକମାନେ - ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ଯେଉଁ ଲୋକମାନେ ପରମେଶ୍ବରଙ୍କ ଅଧିକାର ଅଧିନରେ ରୁହନ୍ତି" କିମ୍ବା, "ଯେଉଁ ଲୋକମାନେ ପରମେଶ୍ବରଙ୍କ ଶାସନରେ ନିଜକୁ ସମ୍ପର୍ପିତ କରନ୍ତି", କିମ୍ବା, "ଯେଉଁ ଲୋକମାନେ ପରମେଶ୍ବରଙ୍କ ସହିତ ତାହାଙ୍କ ରାଜ୍ୟରେ ବାସ କରିବେ"
 
 **[[:or:obs:notes:frames:50-07|<<]] | [[:or:obs:notes:50|Up]] | [[:or:obs:notes:frames:50-09|>>]]**
