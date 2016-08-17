@@ -1,23 +1,21 @@
-===== John the Prophet [24-01] =====
+===== ଯୋହନ ଭାବବାଦୀ [24-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
+ଯିଖରିୟ ଓ ଇଲିଶାବେଥଙ୍କ ପୁତ୍ର ଯୋହନ ବଡ ହୋଇ ଜଣେ ଭାବବାଦୀ ହେଲେ । ସେ ପ୍ରାନ୍ତରରେ ବାସ କଲେ, ବନ ମଧୁ ଓ ପଙ୍ଗପାଳ ଖାଉଥିଲେ, ଏବଂ ଓଟ ଲୋମର ପୋଷାକ ପିନ୍ଧୁଥିଲେ ।
 
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:other:zechariahnt]]**
-  * **[[:or:obe:kt:prophet]]**
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ଯିଖରିୟ**  (**ନୁତନ****ନିୟମ**)
+  * **ଭାବବାଦୀ**,**ଭାବବାଣୀ**,**ଭାବବାଣୀ****କହିବା**,**ଭାବବାଦିନୀ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-
-===== Translation Notes: =====
-
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
-
+  * ମରୁପ୍ରାନ୍ତର- ତାହା ହେଉଛି, "ମରୁଭୂମି" କିମ୍ବା, "ଏକ ଅନ୍ତରସ୍ଥ ମରୁଭୂମି ପରି ଅଟେ." ସେହିଠାରେ ଅଳ୍ପ ଲୋକମାନେ ଜୀବନଯାପନ କରୁଥିଲେ.
+  * ବନ୍ୟ ମଧୁ - ଏହି ମଧୁ ପ୍ରାନ୍ତରରେ ମହୁମାଛିଦ୍ବାରା ଏକ ପ୍ରାକୃତିକ ଉତ୍ପାଦନ ଥିଲା; ଏହା ଲୋକମାନଙ୍କ ଦ୍ବାରା ଚାଷ କରାଯାଉ ନଥିଲା ଯଦି ଏହାକୁ ଲୋକମାନେ ଏହି ଶବ୍ଦକୁ "ମଧୁ," ବୋଲି ବୁଝିଅଛନ୍ତି,  ଆପଣଙ୍କୁ ଏହାକୁ "ବନ୍ୟ" ବୋଲି କହିବାର ଆବଶ୍ୟକତା ନାହିଁ
+  * ପଙ୍ଗପାଳ - ଏଗୁଡିକ ବୃହତ୍ ଅଟନ୍ତି, ପର ସହିତ କୀଟ ଅଟନ୍ତି, ଅତି ବୃହତ୍ ଘାସ ପଙ୍ଗପାଳ ପରି  . କିଛି ଲୋକମାନେ ଯେଉଁମାନେ ରହୁଥିଲେ, ସେମାନେ ଏହା ଖାଉଥିଲେ.
+  * ଓଟର ଲୋମ - ଓଟ ଏକ ପଶୁ ଅଟେ ଯାହାର ଅତି ଲମ୍ବା ଖସଡା ଲୋମ ଥାଏ. ଲୋକମାନେ ଏହିଠାରୁ ବସ୍ତ୍ର ତିଆରି କରିଥାନ୍ତି
+  * ଆକାଶ- ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ "ଖସଡା ପଶୁର ଲୋମ" ।
+  * ଓଟ ଲୋମରୁ ବସ୍ତ୍ର ତିଆରି କରନ୍ତି - ତାହା ହେଉଛି, "ଓଟର ଲୋମରୁ ମୋଟା ପୋଶାକ ତିଆରି କରିବା" ଏହି ପୋଷାକକୁ ଅନ୍ୟ ପୋଷାକ ପରି ଶୀଘ୍ର ପ୍ରାନ୍ତରରେ .ପିନ୍ଧିପାରିବେ ନାହିଁ
 
 **[[:or:obs:notes:frames:23-10|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-02|>>]]**
