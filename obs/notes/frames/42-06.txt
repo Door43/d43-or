@@ -1,22 +1,19 @@
-===== Jesus Appeared to the Disciples [42-06] =====
+===== ଯୀଶୁ ଶିଷ୍ୟମାନଙ୍କୁ ଦୃଶ୍ୟମାନ ହେଲେ [42-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink&}}
 
-As the **disciples** were talking, **Jesus** suddenly appeared in the room with them and said, “**Peace to you**!” The **disciples** thought he was a ghost, but Jesus said, “Why are you afraid and **doubting**? Look at my hands and feet. Ghosts do not have bodies like I do.” **To prove** that he was not a ghost, he asked for something to eat. They gave him a piece of cooked fish, and he ate it.
-===== Important Terms: =====
+ଶିଷ୍ୟମାନେ ଯେତେବେଳେ କଥାବାର୍ତ୍ତା କରୁଥିଲେ, ଯୀଶୁ ସେମାନେ ରହୁଥିବା କୋଠରୀରେ ସେମାନଙ୍କଠାରେ ଉପସ୍ଥିତ ହେଲେ ଏବଂ କହିଲେ “ତୁମ୍ଭମାନଙ୍କ ପ୍ରତି ଶାନ୍ତି ହେଉ !” ଶିଷ୍ୟମାନେ ଭାବିଲେ ଯେ ସେ ଜଣେ ଭୂତ, କିନ୍ତୁ ଯୀଶୁ କହିଲେ ଯେ “ତୁମ୍ଭେମାନେ କାହିଁକି ଭୟଭୀତ ଓ ସନ୍ଦେହ କରୁଅଛ? ମୋ ହସ୍ତଦ୍ବୟ ଓ ପାଦକୁ ଦେଖ । ମୋର ଯେପରି ଶରୀର ଅଛି ଭୂତମାନଙ୍କର ସେପରି ଶରୀର ନ ଥାଏ ।” ସେ ଯେ ଭୂତ ନୁହଁନ୍ତି ତାହା ପ୍ରମାଣ କରିବା ପାଇଁ, ସେ ଖାଇବା ନିମନ୍ତେ କିଛି ଦେବାକୁ କହିଲେ । ସେମାନେ ତାହାଙ୍କୁ ଏକ ରନ୍ଧା ମାଛ ଦେଲେ, ଏବଂ ସେ ଏହାକୁ ଖାଇଲେ  ।
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:peace]]**
-  * **[[:or:obe:kt:disciple]]**
+===== ଗୁରୁତ୍ବତ୍ବପୂର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶାନ୍ତି**, **ଶାନ୍ତିପୁର୍ଣ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **Peace to you** - This may also be translated as, "May you have peace" or, "Be at peace."
-  * **ghost** - This refers to the spirit of a dead person.
-  * **doubting** - That is, "doubting that I am alive and here with you."
-  * **To prove** - That is, "to demonstrate to them."
-
+  * ଶାନ୍ତି ତୁମ୍ବମାନଙ୍କୁ ମିଳୁ  - ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପରେ,ଯେପରିକି ,"ଶାନ୍ତି ତୁମ୍ବମାନଙ୍କ ସହ ହେଉ "କିମ୍ବା "ଶାନ୍ତି ପାଅ."
+  * ଭୂତ - ଏହା ମରିଯାଇଥିବା ବ୍ୟକ୍ତିର ଏକ ଅତତ୍ମା କୁ ଦର୍ଶାଏ .
+  * ସନ୍ଦେହ କରୁଅଛ - ଏହା ହେଉଅଛି ,"ସନ୍ଦେହ କରୁଅଛ ଯେ ମୁଁ ଜୀବିତ ଓ ତୁମ୍ବମାନଙ୍କ ସହିତ ଏଠାରେ ଅଛି."
+  * ପ୍ରମାଣ କରିବାକୁ  - ଏହା ହେଉଅଛି ," ସେମାନଙ୍କୁ ପ୍ରମାଣିତ କରିବାକୁ ."
 
 **[[:or:obs:notes:frames:42-05|<<]] | [[:or:obs:notes:42|Up]] | [[:or:obs:notes:frames:42-07|>>]]**
