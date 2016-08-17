@@ -1,21 +1,19 @@
-===== A Call to Repent [24-02] =====
+===== ଅନୁତାପ କରିବାକୁ ଆହ୍ବାନ [24-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
-Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
-===== Important Terms: =====
+ଅନେକ ଲୋକ ଯୋହନଙ୍କ କଥା ଶୁଣିବା ନିମନ୍ତେ ପ୍ରାନ୍ତରକୁ ଆସୁଥିଲେ । ସେ ସେମାନଙ୍କୁ ପ୍ରଚାର କରି କହିଲେ “ମନପରିବର୍ତ୍ତନ କର, କାରଣ ଈଶ୍ବରଙ୍କ ରାଜ୍ୟ ସନ୍ନିକଟ!”
 
-  * **[[:or:obe:other:johnthebaptist]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:repent]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
+===== ଗୁରୁତ୍ତ୍ବପୁର୍ଣ ପଦଗୁଡିକ : =====
 
+  * **ଯୋହନ**  (**ବାପ୍ତିଜକ**)
+  * **ପ୍ରଚାର**
+  * **ଅନୁତାପ****କରିବା**, **ଅନୁତାପ**
+  * **ପରମେଶ୍ଵରଙ୍କ****ରାଜ୍ୟ**, **ସ୍ଵର୍ଗରାଜ୍ୟ**
+===== ଅନୁବାଦ ବିବରଣ: =====
 
-===== Translation Notes: =====
-
-  * **wilderness** - See how you translated this word in **[[:or:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
-
+  * ମରୁପ୍ରାନ୍ତର - ଆପଣ ଏହି ପଦକୁ\[୨୪-୦୧]ରେ କିପରି ଭାବରେ ଅନୁବାଦ କରିଛନ୍ତି, ଦେଖନ୍ତୁ
+  * ଅନୁତାପ - ଏହାକୁ ଭଲ ଭାବରେ କହିଲେ , "ତୁମ୍ଭମାନଙ୍କ ପାପରୁ ମନପରିବର୍ତ୍ତନ."
+  * ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ ସନ୍ନିକଟ- ତାହା ହେଉଛି, "ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ ଅଛନ୍ତି ପ୍ରକାଶିତ ହେବାକୁ ପ୍ରସ୍ତୁତ" କିମ୍ବା, "ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ ଶୀଘ୍ର ଆସିବା" ଏହା ପରମେଶ୍ଵଙ୍କର ଶାସନ ଲୋକମାନଙ୍କ ଉପରେ"  ବୋଲି ଦର୍ଶାଏ. ଏହାକୁ ଏପରି ଭାବରେ ଅନୁବାଦ କରାଯାଇପାରେ, "ପରମେଶ୍ଵଙ୍କର ଶାସନ ଆରମ୍ଭ ହେବାକୁ ଯାଉଅଛି" କିମ୍ବା, "ପରମେଶ୍ଵର ଶୀଘ୍ର ଏକ ରାଜା ପରି ଶାସନ କରିବେ."
 
 **[[:or:obs:notes:frames:24-01|<<]] | [[:or:obs:notes:24|Up]] | [[:or:obs:notes:frames:24-03|>>]]**
