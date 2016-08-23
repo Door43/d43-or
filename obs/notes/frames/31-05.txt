@@ -1,19 +1,15 @@
-===== Jesus Called Peter [31-05] =====
+===== ଯୀଶୁ ପିତରଙ୍କୁ ଡାକିଲେ [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+ତା’ପରେ ପିତର ଯୀଶୁଙ୍କୁ କହିଲେ, **“** ଗୁରୁ, ଯଦି ଏହା ଆପଣ ଅଟନ୍ତି, ତେବେ ଜଳ ଉପରେ ଆପଣଙ୍କ ପାଖକୁ ଅସିବାକୁ ମୋତେ ଆଜ୍ଞା ଦିଅନ୍ତୁ ।**”** ଯୀଶୁ ପିତରଙ୍କୁ କହିଲେ, **“** ଆସ** !”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:lord]]**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପ୍ରଭୁ, ଗୁରୁ, ମହାଶୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **if it is you** - That is, "if it is really you, and not a ghost."
-  * **Come!** - That is, "Come here" or, "Come to me" or, "Come, walk to me."
-
-
+  * **ଯଦି ଏହା ଆପଣା ଅଟନ୍ତି - ** ଏହାର ଅର୍ଥ  “ଯଦି ଏହା ବାସ୍ତବରେ ଆପଣା ଅଟନ୍ତି ଏବଂ ଭୁତ ନୁହନ୍ତି ।”
+  * **ଆସ ! - ** ଏହାର ଅର୍ଥ, “ଏଠାକୁ ଆସ” କିମ୍ବା “ମୋ ପାଖକୁ ଆସ” କିମ୍ବା, “ମୋ ପାଖକୁ ଚାଲିକି. ଆସ ।”
 **[[:or:obs:notes:frames:31-04|<<]] | [[:or:obs:notes:31|Up]] | [[:or:obs:notes:frames:31-06|>>]]**
