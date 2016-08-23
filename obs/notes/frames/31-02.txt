@@ -1,20 +1,17 @@
-===== The Storm [31-02] =====
+====== ଝଡ [31-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
-===== Important Terms: =====
+ଏଥିମଧ୍ୟରେ**, ** ଶିଷ୍ୟମାନେ ସେମାନଙ୍କର ନୌକା ଚଳାଉଥିଲେ**,** କିନ୍ତୁ ମଧ୍ୟ ରାତ୍ର ପର୍ଯ୍ୟନ୍ତ ସେମାନେ ହ୍ରଦର ମଧ୍ୟଭାଗରେ ହିଁ ପହଞ୍ଚିଥିଲେ । ସେମାନେ ନୌକାକୁ ବହୁତ କଷ୍ଟର ସହ ଚଳାଉଥିଲେ କାରଣ ପବନ ପ୍ରବଳ ବେଗରେ ସେମାନଙ୍କ ବିପରୀତ ଦିଗରୁ ବହୁଥିଲା ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:pray]]**
+  * **ଶିଷ୍ୟ**
+  * **ପ୍ରାର୍ଥନା****କରିବା**, **ପ୍ରାର୍ଥନା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
-  * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-
+  * ଏଥିମଧ୍ୟରେ**
+ - ** ତାହା ହେଉଛି, “ଯେତେବେଳେ ଯୀଶୁ ପର୍ବତ ଅଞ୍ଚଳରେ ପ୍ରାର୍ଥନା କରୁଥିଲେ ।”
+  * ନୌକା ଚଳାଉଥିଲେ**- ** ନୌକା ପାଣିରେ ଭାସୁଥିଲା,  ମାତ୍ର  ଯେତେବେଳେ ପବନ ସେମାନଙ୍କ ବିପରୀତ ଦିଗରୁ  ବହୁଥିଲା ଏହା କାର୍ଯ୍ୟ କରୁ ନ ଥିଲା ।
+  * ବହୁତ କଷ୍ଟ**- ** ତାହା ହେଉଛି,  "କଷ୍ଟ ସାଧ୍ୟକରି" କିମ୍ବା, "ବହୁତ କଷ୍ଟରେ ।"
 
 **[[:or:obs:notes:frames:31-01|<<]] | [[:or:obs:notes:31|Up]] | [[:or:obs:notes:frames:31-03|>>]]**
-
