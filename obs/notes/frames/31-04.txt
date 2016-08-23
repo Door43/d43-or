@@ -1,19 +1,15 @@
-===== The Disciples Were Afraid [31-04] =====
+===== ଶିଷ୍ୟମାନେ ଅତିଶୟ ଭୟଭୀତ ଥିଲେ [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
-===== Important Terms: =====
+ଶିଷ୍ୟମାନେ ଅତିଶୟ ଭୟଭୀତ ଥିଲେ ଯେତେବେଳେ ସେମାନେ ଯୀଶୁଙ୍କୁ ଦେଖିଲେ, କାରଣ ସେମାନେ ଭାବିଲେ ଯେ ସେମାନେ ଏକ ଭୁତକୁ  ଦେଖୁଅଛନ୍ତି । ଯୀଶୁ ଜାଣିଲେ ଯେ ସେମାନେ ଭୟଭୀତ ଥିଲେ, ଏହିପରି ସେ ସେମାନଙ୍କୁ ଡାକି କହିଲେ, “ଭୟ  କର ନାହିଁ ।  ଏହା ମୁଁ ଅଟେ** !"**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:jesus]]**
+  * **ଶିଷ୍ୟ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **a ghost** - That is, "a spirit." They thought Jesus was a spirit, since normally a human being cannot walk on water.
-  * **Do not be afraid** - For some languages it may be more natural to say here, "Stop being afraid."
-  * **it is I!** - For some, it might be more natural to translate this as, "It is me, Jesus."
-
-
+  * **ଏକ ଭୁତ - ** ତାହା** "** ଏକ ଆତ୍ମା**“ ** ଅଟେ ।  ଯୀଶୁ ଏକ ଆତ୍ମା ଥିଲେ ବୋଲି ସେମାନେ ଭାବିଲେ, ଯେହେତୁ ସାଧାରଣତଃ ଜଣେ ମନୁଷ୍ୟ ପାଣି ଉପରେ ଚାଲି ପରେ ନାହିଁ ।
+  * **ଭୟ କର ନାହିଁ -  ** ଅନ୍ୟ ଭାଷାଗୁଡିକରେ ଏଠାରେ ଏହାକୁ ସାଧାରଣ ଭାବରେ କହିଲେ, “ଭୟ  କରିବା ବନ୍ଦ କର ।”
+  * **ଏହା ମୁଁ ଅଟେ !- ** ଅନ୍ୟ ଭାଷା ପାଇଁ, ଏହା ଅଧିକ ସାଧାରଣ ଭାବରେ ଅନୁବାଦ ହୋଇପାରେ ଯେପରି **“** ଏହା ମୁଁ ଯୀଶୁ ଅଟେ ।”
 **[[:or:obs:notes:frames:31-03|<<]] | [[:or:obs:notes:31|Up]] | [[:or:obs:notes:frames:31-05|>>]]**
