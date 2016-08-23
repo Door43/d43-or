@@ -1,19 +1,17 @@
-===== Jesus Prayed Alone [31-01] =====
+===== ଯୀଶୁ ଏକାକୀ ପ୍ରାର୍ଥନା କଲେ [31-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&}}
 
-Then **Jesus** told the **disciples** to get into the boat and sail to the other side of the lake while **he dismissed the crowd**. After Jesus had sent the crowd away, he went up on a **mountainside** to **pray**. Jesus was there all alone, and he prayed until late at night.
-===== Important Terms: =====
+ତା'ପରେଯୀଶୁ ଶିଷ୍ୟମାନଙ୍କୁ  ନୌକାରେ ପ୍ରବେଶ କରିବାକୁ କହିଲେଏବଂ ସେ ଜନଗହଳିକୁ ବିଦାୟ କରୁ କରୁ ଆର ପାରିକି ଯିବା ପାଇଁ କହିଲେ ।  ଯୀଶୁ ଲୋକସମୂହକୁ ବିଦାୟ କଲା ପରେ, ସେ ପର୍ବତଅଞ୍ଚଳକୁ ପ୍ରାର୍ଥନାକରିବାକୁ ଗଲେ ।  ଯୀଶୁ ସେଠାରେ ଏକାକୀ ରହିଲେ, ଏବଂ ସେ ରାତି ସାରା ପ୍ରାର୍ଥନା କଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:pray]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ପ୍ରାର୍ଥନା****କରିବା**, **ପ୍ରାର୍ଥନା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **he dismissed the crowd** - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
-  * **mountainside** - That is, "the side of a mountain."
-
+  * ସେ ଲୋକମାନକୁ ବିଦାୟ ଦେଲେ **- ** ଏହାକୁ ଅନ୍ୟ ଭାବରେ କହିବାକୁ ଗଲେ “ସେ ଲୋକସମୂହକୁ ସେମାନଙ୍କ ରାସ୍ତାରେ ପଠାଇଦେଲେ" କିମ୍ବା, "ସେ ଜନଗହଳିର ଲୋକମାନଙ୍କୁ ସେମାନଙ୍କର ଗୃହକୁ ଯିବା ପାଇଁ କହିଲେ ।”
+  * ପର୍ବତଅଞ୍ଚଳ**-  ** ତାହା ହେଉଛି, "ଏକ ପର୍ବତର ପାର୍ଶ୍ଵସ୍ଥାନ ।"
 
 **[[:or:obs:notes:frames:30-09|<<]] | [[:or:obs:notes:31|Up]] | [[:or:obs:notes:frames:31-02|>>]]**
