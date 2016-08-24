@@ -1,24 +1,17 @@
-====== Peter Sank [31-07] ======
+====== ପିତର ବୁଡିଗଲେ [31-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
+ପିତର ଭୟ ହେଲେ ଏବଂ ପାଣିରେ ବୁଡିବାକୁ ଆରମ୍ବ କଲେ । ସେ କ୍ରନ୍ଦନ କଲେ,** “** ହେ ଗୁରୁ**, ** ମୋତେ ରକ୍ଷା କରନ୍ତୁ !**”** ଯୀଶୁ ତତକ୍ଷଣାତ ପହଞ୍ଚିଲେ ପୁଣି ତାଙ୍କୁ ଧରିଲେ । ତା'ପରେ ସେ ପୀତରଙ୍କୁ କହିଲେ,** “** ହେ ଅଳ୍ପ ବିଶ୍ୱାସୀର ମନୁଷ୍ୟ**, “ ** କାହିଁକି ତୁମେ ସନ୍ଦେହ କଲ** ?“**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ପିତର**, **ଶିମୋନ****ପିତର**, **କେଫା**
+  * **ପ୍ରଭୁ**, **ଗୁରୁ**, **ମହାଶୟ**
+  * **ରକ୍ଷା****କରିବା**, **ସୁରକ୍ଷିତ**
+  * **ଯୀଶୁ**, **ଯୀଶୁ****ଖ୍ରୀଷ୍ଟ**, **ଖ୍ରୀଷ୍ଟ****ଯୀଶୁ**
+  * **ବିଶ୍ବାସ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Important Terms: =====
-
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:faith]]**
-
-
-===== Translation Notes: =====
-
-  * **You man of little faith** - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
-  * **why did you doubt?** - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
-
-  
-
+  * **ହେ ଅଳ୍ପ ବିଶ୍ୱାସୀର ମନୁଷ୍ୟ - ** ଏହାକୁ ମଧ୍ୟ ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ମୋ ଠାରେ ତୁମର ଅଳ୍ପ ବିଶ୍ଵାସ ଅଛି !" କିମ୍ବା, "ତୁମେ ମୋ ଉପରେ ଅଧିକ ବିଶ୍ଵାସ କରୁ ନାହଁ !"
+  * **କାହିଁକି ସନ୍ଦେହ କଲ ? - ** ତାହାର ଅର୍ଥ ହେଉଛି, “ତୁମେ ମୋତେ ସନ୍ଦେହ କରିବାର ନ ଥିଲା !”  କିମ୍ବା, “ତୁମକୁ ମୋ ଉପରେ ସମ୍ପୂର୍ଣ ବିଶ୍ଵାସ କରିବାର ଥିଲା ।“ ଏହା ଏକ ବାସ୍ତବ ପ୍ରଶ୍ନ ନୁହଁ, ମାତ୍ର ଏହି ଭାଷାରେ ଏକ ଦୃଢ କରିବାକୁ ଏହା ଏକ ମାଧ୍ୟମ ।   ଅନେକ ଭାଷାରେ, ଏହାକୁ ଏକ ସଂଜ୍ଞା ପରି ବ୍ୟାଖ୍ୟା କଲେ ଏହା ଅତି ସୁନ୍ଦର ଭାବରେ କାର୍ଯ୍ୟ କରେ ।
 **[[:or:obs:notes:frames:31-06|<<]] | [[:or:obs:notes:31|Up]] | [[:or:obs:notes:frames:31-08|>>]]**
