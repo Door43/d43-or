@@ -1,14 +1,15 @@
-===== ଗରାଶୀୟମାନଙ୍କ ଦେଶ** [** ୩୨**-** ୦୧**]**  =====
+===== ଗରାଶୀୟମାନଙ୍କ ଦେଶ [ ୩୨- ୦୧] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
 ଦିନେ**, ** ଯୀଶୁ ଏବଂ ତାହାଙ୍କ ଶିଷ୍ୟମାନେ ନୌକାରେ ହ୍ରଦର ଆରପାରିକି ଗଲେ ଯେଉଁଠାରେ ଗରାଶୀୟ ଲୋକମାନେ ବାସ କରୁଥିଲେ ।
-===== **ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * ଯୀଶୁ**, ** ଯୀଶୁ ଖ୍ରୀଷ୍ଟ**, ** ଖ୍ରୀଷ୍ଟ ଯୀଶୁ
-  * **[[:or:obe:kt:disciple|disciple]]**
-===== Translation Notes: =====
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
+  * **ଦିନେ**
+ - ଏହି ବାକ୍ୟାଂଶ ପୂର୍ବରୁ ଘଟିଥିବା ଏକ ଘଟଣାର ପରିଚୟ ଦିଏ, କିନ୍ତୁ ପ୍ରକୃତ ସମୟକୁ ବୁଝାଏ ନାହିଁ । ଅନେକ ଭାଷାଗୁଡିକ ଏକାପରି ଏକ ସତ୍ୟ କାହାଣୀ କହି ଆରମ୍ଭ କରନ୍ତି ।
+  * **ଗରାଶୀୟ ଲୋକମାନେ - ** ଗରାଶୀୟ ଲୋକମାନେ ଗାଲିଲୀ ସମୁଦ୍ରର ପଶ୍ଚିମ କୁଳ ଅଂଚଳରେ ବାସ କରୁଥିଲେ । ସେମାନେ ଯିହୂଦୀର ବଂଶଧର ଅଟନ୍ତି, ମାତ୍ର ଆମେ ସେମାଙ୍କର ବିଷୟରେ ଅଳ୍ପ ତଥ୍ୟ ଜାଣୁ ।
 **[[:or:obs:notes:frames:31-08|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-02|>>]]**
