@@ -1,18 +1,14 @@
-===== The Country of the Gerasenes [32-01] =====
+===== ଗରାଶୀୟମାନଙ୍କ ଦେଶ** [** ୩୨**-** ୦୧**]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
-===== Important Terms: =====
+ଦିନେ**, ** ଯୀଶୁ ଏବଂ ତାହାଙ୍କ ଶିଷ୍ୟମାନେ ନୌକାରେ ହ୍ରଦର ଆରପାରିକି ଗଲେ ଯେଉଁଠାରେ ଗରାଶୀୟ ଲୋକମାନେ ବାସ କରୁଥିଲେ ।
+===== **ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-
-
+  * ଯୀଶୁ**, ** ଯୀଶୁ ଖ୍ରୀଷ୍ଟ**, ** ଖ୍ରୀଷ୍ଟ ଯୀଶୁ
+  * **[[:or:obe:kt:disciple|disciple]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
 **[[:or:obs:notes:frames:31-08|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-02|>>]]**
