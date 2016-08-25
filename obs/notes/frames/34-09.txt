@@ -1,25 +1,21 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== କରଗ୍ରାହୀର ପ୍ରାର୍ଥନା [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
-===== Important Terms: =====
+**"** ମାତ୍ର କରଗ୍ରାହୀ ଧାର୍ମିକ ନେତାମାନଙ୍କ ଠାରୁ ଦୂରରେ ଛିଡାହେଲେ**, ** ଏବଂ ସ୍ୱର୍ଗ ଆଡେ ସୁଦ୍ଧା ଉର୍ଦ୍ଧ ଦୃଷ୍ଟି କଲେ ନାହିଁ । ବରଂ, ସେ ଆପଣା ଛାତିରେ ବିଧା ମାରିଲେ ଏବଂ ପ୍ରାର୍ଥନା କଲେ, “ହେ ଈଶ୍ଵର, ମୋ ପ୍ରତି ଦୟାଳୁ ହୁଅ କାରଣ ମୁଁ ଜଣେ ପାପୀ ଅଟେ ।”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:taxcollector]]**
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:mercy]]**
-  * **[[:or:obe:kt:sin]]**
+  * **କରଗ୍ରାହୀ**
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ସ୍ଵର୍ଗ, ଆକାଶ, ସ୍ଵର୍ଗ, ସ୍ଵର୍ଗସ୍ଥ**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **ଇଶ୍ଵର**
+  * **ଦୟା, ଦୟାବନ୍ତ**
+  * **ପାପ, ପାପପୁର୍ଣ୍ଣ, ପାପୀ, ପାପ କରୁଅଛି**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **stood far away ** - This can also be translated as, "stood at a distance" or, "stayed separate."
-  * **did not even look up to heaven** - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
-  * **he pounded on his chest with his fist** - This could also be translated as, "because of his grief, he hit his chest with his fist" or, "he pounded his chest in sorrow." If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, "he showed his despair."
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ଦୂରରେ ଛିଡା ହେଲେ - ** ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "କିଛି ଦୂରରେ ଛିଡା ହେଲା" କିମ୍ବା, "ପୃଥକ ରହିଲେ ।"
+  * **ଏପରିକି ସ୍ୱର୍ଗ ଆଡେ ଉର୍ଦ୍ଧ ଦୃଷ୍ଟି କଲେ ନାହିଁ - **"ଏପରିକି" ଶବ୍ଦ ପ୍ରକାଶ କରେ ଯେ ସାଧାରଣତଃ ଲୋକମାନେ ଯେତେବେଳେ ଇଶ୍ଵରଙ୍କ ନିକଟରେ ପ୍ରାର୍ଥନା କରନ୍ତି ସେମାନେ ଉର୍ଦ୍ଧକୁ ଦେଖନ୍ତି, ମାତ୍ର ଏହି ଲୋକ ନିଜ ପାପ ପାଇଁ ଲଜ୍ଜ୍ୟାବୋଧ କରି ଉର୍ଦ୍ଧକୁ ଦେଖିଲେ ନାହିଁ ।
+  * **ନିଜ ହାତରେ ଛାତିକୁ ମାରିଲେ - ** ଏହା ମଧ୍ୟ ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ନିଜର ଦୁଃଖ ସକାଶୁ, ସେ ତାହାରି ହାତ ସହ ଛାତିରେ ବାଡେଇଲା” କିମ୍ବା, “ଦୁଃଖରେ ସେ ନିଜଛାତିକୁ ବାଡେଇଲା ।" ଯଦି ଏହା ବୁଝିବାକୁ ଲୋକମାନଙ୍କୁ କଷ୍ଟ ହେଉଛି ଯେହେତୁ ସେମାନେ ସେମାନଙ୍କର ଛାତି ଉପରେ ଅନ୍ୟ କାରଣ ନିମନ୍ତେ ମାରନ୍ତି, ତେବେ ଆପଣ ଏପରି ଅନୁବାଦ କରିପାରିବେ ଯେମିତି, "ସେ ନିଜର ଦୁଃଖକୁ ପ୍ରକାଶ କଲେ ।"
 **[[:or:obs:notes:frames:34-08|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:34-10|>>]]**
