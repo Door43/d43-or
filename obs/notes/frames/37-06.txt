@@ -1,22 +1,18 @@
-===== Mary Met Jesus [37-06] =====
+===== ମରିଯମ ଯୀଶୁଙ୍କୁ ସାକ୍ଷାତ କରେ [37-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
-===== Important Terms: =====
+ତା'ପରେ ମରିୟମ ପହୁଁଚିଲେ  । ସେ ଯୀଶୁଙ୍କ  ପାଦ ତଳେ ଆଣ୍ଠୋଇ ପଡି କହିଲେ , **“** ଗୁରୁ ଆପଣ ଯଦି ଏଠାରେ ଥାନ୍ତେ ମୋର ଭାଇ ମରି ନ ଥାନ୍ତା ।** ”** ଯୀଶୁ ସେମାନଙ୍କୁ ପଚାରିଲେ , “ଲାଜାରଙ୍କୁ କେଉଁଠି ରଖିଛି?” ସେମାନେ ତାହାଙ୍କୁ କହିଲେ , “ସମାଧୀରେ । '' ଆସ ଓ ଦେଖ । '' ତା'ପରେ ଯୀଶୁ କାନ୍ଦିଲେ  ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:other:lazarus]]**
-  * **[[:or:obe:other:tomb]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପ୍ରଭୁ, ଗୁରୁ, ମହାଶୟ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଲାଜାର**
+  * **ସମାଧି ସ୍ଥଳ, କବର, ସମାଧି ସ୍ଥାନ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **Mary** - This was the same woman as in **[[:or:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
-
+  * **ମରିଯମ- ** ଏହା ସେହି ସ୍ତ୍ରୀ **__[37-01]__** ,ଯୀଶୁଙ୍କ ମାତା ମରିଯମ ନୁହନ୍ତି ।
+  * **ଯୀଶୁଙ୍କ  ପାଦ ତଳେ ପଡିଲେ-**  ଏହାର ଅର୍ଥ “ଯୀଶୁଙ୍କ ପାଦତଳେ “ସମ୍ମାନ ର ସହିତ”  ଆଣ୍ଠୋଇ ପଡିଲେ । ”
+  * **ମୋର  ଭାଇ ମରି ନ ଥାନ୍ତା- ** ଏହାର ଅର୍ଥ – “ଆପଣ ମୋର ଭାଇ କୁ ମୃତ୍ୟୁ ରୁ ରକ୍ଷା  କରିଥାନ୍ତେ”  ବା “ମୋର ଭାଇ କୁ ମୃତ ହେବାକୁ ଦେଇ ନଥାନ୍ତେ” ବା “ମୋର ଭାଇ ଏବେ ଜୀବିତ  ଥାନ୍ତା । ”
 **[[:or:obs:notes:frames:37-05|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-07|>>]]**
