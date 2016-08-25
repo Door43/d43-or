@@ -1,18 +1,15 @@
-===== I Am Good [34-08] =====
+===== ମୁଁ ଉତ୍ତମ ଅଟେ [34-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
-===== Important Terms: =====
+'"ଉଦାହରଣ ସ୍ଵରୂପ, ମୁଁ ପ୍ରତ୍ୟେକ ସପ୍ତାହରେ ଦୁଇଥର ଉପବାସ କରେ ଏବଂ ଆୟ କରିଥିବା ଅର୍ଥ ଓ ଜିନିଷଗୁଡିକ ଯାହା ମୁ ପାଏ ତାହା ସମସ୍ତର ଦଶମାଂଶ ଦେଇଥାଏ ।”
 
-  * **[[:or:obe:other:fast]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଉପବାସ କରିବା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
-
+  * (ଯୀଶୁ ଧାର୍ମିକ ନେତାର ପ୍ରାର୍ଥନା ବିଷୟରେ କହିବାର ଜାରି ରଖିଲେ ।)
+  * **ମୁଁ ଉପବାସ କରେ - ** ଧାର୍ମିକ ଶାସକ ବିଶ୍ୱାସ କଲେ ଯେ ଏହା କରିବା ଦ୍ୱାରା ଈଶ୍ୱରଙ୍କ ଦୟା ସେ ପାଇପାରିବେ ।
+  * **ଦଶ ପ୍ରତିଶତ - ** ତାହା ହେଉଛି, "ଦଶମାଂଶ ।”
 **[[:or:obs:notes:frames:34-07|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:34-09|>>]]**
