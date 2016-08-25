@@ -1,20 +1,17 @@
-===== The Yeast [34-03] =====
+===== ଖମିର [34-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
-**Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
-===== Important Terms: =====
+ଯୀଶୁ ଅନ୍ୟ କାହାଣୀ କହିଲେ, “ଈଶ୍ୱରଙ୍କ ରାଜ୍ୟ ଏକ ଖମୀର ସଦୃଶ ଅଟେ ଯେ  ଜଣେ ମହିଳା ମିଶାଏ ଯେପର୍ଯ୍ୟନ୍ତ ଏହା ସବୁଠି ମିଶି ନଯାଏ ।"
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଇଶ୍ଵରଙ୍କ ରାଜ୍ୟ, ସ୍ଵର୍ଗରାଜ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:or:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
-
+  * **କାହାଣୀ - ** ଦେଖ ଆପଣ ଏହି ଶବ୍ଦକୁ କିପରି ଏଠାରେ ଅନୁବାଦ କରିଅଛ **__[__ **__୩୪**-** ____୦୧**]** __
+  * **ଖମୀର **- ଏହା ମଧ୍ୟ ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, ”ଖମୀର” କିମ୍ବା ”ଟିକିଏ ମାତ୍ର ଖମୀର ।" ଏହାକୁ ରୋଟୀ ବନାଇବା ସମୟରେ ରୋଟୀକୁ ଫୁଲାଇବା ପାଇଁ  ମିଶନ୍ତି । ଟିକିଏ ମାତ୍ର ଖମିରାକୁ ବହୁତ ମଇଦାରେ ମିସାଇଲେ ମଧ୍ୟ ତାହା ସବୁକୁ ଫୁଲାଇଦିଏ ।
+  * **ଚକଟା ମଇଦା**  - ଏହା ମଇଦା ଏବଂ ତେଲଦେଇ ମିଶ୍ରଣ କରାଯାଏ ଯେପରି ଏହାକୁ ଆକାର ଦେଇ ରୋଟୀ ତିଆରି କରାଯାଇପାରିବ । ଯଦି ଚକଟା ମଇଦା ବା ମଇଦା ପାଇଁ ତୁମ ଭାଷାରେ କିଛି ଶବ୍ଦ ନାହିଁ, ତାହେଲେ ଅନ୍ୟ କିଛି ଶବ୍ଦ ବ୍ୟବହାର କରାଯାଇ ପାରିବ ଯଥା ଶସ୍ୟର ଗୁଣ୍ଡ ।"
+  * **ଏହା ସବୁ ଚକଟା ମଇଦାରେ ବିସ୍ତାର ହୁଏ **- ତାହା ହେଉଛି, “ମଇଦାର ସବୁ ଖମିରରେ ମିଶ୍ରିତ ହୋଇଛି” କିମ୍ବା, “ଖମୀର ସବୁ ମଇଦାରେ ପ୍ରସାରିତ ହୋଇଛି ।”
 **[[:or:obs:notes:frames:34-02|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:34-04|>>]]**
