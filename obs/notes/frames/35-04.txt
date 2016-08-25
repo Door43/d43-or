@@ -1,18 +1,15 @@
-===== The Younger Son [35-04] =====
+===== ସାନ ପୁଅ [35-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&}}
 
-“Soon the younger son gathered all that he had and went far away and **wasted his money** in **sinful living**.”
-===== Important Terms: =====
+“ଯଥାଶୀଘ୍ର ସାନ ପୁଅ ସମସ୍ତ ସମ୍ପତ୍ତି ଯାହା ତାହାର ଥିଲା ଏକାଠି କଲେ ଏବଂ ଦୂରକୁ ଚାଲିଗଲେ ପୁଣି ପାପମୟ ଜୀବନରେ ତାହାରି ସମ୍ପତ୍ତି ଉଡାଇ ଦେଲେ ।**”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:sin]]**
+  * **ପାପ, ପାପପୁର୍ଣ୍ଣ, ପାପୀ, ପାପ କରୁଅଛି**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **wasted his money** - That is, "spent all his money without getting anything of value in exchange." In some languages it can be translated as, "threw his money away" or, "ate all his money."
-  * **sinful living** - That is, "doing sinful things."
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ତାହାରି ସମ୍ପତ୍ତିକୁ ବ୍ୟୟ କଲେ -**   ତାହା ହେଉଛି, “ସବୁ ସମ୍ପତ୍ତିକୁ ବିନା କୌଣସି ମୂଲ୍ୟବାନ ଜନିଷ ନ କିଣି ଖର୍ଚ୍ଚ କଲେ ।” ଅନ୍ୟ କିଛି ଭାଷାରେ ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ଅର୍ଥକୁ ଫିଙ୍ଗିଦେଲେ" କିମ୍ବା, “ନିଜର ସବୁ ଅର୍ଥ ଖାଇଗଲେ ।"
+  * **ପାପମୟ ଜୀବନ **- ତାହା ହେଉଛି, “ପାପମୟ ବିଷୟ କରୁଅଛନ୍ତି ।"
 
 **[[:or:obs:notes:frames:35-03|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-05|>>]]**
