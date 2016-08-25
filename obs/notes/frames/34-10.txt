@@ -1,28 +1,24 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== ଗର୍ବୀ ଲୋକମାନେ ନମ୍ର ହେବେ [34-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
-===== Important Terms: =====
+ପରେ ଯୀଶୁ କହିଲେ, “ମୁଁ ତୁମକୁ ସତ୍ୟ କହୁଅଛି, ଈଶ୍ୱର କରଗ୍ରାହୀର ପ୍ରାର୍ଥନା ଶୁଣିଲେ ଏବଂ ତାହାକୁ ଧାର୍ମିକ ଘୋଷିତ କଲେ । ମାତ୍ର ସେ ଧାର୍ମିକ ନେତାମାନଙ୍କର ପ୍ରାର୍ଥନା ପସନ୍ଦ କଲେ ନାହିଁ । ପ୍ରତ୍ୟେକଜଣ ଯେଉଁମାନେ ଗର୍ବୀ ଈଶ୍ୱର ସେମାନଙ୍କୁ ନମ୍ର କରିବେ**, ** ଏବଂ ଯେଉଁମାନେ ନିଜକୁ ନମ୍ର କରିବେ ସେ ସେମାନଙ୍କୁ ଉନ୍ନତ କରିବେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:true]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:other:taxcollector]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:kt:righteous]]**
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:other:humble]]**
-  * **[[:or:obe:other:proud]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ସତ୍ୟ, ସତ୍ୟତା**
+  * **ଇଶ୍ଵର**
+  * **କରଗ୍ରାହୀ**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **ଧାର୍ମିକ, ଧାର୍ମିକତା**
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ନମ୍ର, ନମ୍ରତା**
+  * **ଗର୍ବ, ଅହଙ୍କାର, ଅହଙ୍କାରପୁର୍ଣ୍ଣ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **declared him to be righteous** - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble** - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
-  * **will lift up** - That is, "will give a higher position to" or, "will honor."
-  * **humbles himself** - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ତାହାକୁ ଧାର୍ମିକ ଘୋଷିତ କଲେ - ** ତାହା ହେଉଛି, “ତାହାକୁ ଧାର୍ମିକ ବୋଲି ବିବେଚନା କଲେ ।” ଯଦିଓ କରଗ୍ରାହୀ ଜଣେ ପାପୀ ଥିଲେ, ତାଙ୍କରି ନମ୍ରତା ଏବଂ ଅନୁତାପ ପାଇଁ ଈଶ୍ଵର ତାଙ୍କ ପ୍ରତି ଦୟାବନ୍ତ ଥିଲେ ।
+  * **ନମ୍ର ହେବେ - ** ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ଏକ ନୀଚ ସ୍ତର ଦେବେ“ କିମ୍ବା, “ନିଜକୁ ମୁଖ୍ୟ ହେବାକୁ ଦେବେ ନାହିଁ ।” ଆକ୍ଷରୀକ ଭାବରେ ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ନୀଚ ସ୍ତରକୁ ଆଣିବେ ।"
+  * **ଉନ୍ନତ କରିବେ - ** ତାହା ହେଉଛି, "ଏକ ଉଚ୍ଚ ପଦବୀ ଦେବେ" କିମ୍ବା, "ସମ୍ମାନ ଦେବେ ।"
+  * **ନିଜକୁ ନମ୍ର କରିବା - ** ତାହା ହେଉଛି, "ନମ୍ର ଭାବରେ ଆଚରଣ କରିବା ପାଇଁ ଇଛା କରିବା" କିମ୍ବା, "ନିଜ ବିଷୟରେ ଏକ ନମ୍ର ସ୍ୱଭାବରେ ରଖିବା ।"
+  * **ବାଇବଲର ଏକ କାହାଣୀ**  - ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗଗୁଡିକ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରେ  ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:34-09|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:35-01|>>]]**
