@@ -1,16 +1,13 @@
-===== The Seed on the Path [33-02] =====
+===== ରାସ୍ତା ଉପରେ ପଡି ଥିବା ବୀଜ [33-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
-**
-Jesus** told this story. “A farmer went out to plant **some seed**. As he was **spreading the seeds by hand**, some seeds happened to fall on the path, and the birds came and ate all of those seeds.”
-===== Important Terms: =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}
 
-  * **[[:or:obe:kt:jesus]]**
+ଯୀଶୁ ଏହି କାହାଣୀକୁ କହିଲେ । **"** ଜଣେ କୃଷକ କିଛି ବୀଜ ବୁଣିବାକୁ ବାହାରିଲେ । ଯେପରି ସେ ନିଜ ହାତ ସାହାର୍ଯ୍ୟରେ ବୀଜ ବୁଣୁଥିଲେ**, ** କିଛି ବୀଜ ରାସ୍ତା ପାଖରେ  ପଡିଲା, ଏବଂ ତାହାସବୁ ପକ୍ଷୀମାନେ ଆସି  ଖାଇଗଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **spreading the seeds by hand** - That is, "throwing the seeds on the soil" or, "covering all of his crop soil with seeds." This is the way that farmers in the ancient Middle East typically planted grain-bearing crops.
-
+  * **ନିଜ ହାତ ସାହାର୍ଯ୍ୟରେ ବୀଜ ବୁଣୁଥିଲେ - ** ତାହା ହେଉଛି, "ଜମି ଉପରେ ବୀଜଗୁଡିକୁ ଫିଙ୍ଗୁଥିଲେ" କିମ୍ବା, "ତାଙ୍କର ସବୁ ବୀଜକୁ ମାଟିରେ ପୋତି ଦେଉଥିଲେ ।" ଏହି ପ୍ରକାରେ ମଧ୍ୟ ପ୍ରାଚ୍ୟ ସ୍ଥାନ ମାନଙ୍କର ଲୋକେ ବୀଜ ବୁଣନ୍ତି ପୁଣି ଶଷ୍ୟ ଉତ୍ପାଦନ କରନ୍ତି ।
 
 **[[:or:obs:notes:frames:33-01|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-03|>>]]**
