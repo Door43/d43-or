@@ -1,18 +1,15 @@
-===== The Religious Leaders Grumbled [35-02] =====
+===== ଧାର୍ମିକ ନେତାମାନେ ବଚସାକଲେ [35-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&}}
 
-Some **religious leaders** who were also there saw **Jesus** treating these **sinners** as friends, and they began to criticize him to each other. So Jesus told them this **story**.
-===== Important Terms: =====
+କେତେକ ଧାର୍ମିକ ନେତାମାନେ ଯେଉଁମାନେ ମଧ୍ୟ ସେଠାରେ ଥିଲେ ଏବଂ ଯୀଶୁଙ୍କୁ ଏହି ପାପୀମାନଙ୍କ ସହିତ ବନ୍ଧୁତା କରିବାର ଦେଖିଲେ, ସେମାନେ ପରସ୍ପର ମଧ୍ୟରେ ତାହାଙ୍କୁ ସମାଲୋଚନା କଲେ । ତେଣୁ ଯୀଶୁ ସେମାନଙ୍କୁ ଏହି କାହାଣୀ କହିଲେ ।
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sin]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ **
+  * **ପାପ, ପାପପୁର୍ଣ୍ଣ, ପାପୀ, ପାପ କରୁଅଛି**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **story** - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-
-
+  * **କାହାଣୀ - ** ଯୀଶୁ ଈଶ୍ୱରଙ୍କ ରାଜ୍ୟ ବିଷୟରେ ଶିକ୍ଷା ଦେବାକୁ ଏହି କାହାଣୀକୁ ବ୍ୟବହାର କଲେ । ଏହା ସ୍ପଷ୍ଟ ନୁହଁ ବାସ୍ତବରେ ଏହି ଘଟଣା ଘଟିଥିଲା କି ନାହିଁ । ଯଦି ତୁମ ଭାଷାରେ ଏପରି ଶବ୍ଦ ଅଛି ଯାହା କାଳ୍ପନିକ ଏବଂ ବାସ୍ତବ କାହାଣୀ ଉଭୟକୁ ବୁଝାଏ, ତେବେ ତାହାକୁ ଏଠାରେ ବ୍ୟବହାର କରିବା ଉଚିତ୍ ।
 **[[:or:obs:notes:frames:35-01|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-03|>>]]**
