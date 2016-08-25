@@ -1,20 +1,16 @@
-===== Back to Judea [37-02] =====
+===== ଯୀଶୁ ଯ୍ଦିଦିଆ**. ** ଫେରିଗଲେ [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
-===== Important Terms: =====
+ଦୁଇ ଦିନ ଅତିବାହିତ ହେଲା ପରେ ଯୀଶୁ ତାଙ୍କ ଶିଷ୍ୟମାନଙ୍କୁ କହିଲେ ଆସୁ ଆମ୍ଭେମାନେ ଯୁଦିଆକୁ ଫେରି ଯିବା , ଶିଷ୍ୟ ମାନେ ତାଙ୍କୁ କହିଲେ  **“** ମାତ୍ର ଗୁରୁ**”** ,  କିଛି ଦିନ ପୂର୍ବରୁ  ସେଠାକାର ଲୋକ ମାନେ ଆପଣାକୁ ମାରିବାକୁ ଚାହୁଁ ଥିଲେ”। ଯୀଶୁ କହିଲେ “ଆମ୍ଭମାନଙ୍କ ବନ୍ଧୁ ଲାଜାର ନିଦ୍ରା ଯାଇଅଛନ୍ତି**, ** ଏବଂ ମୁଁ ତାହାଙ୍କୁ ନିହାତି ନିଦ୍ରାରୁ ଉଠାଇବାକୁ ପଡିବ ।**”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:teacher]]**
-  * **[[:or:obe:other:lazarus]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ଗୁରୁ,ଶିକ୍ଷକ **
+  * **ଲାଜାର**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **Judea** - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
-  * **has fallen asleep, and I must wake him.** - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
-
-
+  * **ଯୁଦିଆ- ** ଏହା ଇସ୍ରାଏଲ ର ଦକ୍ଷିଣ ଅଂଚଳକୁ  ବୁଝଏ  ଯେଉଁଠାରେ ଯିହୁଦା ଗୋଷ୍ଠୀ ର  ଲୋକ ମାନେ ବାସ କରୁଥିଲେ। ଅନ୍ୟ ଭାଷାରେ ଏହା କୁହ ଯାଇ ପରେ " ଯିହୁଦା ଅଂଚଳ "।
+  * **ଶୋଇ ପଡ଼ିଅଛି, ମୋତେ ଯାଇ ତାକୁ ଉଠାଇବାକୁ ପଡିବ**- ଏଠାରେ "ଶୋଇବା" ଏବଂ "ଉଠାଇବା" କୁ ସାଧାରଣ ଭାଷାର ଅନୁବାଦ କର । ଯଦିଓ ଯୀଶୁ ଏହାକୁ ଭିନ୍ନ ଅର୍ଥ୍ ରେ ଏହାକୁ ବ୍ୟବହାର କରୁଥିଲେ ମାତ୍ର ଶିଷ୍ୟ ମାନେ ତାହାକୁ ସେ ପର୍ଯନ୍ତ ବୁଝି ପରି ନଥିଲେ ।
 **[[:or:obs:notes:frames:37-01|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-03|>>]]**
