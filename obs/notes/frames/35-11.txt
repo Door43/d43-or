@@ -1,17 +1,15 @@
-===== The Brother Is Angry [35-11] =====
+===== ଭାଇ କ୍ରୋଧିତ ଅଟନ୍ତି [35-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
-“When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
-===== Important Terms: =====
+ଯେତେବେଳେ ବଡ ଭାଇ ଜାଣିବାକୁ ପାଇଲେ ଯେ ତାହାର ସାନ ଭାଇ ଘରକୁ ଫେରି ଆସିବା ଯୋଗୁ ସେମାନେ ଆନନ୍ଦ କରିଥିଲେ, ସେ ଅଧିକ କ୍ରୋଧିତ ହେଲେ ଏବଂ ଘର ଭିତରକୁ ଯିବାକୁ ମାନିଲେ ନାହିଁ । ତାହାର ବାପା ବାହାରକୁ ଆସି ତାଙ୍କ ପୁଅକୁ ଘରକୁ ଆସିବାକୁ ଓ ସେମାନଙ୍କ ସହିତ ଆନନ୍ଦ କରିବା ପାଇଁ ବିନତି କଲେ, ମାତ୍ର ସେ ମନାକଲେ ।“
 
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:other:beg]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ପୁତ୍ର, ଙ୍କ ପୁତ୍ର**
+  * **ଭିକ ମାଗିବା, ଭିକାରୀ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
 
 **[[:or:obs:notes:frames:35-10|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-12|>>]]**
