@@ -1,22 +1,18 @@
-===== Prepare the Feast [35-09] =====
+===== ଭୋଜ ପ୍ରସ୍ତୁତ କର [35-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
+“କିନ୍ତୁ ତାହାରି ପିତା ତାଙ୍କ ଦାସମାନଙ୍କ ମଧ୍ୟରୁ ଜଣକୁ କହିଲେ, ‘ଶୀଘ୍ର ଯାଇ ସବୁଠାରୁ ଉତ୍ତମ ବସ୍ତ୍ର ନେଇ ଆସ ଏବଂ ତାହା ମୋ ପୁତ୍ରଙ୍କୁ ପିନ୍ଧାଅ ! ତାହାରି ଆଙ୍ଗୁଠିରେ ମୁଦି ଏବଂ ତାର ପାଦରେ ପାଦୁକା ପିନ୍ଧାଅ । ତା'ପରେ ସବୁଠାରୁ ଉତ୍ତମ ବାଛୁରୀ ମାର ଯଦ୍ବାର ଆମେ ଭୋଜ ପ୍ରସ୍ତୁତ କରୁ ଏବଂ ପାଳନ କରୁ ଯେହେତୁ ମୋର ପୁଅ ମରିଥିଲା**,** ମାତ୍ର ବର୍ତ୍ତମାନ ସେ ବଞ୍ଚିଛି ! ସେ ହଜିଯାଇଥିଲା**, ** କିନ୍ତୁ ବର୍ତ୍ତମାନ ସେ ମିଳିଲା** !”'**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:life]]**
+  * **ସେବକ, ଦାସ, ଦାସତ୍ଵ**
+  * **ପୁତ୍ର, ଙ୍କ ପୁତ୍ର**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଜୀବନ, ଜୀବିତ, ଜୀବନ୍ତ, ସଜୀବ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **the best calf** - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
-  * **My son was dead, but now he is alive!** - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
-  * **He was lost, but now he is is found!** - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ଉତ୍ତମ ବାଛୁରୀ**  - ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ମୋଟା ବାଛୁରୀ ।” ଏହି ବାଛୁରୀ ମୋଟା ଥିଲା ଯାହା ଫଳରେ ଯେତେବେଳେ ଏହାକୁ ରନ୍ଧାଯାଏ ଏହା ଉତ୍ତମ ସ୍ଵାଦ ଦେଇପାରେ ।
+  * **ମୋର ପୁଅ ମରିଯାଇଥିଲା, ମାତ୍ର ବର୍ତ୍ତମାନ ସେ ବଞ୍ଚିଅଛି ! -**  ତାହା ହେଉଛି, "ଏହା  ଯେମିତି ମୋର ପୁଅ ମରିଥିଲା ମାତ୍ର ବର୍ତ୍ତମାନ ସେ ବଞ୍ଚିଅଛି !" କିମ୍ବା, “ମୁ ଦୁଃଖ କରୁଥିଲି ଯେମିତ ମୋର ପୁଅ ମିରିଯାଇଥିଲା ବୋଲି ମାତ୍ର ଏବେ ମୁ ଆନଦ କରୁଅଛି ଯେହେତୁ ସତେ ଯେପରି ସେ ବର୍ତ୍ତମାନ ସେ ଜୀବନକୁ ଫେରି ଆସିଅଛି !“ ପିତା କିପରି ଖୁସି ଥିଲେ କାରଣ ତାହାର ପୁଅ ଗୃହକୁ ଫେରି ଆସିଅଛି ତାହା ଦେଖାଇବାକୁ ସେ ଏହି ବ୍ୟକ୍ତ ବ୍ୟବହାର କରୁଅଛନ୍ତି ।
+  * **ସେ ହଜି ଯାଇଥିଲା, ମାତ୍ର ବର୍ତ୍ତମାନ ସେ ମିଳିଅଛି !**  -  ତାହା ହେଉଛି, "ଏହା ଯେମିତି ମୁଁ ତାହାଙ୍କୁ ହରାଇଥିଲି ମାତ୍ର ବର୍ତ୍ତମାନ ମୁ ତାହାଙ୍କୁ ପାଇଅଛି ।" ଏହି ବ୍ୟକ୍ତ ମଧ୍ୟ ବାପା ନିଜର ପୁଅକୁ ଘରେ ପୁନର୍ବାର ପାଇଁ କିପରି ଖୁସି ଅଟନ୍ତି ତାହା ପ୍ରକାଶ କରେ ।"
 **[[:or:obs:notes:frames:35-08|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-10|>>]]**
