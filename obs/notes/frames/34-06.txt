@@ -1,23 +1,19 @@
-===== Two Men at the Temple [34-06] =====
+===== ମନ୍ଦିରରେ ଦୁଇଜଣ ବ୍ୟକ୍ତି [34-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
-Then **Jesus** told a **story** to some people who **trusted in their own good deeds** and **despised other people**. He said, “Two men went to the **Temple** to **pray**. One of them was a **tax collector**, and the other was a **religious leader**.”
-===== Important Terms: =====
+ତା'ପରେ ଯୀଶୁ ସେହି ଲୋକମାନଙ୍କୁ ଗୋଟିଏ କାହାଣୀ କହିଲେ ଯେଉଁମାନେ ଅନ୍ୟ ଲୋକମାନଙ୍କୁ ତୁଚ୍ଛ କଲେ ଏବଂ ନିଜର ଉତ୍ତମ କାର୍ଯ୍ୟରେ ଶରଣ ନେଲେ । ସେ କହିଲେ**,** “ଦୁଇ ଜଣ ଲୋକ ମନ୍ଦିରକୁ ପ୍ରାର୍ଥନା କରିବାକୁ ଗଲେ । ସେମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ କରଗ୍ରାହୀ ଥିଲା, ଏବଂ ଅନ୍ୟ ଜଣେ ଧାର୍ମିକ ନେତା ଥିଲା ।”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:trust]]**
-  * **[[:or:obe:kt:temple]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:other:taxcollector]]**
-  * **[[:or:obe:other:jewishleaders]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଭରସା କରିବା, ଭରସାଯୋଗ୍ୟ, ବିଶ୍ୱାସଯୋଗ୍ୟତା**
+  * **ମନ୍ଦିର**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **କରଗ୍ରାହୀ**
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:or:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
-  * **despised other people** - That is, "considered other people to be inferior to them" or, "looked down on other people."
-
-
+  * **କାହାଣୀ - ** ଦେଖ ଆପଣ ଏହି ଶବ୍ଦକୁ କିପରି ଏଠାରେ ଅନୁବାଦ କରିଅଛ**__\[__ **__୩୪**-** ____୦୧**]** __
+  * **ନିଜର ଉତ୍ତମ କାର୍ଯରେ ଭରସା କଲେ **- ତାହା ହେଉଛି, “ସେମାନେ ବିଶ୍ୱାସ କଲେ ଯେ ସେମାନଙ୍କର ଉତ୍ତମ କାର୍ଯ୍ୟ ସେମାନଙ୍କୁ ଧାର୍ମିକ କରେ” କିମ୍ବା, "ସେମାନେ ଗର୍ବିତ ଥିଲେ ଯେ ସେମାନେ କିପରି ସିଦ୍ଧତା ଭାବରେ ପରମେଶ୍ଵରଙ୍କ ନିୟମଗୁଡ଼ିକୁ ରଖିଲେ" କିମ୍ବା, "ବିଶ୍ୱାସ କଲେ ଯେ ସେମାନଙ୍କର ଉତ୍ତମ କାର୍ଯ ଈଶ୍ୱରଙ୍କୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ସେମାନଙ୍କ ପ୍ରତି ସନ୍ତୁଷ୍ଟ କରେ ।"
+  * **ଅନ୍ୟ ଲୋକଙ୍କୁ ତୁଚ୍ଛ କଲେ **- ତାହା ହେଉଛି, “ଅନ୍ୟକୁ ନିଜଠାରୁ ଛୋଟ ମନେ କଲେ“ କିମ୍ବା, “ନୀଚ୍ଚ ଭାବରେ ଅନ୍ୟ ଲୋକଙ୍କୁ ଦେଖିଲେ ।”
 **[[:or:obs:notes:frames:34-05|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:34-07|>>]]**
