@@ -1,14 +1,15 @@
-===== A Man with Evil Spirits [32-02] =====
+===== ଏକ ଦୁଷ୍ଟାତ୍ମାଗ୍ରସ୍ତ ବ୍ୟକ୍ତି [32-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
-===== Important Terms: =====
+ଯେତେବେଳେ ସେମାନେ ହ୍ରଦର ଆରପାରିରେ ପହଁଚିଲେ, ଏକ ଦୁଷ୍ଟାତ୍ମାଗ୍ରସ୍ତ ବ୍ୟକ୍ତି  ଦୌଡ଼ି ଦୌଡ଼ି ଯୀଶୁଙ୍କ ପାଖକୁ ଆସିଲା ।
 
-  * **[[:or:obe:kt:demonpossessed|demon-possessed]]**
-  * **[[:or:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-===== Translation Notes: =====
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **a demon-possessed man**  - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
-  * **came running up to**  - That is, "ran to" or, "ran and stopped in front of."
+  * **ଭୂତ-ଗ୍ରସିତ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
+
+  * **ଏକ ଦୁଷ୍ଟାତ୍ମା-ଗ୍ରସ୍ତ ମଣିଷ - ** ତାହା ହେଉଛି, “ଏକ ମଣିଷ ଯାହାଙ୍କ ଠାରେ ଦୁଷ୍ଟାତ୍ମା ଥିଲା" କିମ୍ବା, "ଏକ ମଣିଷ ଯିଏ ଏକ ଅଶୁଚି ଆତ୍ମା ଦ୍ଵାର ନିୟନ୍ତ୍ରଣ ହେଉଥିଲା ।”
+  * **ଦୌଡ଼ି ଦୌଡି ସେଠାକୁ ଆସିଲେ -**  ତାହା ହେଉଛି “ସେଠାକୁ ଦୌଡିଲେ” କିମ୍ବା, “ଦୌଡ଼ିଲେ ଏବଂ ସମ୍ମୁଖରେ ରହିଲେ ।”
 **[[:or:obs:notes:frames:32-01|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-03|>>]]**
