@@ -1,22 +1,17 @@
-===== Peter's Comments [36-04] =====
+===== ପିତରଙ୍କ ମନ୍ତବ୍ୟଗୁଡିକ** [** ୩୬**-** ୦୪**]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
-As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+ଯେପରି ମୋଶା ଏବଂ ଏଲିୟ ଯୀଶୁଙ୍କ ସହିତ କଥା ହେଉଥିଲେ, ପିତର ଯୀଶୁଙ୍କୁ କହିଲେ "ଏଠାରେ ରହିବା ଆମ ପାଇଁ ଉତ୍ତମ। ଆସ ଆମ୍ଭେମାନେ ତିନୋଟି କୁଟୀର ନିର୍ମାଣ କରିବା, ତୁମ ପାଇଁ ଗୋଟିଏ, ମୋଶାଙ୍କ ପାଇଁ ଗୋଟିଏ ଏବଂ ଏଲିୟଙ୍କ ପାଇଁ ଗୋଟିଏ ।”  ପିତର କ**'** ଣ କହୁଅଛନ୍ତି ତାହା ସେ ଜାଣି ନ ଥିଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-===== Important Terms: =====
+  * **ମୋଶା**
+  * **ଏଲିୟ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ଉତ୍ତମ, ଉତ୍ତମତା**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-  * **[[:or:obe:other:moses]]**
-  * **[[:or:obe:other:elijah]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:good]]**
-
-
-===== Translation Notes: =====
-
-  * **shelters** - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **did not know what he was saying** - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-
-
+  * **କୁଟୀରଗୁଡିକ -**  ଏହା ମଧ୍ୟ ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ଛୋଟ ଝୋପଡୀ” କିମ୍ବା, "ବଗିଚାର କୁଟୀରଗୁଡିକ” କିମ୍ବା, ”ତମ୍ବୁଗୁଡିକ ।” ଯିହୂଦୀ ମାନଙ୍କର ଛୋଟ କୁଟୀର ଯାହା ବ୍ୟକ୍ତିଗତ, ପୁଣି ଅଳ୍ପ ସମୟ ପାଇଁ,  ସେମାନେ ପ୍ରତି ବର୍ଷ ପର୍ବ ସମୟରେ ଗଛର ଶାଖାଠାରୁ ତିଆରି କରୁଥିଲେ ତାହାକୁ ଏହା ଦର୍ଶାଏ ।
+  * **ସେ କଣ କହୁଥିଲେ ସେ ଜାଣିଲେ ନାହିଁ -**  ତାହା ହେଉଛି, କ'ଣ ଘଟୁଥିଲା ତାହା ନ ଜାଣି କଥା କହୁଥିଲେ" କିମ୍ବା, "ସ୍ପଷ୍ଟ ଭାବରେ କିଛି ନ ଭାବି କହିଲେ କାରଣ ସେ ଅତି ଉତ୍ସାହିତ ଥିଲେ ।"
 **[[:or:obs:notes:frames:36-03|<<]] | [[:or:obs:notes:36|Up]] | [[:or:obs:notes:frames:36-05|>>]]**
