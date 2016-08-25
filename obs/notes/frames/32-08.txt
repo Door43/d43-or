@@ -1,16 +1,15 @@
-===== The Pigs Drowned [32-08] =====
+===== ଘୁଷୁରୀମାନେ ବୁଡିଗଲେ [32-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
-The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
-===== Important Terms: =====
+ଦୁଷ୍ଟାତ୍ମାମାନେ ଲୋକଠାରୁ ବାହାରି ଆସିଲେ ଏବଂ ଘୁଷୁରୀମାନଙ୍କ ଭିତରକୁ ପ୍ରବେଶ କଲେ । ଘୁଷୁରୀମାନେ ଅତି ବେଗରେ ଦୌଡ଼ି ଯାଇ ତୀଖସ୍ଥାନରୁ ସମୁଦ୍ରରେ ବୁଡି ମଲେ । ପଲ ମଧ୍ୟରେ ପ୍ରାୟ ଦୁଇ ହଜାର ଟି ଘୁଷୁରୀମାନେ ଥିଲେ ।
 
-  * **[[:or:obe:kt:demon]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଭୂତ, ମନ୍ଦ ଆତ୍ମା, ଅଶୁଚି ଆତ୍ମା **
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **herd** - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
-
+  * ପଲ**
+ - ** ତାହା ହେଉଛି, "ଘୁଷୁରୀ ପଲ” କିମ୍ବା "ଘୁଷୁରୀମାନଙ୍କର ଦଳ ।" ଅନେକ ଭାଷାରେ ପଶୁର ଦଳମାନଙ୍କ ନିମନ୍ତେ ଏକ ନିର୍ଦ୍ଧିଷ୍ଟ ଶବ୍ଦ ବ୍ୟବହାର କରାଯାଏ ଯଥା,  "ମେଷ ପଲ," "ଗୋରୁ ପଲ," "କୁକୁର ଦଳ," ଏବଂ "ମାଛ ସମୂହ ।" ଏପରି ଶବ୍ଦ ବ୍ୟବହାର କରନ୍ତୁ ଯାହା ଅନେକ ପଶୁମାନଙ୍କ ଦଳକୁ ବୁଝାଏ ।
 
 **[[:or:obs:notes:frames:32-07|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-09|>>]]**
