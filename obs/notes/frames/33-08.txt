@@ -1,25 +1,23 @@
-===== The Desire for Riches [33-08] =====
+===== ଧନୀ ହେବା ନିମନ୍ତେ ଅଭିଳାଷ [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
-===== Important Terms: =====
+“କଣ୍ଟା ଭୂମି ଏପରି ଜଣେ ବ୍ୟକ୍ତି ଯେ ଇଶ୍ଵରଙ୍କ ବାକ୍ୟ ଶ୍ରବଣ କରେ, ମାତ୍ର ଯେତେବେଳେ ସମୟ ଚାଲିଯାଏ, ଯତ୍ଣ, ଧନ, ଏବଂ ଜୀବନର  ଆମୋଦ ପ୍ରମୋଦ ଈଶ୍ୱରଙ୍କ ପ୍ରତି ତାହାର ପ୍ରେମକୁ ଚାପି ପକାଏ । ଯାହା ଫଳରେ, ଯେଉଁ ଶିକ୍ଷା ସେ ଶୁଣିଥିଲା ତାହା ଫଳ ଫଳେ ନାହିଁ ।**"**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:love]]**
-  * **[[:or:obe:kt:god]]**
+  * **ଇଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପରମେଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପ୍ରଭୁଙ୍କ ବାକ୍ୟ, ଶାସ୍ତ୍ର**
+  * **ପ୍ରେମ**
+  * **ଈଶ୍ବର**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:or:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:or:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ବ୍ୟାଖ୍ୟା କରିବା ଜାରି ରଖିଲେ ।)
+  * **କଣ୍ଟକମୟ ଭୁଇଁରେ **- ଦେଖ କିପରି ଆପଣ ଏହି ପଦକୁ ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **__[__ **__୩୩**-** ____୦୪**]**__।
+  * **ଜଣେ ବ୍ୟକ୍ତି **- ଦେଖ ଏହାକୁ ଆପଣ କିପରି ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **[** ୩୩**-** ୦୬**]** ।
+  * **ଯତ୍ଣ**  - ତାହା ହେଉଛି, "ସମ୍ବନ୍ଧରେ“ କିମ୍ବା, "ଆବଶ୍ୟକତା” କିମ୍ବା, “ସମସ୍ୟାଗୁଡିକ ।”
+  * **ଧନ**  - ତାହା ହେଉଛି, "ଧନ ନିମନ୍ତେ ଲାଳସା ।"
+  * **ଜୀବନର  ଆମୋଦ ପ୍ରମୋଦ**  - ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ଆନନ୍ଦ ପାଇବା ପାଇଁ କାର୍ଯ କରିବା” କିମ୍ବା, “ଏପରି ବିଷୟରେ ଧ୍ୟାନ ଦେବା ଯାହା ଆନନ୍ଦ ଦିଏ ।"
+  * **ଚାପି ପକାଇଲେ -**  ତାହା ହେଉଛି, "ଦାବି ପକାଇବା” କିମ୍ବା, “ବିନାଶ କରିବା” କିମ୍ବା, **“** ବିଜୟୀ ହେଵା ।” ଏହି ଉକ୍ତି ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ଈଶ୍ୱରଙ୍କୁ ପ୍ରେମ କରିବା ଠାରୁ ବିମୁଖ ହେଵାର କାରଣ ହେଵା ।"
+  * **ଫଳ ଫଳେ ନାହିଁ**  - ତାହା ହେଉଛି, "ଆତ୍ମିକ ଫଳ ଫଳେ ନାହିଁ" କିମ୍ବା, “ଏହିପରି ଆଚରଣ କରନ୍ତି ନାହିଁ ଯାହାଠାରେ ଈଶ୍ୱରଙ୍କ ଆତ୍ମା କାର୍ଯ କରନ୍ତି ବୋଲି ଜଣାପଡେ ।”
+  *
 
 **[[:or:obs:notes:frames:33-07|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-09|>>]]**
