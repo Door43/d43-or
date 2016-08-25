@@ -1,19 +1,15 @@
-===== Who Touched Me? [32-15] =====
+===== କିଏ ମୋତେ ଛୁଇଁଲା ? [32-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
+ତତକ୍ଷଣାତ, ଯୀଶୁ ତାଙ୍କ ଶରୀରରୁ ଶକ୍ତି ନିର୍ଗତ ହୋଇଥିବାର ଜାଣିପାରିଲେ । ସେ ବୁଲିପଡିଲେ ଏବଂ ପଚାରିଲେ, ”କିଏ ମୋତେ ଛୁଇଁଲା ?” ଶିଷ୍ୟମାନେ ଉତ୍ତର ଦେଲେ, “ସେଠାରେ ଅନେକ ଲୋକ ଆପଣଙ୍କ ଚାରିପାଖରେ ଅଛନ୍ତି ଓ ଆପଣଙ୍କ ଉପରେ ମାଡିପଡୁଅଛନ୍ତି ।ତୁମେ କାହିଁକି ପଚାରିଲ**, '** ମୋତେ କିଏ ଛୁଇଁଲା ବୋଲି** ?'"**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:power]]**
-  * **[[:or:obe:kt:disciple]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶକ୍ତି, ଶକିଗୁଡିକ **
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **power had gone out from him** - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
-  * **Why did you ask, 'Who touched me?'** - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
-
-
+  * **ତାହାଙ୍କଠାରୁ ଶକ୍ତି ନିର୍ଗତ ହୋଇଥିଲା - ** ଏହାକୁ ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେପରି, "ତାହାଙ୍କଠାରୁ ଅନ୍ୟ କାହା ପାଖକୁ ସୁସ୍ଥତାର ଶକ୍ତି ପ୍ରବାହିତ ହୋଇଥିଲା" କିମ୍ବା, "ତାହାଙ୍କ ଶକ୍ତି ଅନ୍ୟ କାହାକୁ ସୁସ୍ଥ କରିଥିଲା ।" ଏହି କାରଣରୁ ଯୀଶୁ କୌଣସି ଶକ୍ତି ହରାଇଲେ ନାହିଁ ।
+  * **ତୁମେ କାହିଁକି ପଚାରିଲ, 'କିଏ ମୋତେ ଛୁଇଲା ବୋଲି ?' - ** କିଛି ଭାଷାରେ ଏହାକୁ ଏଠାରେ ପରୋକ୍ଷ ଭାବରେ କହିବା ଉତ୍ତମ ହୋଇପାରେ ଯେପରି**, "** କାହିଁକି ତୁମେ ପଚାରିଲ କିଏ ତୁମକୁ ଛୁଉଁଥିଲା ବୋଲି ?" କିମ୍ବା, "କାହିଁକି ତୁମେ ଆଶ୍ଚର୍ଯ୍ୟ ହେଉଥିଲ କିଏ ତୁମକୁ ଛୁଇଲା ବୋଲି ?”
 **[[:or:obs:notes:frames:32-14|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-16|>>]]**
