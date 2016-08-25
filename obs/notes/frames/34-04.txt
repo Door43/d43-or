@@ -1,21 +1,19 @@
-===== The Treasure in the Field [34-04] =====
+===== ଗୁପ୍ତଧନ [34-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
-“The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
-===== Important Terms: =====
+“ଈଶ୍ୱରଙ୍କ ରାଜ୍ୟ ଏକ ଗୁପ୍ତଧନ ସଦୃଶ ଯାହା ଜଣେ ବ୍ୟକ୍ତି ନିଜ ଭୂମିରେ ଲୁଚାଇକି ରଖେ । ଆଉ ଜଣେ ବ୍ୟକ୍ତି ତାକୁ ପାଇଁଲେ ପୁଣି ତାକୁ ପୋତି କି ରଖିଲେ । ସେ ଆନନ୍ଦରେ ପୁର୍ଣ୍ଣ ଥିଲା ଯେ ସେ ଗଲେ ଏବଂ ଯାହା ଟା ପାଖରେ ଥିଲା ସର୍ବସ୍ଵ ବିକ୍ରୟ କଲା ଏବଂ ସେହି ଟଙ୍କାକୁ ବ୍ୟବହାର କରି ସେହି ଜମିକୁ କ୍ରୟ କଲେ.।**"**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:kingdomofgod]]**
-  * **[[:or:obe:kt:joy]]**
+  * **ଇଶ୍ଵରଙ୍କ ରାଜ୍ୟ, ସ୍ଵର୍ଗରାଜ୍ୟ**
+  * **ଆନନ୍ଦ, ଆନନ୍ଦପୁର୍ଣ୍ଣ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
+  * (ଯୀଶୁ ଆଉ ଗୋଟିଏ କାହାଣୀ କହିଲେ ।)
+  * **ଗୁପ୍ତଧନ - ** ତାହା ହେଉଛି, “କିଛି ଯାହା ବହୁତ ମୂଲ୍ୟବାନ ଅଟେ ।”
+  * **ପୁଣି ପୋତିଦେଲେ **- ଏହା ମଧ୍ୟ ସମ୍ଭବତଃ ଯୋଗ କରିବାରେ, "ଯଦ୍ଵାରା ଏହାକୁ ଆଉ କେହି ନ ପାଇବେ ।"
+  * **ଆନନ୍ଦରେ ପୁର୍ଣ୍ଣ ଥିଲେ**  - ଅନ୍ୟ ପ୍ରକାରେ ଏହାକୁ କହିବାକୁ ଗଲେ, “ବହୁତ ଖୁସି" କିମ୍ବା, “ମନମୁଗ୍ଧ ।”
+  * **ସେହି ଜମିକୁ କ୍ରୟ କର**  - ଅନ୍ୟ ଲୋକମାନେ ଏପରି ଯୋଗ କରିପାରନ୍ତି, “ଯଦ୍ଵାରା ସେହି  ଗୁପ୍ତଧନ ତାହରି ହୁଏ ।”
+  *
 
 **[[:or:obs:notes:frames:34-03|<<]] | [[:or:obs:notes:34|Up]] | [[:or:obs:notes:frames:34-05|>>]]**
