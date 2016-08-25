@@ -1,18 +1,15 @@
-===== The Seed in Good Soil [33-05] =====
+===== ଭଲ ଭୂମିରେ ପଡିଥିବା ବୀଜ [33-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
-“Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
-===== Important Terms: =====
+"କିଛି ବିହନ ଭଲ ଭୂମିରେ ପଡିଲା । ଏହି ବିହନଗୁଡିକ ବଢ଼ିଲା ଏବଂ ବୁଣା ଯାଇଥିବା ବିହନ ଠାରୁ ତିରିଶ, ଷାଠିଏ, ଏବଂ ଶଏ ଗୁଣ ବିହନ ଉତ୍ପାଦନ କଲା । ଯାହାର କାନ ଅଛି**, ** ସେ ଶୁଣୁ** !“**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:good]]**
+  * ଉତ୍ତମ**, ** ଉତ୍ତମତା
 
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **good soil** - That is, "fertile soil" or, "soil that was good for growing plants."
-  * **He who has ears, let him hear!** - This saying means, "Everyone who hears what I am saying should listen to me carefully" or, "If anyone hears what I have said, he should pay attention to what I mean." This can also be translated as a command. "Since you have ears to hear, listen carefully to what I am saying."
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ଭଲ ଭୂମି - ** ତାହା ହେଉଛି, "ଉର୍ବର ଭୂମି” କିମ୍ବା “ଭୂମି ଯାହା ଉତ୍ପାଦନ ପାଇଁ ଉତ୍ତମ ଥିଲା ।”
+  * **ଯାହାର କାନ ଅଛି, ସେ ଶୁଣୁ! - ** ଏହି କହିବାର ଅର୍ଥ ହେଉଛି, “ମୁ ଯାହା କହୁଅଛି ଯେ ସମସ୍ତେ ତାହା ଶୁଣନ୍ତି ଧ୍ୟାନର ସହ ମୋତେ ଶୁଣିବା ଉଚିତ୍” କିମ୍ବା, “ଯଦି କେହି ମୁ ଯାହା କହିଅଛି ତାହା ଶୁଣନ୍ତି, ସେ ତାହା ପ୍ରତି ମନୋଯୋଗୀ ହେବା ଉଚିତ୍ ।" ଏହାକୁ ଏକ ଆଦେଶ ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରେ । “ଯେହେତୁ ତୁମର ଶୁଣିବା ପାଇଁ କାନ ଅଛି, ମୁଁ ଯାହା କହୁଛି ତାହା ଧ୍ୟାନଦେଇ ଶୁଣନ୍ତୁ ।"
 **[[:or:obs:notes:frames:33-04|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-06|>>]]**
