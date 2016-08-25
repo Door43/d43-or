@@ -1,18 +1,15 @@
-===== The Man Was Healed [32-09] =====
+===== ଏହି ଲୋକ ସୁସ୍ଥ ହେଲା [32-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
-When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
-===== Important Terms: =====
+ଯେତେବେଳେ ଘୁଷୁରୀ ଚରାଉଥିବା ଲୋକମାନେ ଘଟଣାକୁ ଦେଖିଲେ, ସେମାନେ ଦୌଡ଼ି ଯାଇ ଗାଁରେ ପ୍ରତ୍ୟେକଜଣଙ୍କୁ ଯୀଶୁ ଯାହା କରିଥିଲେ ତାହା କହିଲେ । ଗାଁର ଲୋକମାନେ ବାହାରି ଆସିଲେ ଏବଂ ଯାହାଠାରେ ଭୂତ ରହୁଥିଲା ତାହାକୁ ଦେଖିଲେ । ସେ ସୁସ୍ଥିର ହୋଇ ବସିଥିଲା, ପୋଷାକ ପିନ୍ଧିଥିଲା ଏବଂ ସାଧାରଣ ଲୋକ ପରି ବ୍ୟବହାର କରୁଥିଲା ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:demon]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଭୂତ, ମନ୍ଦ ଆତ୍ମା, ଅଶୁଚି ଆତ୍ମା **
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
-
-
+  * **କଣ ଘଟିଲା **- ତାହା ହେଉଛି, "କିପରି ଯୀଶୁ ଏହି ଲୋକଠାରୁ ଦୁଷ୍ଟାତ୍ମାକୁ ବାହାର କଲେ ଏବଂ ଘୁଷୁରୀମାନଙ୍କ ଭିତରକୁ ପଠାଇଲେ ।”
+  * **ଯାହାଠାରେ ଦୁଷ୍ଟାତ୍ମା ରହୁଥିଲା - ** ତାହାର ଅର୍ଥ “ଯାହାଠାରେ ଦୁଷ୍ଟାତ୍ମା ବାସ କରୁଥିଲା" କିମ୍ବା, "ଯେ ଅଶୁଚି ଆତ୍ମା ଦ୍ଵାରା ନିୟନ୍ତ୍ରଣ ହେଉଥିଲେ ।"
 **[[:or:obs:notes:frames:32-08|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-10|>>]]**
