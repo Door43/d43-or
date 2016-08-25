@@ -1,25 +1,22 @@
-===== Lazarus Was Sick [37-01] =====
+===== ଲାଜାର ଅସୁସ୍ଥ ଥିଲେ [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
-===== Important Terms: =====
+ଗୋଟିଏ ଦିନ ଯୀଶୁ ସମ୍ବାଦ ପାଇଲେ ଯେ ଲାଜାର ଅସୁସ୍ଥ ଅଛି । ଲାଜାର ଏବଂ ତାଙ୍କ ଦୁଇ ଭଉଣୀ ମାର୍ଥା ଓ  ମରୀୟମ ଯୀଶୁଙ୍କ  ଘନିଷ୍ଠ ବନ୍ଧୁ ଥିଲେ । ଯେତେବେଳେ ଯୀଶୁ ଏହି ସମ୍ବାଦ ଶୁଣିଲେ , ସେ କହିଲେ “ଏହି ଅସୁସ୍ଥତା ମୃତ୍ୟ ନିମନ୍ତେ ନୁହଁ ମାତ୍ର ଈଶ୍ୱରଙ୍କ  ମହିମା ଯେପରି ପ୍ରକାଶିତ ହେବ ଏଥିପାଇଁ ଏହା ହୋଇଅଛି**”** । ଯୀଶୁ ତାଙ୍କ ବନ୍ଧୁଙ୍କୁ ପ୍ରେମ କରୁଥିଲେ ମାତ୍ର ସେ ଯେଉଁ ସ୍ଥାନରେ ଥିଲେ ସେହିଠାରେ ଆଉ ଦୁଇ ଦିନ ରହିଗଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:lazarus]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:glory]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:love]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଲାଜାର**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * ** ମହିମା, ଗୌରବାନ୍ଵିତ**
+  * **ଈଶ୍ବର**
+  * **ପ୍ରେମ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
-
+  * **ଦିନେ**
+ - ଏହି ବାକ୍ୟାଂଶ ପୂର୍ବରୁ ଘଟିଥିବା ଏକ ଘଟଣାର ପରିଚୟ ଦିଏ, କିନ୍ତୁ ପ୍ରକୃତ ସମୟକୁ ବୁଝାଏ ନାହିଁ । ଅନେକ ଭାଷାଗୁଡିକ ଏକାପରି ଏକ ସତ୍ୟ କାହାଣୀ କହି ଆରମ୍ଭ କରନ୍ତି ।
+  * **ମରୀୟମ-**  ଯୀଶୁଙ୍କ ମାତାଙ୍କ ନାମ ମଧ୍ୟ ମରିଯମ ଥିଲା । ଏହା ଏକ ଭିନ୍ନ ସ୍ତ୍ରୀ ଲୋକ ।
+  * **ଏହି ଅସୁସ୍ଥତା ମୃତ୍ୟ ନିମନ୍ତେ ନୁହଁ-**  ଏହା ଏପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇ ପରେ – “ଏହି ଅସୁସ୍ଥତାର ପରିଣାମ ମୃତ୍ୟୁ ନୁହଁ “ ବା “ଲାଜାର ଅସୁସ୍ଥ ଅଛି ମାତ୍ର ମୃତ୍ୟୁ ଏହି ଅସୁସ୍ଥତାର ପରିଣାମ ନୁହଁ''। ଯୀଶୁଙ୍କ’ ଶିଷ୍ୟ ମାନେ ବୋଧହୁଏ ଏହାକୁ ଏପରି ବୁଝିଥିବେ ଯେ ଲାଜାର ମାରିବ ନାହିଁ । ମାତ୍ର ଯୀଶୁ ଜାଣିଥିଲେ ଯେ ଲାଜାର ତାଙ୍କ ଅସୁସ୍ଥତାରେ ମୃତ୍ୟୁ ବରଣ କରିବ ଏବଂ ଶେଷରେ ସେ ଜୀବିତ ହେବ ।
+  * **ଏହା ଈଶ୍ୱରଙ୍କ ମହିମା ନିମନ୍ତେ- “** ଏହାର ଅର୍ଥ " ଏହା ଲୋକମାନଙ୍କୁ ଈଶ୍ୱରଙ୍କ ମହାନତା ନିମନ୍ତେ ପ୍ରଶଂସା କରିବାପାଇଁ ସାହାର୍ଯ୍ୟ  କରିବ”।
+  * **ମାତ୍ର ସେ ଯେଉଁ ସ୍ଥାନରେ ଥିଲେ ସେହିଠାରେ ଆଉ ଦୁଇ ଦିନ ରହିଗଲେ**- ଏହା ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ , “ଯଦିଓ ସେମାନେ ଚାହୁଁ ଥିଲେ ଯେ ଯୀଶୁ ଆସି ଲାଜାରକୁ ସୁସ୍ଥ କରିବେ, ମାତ୍ର ସେ ଯେଉଁ ଠାରେ ଥିଲେ ସେହି ସ୍ଥାନରେ ଆଉ ଦୁଇ ଦିନ ରହିଗଲେ ।
 **[[:or:obs:notes:frames:36-07|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-02|>>]]**
