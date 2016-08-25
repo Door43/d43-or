@@ -1,16 +1,15 @@
-===== The Seed in the Thorns [33-04] =====
+===== କଣ୍ଟାଗଛଗୁଡାକ ମଧ୍ୟରେ ପଡିଥିବା ବୀଜ [33-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
-“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
-===== Important Terms: =====
+“ତଥାପି ଅନ୍ୟ ବିହନଗୁଡିକ କଣ୍ଟାବୁଦାଗୁଡିକ ମଧ୍ୟରେ ପଡିଲା । ସେହି ବୀଜଗୁଡିକ ବୃଦ୍ଧି ପାଇବାକୁ ଆରମ୍ଭ କଲା, କିନ୍ତୁ କଣ୍ଟାଗଛଗୁଡିକ ସେଗୁଡିକୁ ଚାପି ପକାଇଲା । ତେଣୁ କଣ୍ଟାକମୟ ଭୂଇଁରେ ବଡିଥିବା ଥିବା ଗଛଗୁଡିକ କୌଣସି ଶଷ୍ୟ ଉତ୍ପନ୍ନ କଲାନାହିଁ ।"
 
-===== Translation Notes: =====
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * (Jesus continues the story.)
-  * **the thorns** - That is, "the thorn plants" or, "the thorn bushes."
-  * **choked them out** - This can also be translated as, "overshadowed them" or, "crowded them out."
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
+  * (ଯୀଶୁ କାହାଣୀକୁ  ଜାରି ରଖିଲେ ।)
+  * **କଣ୍ଟାଗୁଡିକ - ** ତାହା ହେଉଛି, "କଣ୍ଟା ଗଛଗୁଡିକ" କିମ୍ବା, "କଣ୍ଟା ବୁଦାଗୁଡିକ ।"
+  * **ଚାପି ପକାଇଲା -**  ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରାଯାଇପାରେ ଯେମିତି, "ସବୁ ଆଡୁ ସେଗୁଡିକୁ ଢାଙ୍କି ଦେଲା" କିମ୍ବା, "ଚାରିପଟୁ ସେଗୁଡିକୁ ମାଡି ପଡିଲା ।"
+  * **କଣ୍ଟକମୟ ଭୁଇଁରେ - ** ତାହା ହେଉଛି, "ଭୁମି ଯାହା କଣ୍ଟା ବୁଦା ସହ ଭରି ରହିଛି ।"
 **[[:or:obs:notes:frames:33-03|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-05|>>]]**
