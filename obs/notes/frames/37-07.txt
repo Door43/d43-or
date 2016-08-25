@@ -1,21 +1,18 @@
-===== Open the Tomb [37-07] =====
+===== ସମାଧି କୁ ଖୋଲ [37-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
-===== Important Terms: =====
+ଏହି ସମାଧି ଏକ ଗୁମ୍ଫା ମଧ୍ୟରେ ଥିଲା ଯାହାର ମୁହଁରେ ଏକ ବଡ ପଥରରେ ଆବରଣ କରା ଯାଇଥିଲା । ଯୀଶୁ ସମାଧି ରେ ପହଞ୍ଚ ସେମାନଙ୍କୁ କହିଲେ “ପଥର କୁ ଗୋଡ଼ାଇ ଅଲଗା କରି ଦିଅ । “ କିନ୍ତୁ ମାର୍ଥା କହିଲେ , ''ସେ ଚାରି ଦିନ ହେଲା ମରିଅଛି ।'' ସେଠାରୁ ଦୁର୍ଗନ୍ଧ ବାହାରୁଥିବ ।”
 
-  * **[[:or:obe:other:tomb]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:death]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ସମାଧି ସ୍ଥଳ, କବର, ସମାଧି ସ୍ଥାନ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **he told them** - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:or:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, "He died four days ago and his body is lying there."
-
-
+  * **ସେ ସେମାନଙ୍କୁ କହିଲେ -** ଅର୍ଥାତ “ସେଠାରେ ଥିବା ଲୋକ ମାନଙ୍କୁ କହିଲେ”। ସେ ସମ୍ଭବତଃ ମାର୍ଥା ଏବଂ ମରିଯମ କୁ ପଥର ଗୋଡ଼ାଇବା ପାଇଁ କହିନଥିଲେ ।
+  * **ପଥରକୁ ଗୋଡ଼ାଇ ଦିଅ-**  ଅନ୍ୟ  ଭାଷାରେ ଏପରି କୁହାଯାଇପାରେ, “ ସମାଧି ମୁହଁରୁ  ପଥର ଗୋଡାଇଦିଆ”।
+  * **ମାର୍ଥା -  ** ମାର୍ଥା ଲାଜାର ଏବଂ ମରିଯମଙ୍କ ଭଉଣୀ ଥିଲେ । ଦେଖନ୍ତୁ**__ [__ **__୩୭**-** ____୦୧**]**__ ।
+  * **ସେ ଚାରି ଦିନ ହେଲା ମରିଅଛି-**  ଏହାକୁ ଏପରି  ଅନୁବାଦ କରାଯାଇ ପାରେ “ସେ ଚାରି ଦିନ ପୂର୍ବରୁ  ମରିଛି  ଏବଂ ତାର ଦେହ ଏଠାରେ ପଡିଅଛି ।”
 **[[:or:obs:notes:frames:37-06|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-08|>>]]**
