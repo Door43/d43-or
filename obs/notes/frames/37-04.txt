@@ -1,24 +1,20 @@
-===== Martha Met Jesus [37-04] =====
+===== ମାର୍ଥା ଯୀଶୁଙ୍କୁ ସାକ୍ଷାତ କଲେ [37-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead** for four days. **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
-===== Important Terms: =====
+ଯୀଶୁ ଯେତେବେଳେ ଲାଜାରଙ୍କ  ଗାଁ କୁ ପହଁଚିଲେ ସେତେବେଳେ ଲାଜାରଙ୍କୁ  ମରିକି ଚାରି ଦିନ ହୋଇ ଯାଇଥିଲା। ମାର୍ଥା ଯୀଶୁଙ୍କୁ ସାକ୍ଷାତ କରିବାକୁ ଯାଇ କହିଲେ ,**”** ଗୁରୁ , ଆପଣ ଯଦି ଏଠାରେ ଥାନ୍ତେ ମୋର ଭାଇ ମରି ନ ଥାନ୍ତା । କିନ୍ତୁ ମୁଁ ବିଶ୍ବାସ କରେ ଆପଣ ଈଶ୍ବରଙ୍କୁ ଯାହାକିଛି ମାଗିବେ ସେ ତାହା ଆପଣଙ୍କୁ ଦେବେ ।**“**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:lazarus]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:lord]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:kt:god]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଲାଜାର**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ପ୍ରଭୁ, ଗୁରୁ, ମହାଶୟ**
+  * **ବିଶ୍ବାସ କରିବା, ଠାରେ ବିଶ୍ବାସ, ବିଶ୍ବାସ,**
+  * **ପରମେଶ୍ଵର**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:or:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
-
-
+  * **ମାର୍ଥା -  ** ମାର୍ଥା ଲାଜାର ଏବଂ ମରିଯମଙ୍କ ଭଉଣୀ ଥିଲେ । ଦେଖନ୍ତୁ **__[__ **__୩୭**-** ____୦୧**]**__ ।
+  * **ଯୀଶୁଙ୍କୁ ସାକ୍ଷାତ କରିବାକୁ ବାହାରିଲେ- ** ଏହାର ଅର୍ଥ , ଯୀଶୁ ଯେତେବେଳେ ଗାଁ ଭିତରକୁ ଆସୁଥିଲେ  ସେ ତାଙ୍କୁ ସାକ୍ଷାତ କରିବାକୁ ଗଲେ ।
+  * **ମୋର ଭାଇ ମରି ନ ଥାନ୍ତା -**  ଏହାର ଅର୍ଥ, “ ଆପଣ ତାକୁ ସୁସ୍ଥ କରିଥାନ୍ତେ ଏବଂ ସେ  ମରିନ ଥାନ୍ତା” , ବା ଆପଣ ମୋର ଭାଇ କୁ ମୃତ୍ୟୁ  ମୁଖରୁ ବଞ୍ଚାଇ ଥାନ୍ତେ “।
+  * **ତୁମେ ଯାହା ତାଙ୍କ ଠାରୁ  ମାଗିବ ଈଶ୍ୱର ତାହା ଦେବେ -**  ଏହାର ଅର୍ଥ “ତୁମେ ଯାହା ସେ କରନ୍ତୁ ବୋଲି ଚାହିଁବ ସେ ତାହା କରିବେ”।
 **[[:or:obs:notes:frames:37-03|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-05|>>]]**
