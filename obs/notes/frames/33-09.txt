@@ -1,22 +1,18 @@
-===== Spiritual Fruit [33-09] =====
+===== ଆତ୍ମିକ ଫଳ [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
-===== Important Terms: =====
+“ମାତ୍ର ଉତ୍ତମ ଭୂମି ଏପରି ଜଣେ ବ୍ୟକ୍ତିକୁ ବୁଝାଏ ଯେ ଈଶ୍ୱରଙ୍କ ବାକ୍ୟକୁ ଶୁଣେ, ଏହାକୁ ବିଶ୍ୱାସ କରେ**,** ଏବଂ ଫଳ ଫଳେ ।”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:good]]**
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:believe]]**
+  * **ଉତ୍ତମ, ଉତ୍ତମତା**
+  * **ଇଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପରମେଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପ୍ରଭୁଙ୍କ ବାକ୍ୟ, ଶାସ୍ତ୍ର**
+  * **ବିଶ୍ଵାସ କରିବା, ଠାରେ ବିଶ୍ଵାସ, ବିଶ୍ଵାସ **
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:or:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:or:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:or:obs:notes:frames:33-08|[33-08]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ବ୍ୟାଖ୍ୟା କରିବା ଜାରି ରଖିଲେ ।)
+  * **ଭଲ ଭୂମି**  - ଦେଖ ଆପଣ କିପରି ଏହି ପଦକୁ ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **__[__ **__୩୩**-** ____୦୫**]** __
+  * **ଜଣେ ବ୍ୟକ୍ତି **- ଦେଖ ଏହାକୁ ଆପଣ କିପରି ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **[**__୩୩**-** ____୦୬__**]** ।
+  * **ଫଳ ଫଳେ -**  ଦେଖ ଆପଣ ଏହି ବାକ୍ୟାଂଶକୁ କିପରି ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **__[__ **__୩୩**-** ____୦୮**]**__।
+  * **ବାଇବଲର ଏକ କାହାଣୀ**  - ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗଗୁଡିକ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରେ  ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:33-08|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:34-01|>>]]**
