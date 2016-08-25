@@ -1,18 +1,14 @@
-===== Go Home [32-11] =====
+===== ଗୃହକୁ ଯାଅ [32-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
-But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
-===== Important Terms: =====
+କିନ୍ତୁ ଯୀଶୁ ତାକୁ କହିଲେ “ନା, ମୁଁ ଚାହେଁ ତୁମ୍ଭ ଗୃହକୁ ଯାଅ ଏବଂ ତୁମ୍ଭର ବନ୍ଧୁ ଓ ପରିଜନଙ୍କୁ ଈଶ୍ଵର ତୁମ୍ଭପ୍ରତି ଯାହା ଯାହା କରିଅଛନ୍ତି ଓ ତୁମ୍ଭ ପ୍ରତି କିପରି ଦୟା ଦେଖାଇଅଛନ୍ତି ସେହିସବୁ ବିଷୟରେ କୁହ ।**”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:mercy]] on you**."
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଇଶ୍ଵର**
+  * **ଦୟା, ଦୟାବନ୍ତ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **how he has had mercy on you** - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
-
-
+  * **କିପରି ସେ ତୁମ୍ଭ ଉପରେ ଦୟା କଲେ - ** ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "କିପରି ସେ ତୁମ୍ଭକୁ ଦୟା ଦେଖାଇଥିଲେ" କିମ୍ବା, "ସେ ତୁମ୍ଭ ପ୍ରତି ଦୟାବନ୍ତ ହୋଇଛନ୍ତି ।"
 **[[:or:obs:notes:frames:32-10|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-12|>>]]**
