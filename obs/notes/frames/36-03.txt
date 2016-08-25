@@ -1,23 +1,19 @@
-===== Moses and Elijah [36-03] =====
+===== ମୋଶା ଏବଂ ଏଲିୟ** [** ୩୬**-** ୦୩**]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
-Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
-===== Important Terms: =====
+ତା'ପରେ ମୋଶା ଏବଂ ଏଲିୟ ଭବିଷ୍ୟଦବକ୍ତା ଦେଖାଦେଲେ ।ଏହି ଲୋକମାନେ ଏହି ଘଟଣାର ଶହ ଶହ ବର୍ଷ ପୂର୍ବରୁ ଏହି ପୃଥିବୀରେ ବସବାସ କରୁଥିଲେ । ସେମାନେ ଯୀଶୁଙ୍କ ସହିତ ତାହାଙ୍କ ମୃତ୍ୟୁ ବିଷୟରେ କଥାବାର୍ତ୍ତା ହେଲେ**,** ଯାହା ଅତିଶୀଘ୍ର ଯିରୂଶାଲମରେ ଘଟିଥା**'** ନ୍ତା ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-  * **[[:or:obe:other:moses]]**
-  * **[[:or:obe:kt:prophet]]**
-  * **[[:or:obe:other:elijah]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:other:jerusalem]]**
+  * **ମୋଶା**
+  * **ଭାବବାଦୀ, ଭାବବାଣୀ କରିବା, ଭାବବାଣୀ, ଦ୍ରଷ୍ଟା, ଭାବବାଦୀନୀ**
+  * **ଏଲୀୟ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଯିରୂଶାଲମ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-
-===== Translation Notes: =====
-
-  * **appeared** - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **his death, which would soon happen** - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **in Jerusalem** - Some languages may prefer to say, "in the city of Jerusalem."
-
-
+  * **ଦେଖାଗଲେ - ** ଏହା ମଧ୍ୟ ଏହିପରି କହିବାକୁ ସମ୍ଭବ, **"** ଅକସ୍ମାତ ଦେଖାଗଲେ ।” ସେମାନେ ହଠାତ୍ ସେଠାରେ ଥିଲେ ।
+  * **ତାହାଙ୍କ ମୃତ୍ୟୁ, ଯାହା ଶୀଘ୍ର ଘଟିଥା'ନ୍ତା -**  ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ସେ କିପରି ଶୀଘ୍ର ମାରିବାକୁ ଯାଉଥିଲେ” କିମ୍ବା, “ସେ ଶୀଘ୍ର କେମିତି ମରାଯିବେ ।”
+  * **ଯିରୂଶାଲମରେ -**  ଅଳ୍ପ ଭାଷାଗୁଡିକ ଏହିପରି କହିବାକୁ ପସନ୍ଦ କରିପାରନ୍ତି, “ଯିରୂଶାଲମ ସହରରେ ।"
 **[[:or:obs:notes:frames:36-02|<<]] | [[:or:obs:notes:36|Up]] | [[:or:obs:notes:frames:36-04|>>]]**
