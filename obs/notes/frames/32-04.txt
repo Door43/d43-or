@@ -1,16 +1,12 @@
-===== Living among the Tombs [32-04] =====
+===== ସମାଧି-ସ୍ଥାନ ମଧ୍ୟରେ ବାସ କରୁଥିଲା [32-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
-===== Important Terms: =====
+ଏହି ଲୋକ ସମାଧି**-** ସ୍ଥାନ ମଧ୍ୟରେ ବାସ କରୁଥିଲେ । ଏହି ଲୋକ ସାରା ଦିନ ଏବଂ ରାତି ଚିତ୍କାର କରୁଥିଲେ । ସେ ବସ୍ତ୍ର  ପିନ୍ଧୁ ନ ଥିଲେ ଏବଂ ବାରମ୍ବାର ପଥରରେ ନିଜକୁ ଆଘାତ କରୁଥିଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:tomb]]**
+  * **ସମାଧି ସ୍ଥାନ, କବର, କବର ସ୍ଥାନ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **among the tombs** - That is "near the tombs" or, "around the tombs."
-
-
+  * **ସମାଧି ସ୍ଥାନ ମଧ୍ୟରେ - ** ତାହା “ସମାଧି ସ୍ଥାନର ନିକଟରେ” କିମ୍ବା “ସମାଧି ସ୍ଥାନର ଚାରିପଟେ ।**”**
 **[[:or:obs:notes:frames:32-03|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-05|>>]]**
