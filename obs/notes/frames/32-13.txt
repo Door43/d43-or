@@ -1,18 +1,15 @@
-===== The Sick Woman [32-13] =====
+===== ଜଣେ ପୀଡିତ ସ୍ତ୍ରୀ [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
-===== Important Terms: =====
+ଯୀଶୁ ହ୍ରଦର ଆରପାରିକୁ  ଫେରି ଆସିଲେ । ସେ ସେଠାରେ ପହଁଞ୍ଚିଲା ପରେ, ଏକ ବିରାଟ ଜନଗହଳି ତାହାଙ୍କ ଚାରିପଟେ ପୁଣି ଉପରେ ମାଡି ପଡୁଥିଲେ । ଲୋକଗହଳି ମଧ୍ୟରେ ଜଣେ ସ୍ତ୍ରୀ ଥିଲେ ଯେ ବାରବର୍ଷ ଧରି ପ୍ରଦରରୋଗଗ୍ରସ୍ତାରେ ପୀଡିତ ଥିଲେ । ସେ ଡାକ୍ତରମାନକୁ ସୁସ୍ଥ ହେବା ନିମନ୍ତେ ତାହାରି ସମସ୍ତ ଅର୍ଥ ବ୍ୟୟ କରିଥିଲେ, ମାତ୍ର ସେ ଅଧିକ ପୀଡିତ ହେଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:heal]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ସୁସ୍ଥ, ଆରୋଗ୍ୟ କରିବା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **pressed in on him** - That is, "pushed tightly against him" or, "crowded in tightly around him."
-  * **she only got worse** - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
-
-
+  * **ତାହାଙ୍କ ଉପରେ ମାଡି ପଡୁଥିଲେ - ** ତାହା ହେଉଛି, “ତାଙ୍କ ଉପରେ ଜୋର୍ ରେ ମାଡି ପଡୁଥିଲେ” କିମ୍ବା "ତାଙ୍କ ଚାରିପଟେ ବହୁତ ଭିଡ ହୋଇଥିଲେ ।"
+  * **ସେ ଅଧିକ ପୀଡିତ ହେଲେ - ** ତାହା ହେଉଛି "ତାହରି ଅବସ୍ଥା କେବଳ ସଂଘାତିକ ହେଉଥିଲା" କିମ୍ବା, "ତାର ସ୍ଵାସ୍ଥ୍ୟ ଉତ୍ତମ ପରିବର୍ତେ ଖରାପ ହେଉଥିଲା" କିମ୍ବା "ତାହା ପରିବର୍ତ୍ତେ ସେ ଅଧିକ ରୋଗାକ୍ରାନ୍ତ ହେଲା ।"
 **[[:or:obs:notes:frames:32-12|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-14|>>]]**
