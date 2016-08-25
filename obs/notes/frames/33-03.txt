@@ -1,14 +1,13 @@
-===== The Seed on the Rocks [33-03] =====
+===== ପଥୁରିଆ ଭୂମିରେ ପଡିଥିବା ବୀଜ [33-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
-“Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
-===== Important Terms: =====
+ଅନ୍ୟ କିଛି ବୀଜ ପଥୁରିଆ ଭୂମିରେ ପଡିଲା, ଯେଉଁଠାରେ ଅଳ୍ପ ମାଟି ଥିଲା । ପଥୁରିଆ ଭୂଇଁରେ ଥିବା ବିହନ ଅତିଶୀଘ୍ର ଗଜା ହେଲା, କିନ୍ତୁ ସେଗୁଡିକର ଚେର ଗଭୀର ମାଟି ଭିତରକୁ ଯାଇପାରିଲା ନାହିଁ । ଯେତେବେଳେ ସୂର୍ଯ୍ୟ ପ୍ରକାଶିତ ହେଲା (ଖରା ହେଲା), ଗଛ ଝାଉଁଳିଗଲା ଏବଂ ମରିଗଲା ।”
 
-===== Translation Notes: =====
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * (Jesus continues the story.)
-  * **rocky ground** - That is, "ground that was full of rocks."
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
+  * (ଯୀଶୁ କାହାଣୀକୁ  ଜାରି ରଖିଲେ ।)
+  * **ପଥୁରିଆ ଭୁଇଁ - ** ତାହା ହେଉଛି, “ଭୁମି ଯାହା ପଥରରେ ପୁର୍ଣ୍ଣ ।”
 **[[:or:obs:notes:frames:33-02|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-04|>>]]**
