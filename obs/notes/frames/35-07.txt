@@ -1,20 +1,15 @@
-===== The Father's Welcome [35-07] =====
+===== ବାପାଙ୍କର ସ୍ୱାଗତ [35-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink&}}
 
-“So the younger **son** started back towards his father's home. When he was **still far away**, his father saw him and **felt compassion** for him. He ran to his son and hugged him and kissed him.”
+“ତେବେ ସାନ ପୁଅ ବାପାଙ୍କ ଗୃହକୁ ଫେରି ଆସିବା ପାଇଁ ପ୍ରସ୍ତୁତ ହେଲା । ଯେତେବେଳେ ସେ ଦୂରରେ ଥିଲେ**,** ତାହାଙ୍କ ବାପା ତାହାକୁ ଦେଖିଲେ ଏବଂ ତାହାଙ୍କ ପାଇଁ ଦୟାରେ ବିଗଳିତ ହେଲେ । ସେ ତାଙ୍କ ପୁତ୍ର ନିକଟକୁ ଦୌଡିଗଲେ ଏବଂ ଆଲିଙ୍ଗନ ଓ ଚୁମ୍ବନ କଲେ ।”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * ପୁତ୍ର**, ** ଙ୍କ ପୁତ୍ର**,**
 
-===== Important Terms: =====
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-  * **[[:or:obe:kt:son]]**
-
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **still far away** - This can also be translated as, "within sight of his father's home, but still a distance away." The son was getting close to his father's house but was still far enough away that most people in the house would not have seen him. Make sure it does not sound like he was still in a different country.
-  * **felt compassion** - That is, "felt deep love and pity."
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ଦୂରରେ ଥିଲା**  - ଏହା ଏହିପରି ମଧ୍ୟ ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, “ତାଙ୍କ  ବାପାଙ୍କ ଗୃହର ଦୃଷ୍ଟି ଗୋଚର ମଧ୍ୟରେ, ତଥାପି କିଛି ଦୂରରେ ।" ପୁଅ  ବାପାଙ୍କ ଗୃହର ପାଖେଇ ଆସୁଥିଲା ମାତ୍ର ତଥାପି କିଛି ଯଥେଷ୍ଟ ଦୂରରେ ଥିଲା ଯଦ୍ଵାରା ଗୃହର ଅନେକ ଲୋକ ତାକୁ ଦେଖି ପାରି ନ ଥିବେ । ନିଶ୍ଚିତ ହେଉନ୍ତୁ ଯେ ସେ ଦୂର ଦେଶରେ ଥିଲା ବୋଲି ଏହା ଅର୍ଥ ପ୍ରକାଶ ନ କରେ ।
+  * **ଦୟାରେ ବିଗଳିତ ହେଲେ**  - ତାହା ହେଉଛି, “ପ୍ରତି  ଗଭୀର ପ୍ରେମ ଏବଂ ଦୟା ଜାଗ୍ରତ ହେଲେ ।“
 **[[:or:obs:notes:frames:35-06|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-08|>>]]**
