@@ -1,21 +1,17 @@
-===== The Herd of Pigs [32-07] =====
+===== ଘୁଷୁରି ପଲ [32-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink&}}
 
-The **demons begged Jesus**, “Please **do not send us** out of this region!” There was a herd of pigs feeding on a nearby hill. So, the demons begged Jesus, “**Please send us** into the pigs **instead**!” Jesus said, “**Go**!”
-===== Important Terms: =====
+ଦୁଷ୍ଟାତ୍ମାମାନେ ଯୀଶୁଙ୍କୁ ବିନତି କଲେ, "ଦୟାକରି ଆମ୍ଭମାନଙ୍କୁ ଏହି ଅଞ୍ଚଳରୁ ବାହାରକୁ ପଠାଅ ନାହିଁ** !"** ସେଠାରେ ଏକ ଘୁଷୁରୀ ପଲ ପର୍ବତ କଡରେ ଚରୁଥିଲେ । ତେଣୁ, ଭୂତମାନେ ଯୀଶୁଙ୍କୁ ବିନତି କଲେ, “ଦୟାକରି ଅନ୍ୟ ସ୍ଥାନକୁ ପଠାଇବା ପରିବର୍ତ୍ତେ  ଆମ୍ଭମାନଙ୍କୁ ଘୁଷୁରିମାନଙ୍କ ଭିତରକୁ ପଠାନ୍ତୁ !” ଯୀଶୁ କହିଲେ,** “** ଯାଅ** !”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:demon]]**
-  * **[[:or:obe:other:beg]]**
-  * **[[:or:obe:kt:jesus]]**
+  * **ଭୂତ, ମନ୍ଦ ଆତ୍ମା, ଅଶୁଚି ଆତ୍ମା **
+  * **ଭିକ ମାଗିବା, ଭିକାରୀ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **do not send us** - That is, "do not make us go."
-  * **Please send us** - That is, "Please let us go."
-  * **instead** - That is, "instead of making us go away."
-  * **Go!** - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
-
-
+  * **ଆମ୍ଭମାନଙ୍କୁ ପଠାଅ ନାହିଁ **- ତାହା ହେଉଛି "ଆମକୁ ଯିବାକୁ ଦିଅ ନାହିଁ ।"
+  * **ଦୟାକରି ଆମ୍ଭମାନଙ୍କୁ ପଠାନ୍ତୁ**  - ତାହା ହେଉଛି "ଆମ୍ଭମାନଙ୍କୁ ଯିବାକୁ ଦିଅନ୍ତୁ ।"
+  * **ବଦଳରେ - ** ତାହା ହେଉଛି "ଆମ୍ଭମାନଙ୍କୁ ପଠାଇବା ବଦଳରେ ।"
+  * **ଯାଅ ! -**  ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ଘୁଷୁରୀମାନଙ୍କ ଭିତରକୁ ଯାଅ !"  କିମ୍ବା, "ତୁମେ ଘୁଷୁରୀମାନଙ୍କ ଭିତରକୁ ଯାଇ ପାର !"
 **[[:or:obs:notes:frames:32-06|<<]] | [[:or:obs:notes:32|Up]] | [[:or:obs:notes:frames:32-08|>>]]**
