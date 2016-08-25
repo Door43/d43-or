@@ -1,22 +1,18 @@
-===== Persecution and Hardship [33-07] =====
+===== ତାଡନା ଏବଂ କଷ୍ଟ [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
+**“** ପଥୁରିଆ  ଭୂମି ଏପରି ଜଣେ ବ୍ୟକ୍ତିକୁ ବୁଝାଏ ଯେ ବାକ୍ୟକୁ ଆନନ୍ଦରେ ଶୁଣି ଗ୍ରହଣ କରେ । ମାତ୍ର ସେ ଯେତେବେଳେ କଷ୍ଟ କିମ୍ବା ତାଡନାର ସମ୍ମୁଖୀନ ହୁଏ ସେ ତହିଁରୁ ବିମୁଖ ହୋଇଯାଏ ।"
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:wordofgod]]**
-  * **[[:or:obe:kt:joy]]**
-  * **[[:or:obe:other:persecute]]**
+  * **ଇଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପରମେଶ୍ଵରଙ୍କ ବାକ୍ୟ, ପ୍ରଭୁଙ୍କ ବାକ୍ୟ, ଶାସ୍ତ୍ର**
+  * **ଆନନ୍ଦ, ଆନନ୍ଦପୁର୍ଣ **
+  * **ତାଡନା କରିବା, ତାଡନା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:or:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:or:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ବ୍ୟାଖ୍ୟା କରିବା ଜାରି ରଖିଲେ ।)
+  * **ପଥୁରିଆ ଭୂମି**  - ଦେଖ ତୁମେ ଏହି ଶବ୍ଦକୁ କିପରି ଅନୁବାଦ କରିଅଛ__\[____୩୩-____୦୩]__
+  * **ଜଣେ ବ୍ୟକ୍ତି **- ଦେଖା ତୁମେ ଏହି ଶବ୍ଦକୁ ଏହିଠାରେ କିପରି ଅନୁବାଦ କରିଅଛ\[୩୩-୦୬]
+  * **ଆନନ୍ଦରେ ଏହା ଗ୍ରହଣ କରନ୍ତି - ** ତାହା ହେଉଛି, “ଆନନ୍ଦରେ ବିଶ୍ୱାସ କରିବା” କିମ୍ବା, “ ଏହା ସତ୍ୟ ଅଟେ ବୋଲି ଆନନ୍ଦରେ ସମ୍ମତ ହେବା ।”
+  * **ବିମୁଖ ହେଵା **- ତାହା ହେଉଛି, “ଆଉ ଈଶ୍ୱରଙ୍କ ପଛେ ଚାଲିବ ଏବଂ ଆଂଜ୍ଞା ମାନିବା ନାହିଁ“ କିମ୍ବା, "ଈଶ୍ୱରଙ୍କୁ ଅନୁସରଣ କରିବା ଏବଂ ଆଂଜ୍ଞା ମାନିବା ବନ୍ଦ କରିବା ।”
 **[[:or:obs:notes:frames:33-06|<<]] | [[:or:obs:notes:33|Up]] | [[:or:obs:notes:frames:33-08|>>]]**
