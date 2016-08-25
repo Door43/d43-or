@@ -1,23 +1,19 @@
-===== We Must Celebrate [35-13] =====
+===== ଆମେ ନିଶ୍ଚୟ ପାଳନ କରିବା [35-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
-“The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
-===== Important Terms: =====
+“ପିତା ଉତ୍ତର ଦେଲେ, ‘ମୋ ପୁଅ**,** ତୁମେ ସର୍ବଦା ମୋ ସହିତ ରହିଆସିଅଛ, ଯେଉଁ ସମସ୍ତ ମୋର ସେହି ସମସ୍ତ ମଧ୍ୟ ତୁମର ଅଟେ । ମାତ୍ର ଏହା ପାଳନ କରିବାକୁ ଆମ ପାଇଁ ଯଥାର୍ଥ ଅଟେ**, ** କାରଣ ତୁମର ଭାଇ ମରିଯାଇଥିଲା**, ** କିନ୍ତୁ ବର୍ତ୍ତମାନ ସେ ବଞ୍ଚିଅଛି । ସେ ହଜିଯାଇଥିଲା**, ** କିନ୍ତୁ ବର୍ତ୍ତମାନ ମିଳିଅଛି** !”**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:life]]**
+  * **ପୁତ୍ର, ଙ୍କ ପୁତ୍ର**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଜୀବନ, ଜୀବିତ, ଜୀବନ୍ତ, ସଜୀବ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
-  * **your brother** - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
-  * **was dead, but now is alive** - See how you translated this in **[[:or:obs:notes:frames:35-09|[35-09]]]**.
-  * **He was lost, but now is found!** - See how you translated this in **[[:or:obs:notes:frames:35-09|[35-09]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * (ଯୀଶୁ କାହାଣୀକୁ ଜାରି ରଖିଲେ ।)
+  * **ଏହା ଆମ ପାଇଁ ଯଥାର୍ଥ ଅଟେ**  - ତାହା ହେଉଛି, ”ଏହା ଆମ ପାଇଁ କରିବା ଉଚିତ ଅଟେ” କିମ୍ବା, “ଏହା ଆମ ପାଇଁ ଉପଯୁକ୍ତ ଅଟେ ।”
+  * **ତୁମର ଭାଇ -**  ବାପା ତାହାର ସାନ ପୁଅକୁ ସମ୍ବୋଧନ କରେ ଯେମିତି, "ତୁମର ଭାଇ" ଏହା ସ୍ମରଣ କରାଇବାକୁ ଯେ ତାହାର ସାନ ଭାଇ ସହିତ ତାହାରି ସମ୍ପର୍କ କିପ୍ରକାର ଏବଂ ସେ ତାହାର ସାନ ଭାଇଙ୍କୁ କିପରି ପ୍ରେମ କରିବା ଉଚିତ ।
+  * **ମରିଥିଲା, ଏବଂ ବର୍ତ୍ତମାନ ସେ ବଞ୍ଚିଅଛି**  - ଦେଖ କିପରି ଆପଣ ଏହାକୁ ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **__[__ **__୩୫**-** ____୦୯**]** __
+  * **ସେ ହଜି ଯାଇଥିଲା, କିନ୍ତୁ ବର୍ତ୍ତମାନ ମିଳିଅଛି**  - ଦେଖ ଆପଣ କିପରି ଏହାକୁ ଏଠାରେ ଅନୁବାଦ କରିଅଛନ୍ତି **__[__ **__୩୫**-** ____୦୯**]**__।
+  * **ବାଇବଲର ଏକ କାହାଣୀ**  - ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗଗୁଡିକ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରେ  ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:35-12|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:36-01|>>]]**
