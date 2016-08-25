@@ -1,21 +1,18 @@
-===== To the Mountain [36-01] =====
+===== ପର୍ବତ ଉପରକୁ [36-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
-One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
+ଦିନେ, ଯୀଶୁ ତାହାଙ୍କ ଶିଷ୍ୟମାନଙ୍କ ମଧ୍ୟରୁ ତିନିଜଣ ପିତର**, ** ଯାକୁବ**,** ଏବଂ ଯୋହନଙ୍କୁ**,** ତାହାଙ୍କ ସହିତ ନେଲେ । (ଏହି ଶିଷ୍ୟ ଯୋହନ ଯୀଶୁଙ୍କୁ ଡୁବନ ଦେଇଥିବା ବାପ୍ତିଜକ ଯୋହନ ନୁହନ୍ତି ।) ସେମାନେ ନିଜେ ନିଜେ ପ୍ରାର୍ଥନା କରିବା ନିମନ୍ତେ ଏକ ଅତି ଉଚ୍ଚ ପର୍ବତକୁ ଗଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-===== Important Terms: =====
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ଯୋହନ (ପ୍ରେରିତ)**
+  * **ବାପ୍ତିସ୍ମ ଦେବା, ବାପ୍ତିସ୍ମ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:johntheapostle]]**
-  * **[[:or:obe:kt:baptize]]**
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
-
+  * ଦିନେ - ଏହି ବାକ୍ୟାଂଶ ପୂର୍ବରୁ ଘଟିଥିବା ଏକ ଘଟଣାର ପରିଚୟ ଦିଏ, କିନ୍ତୁ ପ୍ରକୃତ ସମୟକୁ ବୁଝାଏ ନାହିଁ । ଅନେକ ଭାଷାଗୁଡିକ ଏକାପରି ଏକ ସତ୍ୟ କାହାଣୀ କହି ଆରମ୍ଭ କରନ୍ତି ।
+  * ଯାକୁବ - ଏହି ଯାକୁବ ବାଇବଲରେ ଯାକୁବ ପୁସ୍ତକକୁ ଯିଏ ଲେଖିଲେ ସେହି ଯାକୁବ ଠାରୁ ଭିନ୍ନ ଅଟନ୍ତି । ଏହାକୁ ସ୍ପଷ୍ଟ କରିବା ପାଇଁ, ଅନ୍ୟ ଭାଷାରେ ଦୁଇଟି ଭିନ୍ନ ନାମ ବ୍ୟବାହର କରନ୍ତି କିମ୍ବା ସେଗୁଡିକୁ ଭିନ୍ନ ଭାବରେ ଉଚ୍ଚାରାଣ କରନ୍ତି ।
 
 **[[:or:obs:notes:frames:35-13|<<]] | [[:or:obs:notes:36|Up]] | [[:or:obs:notes:frames:36-02|>>]]**
