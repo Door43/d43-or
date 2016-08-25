@@ -1,19 +1,17 @@
-===== The Two Sons [35-03] =====
+===== ଦୁଇ ପୁତ୍ର [35-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
-“There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
-===== Important Terms: =====
+"ସେଠାରେ ଏକ ଲୋକ ଥିଲା  ଯାହାର ଦୁଇ ପୁତ୍ର ଥିଲା । ସାନ ପୁଅ ବାପାଙ୍କୁ କହିଲା, 'ବାପା, ମୁ ମୋର ଉତ୍ତରାଧିକାର ବର୍ତ୍ତମାନ ଚାହେଁ !' ତେଣୁ ପିତା ସେହି ଦୁଇ ପୁତ୍ରଙ୍କ ମଧ୍ୟରେ ତାହାରି ସମ୍ପତ୍ତି ଭାଗ କରିଦେଲେ ।”
 
-  * **[[:or:obe:kt:son]]**
-  * **[[:or:obe:kt:inherit]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * ପୁତ୍ର**, ** ଙ୍କ ପୁତ୍ର**,**
+  * ଉତ୍ତାରଧିକାରୀ ପାଇବା**, ** ଉତ୍ତରାଧିକାରୀଭାବେ**, ** ପରମ୍ପରା**, ** ଦାୟାଦ
 
-===== Translation Notes: =====
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-  * (Jesus tells the story.)
-  * **my inheritance** - This could be translated as, "the part of your wealth that will be rightfully mine when you die."
-  * **property** - That is, "wealth" or, "possessions." This property would probably have included land, animals, and money.
-
-
+  * (ଯୀଶୁ କାହାଣୀ କହନ୍ତି ।)
+  * **ମୋର ସମ୍ପତ୍ତି - ** ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେମିତି, "ଯେତେବେଳେ ତୁମେ ମରିବ ସେତେବେଳେ ତୁମ ସମ୍ପତ୍ତିର ଭାଗ ଯାହା ମୋର ଅଧିକାର ହେବ ।”
+  * **ସମ୍ପତ୍ତି - ** ତାହା ହେଉଛି, “ଧନ” କିମ୍ବା, “ସମ୍ପତ୍ତି ।“ ଏହି ସମ୍ପତ୍ତି ସମ୍ଭବତଃ ଜମି, ପଶୁ ଏବଂ ଅର୍ଥକୁ ସମ୍ମିଳିତ କରିଥାଇପାରେ ।
 **[[:or:obs:notes:frames:35-02|<<]] | [[:or:obs:notes:35|Up]] | [[:or:obs:notes:frames:35-04|>>]]**
