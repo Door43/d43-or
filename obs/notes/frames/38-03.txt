@@ -1,21 +1,18 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== ତିରିଶୀ ଗୋଟି ରୋପ୍ୟ ମୁଦ୍ରା [38-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
+ଯିହୂଦୀ ନେତାମାନେ ମହାଯାଜକଙ୍କ ନେତୃତରେ ଯୀଶୁଙ୍କୁ ଧରାଇବା ପାଇଁ ଯିହୁଦାକୁ ତିରିଶୀ ଗୋଟି ରୋପ୍ୟ ମୁଦ୍ରା ଦେଲେ ।ଏହା ଭବିଷଦବକ୍ତାଙ୍କ ଦ୍ୱରା କୁହା ଯାଇଥିବା ବାକ୍ୟ  ଅନୁସାରେ ହେଲା । ଯିହୁଦା ରାଜି ହେଲେ ପଇସା ନେଲେ ଏବଂ ସେଠାରୁ ପ୍ରସ୍ଥାନ କଲେ । ସେ ସୁଯୋଗର ଅନୁସନ୍ଧାନ କରୁଥିଲେ ଯେପରି ଯୀଶୁଙ୍କୁ ଧରାଇବା ପାଇଁ ସେମାଙ୍କୁ ସାହାର୍ଯ୍ୟ କରିପାରିବ ।
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:highpriest]]**
-  * **[[:or:obe:other:judasiscariot]]**
-  * **[[:or:obe:kt:betray]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:prophet]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ମହାଯାଜକ**
+  * **ଯିହୁଦା**
+  * **ବିଶ୍ବାସଘାତ କରିବା, ବିଶ୍ବାସଘାତୀ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଭାବବାଦୀ,ଭାବବାଣୀ,ଭାବବାଣୀ କହିବା,ଦ୍ରଷ୍ଟା,ଭାବବାଦିନୀ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
-
+  * **ତିରିଶି ଗୋଟି ରୋପ୍ୟ ମୁଦ୍ରା**  - ପ୍ରତ୍ୟେକଟି ମୁଦ୍ରାର ମୂଲ୍ୟ ଚାରି ଦିନର ମଜୁରୀ ସଙ୍ଗେ  ସମାନ ।
 **[[:or:obs:notes:frames:38-02|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-04|>>]]**
