@@ -1,22 +1,20 @@
-===== Come Down from the Cross [40-05] =====
+===== ସେମାନେ ତାହାଙ୍କୁ କ୍ରୁଶରୁ ତଳକୁ ଆସି ନିଜକୁ ରକ୍ଷା କରିବାକୁ କହିଲେ [40-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
-The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
-===== Important Terms: =====
+ଯିହୂଦୀ ନେତାମାନେ ଓ ଜନତାଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟ ଲୋକମାନେ ଯୀଶୁଙ୍କୁ ପରିହାସ କଲେ । ସେମାନେ ତାଙ୍କୁ କହିଲେ “ଯଦି ତୁମ୍ଭେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର, କ୍ରୁଶରୁ ଓହ୍ଲାଇ ଆସ ଏବଂ ନିଜକୁ ରକ୍ଷା କର! ତେବେ ହିଁ ଆମ୍ଭେମାନେ ତୁମ୍ଭକୁ ବିଶ୍ବାସ କରିବୁ ।”
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:other:mock]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:sonofgod]]**
-  * **[[:or:obe:kt:cross]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:kt:believe]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * ଯିହୁଦୀ ନେତାମାନେ**, ** ଯିହୁଦୀ ଅଧିକାରୀମାନେ**, ** ଧାର୍ମିକ ନେତାମାନେ
+  * ଚିଡ଼େଇବା**,** ଉପହାସ କରିବା**,** ଉପହାସ କରିବା
+  * ଯୀଶୁ**, ** ଯୀଶୁ ଖ୍ରୀଷ୍ଟ**, ** ଖ୍ରୀଷ୍ଟ ଯୀଶୁ
+  * ପରମେଶ୍ବରଙ୍କ ପୁତ୍ର**, ** ପୁତ୍ର**, ** ପୁତ୍ର
+  * କ୍ରୁଶ
+  * ରକ୍ଷା କରିବା**, ** ସୁରକ୍ଷିତ
+  * ବିଶ୍ଵାସ କରିବା**, ** ଠାରେ ବିଶ୍ଵାସ**, ** ବିଶ୍ଵାସ
 
-===== Translation Notes: =====
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-  * **believe you** - That is, "believe in you" or, "believe that you are the Messiah."
-
-
+  * **ତୁମକୁ ବିଶ୍ଵାସ କରିବୁ-** ଏହା ଅଟେ,''ତୁମଠାରେ ବିଶ୍ଵାସ କରିବୁ''କିମ୍ବା,''ବିଶ୍ଵାସ କରିବୁ ଯେ ତୁମେ ମଶିହ ଅଟ''।
 **[[:or:obs:notes:frames:40-04|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-06|>>]]**
