@@ -1,24 +1,20 @@
-===== You Will Be Scattered [38-08] =====
+===== ତୁମ୍ଭେମାନେ ଛିନ୍ନ ଭିନ୍ନ ହେବ [38-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
+ଭୋଜ ସମାପ୍ତି ପରେ ଯୀଶୁ ଏବଂ ତାଙ୍କ ଶିଷ୍ୟମାନେ ଜିତ ପର୍ବତ ଉପରକୁ ଗଲେ । ଯୀଶୁ କହିଲେ, “ ଆଜି ରାତ୍ରିରେ ତୁମ୍ଭେମାନେ ସମସ୍ତେ ମୋତେ ପରିତ୍ୟାଗ କରିବ “। ଲେଖା ଅଛି** “** ଆମ୍ଭେ ମେଷପାଳକଙ୍କୁ ପ୍ରହାର କରିବା ଓ ପ୍ରତ୍ୟେକ ମେଷ ଛିନ୍ନଭିନ୍ନ ହୋଇଯିବେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:shepherd]]**
-  * **[[:or:obe:other:sheep]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ମେଷପାଳକ, ମେଷପାଳକଙ୍କୁ**
+  * **ମେଷ, ମେଷ,ମେଣ୍ଡି **
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
-
+  * **ଜିତ ପର୍ବତ - ** ଏହା ଏକ ପର୍ବତ ର ନାମ ଯାହା ଜିତ ବୃକ୍ଷ ଦ୍ଵାରା ଆବୃତ ଏବଂ ଯିରୁଶାଲମ ପ୍ରାଚୀର ର ବାହାର ପ୍ରାଙ୍ଗଣ ରେ ଅବସ୍ଥିତ । ଏହାକୁ ଏପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇ ପରେ , “ଜିତ ବୃକ୍ଷ ପର୍ବତ” ।
+  * **ମୋତେ ପରିତ୍ୟାଗ କରିବ -**  ଏହାର ଅର୍ଥ “ମୋତେ ତ୍ୟାଗ କରିବ’ ବା “ଛାଡି ଚାଲିଯିବ”।
+  * **ଏହା ଲେଖା ଆଛି**  - ଏହାର ଅର୍ଥ “ଏହା ଈଶ୍ୱରଙ୍କ ବାକ୍ୟ ରେ ଲେଖା ଅଛି”,  ବା “ଏହା ବାଇବଲରେ ଲେଖା ଅଛି “ ବା “ଭବିଷଦ ବକ୍ତା ମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ ଲେଖିଛନ୍ତି”। ଏହା କହିବା ସମ୍ଭବ , “ଯାହା ଲେଖା ଅଛି ତାହା ଘଟିବ” ବା “ ଯାହା ଲେଖା ଯାଇଅଛି ତାହା ନିଶ୍ଚୟ ଘଟିବ”। ଏହି ଭାବ ବାଣୀ ଯୀଶୁଙ୍କ ମୃତ୍ୟୁ ଏବଂ ତାଙ୍କ ଅନୁଯାୟୀ ମାନଙ୍କ ପରିତ୍ୟାଗ କରିବା ବିଷୟକୁ ସୂଚାଏ ।
+  * **ମୁଁ ଆଘାତ କରିବି - ** ଅର୍ଥାତ, “ ମୁଁ  ମାରିବି” ।
+  * **ମେଷପାଳକ ଏବଂ ସମସ୍ଥ ମେଷ ମାନେ - ** ଏହି ସ୍ଥାନରେ ଯୀଶୁଙ୍କ ନାମ ଉଲେଖ  କର ନାହିଁ କାରଣ ଯେଉଁ ଭବିଷଦବକ୍ତା ଏହାକୁ ଲେଖିଛନ୍ତି ସେ ବୋଧହୁଏ ସେହି ମେଷପାଳକଙ୍କ ନାମ ଜାଣି ନଥିଲେ । ମଧ୍ୟ, ଏହା ମେଷମାନେ ଶିଷ୍ୟ ମାନଙ୍କୁ ସୂଚାଏ ନାହିଁ । ଏହାକୁ ନିଜ ଅନୁବାଦରେ “ମେଷ ପାଳକ” ଏବଂ “ମେଷ” ବୋଲି ଲେଖିବା ବାଞ୍ଛାନିୟ ଅଟେ ।
+  * **ଛିନ୍ନ ଭିନ୍ନ ହେବେ - ** ଅର୍ଥାତ “ବିଭିନ୍ନ ଦିଗ କୁ ଯିବେ” ।
 **[[:or:obs:notes:frames:38-07|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-09|>>]]**
