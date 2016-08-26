@@ -1,22 +1,19 @@
-===== The False Witnesses [39-02] =====
+===== ମିଥ୍ୟା ସାଖ୍ୟଗୁଡିକ [39-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
+ଗୃହ ମଧ୍ୟରେ, ଯିହୂଦୀ ନେତାମାନେ ଯୀଶୁଙ୍କର ବିଚାର କରିଚାଲିଲେ । ସେମାନେ ଅନେକ ସାକ୍ଷୀ ଯୋଗାଡ କଲେ ଯେଉଁମାନେ କି ତାଙ୍କ ବିରୁଦ୍ଧରେ ମିଥ୍ୟା କହିଲେ । ଅଥଚ, ସେମାନଙ୍କ କଥା ସବୁ ପରସ୍ପର ମଧ୍ୟରେ ମେଳ ଖାଉନଥିଲା, ତେଣୁ ଯିହୂଦୀ ନେତାମାନେ ପ୍ରମାଣ କରିପାରିଲେ ନାହିଁ ଯେ ସେ କିଛି ଭୁଲକରିଛନ୍ତି ବୋଲି । ଯୀଶୁ କିଛି କହିଲେ ନାହିଁ ।
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:witness]]**
-  * **[[:or:obe:kt:guilt]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ସାକ୍ଷୀ,ପ୍ରତ୍ୟକ୍ଷଦର୍ଶୀ**
+  * **ଦୋଷ, ଦୋଷାବହ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-===== Translation Notes: =====
-
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
-
+  * **ଯୀଶୁଙ୍କୁ ପରୀକ୍ଷା କଲେ- ** ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ, “ ଯୀଶୁଙ୍କୁ ଦୋଷୀ ସାବ୍ୟସ୍ତ କରିବା ପାଇଁ ଏକ ସାଧାରଣ ସଭାର ଆୟୋଜନ କଲେ” । ସାଧାରଣତଃ  ଜଣେ ବ୍ୟକ୍ତି  କୌଣସି ଅପରାଧରେ ଦୋଷୀ ବା ନିର୍ଦୋଷୀ ଏହି ପରୀକ୍ଷା ଦ୍ଵାରା ଜଣା ପଡିଥାଏ  । ଏହି ମାମଲା ରେ ଯିହୂଦୀ ନେତା ମାନେ ଯୀଶୁଙ୍କୁ ଦୋଷୀ ଧରିନେଇଥିଲେ  ।
+  * **ତାଙ୍କ ବିଷୟରେ ମିଥ୍ୟା କହିଲେ- ** ଏହାର ଅର୍ଥ,“ତାଙ୍କ ବିଷୟରେ ମିଛ କଥା କହିଲେ” ବା “ମିଥ୍ୟାରେ ତାଙ୍କୁ ଦୋଷୀ ସାବ୍ୟସ୍ତ କଲେ”  ।
+  * **ସେମାନଙ୍କ ମନ୍ତ୍ୟବ୍ୟରେ ପରସ୍ପର ସହିତ ଏକମତ ନଥିଲା- ** ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ ,”ସେମାନେ ଯୀଶୁଙ୍କ ବିଷୟରେ ଯାହା କହିଲେ ତାହା ପରସ୍ପର ଠାରୁ ଭିନ୍ନ ଥିଲା"  ବା "ସାକ୍ଷୀମାନେ  ଯୀଶୁଙ୍କ ବିଷୟରେ ଯାହା କହିଲେ ତାହା ପରସ୍ପର ସହ ଅଲଗା ଥିଲା" ।
+  * **ସେ କୌଣସି ବିଷୟରେ ଅପରାଧୀ -** ଏହାର ଅର୍ଥ , “ସେ କୌଣସି ଅପରାଧ କରିଛନ୍ତି” ।
 **[[:or:obs:notes:frames:39-01|<<]] | [[:or:obs:notes:39|Up]] | [[:or:obs:notes:frames:39-03|>>]]**
