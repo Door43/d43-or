@@ -1,21 +1,17 @@
-===== They Mocked Jesus [39-05] =====
+===== ସେମାନେ ଯୀଶୁଙ୍କୁ ଥଟ୍ଟା କଲେ [39-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
-The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
-===== Important Terms: =====
+ସମସ୍ଥ ଧାର୍ମିକ ନେତାମାନେ ମହାଯାଜକଙ୍କୁ ଉତ୍ତର ଦେଲେ  , **“** ସେ ମୃତ୍ୟୁ ଦଣ୍ଡ ର  ଯୋଗ୍ୟ**”** ତା’ପରେ ସେମାନେ ଯୀଶୁଙ୍କ ଆଖିରେ କନା ବାନ୍ଧିଦେଲେ, ତାଙ୍କୁ ମାରିଲେ, ତାଙ୍କ ଉପରେ ଛେପ ପକାଇଲେ ଏବଂ ତାହାଙ୍କୁ ପରିହାସ କଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:highpriest]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:mock]]**
+  * __ଯି__**ହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ମହାଯାଜକ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଚିଡ଼େଇବା,ଉପହାସ କରିବା,ଉପହାସ କରିବା**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-
-===== Translation Notes: =====
-
-  * **they blindfolded Jesus** - That is. "they covered Jesus' eyes so that he could not see."
-  * **spit on him** - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-
-
+  * **ସେମାନେ ଯୀଶୁଙ୍କ ଆଖିରେ ପଟି ବାନ୍ଧିଲେ -**  ଏହାର ଅର୍ଥ,'' ସେମାନେ ଯୀଶୁଙ୍କ ଆଖି ବନ୍ଦ କଲେ ଯେପରି ସେ ଦେଖି ପାରିବେ ନାହିଁ  ।
+  * **ଛେପ ପକାଇଲେ - ** ଏହାର ଅର୍ଥ , “ଯୀଶୁଙ୍କ ଉପରେ ଛେପ ପକାଇଲେ ଯେପରି ତାଙ୍କୁ ତାଚ୍ଛଲ୍ୟ କରିବେ” , ବା “ତାଙ୍କୁ ମୂଲ୍ୟହୀନ କରିବା ପାଇଁ ତାଙ୍କ ଉପରେ ଛେପ ପକାଇଲେ”  । ଜଣେ ବ୍ୟକ୍ତିଙ୍କୁ ଘୃଣା ଚକ୍ଷୁରେ ଦେଖିବା ଏହା ଏକ ପ୍ରକାର ମାଧ୍ୟମ  ।
 **[[:or:obs:notes:frames:39-04|<<]] | [[:or:obs:notes:39|Up]] | [[:or:obs:notes:frames:39-06|>>]]**
