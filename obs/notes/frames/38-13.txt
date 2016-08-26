@@ -1,19 +1,15 @@
-===== The Disciples Slept [38-13] =====
+===== ଶିଷ୍ୟମାନେ ଶୋଇପଡିଲେ [38-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-**After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
+ପ୍ରତ୍ୟେକ ଥର ପ୍ରାର୍ଥନା ପରେ ଯୀଶୁ ଆସି ଦେଖଲେ କିନ୍ତୁ ଶିଷ୍ୟମାନେ ସୋଇପଡିଥିଲେ । ତୃତୀୟ ଥର ଯୀଶୁ ଆସି ସେମାନଙ୍କୁ କହିଲେ,''ଉଠ! ମୋର ବିଶ୍ୱାସ ଘାତକ ଏହିଠାରେ**”** ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:betray]]**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ବିଶ୍ବାସଘାତ କରିବା, ବିଶ୍ବାସଘାତକ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:or:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **ପ୍ରତ୍ୟେକ ଥର ପ୍ରାର୍ଥନା ପରେ - ** ଏହାର ଅର୍ଥ “ପ୍ରତ୍ୟେକ ଥର ଯୀଶୁ ପ୍ରାର୍ଥନା କଲା ପରେ”। ଏହା ତାଙ୍କ ତିନି ଥର ପ୍ରାର୍ଥନା କୁ ସୂଚାଏ, ଯାହା **__[__ **__୩୮**-** ____୧୨**]**__ରେ ପୁଷ୍ଟି କରାଯାଇଅଛି ।
 **[[:or:obs:notes:frames:38-12|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-14|>>]]**
