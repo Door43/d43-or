@@ -1,25 +1,22 @@
-===== The Passover [38-01] =====
+===== ନିସ୍ତାର ପର୍ବ [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
+ପ୍ରତ୍ୟେକ ବର୍ଷ ଯିହୂଦୀ ମାନେ ନିସ୍ତାର ପର୍ବ ପାଳନ କରନ୍ତି । ଏହି  ଉତ୍ସବରେ  ଯିହୂଦୀ ମାନେ ଈଶ୍ୱର କିପରି ଶତାବ୍ଦୀ ପୂର୍ବରୁ  ତାଙ୍କର ପୂର୍ବପୁରୁଷ ମାନଙ୍କୁ ମିଶରରେ ଦସତ୍ଵରୁ ଉଦ୍ଧାର କଲେ ତାହାକୁ ସ୍ମରଣ କରି ପାଳନ କରନ୍ତି । ଯୀଶୁ ଆପଣା ଶିଷ୍ୟ ମାନଙ୍କୁ କହିଥିଲେ ଯେ ତାଙ୍କର ସେବା କାର୍ଯ୍ୟର ତିନି ବର୍ଷ ପରେ ସେ ଏହି ଉତ୍ସବ ପାଳନ କରିବା ପାଇଁ ଯିରୁଶାଲମକୁ ଯିବେ ଏବଂ ସେଠାରେ ହତ ହେବେ ।
 
-  * **[[:or:obe:other:jew]]**
-  * **[[:or:obe:kt:passover]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:save]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:other:egypt]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:preach]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:jerusalem]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯିହୁଦୀ, ଯିହୁଦୀୟ, ଯିହୁଦୀୟମାନେ**
+  * **ନିସ୍ତାର ପର୍ବ**
+  * ** ପରମେଶ୍ଵର**
+  * **ରକ୍ଷା କରିବା, ସୁରକ୍ଷିତ**
+  * **ସେବକ, ଦାସ, ଦାସତ୍ଵ**
+  * **ମିଶର, ମିଶରୀୟ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପ୍ରଚାର କରିବା**
+  * **ଶିଷ୍ୟ**
+  * **ଯିରୁଶାଲମ.**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
-
+  * **ଅନେକ ଶତାବ୍ଦୀ ପୂର୍ବରୁ- ** ଏହାର ଅର୍ଥ  “ସହ ସହ ବର୍ଷ ପୂର୍ବରୁ “ ବା” ଏକ ଲମ୍ବା ସମୟ ପୂର୍ବରୁ”।
 **[[:or:obs:notes:frames:37-11|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-02|>>]]**
