@@ -1,19 +1,16 @@
-===== Keep the Secret [36-07] =====
+===== ଏହାକୁ ଗୁପ୍ତ ରଖ** [** ୩୬**-** ୦୭**]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
-===== Important Terms: =====
+ଯୀଶୁ ଏବଂ ତାଙ୍କ ତିନି ଜଣ ଶିଷ୍ୟ ପର୍ବତ ଉପରୁ ଓଲ୍ହାଇ ଆସିଲେ । ତା'ପରେ ଯୀଶୁ ସେମାନଙ୍କୁ କହିଲେ, "ଏଠାରେ ଯାହା ଘଟିଥିଲା ତାହା କାହାକୁ କୁହ ନାହିଁ ।" ମୁଁ ଶୀଘ୍ର ମୃତ୍ୟୁ ବରଣ କରିବି ଏବଂ ଜୀବିତ ହେବି । ତା'ପରେ, ତୁମେ ଏହା ଲୋକମାନଙ୍କୁ କହିପାର ।"
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:life]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଜୀବନ, ଜୀବିତ, ଜୀବନ୍ତ, ସଜୀବ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ବାଇବଲର ଏକ କାହାଣୀ - ** ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗଗୁଡିକ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରେ  ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ ।
 **[[:or:obs:notes:frames:36-06|<<]] | [[:or:obs:notes:36|Up]] | [[:or:obs:notes:frames:37-01|>>]]**
