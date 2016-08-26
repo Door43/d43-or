@@ -1,21 +1,19 @@
-===== Peter and the Servant Girl [39-06] =====
+===== ପିତର ଏବଂ ଦାସି ବାଳିକା [39-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
-As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
-===== Important Terms: =====
+ପିତର ଗୃହ ବାହାରେ ଅପେକ୍ଷା କରିଥିବା ସମୟରେ, ଜଣେ ଦାସୀ ବାଳିକା ତାହାଙ୍କୁ ଦେଖି କହିଲା “ତୁମ୍ଭେ ମଧ୍ୟ ଯୀଶୁଙ୍କ ସହିତ ଥିଲ!” । ପିତର ଏହା ଅସ୍ବୀକାର କଲେ  । ପରେ ଆଉ ଜଣେ ବାଳିକା ସେହି ସମାନ ବିଷୟ କହିଲେ ଏବଂ ପିତର ଏହା ପୁଣିଥରେ ଅସ୍ବୀକାର କଲେ  । ଅବଶେଷରେ ଲୋକମାନେ ମଧ୍ୟ କହିଲେ ,” ଆମେ ଜାଣିଛୁ ତୁମେ ମଧ୍ୟ  ଯୀଶୁଙ୍କ ସହିତ ଥିଲ କାରଣ ତୁମେ ଦୁଇ ଜଣ ଗାଲିଲୀୟ ଅଟ** ” ** ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:galilee]]**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ସେବକ, ଦାସ, ଦାସତ୍ଵ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଗଲିଲୀ,ଗଲିଲୀୟ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-
-===== Translation Notes: =====
-
-  * **denied it** - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
-  * **Peter denied it again** - This could be translated as, "Peter denied knowing Jesus a second time" or, "again Peter said he had not been with Jesus."
-  * **are from Galilee** - This could also be translated as, "are Galileans." The people could tell from the way Jesus and Peter talked that they came from the region of Galilee.
-
+  * ଅସ୍ବୀକାର କଲେ**
+ - ** ଏହାର ଅର୍ଥ , "ସେ କହିଲେ ଏହା ସତ୍ୟ ନୁହଁ" ବା  "ସେ କହି ଲେ ସେ ଯୀଶୁଙ୍କ ସହିତ ନ ଥିଲେ" ବା  "ସେ ନାହିଁ କହିଲେ " ।
+  * ପିତର ଆଉଥରେ ଅସ୍ବୀକାର କଲେ** -**  ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ ଯଥା “ପିତର ଯୀଶୁଙ୍କୁ ଜାଣିଛି ବୋଲି ଦ୍ଵତିୟ ଥର ଅସ୍ବୀକାର କଲେ" , ବା " ପୁନର୍ବାର  ପିତର କହିଲେ ସେ ଯୀଶୁଙ୍କ ସହିତ ନ ଥିଲେ ” ।
+  * ଗାଲିଲି ଠାରୁ** - ** ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ ଯଥା “  ଗାଲିଲୀୟ” । ଯୀଶୁ ଏବଂ ପିତରଙ୍କ  କଥା ବାର୍ତା  ଶୁଣି ଲୋକମାନେ ଜାଣି ଥିଲେ ଯେ ସେମାନେ  ଗାଲିଲି ଠାରୁ ଆସିଛନ୍ତି  ।
 
 **[[:or:obs:notes:frames:39-05|<<]] | [[:or:obs:notes:39|Up]] | [[:or:obs:notes:frames:39-07|>>]]**
