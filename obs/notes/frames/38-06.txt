@@ -1,20 +1,17 @@
-===== The Betrayer [38-06] =====
+===== ବିଶ୍ୱାସ ଘାତକ [38-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink&}}
 
-Then **Jesus** said to the **disciples**, “One of you will **betray** me.” The disciples were shocked, and asked who would do such a thing. Jesus said, “The person to whom I give this piece of bread **is the betrayer**.” Then he gave the bread to **Judas**.
-===== Important Terms: =====
+ପରେ ଯୀଶୁ ଆପଣା ଶିଷ୍ୟ ମାନଙ୍କୁ କହିଲେ , ତୁମ୍ଭ ମାନଙ୍କ  ମଧ୍ୟରୁ ଜଣେ ମୋତେ ଵିଶ୍ଵାସଘାତ  କରିବ । ଶିଷ୍ୟମାନେ ଚକିତ ପ୍ରାପ୍ତ ହେଲେ ଏବଂ ପଚାରିଲେ କିଏ ଏପରି କାର୍ଯ କରିବାକୁ ଯାଉଛି । ଯୀଶୁ କହିଲେ , ମୁଁ ଯେଉଁ ବ୍ୟକ୍ତି କୁ ଏହି ରୋଟୀ ଖଣ୍ଡିକ ଦେବି ସେ ହେଉଛି ସେହି ବିଶ୍ୱାସ ଘାତକ । ପରେ ସେ ଯିହୁଦାକୁ ରୋଟୀ ଖଣ୍ଡିକ ଦେଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:kt:betray]]**
-  * **[[:or:obe:other:judasiscariot]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ବିଶ୍ବାସଘାତ କରିବା, ବିଶ୍ବାସଘାତକ**
+  * **ଯିହୁଦା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **give this piece of bread** - That is, "hand this piece of bread."
-  * **is the betrayer** - This could also be translated as, "will betray me" or, "is the one who will betray me."
-
-
+  * **ରୋଟୀ ଖଣ୍ଡିକ ଦେଲେ**- ଏହାର ଅର୍ଥ “ରୋଟୀ ଖଣ୍ଡିକ ବଢ଼ାଇ ଦେଲେ” ।
+  * **ସେ ଏହି ବିଶ୍ୱାସ ଘାତକ -**  ଏହା ଏପରି ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇ ପାରେ “ସେ ମୋତେ ବିଶ୍ୱାସ ଘାତ କରିବ”  ବା “ଏହି ସେ ବ୍ୟକ୍ତି ଯେ ମୋତେ ବିଶ୍ୱାସ ଘାତକ କରିବ” ।
 **[[:or:obs:notes:frames:38-05|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-07|>>]]**
