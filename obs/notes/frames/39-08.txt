@@ -1,22 +1,19 @@
-===== Judas Killed Himself [39-08] =====
+===== ଯିହୁଦା ଆତ୍ମହତ୍ୟା କଲେ [39-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-**Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
+ପିତର ବାହାରକୁ ଯାଇ ଅତିଶୟ ରୋଦନ କଲେ  । ଇତି ମଧ୍ୟରେ ବିଶ୍ୱାସ ଘାତକ ଯିହୁଦା ଦେଖିଲେ ଯେ ଯିହୂଦୀ ନେତାମାନେ ଯୀଶୁଙ୍କୁ ମୃତ୍ୟୁ ଦଣ୍ଡରେ ଦୋଷୀ କରିଛନ୍ତି  ।ଯିହୁଦା ଅତିଶୟ ଦୁଃଖିତ ହେଲେ ଏବଂ ବାହାରକୁ ଯାଇ ଆତ୍ମହତ୍ୟା କଲେ  ।
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:judasiscariot]]**
-  * **[[:or:obe:kt:betray]]**
-  * **[[:or:obe:other:jewishleaders]]**
-  * **[[:or:obe:kt:jesus]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ଯିହୁଦା ଇଷକାରିୟୋତୀୟ**
+  * **ବିଶ୍ବାସଘାତ କରିବା, ବିଶ୍ବାସଘାତୀ**
+  * **ଯିହୁଦୀ ନେତାମାନେ, ଯିହୁଦୀ ଅଧିକାରୀମାନେ, ଧାର୍ମିକ ନେତାମାନେ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-===== Translation Notes: =====
-
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **ଅତିଶୟ ରୋଦନ କଲେ -**  ଏହାର ଅର୍ଥ , “ଗଭୀର ଦୁଃଖ ପ୍ରକାଶ କରି ରୋଦନ କଲେ” ,ବା “ଗଭୀର ଅନୁତାପ କରି ରୋଦନ କଲେ” ।
+  * **ବିଶ୍ୱାସ ଘାତକ - ** ଏହାର ଅର୍ଥ , “ଯେ ଯୀଶୁଙ୍କୁ ବିଶ୍ୱାସ ଘାତ କଲେ” ବା “ଯେ ଯୀଶୁଙ୍କୁ ଶତ୍ରୁ ହସ୍ତରେ ଧରାଇବା ପାଇଁ ସାହାର୍ଯ୍ୟ କଲେ “ ।
+  * **ଯୀଶୁଙ୍କୁ  ମୃତ୍ୟୁ ଦଣ୍ଡ ରେ  ଘୋଷିତ କଲେ - ** ଏହାର ଅର୍ଥ - " ସେ କହିଲେ ଯେ ଯୀଶୁ ଦୋଷୀ ଏବଂ ମୃତ୍ୟୁ ଦଣ୍ଡ ପାଇବାର ଯୋଗ୍ୟ” ।
 **[[:or:obs:notes:frames:39-07|<<]] | [[:or:obs:notes:39|Up]] | [[:or:obs:notes:frames:39-09|>>]]**
