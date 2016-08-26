@@ -1,20 +1,17 @@
-===== Jesus Carried His Cross [40-01] =====
+===== ଯୀଶୁ ତାହାରି କ୍ରୁଶ ବହିଲେ [40-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
-After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
-===== Important Terms: =====
+ସୈନ୍ୟମାନେ ଯୀଶୁଙ୍କୁ ପରିହାସ କଲା ପରେ, ସେମାନେ କ୍ରୁଶବିଦ୍ଧ କରିବା ନିମନ୍ତେ ତାଙ୍କୁ ଘେନିଗଲେ । ସେ ଯେଉଁ କ୍ରୁଶରେ ମରିବେ ସେହି କ୍ରୁଶ ତାଙ୍କୁ ବହନ କରାଇଲେ ।
 
-  * **[[:or:obe:other:mock]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:crucify]]**
-  * **[[:or:obe:kt:cross]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଚିଡ଼େଇବା,ଉପହାସ କରିବା,ଉପହାସ କରିବା  **
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **କ୍ରୁଶବିଦ୍ଧ କରିବା**
+  * **କ୍ରୁଶ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **led him away** - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **to crucify him** - That is, "to kill him on a cross."
-
-
+  * **ତାଙ୍କୁ ଘେନିଗଲେ **- ଏହାର ଅର୍ଥ,''ସେମାନଙ୍କ ସହ ଯିବାକୁ ତାଙ୍କୁ ବାଧ୍ୟ କଲେ'' । ଏହାକୁ ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ “ତାଙ୍କୁ ଘେନିଗଲେ” ।
+  * **ତାଙ୍କୁ କ୍ରୁଶବିଦ୍ଧ କରିବାକୁ**  - ଏହାର ଅର୍ଥ,''ତାଙ୍କୁ କୃଶରେ ବଧ କରିବାକୁ'' ।
 **[[:or:obs:notes:frames:39-12|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-02|>>]]**
