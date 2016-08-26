@@ -1,25 +1,22 @@
-===== Your Will Be Done [38-12] =====
+===== ତୁମ୍ଭର  ଇଛା ସଫଳ ହେଉ [38-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
-**Jesus prayed** three times, “**My Father**, if it is possible, please let me not have to **drink this cup of suffering**. But if there is no other way for people’s **sins** to be **forgiven**, then **let your will be done**.” Jesus was very troubled and **his sweat was like drops of blood**. **God** sent an **angel** to strengthen him.
-===== Important Terms: =====
+ଯୀଶୁ ତିନି ଥର  ପ୍ରାର୍ଥନା କଲେ , ହେ ମୋହର ପିତା , ଯଦି ସମ୍ଭବ ହୁଏ ଦୟାକରି ଏହି  ଦୁଃଖର ପାନ ପତ୍ର ମୋତେ ପିଇ ବାକୁ ଦିଅ ନାହିଁ  । ଯଦି ଆଉ କୌଣସି ଉପାୟ ନାହିଁ ଲୋକମାନଙ୍କ ପାପ କ୍ଷମା କରିବାକୁ , ତାହେଲେ ତୁମ୍ଭର ଇଚ୍ଛା ସଫଳ ହେଉ  । ଯୀଶୁ ଅତିଶୟ ବ୍ୟତିବ୍ୟସ୍ଥ ଥିଲେ ଏବଂ ତାଙ୍କ ଝାଳ ରକ୍ତ ଟୋପା ପରି ଝରି ପଡୁଥିଲା । ଈଶ୍ୱର ଜଣେ ଦୂତଙ୍କୁ ପଠାଇ ତାଙ୍କୁ ସବଳ କରିବାକୁ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:kt:godthefather]]**
-  * **[[:or:obe:kt:suffer]]**
-  * **[[:or:obe:kt:sin]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:kt:blood]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:angel]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **ପରମେଶ୍ଵର ପିତା, ସ୍ବର୍ଗସ୍ଥ ପିତା, ପିତା**
+  * **ଦୁଃଖଭୋଗ କରିବା,କ୍ଲେଶ ଭୋଗ କରିବା**
+  * **ପାପ, ପାପ ପୁର୍ଣ, ପାପୀ, ପାପ କରିବା**
+  * **କ୍ଷମା କରିବା, କ୍ଷମା**
+  * **ରକ୍ତ**
+  * **ପରମେଶ୍ଵର**
+  * **ଦୂତ, ପ୍ରଧାନ ଦୂତ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **drink this cup of suffering** - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
-  * **let your will be done** - This expression means, "do what you have planned" or, "do what needs to be done."
-
-
+  * **ଦୁଃଖର ଏହି ପାତ୍ର ପାନ କର - ** ଏହାର ଅର୍ଥ , “ଏହି ଦୁଃଖ ମଧ୍ୟ ଦେଇ ଯାଅ” ବା “ ଯାହା ଘଟିବାକୁ ଯାଉଛି ତାହା ସହ୍ୟ କର”  ବା “ ଏହି ଦୁଃଖ କୁ ସହ୍ୟ କର.” ।
+  * **ତୁମ୍ଭର ଇଚ୍ଛା ସଫଳ ହେଉ ଏହିଁ ଉକ୍ତି ର ଅର୍ଥ - **“ତୁମେ ଯାହା ଯୋଜନା କରିଛ ତାହା କର” ବା “ଯାହା କରିବା ଆବଶ୍ୟକ ତାହା କର”।
 **[[:or:obs:notes:frames:38-11|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-13|>>]]**
