@@ -1,22 +1,18 @@
-===== Jesus Was Nailed to the Cross [40-02] =====
+===== ଯୀଶୁ କଣ୍ଟାସହ କୃଶରେ ବିଦ୍ଧ ହୋଇଥିଲେ [40-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
-The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
-===== Important Terms: =====
+ସୈନ୍ୟମାନେ “କପାଳସ୍ଥଳ” ନାମକ ଏକ ସ୍ଥାନକୁ ଯୀଶୁଙ୍କୁ ଆଣିଲେ ଏବଂ କ୍ରୁଶରେ ତାହାଙ୍କ ହାତ ଓ ପାଦକୁ କଣ୍ଟାରେ ବିଦ୍ଧ କଲେ । କିନ୍ତୁ ଯୀଶୁ କହିଲେ “ପିତା**, ** ସେମାନଙ୍କୁ କ୍ଷମା କର**, ** କାରଣ ସେମାନେ କ**’** ଣ କରୁଅଛନ୍ତି ତାହା ଜାଣନ୍ତି ନାହାନ୍ତି ।” **“** ଯିହୂଦୀମାନଙ୍କ ରାଜା**”** ଲେଖି ତାହାକୁ ଯୀଶୁଙ୍କ ମସ୍ତକ ଉପରେ ଟଙ୍ଗାଇବାକୁ ପିଲାତ ସେମାନଙ୍କୁ କହିଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:cross]]**
-  * **[[:or:obe:kt:godthefather]]**
-  * **[[:or:obe:kt:forgive]]**
-  * **[[:or:obe:other:pilate]]**
-  * **[[:or:obe:kt:kingofthejews]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **କ୍ରୁଶ**
+  * **ପରମେଶ୍ଵର ପିତା, ସ୍ବର୍ଗସ୍ଥ ପିତା, ପିତା**
+  * **କ୍ଷମା କରିବା, କ୍ଷମା**
+  * **ପିଲାତ**
+  * **ଯିହୂଦୀମାନଙ୍କର ରାଜା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **the Skull** - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing** - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
-
-
+  * **କପାଲସ୍ତଳ-**  ଯିରୁଶାଲମର ନିକଟସ୍ତ ଏକ ଧଳା ପଥୁରିଆ ପାହାଡ ଯାହା କପାଲସ୍ତଳ ପରି ଟିକେ ଆକାର  ।
+  * **ସେମାନଙ୍କୁ କ୍ଷମା କର, କାରଣ ସେମାନେ କ’ଣ କରୁଅଛନ୍ତି ତାହା ଜାଣନ୍ତି ନାହିଁ**  - ଏହାର୍ ଅର୍ଥ,''ସେମାନେ ଯାହା କରୁଅଛନ୍ତି ତାହାର ଅର୍ଥ ସେମାନେ ଜାଣିନାହାନ୍ତି,ତେଣୁ ଦୟାକରି ସେମାନଙ୍କୁ କ୍ଷମା କର । ସୌନ୍ୟମାନେ ମୋନେ କଲେ ଯେ କେବଳ ଯୀଶୁ ହିଁଏକମାତ୍ର ଦାଶୀ ଯିଏ ମୃତ୍ୟୁ ଦଣ୍ଡ ପାଇବା ଉପଯୁକ୍ତ ଅଟେ  । ସେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର ଥିଲେ ତାହା ସେମାନେ ଜାଣି ପାରିଲେ ନାହିଁ ।
 **[[:or:obs:notes:frames:40-01|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-03|>>]]**
