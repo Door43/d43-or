@@ -1,22 +1,21 @@
-===== The Soldier's Testimony [40-08] =====
+===== ସୈନ୍ୟର ସାକ୍ଷ [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
-===== Important Terms: =====
+ଯୀଶୁ ତାହାଙ୍କ ମୃତ୍ୟୁରେ ଲୋକମାନଙ୍କୁ ଈଶ୍ବରଙ୍କ ନିକଟକୁ ଆସିବାର ପଥ ଖୋଲି ଦେଲେ  । ଯୀଶୁଙ୍କୁ ଜଗିଥିବା ସୈନ୍ୟ ଯେତେବେଳେ ଏହି ସମସ୍ତ ଘଟିବାର ଦେଖିଲେ ସେ କହିଲେ “ନିଶ୍ଚିତ, ସେ ନିର୍ଦ୍ଧୋଷ ବ୍ୟକ୍ତି ଥିଲେ I ସେ ଈଶ୍ବରଙ୍କ ପୁତ୍ର ଥିଲେ” ।
 
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:innocent]]**
-  * **[[:or:obe:kt:sonofgod]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଇଶ୍ଵର**
+  * **ନିର୍ଦ୍ଦୋଶ**
+  * **ପରମେଶ୍ବରଙ୍କ ପୁତ୍ର, ପୁତ୍ର, ପୁତ୍ର**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **Through his death** - That is, "By means of his death" or, "By dying."
-  * **opened a way** - That is, "made it possible."
-  * **come to God** - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
-
+  * **ତାହାରି ମୃତ୍ୟୁ ଦ୍ଵାରା - ** ଏହା ଅଟେ,''ତାହାରି ମୃତ୍ୟୁ ଦେଇ''କିମ୍ବା,''ମରିବା ଦ୍ଵାରା'' ।
+  * **ଏକ ରାସ୍ତା ଖାଲିଲେ - ** ଏହା ଅଟେ,'' ଏହାକୁ ସମ୍ଭବ କଲା'' ।
+  * **ଇଶ୍ଵରଙ୍କ ନିକଟକୁ ଅସିବାକୁ - ** ଏହା ଅଟେ,''ଇଶ୍ଵରଙ୍କ ନିକଟକୁ ଆସ''କିମ୍ବା,ଇଶ୍ଵରଙ୍କ ନିକଟକୁ ଯାଅ''କିମ୍ବା''ଇଶ୍ଵରଙ୍କ ନିକଟକୁ ଚାଲିଯାଅ'' କିମ୍ବା,''ଇଶ୍ଵରଙ୍କୁ ଜାଣ ବ୍ୟକ୍ତିଗତ ଭାବରେ'' । ପରଦା ଫାଟିବା ଏହା ଦେଖାଏ ଯେ ଇଶ୍ଵର ଓ ଲୋକଙ୍କ ମଧ୍ୟରେ ଯେଉଁ ରୋଧ ଥିଲା ତାହା ଖୋଲିଗଲା  ।
+  *
 
 **[[:or:obs:notes:frames:40-07|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-09|>>]]**
