@@ -1,13 +1,12 @@
-===== The Darkness [40-06] =====
+===== ଅନ୍ଧକାର [40-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&}}
 
-Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
-===== Important Terms: =====
+ତା’ପରେ ସେହି ଅଞ୍ଚଳରେ ଥିବା ସମସ୍ତ ଆକାଶ ସମ୍ପୂର୍ଣ୍ଣରୂପେ ଅନ୍ଧାକାରଗ୍ରସ୍ତ ହୋଇଗଲା, ଯଦିଓ ଏହା ଦିବସର ମଧ୍ୟଭାଗ ଥିଲା । ମଧ୍ୟାହ୍ନ ସମୟରେ ଅନ୍ଧାର ହେଲା ଏବଂ ପ୍ରାୟ ତିନି ପହର(ଘଣ୍ଟା) ପର୍ଯ୍ୟନ୍ତ ରହିଲା ।
 
-===== Translation Notes: =====
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * //(There are no notes in this frame.)// 
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
+  * //(// ଏହି ଶବ୍ଦ ଗଠନ ପାଇଁ ଲୌଣସି ଟ୍ୱିପ୍ପଣୀ ନାହିଁ//)//
 **[[:or:obs:notes:frames:40-05|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-07|>>]]**
