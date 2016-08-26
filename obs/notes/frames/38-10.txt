@@ -1,19 +1,15 @@
-===== Peter's Promise [38-10] =====
+===== ପିତରଙ୍କ ପ୍ରତିଜ୍ଞା [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
-===== Important Terms: =====
+ପିତର ଯୀଶୁଙ୍କୁ କହିଲେ - “ଯଦିବା ମୋତେ ମରିବାକୁ ପଡେ, ତଥାପି ମଧ୍ୟ ମୁଁ ତୁମକୁ ଅସ୍ୱୀକାର କରିବି ନାହିଁ** ”** । ସମସ୍ଥ ଶିଷ୍ୟମାନେ ସେହି ସମାନ କଥା କହିଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:death]]**
-  * **[[:or:obe:kt:disciple]]**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ମୃତ୍ୟ, ମରିବା, ମୃତ୍ୟୁ**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **deny you** - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
-
-
+  * **ତୁମକୁ ଅସ୍ୱୀକାର**  - ଏହାର ଅର୍ଥ “ମୁଁ ତୁମକୁ ଜାଣିଛି ବୋଲି ଅସ୍ୱୀକାର କରିବ” ବା “ ତୁମର ଶିଷ୍ୟ ବୋଲି ଅସ୍ୱୀକାର କରିବ”, ବା “ପରିତ୍ୟାଗ କରିବ”।
 **[[:or:obs:notes:frames:38-09|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-11|>>]]**
