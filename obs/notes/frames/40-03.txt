@@ -1,19 +1,16 @@
-===== Gambling for His Clothes [40-03] =====
+===== ତାଙ୍କରି ଲୁଗା ନିମନ୍ତେ ଜୁଆ ଖେଳିଲେ [40-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink&}}
 
-The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfilled a prophecy that said**, “They divided my garments among them, and gambled for my clothing.”
-===== Important Terms: =====
+ସୈନ୍ୟମାନେ ଯୀଶୁଙ୍କ ବସ୍ତ୍ର ଯୋଗୁଁ ଗୁଲିବାଣ୍ଟ କଲେ । ସେମାନେ ଯେତେବେଳେ ଏହା କଲେ, ସେମାନେ ନିମ୍ନ ଭାବବାଣୀକୁ ସଫଳ କଲେ “ସେମାନେ ମୋ ବସ୍ତ୍ରକୁ ଭାଗ କଲେ ଓ ବସ୍ତ୍ର ନିମନ୍ତେ ଗୁଲିବାଣ୍ଟ କଲେ ।”
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:fulfill]]**
-  * **[[:or:obe:kt:prophet]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ସଫଳ କରିବା**
+  * **ଭାବବାଦୀ,ଭାବବାଣୀ,ଭାବବାଣୀ କହିବା,ଦ୍ରଷ୍ଟା,ଭାବବାଦିନୀ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **gambled for Jesus' clothing** - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
-  * **they fulfilled a prophecy that said** - That is, "they did what the scriptures had long ago predicted would happen to the Messiah" or, "they did what a prophet wrote long ago."
-
-
+  * **ଯୀଶୁଙ୍କ ବସ୍ତ୍ର ଯୋଗୁଁ ଗୁଲିବାଣ୍ଟ କଲେ**  - ଏହାର ଅର୍ଥ,'' ଯୀଶୁଙ୍କର ବସ୍ତ୍ର ପାଇବାକୁ  ଗୁଲିବାଣ୍ଟ କଲେ  । ଏହା କିପରି ସେମାନେ କଲେ ଆମେ ତାହା ଜାଣିନାହୁଁ,କିନ୍ତୁ କିଛି ସଂସ୍କାର ଏହା ଏହିପରି ଅନୁବାଦ ହୋଇପାରେ ଯେପରି,''ଯୀଶୁଙ୍କର ବସ୍ତ୍ର ପାଇବାକୁ ଭୁମିରେ ପଥର ଖେଳିଲେ''କିମ୍ବା,ଯୀଶୁଙ୍କର ବସ୍ତ୍ର କିଏ ନେବ ତାହା ନିର୍ଣ୍ଣୟ  କରିବାକୁ ଲାଠି ଗୁଡିକକୁ ଚୟନ କଲେ  ।
+  * **ସେମାନେ କୁହା ଯାଇଥିବା ଭାବବାଣୀକୁ ସଫଳ କଲେ **- ଏହାର ଅର୍ଥ,''ଅନେକ ବର୍ଷ ପୁର୍ବରୁ ମଶିହଙ୍କୁ କ'ଣ ହେବ ବୋଲି ଯାହା ଭାବବାଣୀ ହୋଇଥିଲା ସେମାନେ ତାହା ପୁରା କଲେ''କିମ୍ବା,ଯାହା ଅନେକ ବର୍ଷ ପୁର୍ବେ ଭାବବାଦୀ ଲେଖିଥିଲେ ତାହା ସେମାନେ କଲେ'' ।
 **[[:or:obs:notes:frames:40-02|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-04|>>]]**
