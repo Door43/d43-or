@@ -1,21 +1,18 @@
-===== At Gethsemane [38-11] =====
+===== ଗେଥାସମନୀ  ମଧ୍ୟରେ [38-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
-===== Important Terms: =====
+ପରେ ଯୀଶୁ ଆପଣ ଶିଷ୍ୟ ମାନଙ୍କ ସହିତ  ଗେଥସେମନି ନାମକ ଏକ ସ୍ଥାନ କୁ ଗଲେ । ଯୀଶୁ ଆପଣା ଶିଷ୍ୟ ମାନଙ୍କୁ ପ୍ରାର୍ଥନା କରିବ ପାଇଁ  କହିଲେ  ଯେପରି  ସେମାନେ ପରୀକ୍ଷାରେ ନ ପଡନ୍ତି । ପରେ ଯୀଶୁ ଏକାକୀ ପ୍ରାର୍ଥନା  କରିବାକୁ ଗଲେ ।
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:pray]]**
-  * **[[:or:obe:kt:tempt]]**
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ଶିଷ୍ୟ**
+  * **ପ୍ରାର୍ଥନା କରିବା, ପ୍ରାର୍ଥନା**
+  * **ପରୀକ୍ଷା କରିବା, ପରୀକ୍ଷା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-===== Translation Notes: =====
-
-  * **a place called Gethsemane** - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
-  * **enter into temptation** - That is, "would not sin when they were tempted" or, "would not give in to the temptation they were about to experience."
-  * **by himself** - This could be translated as, "alone."
-
-
+  * **ଗେଥସେମନି ନାମକ ଏକ ସ୍ଥାନ - ** ଏହା ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ , “ନିକଟସ୍ଥ ଏକ ସ୍ଥାନ ଯାହାକୁ  ଗେଥସେମନି  କୁହାଯାଏ  “  ବା “   ଗେଥସେମନି ନାମକ ଏକ ସ୍ଥାନ ଯାହା ଜିତ ପର୍ବତର ପାଦ ଦେଶରେ ଅବସ୍ଥିତ”।
+  * **ପ୍ରଲୋଭନରେ ପଡିବା - ** ଏହାର ଅର୍ଥ , ପରୀକ୍ଷାରେ ପଡିଲେ ଯେପରି ପାପ ନକରନ୍ତି , ବା ଯେପରି ପ୍ରଲୋଭନ ରେ ପଡିବା ପାଇଁ ନିଜକୁ ନ ଦିଅନ୍ତି ଯେଉଁ ଅନୁଭୂତି ସେମାନେ ପାଇବାକୁ ଯାଉଥିଲେ ।
+  * **ଏକାକି ନିଜେ – ** ଏହା ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ , “ଏକାକି” ।
 **[[:or:obs:notes:frames:38-10|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-12|>>]]**
