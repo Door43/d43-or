@@ -1,21 +1,17 @@
-===== Jesus' Prayer [37-09] =====
+===== ଯୀଶୁଙ୍କ ପ୍ରାର୍ଥନା [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
-===== Important Terms: =====
+ପରେ ଯୀଶୁ ସ୍ୱର୍ଗ ଆଡେ ଉର୍ଧ ଦୃଷ୍ଟି କରି କହିଲେ, “ହେ ପିତା  ମୁଁ ତୁମକୁ  ଧନ୍ୟବାଦ ଦେଉଛି ଯେ  ତୁମେ ମୋ ପ୍ରର୍ଥନା ଶୁଣି ଅଛ । ମୁଁ ଜାଣେ ଯେ ତୁମେ  ମୋ ପ୍ରାର୍ଥନା ସର୍ବଦା ଶୁଣିଥାଅ ,ମାତ୍ର ଯେଉଁ ଲୋକ ମାନେ ଏଠାରେ ଛିଡା ହୋଇଛନ୍ତି ସେମାନଙ୍କ ସକାସେ  ମୁଁ ଏହା କହୁଅଛି , ଯେପରି ସେମାନେ ବିଶ୍ୱାସ କରିବେ ଯେ ତୁମେ ମୋତେ ପ୍ରେରଣ କରିଅଛ”। ତା'ପରେ ଯୀଶୁ ଚିତ୍କାର କରି କହିଲେ, **“** ଲାଜାର**, ** ବାହାରି ଆସ**”** ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:heaven]]**
-  * **[[:or:obe:kt:godthefather]]**
-  * **[[:or:obe:kt:believe]]**
-  * **[[:or:obe:other:lazarus]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ସ୍ଵର୍ଗ, ଆକାଶ, ସ୍ଵର୍ଗ, ସ୍ବର୍ଗସ୍ଥ, **
+  * **ପରମେଶ୍ଵର ପିତା, ସ୍ବର୍ଗସ୍ଥ ପିତା, ପିତା**
+  * **ବିଶ୍ଵାସ କରିବା, ଠାରେ ବିଶ୍ଵାସ, ବିଶ୍ଵାସ **
+  * **ଲାଜାର**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **hearing me** - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-
-
+  * **ମୋତେ ଶୁଣ-**  ତାହା ଅଟେ,'' ମୋ ପ୍ରାର୍ଥନା ଶୁଣ''। ଏହା ଯୋଗ କରିବା ଯଥାର୍ଥ ହୋଇପାରେ, “ଯେତେବେଳେ ମୁ ପ୍ରାର୍ଥନା କରେ” ବା “ତୁମ ସହିତ କଥା ହୁଏ”।
+  * **ବାହାରି ଆସ-** ଅନ୍ୟ ଭାଷାରେ ଏହା କୁହାଯାଇ ପାରେ “ ସମାଧି ରୁ ବାହାରି ଆସ”।
 **[[:or:obs:notes:frames:37-08|<<]] | [[:or:obs:notes:37|Up]] | [[:or:obs:notes:frames:37-10|>>]]**
