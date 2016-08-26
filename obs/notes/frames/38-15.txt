@@ -1,27 +1,24 @@
-===== Peter Fought for Jesus [38-15] =====
+===== ପିତର ଯୀଶୁଙ୍କ ପାଇଁ ଲଢେଇ କଲେ [38-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
-**As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
-===== Important Terms: =====
+ଯେତେବେଳେ  ସୌନ୍ୟ ଦଳ  ଯୀଶୁଙ୍କୁ ଧରିନେଉଥିଲେ , ପିତର ନିଜର ବର୍ଚ୍ଛା ବାହାର କରି ମହା ଯାଜକଙ୍କ ଦାସର କାନ କାଟି ପକାଇଲେ. ଯୀଶୁ କହିଲେ , ''ବର୍ଚ୍ଛା କୁ ଅଲଗା ରଖ! ମୁଁ ପିତାଙ୍କୁ ମୋତେ ରକ୍ଷା କରିବ  ପାଇଁ ଏକ ଦୂତ ମାନଙ୍କ ସେନାଦଳକୁ ମାଗି ପରି ଥାନ୍ତି ।ମାତ୍ର ମୋତେ ପିତାଙ୍କର ଆଜ୍ଞା ବହ ହେବାକୁ ହେବ**”** । ତା'ପରେ ଯୀଶୁ ସେହି ଲୋକର କାନକୁ ସୁସ୍ଥ କଲେ । ଯୀଶୁଙ୍କୁ ଧରିଲା ପରେ ସମସ୍ତ ଶିଷ୍ୟମାନେ ପଳାଇ ଗଲେ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:other:peter]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:highpriest]]**
-  * **[[:or:obe:kt:godthefather]]**
-  * **[[:or:obe:kt:angel]]**
-  * **[[:or:obe:other:obey]]**
-  * **[[:or:obe:other:heal]]**
-  * **[[:or:obe:kt:disciple]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ପିତର, ଶିମୋନ ପିତର, କେଫା**
+  * **ସେବକ, ଦାସ, ଦାସତ୍ଵ**
+  * **ମହାଯାଜକ**
+  * **ପରମେଶ୍ଵର ପିତା, ସ୍ବର୍ଗସ୍ଥ ପିତା, ପିତା**
+  * **ଦୂତ, ପ୍ରଧାନ ଦୂତ**
+  * **ଆଜ୍ଞାପାଳନ କରିବା,ଆଜ୍ଞା କାରୀ,ଆଜ୍ଞାକାରିତା**
+  * **ସୁସ୍ଥ, ଆରୋଗ୍ୟ କରିବା**
+  * **ଶିଷ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **As the soldiers arrested Jesus** - That is, "While the soldiers were arresting Jesus."
-  * **pulled out his sword** - That is, "pulled out his sword from the place where he was carrying it."
-  * **I must obey my Father** - That is, "I won't do that because I must obey my Father's will and allow myself to be arrested."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **ଯେତେବେଳେ  ସୌନ୍ୟଦଳ  ଯୀଶୁଙ୍କୁ ଧରିନେଉଥିଲେ -**  ଏହାର ଅର୍ଥ,” ସୌନ୍ୟଦଳ  ଯୀଶୁଙ୍କୁ ଧରିନେଉଥିବା ସମୟରେ”।
+  * **ବର୍ଚ୍ଛାକୁ ବାହାର କଲେ - ** ଏହାର ଅର୍ଥ,“ବର୍ଚ୍ଛାକୁ ଯେଉଁ ସ୍ଥାନରେ ରଖି ଥିଲେ ସେ ସ୍ଥାନରୁ କାଢିଲେ”।
+  * **ମୋତେ ପିତାଙ୍କର ଆଜ୍ଞା ବହ ହେବାକୁ ହେବ - ** ଏହାର ଅର୍ଥ,“ମୋତେ ତାହା କରିବାକୁ ହେବ ନାହିଁ କାରଣ ମୋତେ ମୋର ପିତାଙ୍କର ଇଚ୍ଛା ସାଧନା କରିବାକୁ ହେବ ଏବଂ ନିଜକୁ ଶତ୍ରୁ ହସ୍ତରେ ସମର୍ପଣ କରିବାକୁ ହେବ”।
+  * **ବାଇବଲର ଏକ କାହାଣୀ **- ଏହି ସଂରଚନା ପ୍ରସଙ୍ଗଗୁଡିକ କେତେକ ବାଇବଲ ଅନୁବାଦଗୁଡିକରେ  ଅଳ୍ପ ଭିନ୍ନ ହୋଇପାରେ ।
 
 **[[:or:obs:notes:frames:38-14|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:39-01|>>]]**
