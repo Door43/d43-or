@@ -1,28 +1,24 @@
-===== The Two Robbers [40-04] =====
+===== ଦୁଇ ଡାକୁ [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Important Terms: =====
+ଯୀଶୁଙ୍କୁ ଦୁଇଜଣ ଡକାୟତଙ୍କ ମଧ୍ୟରେ କ୍ରୁଶବିଦ୍ଧ କରାଗଲା । ସେମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ ଯୀଶୁଙ୍କୁ ପରିହାସ କଲା, କିନ୍ତୁ ଅନ୍ୟ ଜଣେ କହିଲା “ତୁମର କ’ଣ ଈଶ୍ବରଙ୍କ ପ୍ରତି ଭୟ ମଧ୍ୟ ନାହିଁ? ଆମ୍ଭେମାନେ ଦୋଷୀ**, ** କିନ୍ତୁ ଏହି ବ୍ୟକ୍ତି ନିର୍ଦ୍ଦୋଷ ଅଟନ୍ତି ।” ତା’ପରେ ସେ ଯୀଶୁଙ୍କୁ କହିଲେ, “ଦୟାକରି ଆପଣଙ୍କ ରାଜ୍ୟରେ ମୋତେ ସ୍ମରଣ କରନ୍ତୁ ।” ଯୀଶୁ ତାହାଙ୍କୁ କହିଲେ “ତୁମେ ଆଜି ମୋ ସହିତ ପାରଦେଶରେ ଉପସ୍ଥିତ ହେବ ।”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:crucify]]**
-  * **[[:or:obe:other:mock]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:guilt]]**
-  * **[[:or:obe:kt:innocent]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **କ୍ରୁଶବିଦ୍ଧ କରିବା**
+  * **ଚିଡ଼େଇବା,ଉପହାସ କରିବା,ଉପହାସ କରିବା  **
+  * **ଇଶ୍ଵର**
+  * **ଦୋଷ, ଦୋଷାବହ**
+  * **ନିର୍ଦ୍ଦୋଶ**
+  * **ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ, ସ୍ଵର୍ଗରାଜ୍ୟ**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **ଦୁଇ ଡାକୁ**  - ଏହାକୁ ଏହିପରି ଭାବରେ ମଧ୍ୟ ଅନୁବାଦ କରାଯାଇପାରିବ “ଦୁଇ ଡାକୁ  ” । ଯିଏ ଚରି କରିବାକୁ ବଳ ଓ ହିଂସାକୁ ବ୍ୟବହାର କରେ ଏହା ସେମାନଙ୍କୁ ସୁଚାଏ  ।
+  * **କ'ଣ ତୁମେ ଇଶ୍ଵରଙ୍କୁ ଭୟକର ନାହିଁ?**- ଡାକୁ ଏହି ପ୍ରଶ୍ନର ଏକ ଉତରକୁ ଅଶା କରେ ନାହିଁ,''ଏହିପରି ଭାବରେ କିଛି ଭାଷାରେ ଏକ ଦୃଢ଼ ବାକ୍ୟ କରି ପାରନ୍ତି  । ଯଦି ଆପଣଙ୍କ ଭାଷାରେ ଏହିପରି ପ୍ରଶ୍ନକୁ ବ୍ୟବହାର କରାଯାଏ ନାହିଁ ତେବେ ଏହାକୁ ଏହିପରି ଅନୁବାଦ କରନ୍ତୁ ଯେପରି,'' ତୁମେ ଇଶ୍ଵରଙ୍କୁ ଭୟ କରିବା ଉଚିତ!'' ।
+  * **ଆମ୍ଭେମାନେ ଦୋଷୀ, କିନ୍ତୁ ଏହି ବ୍ୟକ୍ତି ନିର୍ଦ୍ଦୋଷ ଅଟନ୍ତି - ** ଏହା ଏହିପରି ଅନୁବାଦ କରାଯାଇ ପାରେ ଯେପରି,''ତୁମେ ଓ ମୁ ମନ୍ଦ କାର୍ଯ୍ୟ କରି ଅଛୁ ତେଣୁ ମୃତ୍ୟୁ ପାଇଁ ଉପଯୁକ୍ତ କିନ୍ତୁ ଏହି ବ୍ୟକ୍ତି, ଯୀଶୁ,କିଛି ଭୁଲ କରିନାହାନ୍ତି ଏବଂ ମୃତ୍ୟୁ ପାଇଁ ଉପଯୁକ୍ତ ନୁହନ୍ତି,ଏଠାରେ ଆମେ ଦୁହେଁ ଚର କିନ୍ତୁ ସେ ଭି ଏଠାରେ ଅନ୍ତର୍ଭୁକ୍ତ ।”
+  * **ଏହି ବ୍ୟକ୍ତି**  - ଏହା ଯୀଶୁଙ୍କୁ ସୁଚିତ କରାଏ  ।
+  * **ଦୟାକରି ମତେ ସ୍ମରଣ କର**-ଏହାର ଅର୍ଥ,''ଦୟାକରି ମତେ ଗ୍ରହଣ କର''କିମ୍ବା''ଦୟାକରି ସ୍ଵଗତ କର''  କିମ୍ବା ଦୟାକରି ମତେ ଆପଣଙ୍କ ସହ ରହିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ''ସ୍ମରଣ''କିଛି ଭୁଲିଯାଇ ପୁଣି ତାହାକୁ ମୋନେ ପାକାଇର ଅର୍ଥ ଏଠାରେ ନାହିଁ । ଏହିପରି ଭାବରେ ଏହାକୁ ଅନୁବାଦ କର ଯାହା ଏକ ବିନମ୍ର ଅନୁରୋଧରେ ବାର୍ତାଲାପ କରେ ।
+  * **ତୁମ ରାଜ୍ୟରେ**- ଏହା ଅଟେ,''ଯେତେବେଳେ ତୁମେ ତୁମର ରାଜ୍ୟକୁ ସ୍ତାପନ କରିବ''କିମ୍ବା,''ଯେତେବେଳେ ତୁମେ ରାଜା ଭାବରେ ଶାସନ କରିଵ''।
+  * **ସ୍ୱର୍ଗ - ** ଏହା ''ସ୍ୱର୍ଗ''ର ଅନ୍ୟ ଏକ ନାମ ।
 **[[:or:obs:notes:frames:40-03|<<]] | [[:or:obs:notes:40|Up]] | [[:or:obs:notes:frames:40-05|>>]]**
