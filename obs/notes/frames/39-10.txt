@@ -1,27 +1,23 @@
-===== What Is Truth? [39-10] =====
+===== ସତ୍ୟ କଣ** ? ** [39-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
-Jesus answered, “**You have said so**, but **my kingdom is not an earthly kingdom**. If it were, **my servants would fight for me**. I have come to earth to tell the **truth** about **God**. Everyone who **loves** the truth **listens to me**.” **Pilate** said, “**What is truth**?”
-===== Important Terms: =====
+Jଯୀଶୁ ଉତ୍ତର ଦେଲେ , '' ତୁମେ ଠିକ କହିଛ**,** ମାତ୍ର ମୋହର ରାଜ୍ୟ ଏକ ସାଂସାରିକ ରାଜ୍ୟ ନୁହଁ** "** । ଯଦି ଏହା ହୋଇଥାଆନ୍ତା, ମୋ ଦାସମାନେ ମୋ ନିମନ୍ତେ ଯୁଦ୍ଧ କରିଥାନ୍ତେ । ଈଶ୍ବରଙ୍କ ବିଷୟରେ ସତ୍ୟ କଥା କହିବାକୁ ମୁଁ ପୃଥିବୀକୁ ଆସିଅଛି ।ଯେକୌଣସି ବ୍ୟକ୍ତି ସତ୍ୟକୁ ପ୍ରେମ କରେ ସେ ମୋ କଥା ଶୁଣେ ।” ପିଲାତ କହିଲେ “ସତ୍ୟ କ**’** ଣ?”
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ**: **  =====
 
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:kingdomofgod]]**
-  * **[[:or:obe:other:kingdom]]**
-  * **[[:or:obe:other:servant]]**
-  * **[[:or:obe:kt:true]]**
-  * **[[:or:obe:kt:god]]**
-  * **[[:or:obe:kt:love]]**
-  * **[[:or:obe:other:pilate]]**
+  * __ଯୀଶୁ**, ** ଯୀଶୁ ଖ୍ରୀଷ୍ଟ**, ** ଖ୍ରୀଷ୍ଟ ଯୀଶୁ__
+  * __ପରମେଶ୍ଵରଙ୍କ ରାଜ୍ୟ**, ** ସ୍ଵର୍ଗରାଜ୍ୟ__
+  * __ରାଜ୍ୟ__
+  * __ସେବକ**, ** ଦାସ**, ** ଦାସତ୍ଵ__
+  * __ସତ**, ** ସତ୍ୟ__
+  * ପରମେଶ୍ଵର
+  * __ପ୍ରେମ__
+  * __ପିଲାତ__
+===== ଅନୁବାଦର ବିବରଣୀ**:**  =====
 
-
-===== Translation Notes: =====
-
-  * **You have said so** - That is, "You have spoken correctly."
-  * **my kingdom is not an earthly kingdom** - That is, "my kingdom is not like earthly kingdoms."
-  * **my servants would fight for me** - That is, "my disciples would fight to protect me" so that I could establish my kingdom.
-  * **listens to me** - This could be translated as, "hears my teaching and obeys me." It includes not just hearing Jesus' words, but also doing what he says.
-  * **What is truth?** - that is, "Can anyone know what is true?"
-
-
+  * **ତୁମେ ଠିକ କହିଅଛ - ** ଏହାର ଅର୍ଥ, "ତୁମେ ସଠିକ ଭାବରେ କହିଅଛ " ।
+  * **ମୋର ରାଜ୍ୟ ସାଂସାରିକ ନୁହଁ - ** ଏହାର ଅର୍ଥ " ମୋର ରାଜ୍ୟ ସାଂସାରିକ ରାଜ୍ୟ ପରି ନୁହଁ " ।
+  * **ମୋର ଦାସମାନେ ମୋ ପାଇଁ ଲଢେଇ କରିବେ - ** ଅର୍ଥାତ  ମୋର ଶିଷ୍ୟମାନେ ମୋତେ ରକ୍ଷା କରିବା ପାଇଁ ଲଢେଇ କରିବେ  ଯେପରି ମୁଁ ମୋର ରାଜ୍ୟ ସ୍ଥାପନ କରି ପାରିବି  ।
+  * **ମୋତେ ଶୁଣନ୍ତି - ** ଏହାକୁ ଏପରି ଅନୁବାଦ କରାଯାଇ ପରେ , “ମୋହର ଶିକ୍ଷା ଶୁଣି ପାଳନ କରନ୍ତି” । ଏହା କେବଳ ଯୀଶୁଙ୍କ ଶିକ୍ଷାକୁ ଶୁଣି ବା ନୁହଁ ମାତ୍ର ସେ ଯାହା କୁହନ୍ତି ତାକୁ ପାଳନ କରିବା  ।
+  * **ସତ୍ୟ କଣ ? -**  ଏହାର ଅର୍ଥ , “କଣ କେହି କହି ପରିବ ସତ୍ୟ କଣ ?”
 **[[:or:obs:notes:frames:39-09|<<]] | [[:or:obs:notes:39|Up]] | [[:or:obs:notes:frames:39-11|>>]]**
