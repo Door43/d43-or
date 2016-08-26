@@ -1,24 +1,20 @@
-===== This Is My Body [38-04] =====
+===== ଏହା ମୋହର ଶରୀର [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
-===== Important Terms: =====
+ଯିରୁଶାଲମରେ ଯୀଶୁ ଆପଣା ଶିଷ୍ୟ ମାନଙ୍କ ସହିତ ନିସ୍ତାର ପର୍ବ ପାଳନ କଲେ । ନିସ୍ତାର ପର୍ବର ଭୋଜ ସମୟରେ ଯୀଶୁ କିଛି ରୋଟୀ ନେଇ ଭାଙ୍ଗିଲେ । ସେ କହିଲେ, “ଏହା ନିଅ ଏବଂ ଭୋଜନ କର”। ଏହା ମୋହର ଶରୀର ତୁମ ପାଇଁ ଦିଆ ହୋଇ ଅଛି । ଏହା ମୋତେ ସ୍ମରଣ କରିବା ପାଇଁ କର**”** । ଏହି ଭାବରେ, ଯୀଶୁ କହିଲେ ତାଙ୍କ ଶରୀର ସେମାନଙ୍କ ନିମନ୍ତେ ବଳିଦାନ ହେବ ।
+===== ମହତ୍ଵପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ: =====
 
-  * **[[:or:obe:other:jerusalem]]**
-  * **[[:or:obe:kt:jesus]]**
-  * **[[:or:obe:kt:passover]]**
-  * **[[:or:obe:kt:disciple]]**
-  * **[[:or:obe:other:sacrifice]]**
+  * **ଯିରୁଶାଲମ**
+  * **ଯୀଶୁ, ଯୀଶୁ ଖ୍ରୀଷ୍ଟ, ଖ୍ରୀଷ୍ଟ ଯୀଶୁ**
+  * **ନିସ୍ତାରପର୍ବ**
+  * **ଶିଷ୍ୟ**
+  * **ବଳିଦାନ, ଉତ୍ସର୍ଗ କରିବା**
+===== ଅନୁବାଦର ବିବରଣୀ: =====
 
-
-===== Translation Notes: =====
-
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * **ପାଳନ କଲେ- ** ଏହାର ଅର୍ଥ “ପାଳନ କରି ଆସୁଥିଲେ” ।
+  * **କିଛି ରୋଟୀ ନେଲେ - ** ଏହା ଏପରି ଅନୁବାଦ କରାଯାଇ ପାରେ ଯଥା “ ଏକ ରୋଟୀ ଖଣ୍ଡ ଉଠାଇଲେ”  ବା “ଏକ ସମ୍ପୂର୍ଣ ରୋଟି କୁ ନେଲେ” ।
+  * **ଭାଙ୍ଗିଲେ - ** ଅନ୍ୟ ଭାଷାରେ ଏପରି କୁହାଯାଇପାରେ ,”ଖଣ୍ଡ ଖଣ୍ଡ କଲେ” ବା “ ସମାନ ଖଣ୍ଡ କଲେ” ବା “ଏକ ଛୋଟ ଖଣ୍ଡ କଲେ”।
+  * **ତୁମ ମାନଙ୍କ ନିମନ୍ତେ ଦିଆଯାଇଛି - ** ଏହା ଏପରି ଅନୁବାଦ କରାଯାଇପାରେ , “ଯାହା ମୁଁ ତୁମ୍ଭ ମାନଙ୍କୁ ଦେଉ ଅଛି”।
+  * **ମୋତେ ସ୍ମରଣ କରିବା ପାଇଁ ଏହା କର **- ଏହାର ଅର୍ଥ “ମୁଁ ଯାହା ତୁମ ପାଇଁ କରୁଅଛି ଏହାକୁ ସ୍ମରଣ ରଖିବା ପାଇଁ ଏହାକୁ ଏକ ଉପାୟ ମାନେ କର”। ଯୀଶୁ ତାଙ୍କ ମୃତ୍ୟୁ ବିଷୟରେ କହୁଥିଲେ ଯାହା ଶୀଘ୍ର ହେବାକୁ ଯାଉଥିଲା ।
 **[[:or:obs:notes:frames:38-03|<<]] | [[:or:obs:notes:38|Up]] | [[:or:obs:notes:frames:38-05|>>]]**
